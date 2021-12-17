@@ -110,9 +110,7 @@
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/carburetor2.png)|carburetor2|656371027|Medium Quality Carburetor|Component|A medium quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/carburetor3.png)|carburetor3|656371026|High Quality Carburetor|Component|A high quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/cardtable.png)|cardtable|1081921512|Card Table|Items|A table for playing card games|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/carvable.pumpkin.png)|carvable.pumpkin|1524980732|Carvable Pumpkin|Items|A pumpkin that you can carve. 
-
-Requires wood as a fuel source.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/carvable.pumpkin.png)|carvable.pumpkin|1524980732|Carvable Pumpkin|Items|A pumpkin that you can carve. Requires wood as a fuel source.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/cassette.png)|cassette|476066818|Cassette - Long|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/cassette.medium.png)|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/cassette.short.png)|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
@@ -169,15 +167,11 @@ Requires wood as a fuel source.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.closer.png)|door.closer|1409529282|Door Closer|Construction|Auotmatically closes your doors when left open.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.double.hinged.metal.png)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.double.hinged.toptier.png)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.double.hinged.wood.png)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
-
-The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.double.hinged.wood.png)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.hinged.industrial.a.png)|door.hinged.industrial.a|818733919|Industrial Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.hinged.metal.png)|door.hinged.metal|-2067472972|Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.hinged.toptier.png)|door.hinged.toptier|1353298668|Armored Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.hinged.wood.png)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
-
-The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.hinged.wood.png)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/door.key.png)|door.key|-1112793865|Door Key|Misc|A key to a door, created from a Lock. Keep this item safe; if lost you'll be unable to open the door again!|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/dragondoorknocker.png)|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/drone.png)|drone|1588492232|Drone|Items|A remote controlled drone.|
@@ -272,33 +266,15 @@ The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/fluid.splitter.png)|fluid.splitter|-1166712463|Fluid Splitter|Electrical|Splits a fluid connection into three separate connections.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/fluid.switch.png)|fluid.switch|443432036|Fluid Switch & Pump|Electrical|A simple switch that enables fluid to pass through. Can be switched on/off manually or via electricity. Can also pump water upwards to higher entities when powered.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/fogmachine.png)|fogmachine|-1973785141|Fogger-3000|Misc|A Fog machine which runs on low grade fuel. Can be set to fill an area with a dense fog or triggered by motion.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.01.head.png)|frankensteins.monster.01.head|-134959124|Light Frankenstein Head|Attire|Slightly faster, slightly weaker.
-
-Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.01.legs.png)|frankensteins.monster.01.legs|106959911|Light Frankenstein Legs|Attire|Slightly faster, slightly weaker.
-
-Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.01.torso.png)|frankensteins.monster.01.torso|-1624770297|Light Frankenstein Torso|Attire|Slightly faster, slightly weaker.
-
-Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.02.head.png)|frankensteins.monster.02.head|-1732475823|Medium Frankenstein Head|Attire|A balanced head.
-
-Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.02.legs.png)|frankensteins.monster.02.legs|835042040|Medium Frankenstein Legs|Attire|A balanced set of legs.
-
-Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.02.torso.png)|frankensteins.monster.02.torso|1491753484|Medium Frankenstein Torso|Attire|A balanced torso.
-
-Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.03.head.png)|frankensteins.monster.03.head|-297099594|Heavy Frankenstein Head|Attire|Slightly slower, slightly stronger.
-
-Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.03.legs.png)|frankensteins.monster.03.legs|-2024549027|Heavy Frankenstein Legs|Attire|Slightly slower, slightly stronger.
-
-Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.03.torso.png)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.
-
-Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.01.head.png)|frankensteins.monster.01.head|-134959124|Light Frankenstein Head|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.01.legs.png)|frankensteins.monster.01.legs|106959911|Light Frankenstein Legs|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.01.torso.png)|frankensteins.monster.01.torso|-1624770297|Light Frankenstein Torso|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.02.head.png)|frankensteins.monster.02.head|-1732475823|Medium Frankenstein Head|Attire|A balanced head.Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.02.legs.png)|frankensteins.monster.02.legs|835042040|Medium Frankenstein Legs|Attire|A balanced set of legs.Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.02.torso.png)|frankensteins.monster.02.torso|1491753484|Medium Frankenstein Torso|Attire|A balanced torso.Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.03.head.png)|frankensteins.monster.03.head|-297099594|Heavy Frankenstein Head|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.03.legs.png)|frankensteins.monster.03.legs|-2024549027|Heavy Frankenstein Legs|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteins.monster.03.torso.png)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/frankensteintable.png)|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/fridge.png)|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/fun.bass.png)|fun.bass|-2107018088|Shovel Bass|Fun|Use this stringed together shovel to play some deep, deep tunes.|
@@ -392,7 +368,6 @@ Combined at a Frankenstein Table to create your very own monster.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/innertube.horse.png)|innertube.horse|185586769|Inner Tube|Fun|An inflated tube for aquatic activities.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/innertube.png)|innertube|-697981032|Inner Tube|Fun|An inflated tube for aquatic activities.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/innertube.unicorn.png)|innertube.unicorn|2052270186|Inner Tube|Fun|An inflated tube for aquatic activities.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/undefined.png)|undefined|undefined|undefined|undefined|undefined|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/jacket.png)|jacket|-1163532624|Jacket|Attire|A rugged jacket.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/jacket.snow.png)|jacket.snow|-48090175|Snow Jacket|Attire|A thick, high visibility Jacket. It will help keep you warm in any climate.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/jackhammer.png)|jackhammer|1488979457|Jackhammer|Tool|A Pneumatic Jackhammer to blast through ore nodes. The sheer power of this device requires no aiming as all weak spots will be instantly destroyed. Works well on human flesh. Can be refilled at a Workbench.|
@@ -416,9 +391,7 @@ Combined at a Frankenstein Table to create your very own monster.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/leather.png)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/lmg.m249.png)|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/lock.code.png)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/lock.key.png)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.
-
-If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/lock.key.png)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/locker.png)|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/longsword.png)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/lowgradefuel.png)|lowgradefuel|-946369541|Low Grade Fuel|Resources|Low Grade Fuel, used to power light sources.|
@@ -427,10 +400,7 @@ If the key is lost, you cannot make another, so don't forget to make extras and 
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/mace.png)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/machete.png)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/mailbox.png)|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/map.png)|map|696029452|Paper Map|Items|Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.
-
-
-Drag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default).|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/map.png)|map|696029452|Paper Map|Items|Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.Drag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default).|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/mask.balaclava.png)|mask.balaclava|-2012470695|Improvised Balaclava|Attire|A home made balaclava.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/mask.bandana.png)|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/maxhealthtea.advanced.png)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|A tea that increases your maximum health.|
@@ -547,46 +517,16 @@ Drag the map into your belt bar to make it active. You will then be able to view
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/scraptransportheli.repair.png)|scraptransportheli.repair|-1884328185|ScrapTransportHeliRepair|Misc|ScrapTransportHeliRepair Dummy|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/searchlight.png)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/secretlabchair.png)|secretlabchair|567871954|Secret Lab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.black.berry.png)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.blue.berry.png)|seed.blue.berry|803954639|Blue Berry Seed|Food|These blue berry seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.corn.png)|seed.corn|998894949|Corn Seed|Food|Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.green.berry.png)|seed.green.berry|-1776128552|Green Berry Seed|Food|These green berry seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.hemp.png)|seed.hemp|-237809779|Hemp Seed|Food|Hemp seeds can be found when picking wild Hemp. These seeds can be planted in the ground and grown to collect additional cloth.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more cloth and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.potato.png)|seed.potato|-2084071424|Potato Seed|Food|These potato seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.pumpkin.png)|seed.pumpkin|-1511285251|Pumpkin Seed|Food|Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Pumpkins and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.red.berry.png)|seed.red.berry|830839496|Red Berry Seed|Food|These red berry seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.white.berry.png)|seed.white.berry|-992286106|White Berry Seed|Food|These white berry seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.yellow.berry.png)|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.
-
-
-Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.black.berry.png)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.blue.berry.png)|seed.blue.berry|803954639|Blue Berry Seed|Food|These blue berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.corn.png)|seed.corn|998894949|Corn Seed|Food|Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.green.berry.png)|seed.green.berry|-1776128552|Green Berry Seed|Food|These green berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.hemp.png)|seed.hemp|-237809779|Hemp Seed|Food|Hemp seeds can be found when picking wild Hemp. These seeds can be planted in the ground and grown to collect additional cloth.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more cloth and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.potato.png)|seed.potato|-2084071424|Potato Seed|Food|These potato seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.pumpkin.png)|seed.pumpkin|-1511285251|Pumpkin Seed|Food|Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Pumpkins and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.red.berry.png)|seed.red.berry|830839496|Red Berry Seed|Food|These red berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.white.berry.png)|seed.white.berry|-992286106|White Berry Seed|Food|These white berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/seed.yellow.berry.png)|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/semibody.png)|semibody|573926264|Semi Automatic Body|Component|The firing mechanism of a semi automatic weapon.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/sewingkit.png)|sewingkit|1234880403|Sewing Kit|Component|A Sewing kit. Used to make advanced clothing.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/sheetmetal.png)|sheetmetal|-1994909036|Sheet Metal|Component|Sheet metal scraps.|
@@ -730,9 +670,7 @@ Planting these seeds in a planter, and then watering them with large quantities 
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/vehicle.chassis.4mod.png)|vehicle.chassis.4mod|-44066790|Large Chassis|Component|Four-socket vehicle chassis.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/vehicle.chassis.png)|vehicle.chassis|1770744540|Generic vehicle chassis|Component|Generic vehicle chassis|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/vehicle.module.png)|vehicle.module|878301596|Generic vehicle module|Component|Generic vehicle module|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/vending.machine.png)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  
-
-If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/vending.machine.png)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/wall.external.high.ice.png)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/wall.external.high.png)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
 |![](https://raw.githubusercontent.com/rostov114/rust-items/aux01/wall.external.high.stone.png)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
