@@ -1,813 +1,813 @@
 # Items
 |Image|Shortname|ID|Name|Category|Description|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/abovegroundpool.png|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/aiming.module.mlrs.png|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.grenadelauncher.buckshot.png|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.grenadelauncher.he.png|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.grenadelauncher.smoke.png|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.handmade.shell.png|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.nailgun.nails.png|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.fire.png|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.hv.png|ammo.pistol.hv|-1691396643|HV Pistol Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.png|ammo.pistol|785728077|Pistol Bullet|Ammunition|Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.explosive.png|ammo.rifle.explosive|-1321651331|Explosive 5.56 Rifle Ammo|Ammunition|This ammo explodes on contact dealing a small amount of fragmentation damage to nearby objects.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.hv.png|ammo.rifle.hv|1712070256|HV 5.56 Rifle Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.incendiary.png|ammo.rifle.incendiary|605467368|Incendiary 5.56 Rifle Ammo|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.png|ammo.rifle|-1211166256|5.56 Rifle Ammo|Ammunition|Ammunition for a Rifle. Loses velocity when fired over long distances resulting in slightly decreased damage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.basic.png|ammo.rocket.basic|-742865266|Rocket|Ammunition|Ammunition for a Rocket Launcher. A short to medium range self-propelled, unguided rocket which deals large splash damage on impact.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.fire.png|ammo.rocket.fire|1638322904|Incendiary Rocket|Ammunition|Creates flames upon impact.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.hv.png|ammo.rocket.hv|-1841918730|High Velocity Rocket|Ammunition|Fast moving rocket ammunition. Short to medium range self-propelled, unguided rocket which deals large splash damage on impact but less damage than a normal rocket.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.mlrs.png|ammo.rocket.mlrs|-1843426638|MLRS Rocket|Ammunition|A rocket intended for use in an MLRS (Multiple Launch Rocket System).|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.sam.png|ammo.rocket.sam|-384243979|SAM Ammo|Ammunition|Ammunition for a Sam Site, This missile contains a rudimentary guidance system to help it navigate through strong winds.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.smoke.png|ammo.rocket.smoke|-17123659|Smoke Rocket WIP!!!!|Ammunition|Emits thick, visibility blocking smoke upon impact.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.shotgun.fire.png|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|Ammunition|Incendiary Shotgun Ammunition|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.shotgun.png|ammo.shotgun|-1685290200|12 Gauge Buckshot|Ammunition|Ammunition for a Shotgun.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.shotgun.slug.png|ammo.shotgun.slug|-727717969|12 Gauge Slug|Ammunition|Single large projectile for a Shotgun.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.snowballgun.png|ammo.snowballgun|550753330||Ammunition||
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/antiradpills.png|antiradpills|-1432674913|Anti-Radiation Pills|Medical|Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/apple.png|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/apple.spoiled.png|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arcade.machine.chippy.png|arcade.machine.chippy|359723196|Chippy Arcade Game|Items|An Arcade Machine|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arrow.bone.png|arrow.bone|215754713|Bone Arrow|Ammunition|An Arrow equipped with a large bone arrowhead making it very easy to hit targets at the expense of damage|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arrow.fire.png|arrow.fire|14241751|Fire Arrow|Ammunition|A fuel soaked arrow, ignite it by aiming.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arrow.hv.png|arrow.hv|-1023065463|High Velocity Arrow|Ammunition|Lighter, faster arrow that deals less damage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arrow.wooden.png|arrow.wooden|-1234735557|Wooden Arrow|Ammunition|An arrow for a Hunting Bow and Crossbow.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.banditguard.png|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.bunny.onesie.png|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.bunnyears.png|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.boots.png|attire.hide.boots|794356786|Hide Boots|Attire|Boots made from the hide of an animal.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.helterneck.png|attire.hide.helterneck|3222790|Hide Halterneck|Attire|A Halterneck made from the hide of an animal.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.pants.png|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.poncho.png|attire.hide.poncho|980333378|Hide Poncho|Attire|A Poncho made from the hide of an animal.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.skirt.png|attire.hide.skirt|-1773144852|Hide Skirt|Attire|A Skirt made from the hide of an animal.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.vest.png|attire.hide.vest|196700171|Hide Vest|Attire|A Vest made from the hide of an animal.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.nesthat.png|attire.nesthat|1081315464|Nest Hat|Attire|An extremely silly easter nest hat with googly eyes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.ninja.suit.png|attire.ninja.suit|-1506417026|Ninja Suit|Attire|BaboAbe Ninja Suit|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.reindeer.headband.png|attire.reindeer.headband|-324675402|Reindeer Antlers|Attire|A festive reindeer antlers headband and nose.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.snowman.helmet.png|attire.snowman.helmet|-842267147|Snowman Helmet|Attire|A snowman helmet which provides ample protection.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/autoturret.png|autoturret|-2139580305|Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/axe.salvaged.png|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bandage.png|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barrelcostume.png|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.concrete.png|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.metal.png|barricade.metal|1655650836|Metal Barricade|Construction|A tough metal barricade with barbed wire, made from Metal Fragments. The barbed wire causes damage and will also slow player movement.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.sandbags.png|barricade.sandbags|-559599960|Sandbag Barricade|Construction|A protective barricade made out of Sand Bags.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.stone.png|barricade.stone|15388698|Stone Barricade|Construction|A protective barricade made out of Stones.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.wood.cover.png|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.wood.png|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.woodwire.png|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/battery.small.png|battery.small|609049394|Battery - Small|Resources|A Battery.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bbq.png|bbq|1099314009|Barbeque|Items|A makeshift Barbeque. You can cook significant amounts of food with this.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/beachchair.png|beachchair|-321431890|Beach Chair|Fun|The Beach Chair is the best way to relax, whether it's by the pool or on the beach.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/beachparasol.png|beachparasol|-1621539785|Beach Parasol|Fun|A large umbrella that will shield you from the sun.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/beachtable.png|beachtable|657352755|Beach Table|Fun|A small table to hold your drinks while relaxing.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/beachtowel.png|beachtowel|-8312704|Beach Towel|Fun|A colourful beach towel. Placing this will give you a location to respawn.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bearmeat.burned.png|bearmeat.burned|-989755543|Burnt Bear Meat|Food|Bear Meat that has been overcooked.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bearmeat.cooked.png|bearmeat.cooked|1873897110|Cooked Bear Meat|Food|Delicious Bear Meat, Eating it will restore some health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bearmeat.png|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bed.png|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/black.berry.png|black.berry|1771755747|Black Berry|Food|A black berry.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/black.raspberries.png|black.raspberries|1931713481|Black Raspberries|Food|Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bleach.png|bleach|1553078977|Bleach|Component|A powerful oxidizing agent. Can be used as a disinfectant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/blood.png|blood|1776460938|Blood|Medical|Used in creation of medkits.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/blue.berry.png|blue.berry|1112162468|Blue Berry|Food|A blue berry. Can be eaten or used in mixing table recipes to create teas.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/blueberries.png|blueberries|-586342290|Blueberries|Food|Blueberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/blueprintbase.png|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bone.armor.suit.png|bone.armor.suit|1746956556|Bone Armor|Attire|A suit of armor made of bones.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bone.club.png|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bone.fragments.png|bone.fragments|1719978075|Bone Fragments|Resources|Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/boogieboard.png|boogieboard|-1478094705|Boogie Board|Fun|Use the boogie board to catch some sick waves.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/boombox.png|boombox|-1113501606|Boom Box|Fun|A large speaker to play recorded cassette tapes which can also stream audio from the internet. Open the settings to change audio options.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/boots.frog.png|boots.frog|-1000573653|Frog Boots|Attire|Thank you for playing the game through its early access run. Enjoy these boots made from radiation resistant frog rubber.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/botabag.png|botabag|613961768|Bota Bag|Items|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bottle.vodka.png|bottle.vodka|755224797|Vodka Bottle|Food|A bottle of Russian Vodka.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bow.compound.png|bow.compound|884424049|Compound Bow|Weapon|A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bow.hunting.png|bow.hunting|1443579727|Hunting Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/box.repair.bench.png|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/box.wooden.png|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 12 items.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/box.wooden.large.png|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 30 items.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bucket.helmet.png|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bucket.water.png|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/building.planner.png|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.gloves.png|burlap.gloves|1366282552|Leather Gloves|Attire|Gloves made out of leather, offers a small amount of protection to the upper body.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.gloves.new.png|burlap.gloves.new|21402876|Burlap Gloves|Attire|Basic burlap gloves, offering protection from the elements|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.headwrap.png|burlap.headwrap|1877339384|Burlap Headwrap|Attire|A Headwrap made out of burlap.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.shirt.png|burlap.shirt|602741290|Burlap Shirt|Attire|A Shirt made out of burlap.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.shoes.png|burlap.shoes|-761829530|Burlap Shoes|Attire|Shoes made out of burlap.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.trousers.png|burlap.trousers|1992974553|Burlap Trousers|Attire|Trousers made out of burlap.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cactusflesh.png|cactusflesh|1783512007|Cactus Flesh|Food|Flesh of a Cactus, contains water.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cakefiveyear.png|cakefiveyear|1973165031|Birthday Cake|Tool|A very special and happy birthday to Rust!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/campfire.png|campfire|1946219319|Camp Fire|Items|A small camp fire. Provides warmth and light, and you can cook with it.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/can.beans.empty.png|can.beans.empty|1655979682|Empty Can Of Beans|Resources|An empty Can of Beans. Can be smelted into Metal Fragments.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/can.beans.png|can.beans|-700591459|Can of Beans|Food|Beans found as loot. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/can.tuna.empty.png|can.tuna.empty|-1557377697|Empty Tuna Can|Resources|An empty Can of Tuna. Can be smelted into Metal Fragments.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/can.tuna.png|can.tuna|-1941646328|Can of Tuna|Food|Chunked tuna found as loot. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/candycane.png|candycane|1121925526|Candy Cane|Food|A very old candy cane from 2014|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/candycaneclub.png|candycaneclub|1789825282|Candy Cane Club|Weapon|Smash some faces with this large piece of candy|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/captainslog.png|captainslog|1230691307|Captain's Log|Misc|A deteriorating piece of paper with information relating to the last moments of this vessel.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/car.key.png|car.key|946662961|Car Key|Misc|A key to a car, created at a vehicle lift. Keep this item safe; if lost you'll be unable to drive the car again!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/carburetor1.png|carburetor1|656371028|Low Quality Carburetor|Component|A low quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/carburetor2.png|carburetor2|656371027|Medium Quality Carburetor|Component|A medium quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/carburetor3.png|carburetor3|656371026|High Quality Carburetor|Component|A high quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cardtable.png|cardtable|1081921512|Card Table|Items|A table for playing card games|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/carvable.pumpkin.png|carvable.pumpkin|1524980732|Carvable Pumpkin|Items|A pumpkin that you can carve. 
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/abovegroundpool.png)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/aiming.module.mlrs.png)|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.grenadelauncher.buckshot.png)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.grenadelauncher.he.png)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.grenadelauncher.smoke.png)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.handmade.shell.png)|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.nailgun.nails.png)|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.fire.png)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.hv.png)|ammo.pistol.hv|-1691396643|HV Pistol Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.pistol.png)|ammo.pistol|785728077|Pistol Bullet|Ammunition|Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.explosive.png)|ammo.rifle.explosive|-1321651331|Explosive 5.56 Rifle Ammo|Ammunition|This ammo explodes on contact dealing a small amount of fragmentation damage to nearby objects.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.hv.png)|ammo.rifle.hv|1712070256|HV 5.56 Rifle Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.incendiary.png)|ammo.rifle.incendiary|605467368|Incendiary 5.56 Rifle Ammo|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rifle.png)|ammo.rifle|-1211166256|5.56 Rifle Ammo|Ammunition|Ammunition for a Rifle. Loses velocity when fired over long distances resulting in slightly decreased damage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.basic.png)|ammo.rocket.basic|-742865266|Rocket|Ammunition|Ammunition for a Rocket Launcher. A short to medium range self-propelled, unguided rocket which deals large splash damage on impact.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.fire.png)|ammo.rocket.fire|1638322904|Incendiary Rocket|Ammunition|Creates flames upon impact.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.hv.png)|ammo.rocket.hv|-1841918730|High Velocity Rocket|Ammunition|Fast moving rocket ammunition. Short to medium range self-propelled, unguided rocket which deals large splash damage on impact but less damage than a normal rocket.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.mlrs.png)|ammo.rocket.mlrs|-1843426638|MLRS Rocket|Ammunition|A rocket intended for use in an MLRS (Multiple Launch Rocket System).|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.sam.png)|ammo.rocket.sam|-384243979|SAM Ammo|Ammunition|Ammunition for a Sam Site, This missile contains a rudimentary guidance system to help it navigate through strong winds.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.rocket.smoke.png)|ammo.rocket.smoke|-17123659|Smoke Rocket WIP!!!!|Ammunition|Emits thick, visibility blocking smoke upon impact.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.shotgun.fire.png)|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|Ammunition|Incendiary Shotgun Ammunition|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.shotgun.png)|ammo.shotgun|-1685290200|12 Gauge Buckshot|Ammunition|Ammunition for a Shotgun.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.shotgun.slug.png)|ammo.shotgun.slug|-727717969|12 Gauge Slug|Ammunition|Single large projectile for a Shotgun.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ammo.snowballgun.png)|ammo.snowballgun|550753330||Ammunition||
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/antiradpills.png)|antiradpills|-1432674913|Anti-Radiation Pills|Medical|Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/apple.png)|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/apple.spoiled.png)|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arcade.machine.chippy.png)|arcade.machine.chippy|359723196|Chippy Arcade Game|Items|An Arcade Machine|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arrow.bone.png)|arrow.bone|215754713|Bone Arrow|Ammunition|An Arrow equipped with a large bone arrowhead making it very easy to hit targets at the expense of damage|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arrow.fire.png)|arrow.fire|14241751|Fire Arrow|Ammunition|A fuel soaked arrow, ignite it by aiming.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arrow.hv.png)|arrow.hv|-1023065463|High Velocity Arrow|Ammunition|Lighter, faster arrow that deals less damage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/arrow.wooden.png)|arrow.wooden|-1234735557|Wooden Arrow|Ammunition|An arrow for a Hunting Bow and Crossbow.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.banditguard.png)|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.bunny.onesie.png)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.bunnyears.png)|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.boots.png)|attire.hide.boots|794356786|Hide Boots|Attire|Boots made from the hide of an animal.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.helterneck.png)|attire.hide.helterneck|3222790|Hide Halterneck|Attire|A Halterneck made from the hide of an animal.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.pants.png)|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.poncho.png)|attire.hide.poncho|980333378|Hide Poncho|Attire|A Poncho made from the hide of an animal.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.skirt.png)|attire.hide.skirt|-1773144852|Hide Skirt|Attire|A Skirt made from the hide of an animal.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.hide.vest.png)|attire.hide.vest|196700171|Hide Vest|Attire|A Vest made from the hide of an animal.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.nesthat.png)|attire.nesthat|1081315464|Nest Hat|Attire|An extremely silly easter nest hat with googly eyes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.ninja.suit.png)|attire.ninja.suit|-1506417026|Ninja Suit|Attire|BaboAbe Ninja Suit|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.reindeer.headband.png)|attire.reindeer.headband|-324675402|Reindeer Antlers|Attire|A festive reindeer antlers headband and nose.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/attire.snowman.helmet.png)|attire.snowman.helmet|-842267147|Snowman Helmet|Attire|A snowman helmet which provides ample protection.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/autoturret.png)|autoturret|-2139580305|Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/axe.salvaged.png)|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bandage.png)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barrelcostume.png)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.concrete.png)|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.metal.png)|barricade.metal|1655650836|Metal Barricade|Construction|A tough metal barricade with barbed wire, made from Metal Fragments. The barbed wire causes damage and will also slow player movement.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.sandbags.png)|barricade.sandbags|-559599960|Sandbag Barricade|Construction|A protective barricade made out of Sand Bags.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.stone.png)|barricade.stone|15388698|Stone Barricade|Construction|A protective barricade made out of Stones.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.wood.cover.png)|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.wood.png)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/barricade.woodwire.png)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/battery.small.png)|battery.small|609049394|Battery - Small|Resources|A Battery.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bbq.png)|bbq|1099314009|Barbeque|Items|A makeshift Barbeque. You can cook significant amounts of food with this.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/beachchair.png)|beachchair|-321431890|Beach Chair|Fun|The Beach Chair is the best way to relax, whether it's by the pool or on the beach.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/beachparasol.png)|beachparasol|-1621539785|Beach Parasol|Fun|A large umbrella that will shield you from the sun.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/beachtable.png)|beachtable|657352755|Beach Table|Fun|A small table to hold your drinks while relaxing.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/beachtowel.png)|beachtowel|-8312704|Beach Towel|Fun|A colourful beach towel. Placing this will give you a location to respawn.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bearmeat.burned.png)|bearmeat.burned|-989755543|Burnt Bear Meat|Food|Bear Meat that has been overcooked.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bearmeat.cooked.png)|bearmeat.cooked|1873897110|Cooked Bear Meat|Food|Delicious Bear Meat, Eating it will restore some health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bearmeat.png)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bed.png)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/black.berry.png)|black.berry|1771755747|Black Berry|Food|A black berry.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/black.raspberries.png)|black.raspberries|1931713481|Black Raspberries|Food|Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bleach.png)|bleach|1553078977|Bleach|Component|A powerful oxidizing agent. Can be used as a disinfectant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/blood.png)|blood|1776460938|Blood|Medical|Used in creation of medkits.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/blue.berry.png)|blue.berry|1112162468|Blue Berry|Food|A blue berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/blueberries.png)|blueberries|-586342290|Blueberries|Food|Blueberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/blueprintbase.png)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bone.armor.suit.png)|bone.armor.suit|1746956556|Bone Armor|Attire|A suit of armor made of bones.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bone.club.png)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bone.fragments.png)|bone.fragments|1719978075|Bone Fragments|Resources|Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/boogieboard.png)|boogieboard|-1478094705|Boogie Board|Fun|Use the boogie board to catch some sick waves.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/boombox.png)|boombox|-1113501606|Boom Box|Fun|A large speaker to play recorded cassette tapes which can also stream audio from the internet. Open the settings to change audio options.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/boots.frog.png)|boots.frog|-1000573653|Frog Boots|Attire|Thank you for playing the game through its early access run. Enjoy these boots made from radiation resistant frog rubber.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/botabag.png)|botabag|613961768|Bota Bag|Items|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bottle.vodka.png)|bottle.vodka|755224797|Vodka Bottle|Food|A bottle of Russian Vodka.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bow.compound.png)|bow.compound|884424049|Compound Bow|Weapon|A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bow.hunting.png)|bow.hunting|1443579727|Hunting Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/box.repair.bench.png)|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/box.wooden.png)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 12 items.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/box.wooden.large.png)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 30 items.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bucket.helmet.png)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/bucket.water.png)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/building.planner.png)|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.gloves.png)|burlap.gloves|1366282552|Leather Gloves|Attire|Gloves made out of leather, offers a small amount of protection to the upper body.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.gloves.new.png)|burlap.gloves.new|21402876|Burlap Gloves|Attire|Basic burlap gloves, offering protection from the elements|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.headwrap.png)|burlap.headwrap|1877339384|Burlap Headwrap|Attire|A Headwrap made out of burlap.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.shirt.png)|burlap.shirt|602741290|Burlap Shirt|Attire|A Shirt made out of burlap.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.shoes.png)|burlap.shoes|-761829530|Burlap Shoes|Attire|Shoes made out of burlap.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/burlap.trousers.png)|burlap.trousers|1992974553|Burlap Trousers|Attire|Trousers made out of burlap.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cactusflesh.png)|cactusflesh|1783512007|Cactus Flesh|Food|Flesh of a Cactus, contains water.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cakefiveyear.png)|cakefiveyear|1973165031|Birthday Cake|Tool|A very special and happy birthday to Rust!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/campfire.png)|campfire|1946219319|Camp Fire|Items|A small camp fire. Provides warmth and light, and you can cook with it.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/can.beans.empty.png)|can.beans.empty|1655979682|Empty Can Of Beans|Resources|An empty Can of Beans. Can be smelted into Metal Fragments.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/can.beans.png)|can.beans|-700591459|Can of Beans|Food|Beans found as loot. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/can.tuna.empty.png)|can.tuna.empty|-1557377697|Empty Tuna Can|Resources|An empty Can of Tuna. Can be smelted into Metal Fragments.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/can.tuna.png)|can.tuna|-1941646328|Can of Tuna|Food|Chunked tuna found as loot. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/candycane.png)|candycane|1121925526|Candy Cane|Food|A very old candy cane from 2014|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/candycaneclub.png)|candycaneclub|1789825282|Candy Cane Club|Weapon|Smash some faces with this large piece of candy|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/captainslog.png)|captainslog|1230691307|Captain's Log|Misc|A deteriorating piece of paper with information relating to the last moments of this vessel.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/car.key.png)|car.key|946662961|Car Key|Misc|A key to a car, created at a vehicle lift. Keep this item safe; if lost you'll be unable to drive the car again!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/carburetor1.png)|carburetor1|656371028|Low Quality Carburetor|Component|A low quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/carburetor2.png)|carburetor2|656371027|Medium Quality Carburetor|Component|A medium quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/carburetor3.png)|carburetor3|656371026|High Quality Carburetor|Component|A high quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cardtable.png)|cardtable|1081921512|Card Table|Items|A table for playing card games|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/carvable.pumpkin.png)|carvable.pumpkin|1524980732|Carvable Pumpkin|Items|A pumpkin that you can carve. 
 
 Requires wood as a fuel source.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cassette.png|cassette|476066818|Cassette - Long|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cassette.medium.png|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cassette.short.png|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cctv.camera.png|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ceilinglight.png|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chainsaw.png|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chair.png|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/charcoal.png|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chicken.burned.png|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chicken.cooked.png|chicken.cooked|-1848736516|Cooked Chicken|Food|Cooked chicken. Eating it will restore some health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chicken.raw.png|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chicken.spoiled.png|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chineselantern.png|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chocholate.png|chocholate|363467698|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clatter.helmet.png|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.black.berry.png|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.blue.berry.png|clone.blue.berry|838831151|Blue Berry Clone|Food|A clipping of a Blue Berry Plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.corn.png|clone.corn|-778875547|Corn Clone|Food|A Clipping of a Corn Plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.green.berry.png|clone.green.berry|-1305326964|Green Berry Clone|Food|A clipping of a Green Berry Plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.hemp.png|clone.hemp|-886280491|Hemp Clone|Food|A clipping of a hemp plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.potato.png|clone.potato|1512054436|Potato Clone|Food|A Clipping of a Potato Plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.pumpkin.png|clone.pumpkin|1898094925|Pumpkin Plant Clone|Food|A Clipping of a pumpkin plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.red.berry.png|clone.red.berry|2133269020|Red Berry Clone|Food|A clipping of a Red Berry Plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.white.berry.png|clone.white.berry|1533551194|White Berry Clone|Food|A clipping of a White Berry Plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.yellow.berry.png|clone.yellow.berry|390728933|Yellow Berry Clone|Food|A clipping of a Yellow Berry Plant.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cloth.png|cloth|-858312878|Cloth|Resources|Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/coal.png|coal|204391461|Coal :(|Resources|Crappy Holidays!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/coffeecan.helmet.png|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/coffin.storage.png|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/composter.png|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/computerstation.png|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/connected.speaker.png|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/corn.png|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crankshaft1.png|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crankshaft2.png|crankshaft2|1158340331|Medium Quality Crankshaft|Component|A medium quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crankshaft3.png|crankshaft3|1158340332|High Quality Crankshaft|Component|A high quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cratecostume.png|cratecostume|1189981699|Crate Costume|Attire|A sneaky crate costume. Use with a friend to expertly troll other players|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crossbow.png|crossbow|1965232394|Crossbow|Weapon|A very accurate ranged weapon.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crude.oil.png|crude.oil|-321733511|Crude Oil|Resources|Raw Oil out of the ground, must be refined in a refinery to be used.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cupboard.tool.png|cupboard.tool|-97956382|Tool Cupboard|Construction|Placing and authorising with the cupboard will make it so only you can build in a 50 meter radius of it. If you want your friends to build, they'll need to auth too. You should protect this.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cursedcauldron.png|cursedcauldron|1242522330|Cursed Cauldron|Misc|A spooky cast iron cauldron with a green goo.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/deer.skull.mask.png|deer.skull.mask|-1903165497|Bone Helmet|Attire|A helmet made of bone.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/deermeat.burned.png|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/deermeat.cooked.png|deermeat.cooked|-1509851560|Cooked Deer Meat|Food|Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/deermeat.raw.png|deermeat.raw|1422530437|Raw Deer Meat|Food|Raw Deer Meat. Eating it will damage your health, try cooking it first.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diesel_barrel.png|diesel_barrel|1568388703|Diesel Fuel|Resources|Appropriate fuel for the excavator|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/discoball.png|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/discofloor.png|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/discofloor.largetiles.png|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diving.fins.png|diving.fins|296519935|Diving Fins|Attire|Diving Fins which greatly increase underwater movement|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diving.mask.png|diving.mask|-113413047|Diving Mask|Attire|A Diving Mask. Provides clear vision under water.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diving.tank.png|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diving.wetsuit.png|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.closer.png|door.closer|1409529282|Door Closer|Construction|Auotmatically closes your doors when left open.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.double.hinged.metal.png|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.double.hinged.toptier.png|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.double.hinged.wood.png|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cassette.png)|cassette|476066818|Cassette - Long|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cassette.medium.png)|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cassette.short.png)|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cctv.camera.png)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ceilinglight.png)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chainsaw.png)|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chair.png)|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/charcoal.png)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chicken.burned.png)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chicken.cooked.png)|chicken.cooked|-1848736516|Cooked Chicken|Food|Cooked chicken. Eating it will restore some health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chicken.raw.png)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/chocholate.png)|chocholate|363467698|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.black.berry.png)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.blue.berry.png)|clone.blue.berry|838831151|Blue Berry Clone|Food|A clipping of a Blue Berry Plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.corn.png)|clone.corn|-778875547|Corn Clone|Food|A Clipping of a Corn Plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.green.berry.png)|clone.green.berry|-1305326964|Green Berry Clone|Food|A clipping of a Green Berry Plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.hemp.png)|clone.hemp|-886280491|Hemp Clone|Food|A clipping of a hemp plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.potato.png)|clone.potato|1512054436|Potato Clone|Food|A Clipping of a Potato Plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.pumpkin.png)|clone.pumpkin|1898094925|Pumpkin Plant Clone|Food|A Clipping of a pumpkin plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.red.berry.png)|clone.red.berry|2133269020|Red Berry Clone|Food|A clipping of a Red Berry Plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.white.berry.png)|clone.white.berry|1533551194|White Berry Clone|Food|A clipping of a White Berry Plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/clone.yellow.berry.png)|clone.yellow.berry|390728933|Yellow Berry Clone|Food|A clipping of a Yellow Berry Plant.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cloth.png)|cloth|-858312878|Cloth|Resources|Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/coal.png)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/coffeecan.helmet.png)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/coffin.storage.png)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/composter.png)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/computerstation.png)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/connected.speaker.png)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/corn.png)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crankshaft1.png)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crankshaft2.png)|crankshaft2|1158340331|Medium Quality Crankshaft|Component|A medium quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crankshaft3.png)|crankshaft3|1158340332|High Quality Crankshaft|Component|A high quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cratecostume.png)|cratecostume|1189981699|Crate Costume|Attire|A sneaky crate costume. Use with a friend to expertly troll other players|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crossbow.png)|crossbow|1965232394|Crossbow|Weapon|A very accurate ranged weapon.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/crude.oil.png)|crude.oil|-321733511|Crude Oil|Resources|Raw Oil out of the ground, must be refined in a refinery to be used.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cupboard.tool.png)|cupboard.tool|-97956382|Tool Cupboard|Construction|Placing and authorising with the cupboard will make it so only you can build in a 50 meter radius of it. If you want your friends to build, they'll need to auth too. You should protect this.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/cursedcauldron.png)|cursedcauldron|1242522330|Cursed Cauldron|Misc|A spooky cast iron cauldron with a green goo.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/deer.skull.mask.png)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A helmet made of bone.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/deermeat.burned.png)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/deermeat.cooked.png)|deermeat.cooked|-1509851560|Cooked Deer Meat|Food|Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/deermeat.raw.png)|deermeat.raw|1422530437|Raw Deer Meat|Food|Raw Deer Meat. Eating it will damage your health, try cooking it first.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diesel_barrel.png)|diesel_barrel|1568388703|Diesel Fuel|Resources|Appropriate fuel for the excavator|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/discoball.png)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/discofloor.png)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/discofloor.largetiles.png)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diving.fins.png)|diving.fins|296519935|Diving Fins|Attire|Diving Fins which greatly increase underwater movement|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diving.mask.png)|diving.mask|-113413047|Diving Mask|Attire|A Diving Mask. Provides clear vision under water.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diving.tank.png)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/diving.wetsuit.png)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.closer.png)|door.closer|1409529282|Door Closer|Construction|Auotmatically closes your doors when left open.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.double.hinged.metal.png)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.double.hinged.toptier.png)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.double.hinged.wood.png)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
 
 The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.hinged.industrial.a.png|door.hinged.industrial.a|818733919|Industrial Door|Construction|Medium strength door, vulnerable to explosives.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.hinged.metal.png|door.hinged.metal|-2067472972|Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.hinged.toptier.png|door.hinged.toptier|1353298668|Armored Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.hinged.wood.png|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.hinged.industrial.a.png)|door.hinged.industrial.a|818733919|Industrial Door|Construction|Medium strength door, vulnerable to explosives.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.hinged.metal.png)|door.hinged.metal|-2067472972|Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.hinged.toptier.png)|door.hinged.toptier|1353298668|Armored Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.hinged.wood.png)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.
 
 The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.key.png|door.key|-1112793865|Door Key|Misc|A key to a door, created from a Lock. Keep this item safe; if lost you'll be unable to open the door again!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/dragondoorknocker.png|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/drone.png|drone|1588492232|Drone|Items|A remote controlled drone.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/dropbox.png|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/drumkit.png|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ducttape.png|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easter.bronzeegg.png|easter.bronzeegg|844440409|Bronze Egg|Misc|A Bronze Egg. Open for a surprise or collect 10 to upgrade to a silver egg.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easter.goldegg.png|easter.goldegg|-1002156085|Gold Egg|Misc|A Gold Egg. Containing the best easter loot.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easter.paintedeggs.png|easter.paintedeggs|-126305173|Painted Egg|Misc|Some simple painted eggs. Collect 10 to upgrade to a bronze egg|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easter.silveregg.png|easter.silveregg|1757265204|Silver Egg|Misc|A Silver Egg. Contains medium level loot, Collect 10 to upgrade to a gold Egg|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easterbasket.png|easterbasket|1856217390|Egg Basket|Misc|An easter egg basket. Equip to pick up eggs during an easter egg hunt with left click. Use right click to throw|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easterdoorwreath.png|easterdoorwreath|-979302481|Easter Door Wreath|Items|A beautiful, hand crafted Easter themed door wreath.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.andswitch.png|electric.andswitch|1171735914|AND Switch|Electrical|A logic gate that allows electrical passthrough if BOTH inputs receives power, passthrough amount is the greater of either power source|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.audioalarm.png|electric.audioalarm|2100007442|Audio Alarm|Electrical|A speaker which will emit a loud warning alarm when powered|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.battery.rechargable.large.png|electric.battery.rechargable.large|553270375|Large Rechargeable Battery|Electrical|A Large Rechargeable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.battery.rechargable.medium.png|electric.battery.rechargable.medium|2023888403|Medium Rechargeable Battery|Electrical|A Medium Rechargable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.battery.rechargable.small.png|electric.battery.rechargable.small|-692338819|Small Rechargeable Battery|Electrical|A small rechargable battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.blocker.png|electric.blocker|-690968985|Blocker|Electrical|This object prevents passthrough while power is received through its second input.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.button.png|electric.button|-1778897469|Button|Electrical|A simple electric button.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.cabletunnel.png|electric.cabletunnel|1835946060|Cable Tunnel|Electrical|Allows you to pass a cable through a wall. Each input will forward the amount it receives to the corresponding output on the other side.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.counter.png|electric.counter|-216999575|Counter|Electrical|A basic cathode ray tube screen combined with an incremental counter. Can display power received, or can count upwards and allow passthrough when a target is reached.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.doorcontroller.png|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it recieves power|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.flasherlight.png|electric.flasherlight|-939424778|Flasher Light|Electrical|A flashing blue light|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.fuelgenerator.small.png|electric.fuelgenerator.small|1849887541|Small Generator|Electrical|A small electric generator powered by Low Grade Fuel that outputs 40 power.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.generator.small.png|electric.generator.small|-295829489|Test Generator|Electrical|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.hbhfsensor.png|electric.hbhfsensor|-1507239837|HBHF Sensor|Electrical|A Heartbeat, Breathing, Humidity and Footstep sensor. Passthrough is equal to the number of humans detected in a 10m radius|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.heater.png|electric.heater|-784870360|Electric Heater|Electrical|Provides warmth in a radius when on|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.igniter.png|electric.igniter|-44876289|Igniter|Electrical|Ignites nearby objects such as furnaces and campfires when power is received|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.laserdetector.png|electric.laserdetector|-798293154|Laser Detector|Electrical|A gate which allows power to flow while a player is in the beam|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.orswitch.png|electric.orswitch|-1286302544|OR Switch|Electrical|A logic gate that allows electrical passthrough if EITHER input receives power, passthrough amount is the greater of either power source|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.pressurepad.png|electric.pressurepad|-2049214035|Pressure Pad|Electrical|A gate which allows power to flow while a player is standing on it|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.random.switch.png|electric.random.switch|492357192|RAND Switch|Electrical|This switch will allow passthrough based on a random number. Each time the SET input receives power it will roll true or false to allow passthrough|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.rf.broadcaster.png|electric.rf.broadcaster|-1044468317|RF Broadcaster|Electrical|An RF Broadcaster|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.rf.receiver.png|electric.rf.receiver|888415708|RF Receiver|Electrical|An RF Receiver|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.simplelight.png|electric.simplelight|-282113991|Simple Light|Electrical|A simple debugging light|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.sirenlight.png|electric.sirenlight|762289806|Siren Light|Electrical|A spinning siren light|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.solarpanel.large.png|electric.solarpanel.large|2090395347|Large Solar Panel|Electrical|A solar panel which converts sunlight into energy. The amount of energy generated is dependent on the sun's intensity and angle to the panel.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.splitter.png|electric.splitter|-563624462|Splitter|Electrical|Splits an electrical signal into 3 multiple signals. the amount passed through is equal to the input amount divided by the number of used output slots.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.sprinkler.png|electric.sprinkler|-781014061|Sprinkler|Electrical|A small sprinkler that sprays water around it. Requires a hose connection to supply it with water.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.switch.png|electric.switch|1951603367|Switch|Electrical|A simple electric switch.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.teslacoil.png|electric.teslacoil|1371909803|Tesla Coil|Electrical|An electrical trap that zaps nearby players when powered. More power supplied will result in higher damage. Loses durability with use.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.timer.png|electric.timer|665332906|Timer|Electrical|A Timer switch, will pass power through for duration.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.xorswitch.png|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. if BOTH inputs recieve power, passthrough will be zero.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electrical.branch.png|electrical.branch|-1448252298|Electrical Branch|Electrical|This object allows you to branch power off from a main line by a set amount.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electrical.combiner.png|electrical.combiner|-458565393|Root Combiner|Electrical|This object combines two root electrical sources into a single signal. Helpful for stringing together low energy batteries or solar panels to produce higher power output. Can be wired in series, can not be used with any non energy producing electrical components.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electrical.memorycell.png|electrical.memorycell|-746647361|Memory Cell|Electrical|A 1 bit storage component. SET input will set the value to 1 CLEAR input sets the value to 0. Output will provide connected power if value is 1, Inverted output will provide connected power if value is 0. This is also known as a D-Type Flip Flop|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/elevator.png|elevator|1177596584|Elevator|Electrical|A powered elevator. Place another elevator above or below this to connect it. Requires power.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/explosive.satchel.png|explosive.satchel|-1878475007|Satchel Charge|Tool|Small explosive package constructed of beancan grenades. Useful for destroying wood and sheet metal doors.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/explosive.timed.png|explosive.timed|1248356124|Timed Explosive Charge|Tool|C4, useful for breaking into bases.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/explosives.png|explosives|-592016202|Explosives|Resources|A component used for crafting C4 and Rockets.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/factorydoor.png|factorydoor|2054391128|Factory Door|Construction|Medium strength door, vulnerable to explosives. Contains a bulletproof viewing portal|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fat.animal.png|fat.animal|-1018587433|Animal Fat|Resources|Harvested from animals, combine with cloth to create a low quality fuel source.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fertilizer.png|fertilizer|-930193596|Fertilizer|Resources|Helps plants grow by increasing ground condition. Produced in a composter.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fireplace.stone.png|fireplace.stone|-1535621066|Stone Fireplace|Items|A stone fireplace to heat your home. Must be placed indoors and against a wall.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.blue.png|firework.boomer.blue|1744298439|Blue Boomer|Fun|A very large mortar type firework with a blue starburst|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.champagne.png|firework.boomer.champagne|1324203999|Champagne Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.green.png|firework.boomer.green|-656349006|Green Boomer|Fun|A very large mortar type firework with a green starburst|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.orange.png|firework.boomer.orange|-7270019|Orange Boomer|Fun|A very large mortar type firework with an orange starburst|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.pattern.png|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.red.png|firework.boomer.red|-1553999294|Red Boomer|Fun|A very large mortar type firework with a red starburst|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.violet.png|firework.boomer.violet|-280223496|Violet Boomer|Fun|A very large mortar type firework with a violet starburst|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.romancandle.blue.png|firework.romancandle.blue|-515830359|Blue Roman Candle|Fun|A small repeating firework, shoots a series of Blue balls into the air|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.romancandle.green.png|firework.romancandle.green|-1306288356|Green Roman Candle|Fun|A small repeating firework, shoots a series of Green balls into the air|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.romancandle.red.png|firework.romancandle.red|-1486461488|Red Roman Candle|Fun|A small repeating firework, shoots a series of red balls into the air|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.romancandle.violet.png|firework.romancandle.violet|-99886070|Violet Roman Candle|Fun|A small repeating firework, shoots a series of Violet balls into the air|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.volcano.png|firework.volcano|261913429|White Volcano Firework|Fun|Emits a beautiful shower of white sparks|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.volcano.red.png|firework.volcano.red|-454370658|Red Volcano Firework|Fun|Emits a beautiful shower of red sparks|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.volcano.violet.png|firework.volcano.violet|-1538109120|Violet Volcano Firework|Fun|Emits a beautiful shower of Violet sparks|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.anchovy.png|fish.anchovy|342438846|Anchovy|Food|A small bony fish commonly found in large schools.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.catfish.png|fish.catfish|-587989372|Catfish|Food|A large, whiskered fresh water based predator. Eats everything, so you never know what you'll find in it's stomach.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.cooked.png|fish.cooked|1668129151|Cooked Fish|Food|Cooked Fish. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.herring.png|fish.herring|-1698937385|Herring|Food|A small fish commonly found in a variety of water sources.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.minnows.png|fish.minnows|-542577259|Minnows|Food|A Small group of edible fish.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.orangeroughy.png|fish.orangeroughy|-1904821376|Orange Roughy|Food|A rare fish found in the depths of the ocean. Eats everything, so you never know what you'll find in it's stomach.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.raw.png|fish.raw|989925924|Raw Fish|Food|Raw Fish.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.salmon.png|fish.salmon|-851988960|Salmon|Food|A large Salmon, found in fresh and salt water. Eats everything, so you never know what you'll find in it's stomach.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.sardine.png|fish.sardine|-1654233406|Sardine|Food|A small oily fish, commonly found in large schools.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.smallshark.png|fish.smallshark|-1768880890|Small Shark|Food|A small, surprisingly aggressive deep sea predator. Eats everything, so you never know what you'll find in it's stomach.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.troutsmall.png|fish.troutsmall|-1878764039|Small Trout|Food|A Small Trout. Good for a few meals.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.yellowperch.png|fish.yellowperch|680234026|Yellow Perch|Food|A Yellow Perch, commonly found in freshwater rivers.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fishing.tackle.png|fishing.tackle|-1707425764|Fishing Tackle|Tool|Fishing Tackle|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fishingrod.handmade.png|fishingrod.handmade|1569882109|Handmade Fishing Rod|Tool|Use [attack2] to cast out the line and wait for a bite. Requires bait.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fishtrap.small.png|fishtrap.small|559147458|Survival Fish Trap|Items|Traps fish, place on the shore and load with bait. The more bait loaded the bigger the chance of catching Trout.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/flamethrower.png|flamethrower|-1215753368|Flame Thrower|Weapon|A Flamethrower. Uses low grade fuel as ammunition.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/flameturret.png|flameturret|528668503|Flame Turret|Traps|Automated Flame turret. Requires Low Grade Fuel. Sprays flames when triggered.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/flare.png|flare|304481038|Flare|Tool|Light up the night sky with this brand new red flare!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/flashlight.held.png|flashlight.held|-196667575|Flashlight|Tool|A powerful flashlight which illuminates your surroundings and can be used as a weapon.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/floor.grill.png|floor.grill|936496778|Floor grill|Construction|A floor grill must be placed in floor frames. Perfect for placing above a large furnace.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/floor.ladder.hatch.png|floor.ladder.hatch|1948067030|Ladder Hatch|Construction|A hatch that opens and changes into a ladder.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/floor.triangle.grill.png|floor.triangle.grill|1983621560|Floor triangle grill|Construction|A floor grill must be placed in floor frames. Perfect for placing above a large furnace.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/floor.triangle.ladder.hatch.png|floor.triangle.ladder.hatch|2041899972|Triangle Ladder Hatch|Construction|A hatch that opens and changes into a ladder.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fluid.combiner.png|fluid.combiner|-265292885|Fluid Combiner|Electrical|Combines three separate fluid connections into one connection.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fluid.splitter.png|fluid.splitter|-1166712463|Fluid Splitter|Electrical|Splits a fluid connection into three separate connections.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fluid.switch.png|fluid.switch|443432036|Fluid Switch & Pump|Electrical|A simple switch that enables fluid to pass through. Can be switched on/off manually or via electricity. Can also pump water upwards to higher entities when powered.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fogmachine.png|fogmachine|-1973785141|Fogger-3000|Misc|A Fog machine which runs on low grade fuel. Can be set to fill an area with a dense fog or triggered by motion.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.01.head.png|frankensteins.monster.01.head|-134959124|Light Frankenstein Head|Attire|Slightly faster, slightly weaker.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/door.key.png)|door.key|-1112793865|Door Key|Misc|A key to a door, created from a Lock. Keep this item safe; if lost you'll be unable to open the door again!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/dragondoorknocker.png)|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/drone.png)|drone|1588492232|Drone|Items|A remote controlled drone.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/dropbox.png)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/drumkit.png)|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ducttape.png)|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easter.bronzeegg.png)|easter.bronzeegg|844440409|Bronze Egg|Misc|A Bronze Egg. Open for a surprise or collect 10 to upgrade to a silver egg.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easter.goldegg.png)|easter.goldegg|-1002156085|Gold Egg|Misc|A Gold Egg. Containing the best easter loot.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easter.paintedeggs.png)|easter.paintedeggs|-126305173|Painted Egg|Misc|Some simple painted eggs. Collect 10 to upgrade to a bronze egg|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easter.silveregg.png)|easter.silveregg|1757265204|Silver Egg|Misc|A Silver Egg. Contains medium level loot, Collect 10 to upgrade to a gold Egg|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easterbasket.png)|easterbasket|1856217390|Egg Basket|Misc|An easter egg basket. Equip to pick up eggs during an easter egg hunt with left click. Use right click to throw|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/easterdoorwreath.png)|easterdoorwreath|-979302481|Easter Door Wreath|Items|A beautiful, hand crafted Easter themed door wreath.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.andswitch.png)|electric.andswitch|1171735914|AND Switch|Electrical|A logic gate that allows electrical passthrough if BOTH inputs receives power, passthrough amount is the greater of either power source|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.audioalarm.png)|electric.audioalarm|2100007442|Audio Alarm|Electrical|A speaker which will emit a loud warning alarm when powered|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.battery.rechargable.large.png)|electric.battery.rechargable.large|553270375|Large Rechargeable Battery|Electrical|A Large Rechargeable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.battery.rechargable.medium.png)|electric.battery.rechargable.medium|2023888403|Medium Rechargeable Battery|Electrical|A Medium Rechargable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.battery.rechargable.small.png)|electric.battery.rechargable.small|-692338819|Small Rechargeable Battery|Electrical|A small rechargable battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.blocker.png)|electric.blocker|-690968985|Blocker|Electrical|This object prevents passthrough while power is received through its second input.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.button.png)|electric.button|-1778897469|Button|Electrical|A simple electric button.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.cabletunnel.png)|electric.cabletunnel|1835946060|Cable Tunnel|Electrical|Allows you to pass a cable through a wall. Each input will forward the amount it receives to the corresponding output on the other side.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.counter.png)|electric.counter|-216999575|Counter|Electrical|A basic cathode ray tube screen combined with an incremental counter. Can display power received, or can count upwards and allow passthrough when a target is reached.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.doorcontroller.png)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it recieves power|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.flasherlight.png)|electric.flasherlight|-939424778|Flasher Light|Electrical|A flashing blue light|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.fuelgenerator.small.png)|electric.fuelgenerator.small|1849887541|Small Generator|Electrical|A small electric generator powered by Low Grade Fuel that outputs 40 power.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.generator.small.png)|electric.generator.small|-295829489|Test Generator|Electrical|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.hbhfsensor.png)|electric.hbhfsensor|-1507239837|HBHF Sensor|Electrical|A Heartbeat, Breathing, Humidity and Footstep sensor. Passthrough is equal to the number of humans detected in a 10m radius|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.heater.png)|electric.heater|-784870360|Electric Heater|Electrical|Provides warmth in a radius when on|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.igniter.png)|electric.igniter|-44876289|Igniter|Electrical|Ignites nearby objects such as furnaces and campfires when power is received|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.laserdetector.png)|electric.laserdetector|-798293154|Laser Detector|Electrical|A gate which allows power to flow while a player is in the beam|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.orswitch.png)|electric.orswitch|-1286302544|OR Switch|Electrical|A logic gate that allows electrical passthrough if EITHER input receives power, passthrough amount is the greater of either power source|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.pressurepad.png)|electric.pressurepad|-2049214035|Pressure Pad|Electrical|A gate which allows power to flow while a player is standing on it|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.random.switch.png)|electric.random.switch|492357192|RAND Switch|Electrical|This switch will allow passthrough based on a random number. Each time the SET input receives power it will roll true or false to allow passthrough|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.rf.broadcaster.png)|electric.rf.broadcaster|-1044468317|RF Broadcaster|Electrical|An RF Broadcaster|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.rf.receiver.png)|electric.rf.receiver|888415708|RF Receiver|Electrical|An RF Receiver|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.simplelight.png)|electric.simplelight|-282113991|Simple Light|Electrical|A simple debugging light|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.sirenlight.png)|electric.sirenlight|762289806|Siren Light|Electrical|A spinning siren light|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.solarpanel.large.png)|electric.solarpanel.large|2090395347|Large Solar Panel|Electrical|A solar panel which converts sunlight into energy. The amount of energy generated is dependent on the sun's intensity and angle to the panel.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.splitter.png)|electric.splitter|-563624462|Splitter|Electrical|Splits an electrical signal into 3 multiple signals. the amount passed through is equal to the input amount divided by the number of used output slots.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.sprinkler.png)|electric.sprinkler|-781014061|Sprinkler|Electrical|A small sprinkler that sprays water around it. Requires a hose connection to supply it with water.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.switch.png)|electric.switch|1951603367|Switch|Electrical|A simple electric switch.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.teslacoil.png)|electric.teslacoil|1371909803|Tesla Coil|Electrical|An electrical trap that zaps nearby players when powered. More power supplied will result in higher damage. Loses durability with use.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.timer.png)|electric.timer|665332906|Timer|Electrical|A Timer switch, will pass power through for duration.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electric.xorswitch.png)|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. if BOTH inputs recieve power, passthrough will be zero.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electrical.branch.png)|electrical.branch|-1448252298|Electrical Branch|Electrical|This object allows you to branch power off from a main line by a set amount.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electrical.combiner.png)|electrical.combiner|-458565393|Root Combiner|Electrical|This object combines two root electrical sources into a single signal. Helpful for stringing together low energy batteries or solar panels to produce higher power output. Can be wired in series, can not be used with any non energy producing electrical components.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/electrical.memorycell.png)|electrical.memorycell|-746647361|Memory Cell|Electrical|A 1 bit storage component. SET input will set the value to 1 CLEAR input sets the value to 0. Output will provide connected power if value is 1, Inverted output will provide connected power if value is 0. This is also known as a D-Type Flip Flop|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/elevator.png)|elevator|1177596584|Elevator|Electrical|A powered elevator. Place another elevator above or below this to connect it. Requires power.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/explosive.satchel.png)|explosive.satchel|-1878475007|Satchel Charge|Tool|Small explosive package constructed of beancan grenades. Useful for destroying wood and sheet metal doors.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/explosive.timed.png)|explosive.timed|1248356124|Timed Explosive Charge|Tool|C4, useful for breaking into bases.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/explosives.png)|explosives|-592016202|Explosives|Resources|A component used for crafting C4 and Rockets.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/factorydoor.png)|factorydoor|2054391128|Factory Door|Construction|Medium strength door, vulnerable to explosives. Contains a bulletproof viewing portal|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fat.animal.png)|fat.animal|-1018587433|Animal Fat|Resources|Harvested from animals, combine with cloth to create a low quality fuel source.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fertilizer.png)|fertilizer|-930193596|Fertilizer|Resources|Helps plants grow by increasing ground condition. Produced in a composter.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fireplace.stone.png)|fireplace.stone|-1535621066|Stone Fireplace|Items|A stone fireplace to heat your home. Must be placed indoors and against a wall.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.blue.png)|firework.boomer.blue|1744298439|Blue Boomer|Fun|A very large mortar type firework with a blue starburst|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.champagne.png)|firework.boomer.champagne|1324203999|Champagne Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.green.png)|firework.boomer.green|-656349006|Green Boomer|Fun|A very large mortar type firework with a green starburst|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.orange.png)|firework.boomer.orange|-7270019|Orange Boomer|Fun|A very large mortar type firework with an orange starburst|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.pattern.png)|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.red.png)|firework.boomer.red|-1553999294|Red Boomer|Fun|A very large mortar type firework with a red starburst|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.boomer.violet.png)|firework.boomer.violet|-280223496|Violet Boomer|Fun|A very large mortar type firework with a violet starburst|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.romancandle.blue.png)|firework.romancandle.blue|-515830359|Blue Roman Candle|Fun|A small repeating firework, shoots a series of Blue balls into the air|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.romancandle.green.png)|firework.romancandle.green|-1306288356|Green Roman Candle|Fun|A small repeating firework, shoots a series of Green balls into the air|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.romancandle.red.png)|firework.romancandle.red|-1486461488|Red Roman Candle|Fun|A small repeating firework, shoots a series of red balls into the air|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.romancandle.violet.png)|firework.romancandle.violet|-99886070|Violet Roman Candle|Fun|A small repeating firework, shoots a series of Violet balls into the air|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.volcano.png)|firework.volcano|261913429|White Volcano Firework|Fun|Emits a beautiful shower of white sparks|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.volcano.red.png)|firework.volcano.red|-454370658|Red Volcano Firework|Fun|Emits a beautiful shower of red sparks|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/firework.volcano.violet.png)|firework.volcano.violet|-1538109120|Violet Volcano Firework|Fun|Emits a beautiful shower of Violet sparks|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.anchovy.png)|fish.anchovy|342438846|Anchovy|Food|A small bony fish commonly found in large schools.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.catfish.png)|fish.catfish|-587989372|Catfish|Food|A large, whiskered fresh water based predator. Eats everything, so you never know what you'll find in it's stomach.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.cooked.png)|fish.cooked|1668129151|Cooked Fish|Food|Cooked Fish. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.herring.png)|fish.herring|-1698937385|Herring|Food|A small fish commonly found in a variety of water sources.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.minnows.png)|fish.minnows|-542577259|Minnows|Food|A Small group of edible fish.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.orangeroughy.png)|fish.orangeroughy|-1904821376|Orange Roughy|Food|A rare fish found in the depths of the ocean. Eats everything, so you never know what you'll find in it's stomach.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.raw.png)|fish.raw|989925924|Raw Fish|Food|Raw Fish.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.salmon.png)|fish.salmon|-851988960|Salmon|Food|A large Salmon, found in fresh and salt water. Eats everything, so you never know what you'll find in it's stomach.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.sardine.png)|fish.sardine|-1654233406|Sardine|Food|A small oily fish, commonly found in large schools.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.smallshark.png)|fish.smallshark|-1768880890|Small Shark|Food|A small, surprisingly aggressive deep sea predator. Eats everything, so you never know what you'll find in it's stomach.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.troutsmall.png)|fish.troutsmall|-1878764039|Small Trout|Food|A Small Trout. Good for a few meals.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fish.yellowperch.png)|fish.yellowperch|680234026|Yellow Perch|Food|A Yellow Perch, commonly found in freshwater rivers.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fishing.tackle.png)|fishing.tackle|-1707425764|Fishing Tackle|Tool|Fishing Tackle|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fishingrod.handmade.png)|fishingrod.handmade|1569882109|Handmade Fishing Rod|Tool|Use [attack2] to cast out the line and wait for a bite. Requires bait.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fishtrap.small.png)|fishtrap.small|559147458|Survival Fish Trap|Items|Traps fish, place on the shore and load with bait. The more bait loaded the bigger the chance of catching Trout.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/flamethrower.png)|flamethrower|-1215753368|Flame Thrower|Weapon|A Flamethrower. Uses low grade fuel as ammunition.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/flameturret.png)|flameturret|528668503|Flame Turret|Traps|Automated Flame turret. Requires Low Grade Fuel. Sprays flames when triggered.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/flare.png)|flare|304481038|Flare|Tool|Light up the night sky with this brand new red flare!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/flashlight.held.png)|flashlight.held|-196667575|Flashlight|Tool|A powerful flashlight which illuminates your surroundings and can be used as a weapon.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/floor.grill.png)|floor.grill|936496778|Floor grill|Construction|A floor grill must be placed in floor frames. Perfect for placing above a large furnace.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/floor.ladder.hatch.png)|floor.ladder.hatch|1948067030|Ladder Hatch|Construction|A hatch that opens and changes into a ladder.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/floor.triangle.grill.png)|floor.triangle.grill|1983621560|Floor triangle grill|Construction|A floor grill must be placed in floor frames. Perfect for placing above a large furnace.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/floor.triangle.ladder.hatch.png)|floor.triangle.ladder.hatch|2041899972|Triangle Ladder Hatch|Construction|A hatch that opens and changes into a ladder.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fluid.combiner.png)|fluid.combiner|-265292885|Fluid Combiner|Electrical|Combines three separate fluid connections into one connection.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fluid.splitter.png)|fluid.splitter|-1166712463|Fluid Splitter|Electrical|Splits a fluid connection into three separate connections.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fluid.switch.png)|fluid.switch|443432036|Fluid Switch & Pump|Electrical|A simple switch that enables fluid to pass through. Can be switched on/off manually or via electricity. Can also pump water upwards to higher entities when powered.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fogmachine.png)|fogmachine|-1973785141|Fogger-3000|Misc|A Fog machine which runs on low grade fuel. Can be set to fill an area with a dense fog or triggered by motion.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.01.head.png)|frankensteins.monster.01.head|-134959124|Light Frankenstein Head|Attire|Slightly faster, slightly weaker.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.01.legs.png|frankensteins.monster.01.legs|106959911|Light Frankenstein Legs|Attire|Slightly faster, slightly weaker.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.01.legs.png)|frankensteins.monster.01.legs|106959911|Light Frankenstein Legs|Attire|Slightly faster, slightly weaker.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.01.torso.png|frankensteins.monster.01.torso|-1624770297|Light Frankenstein Torso|Attire|Slightly faster, slightly weaker.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.01.torso.png)|frankensteins.monster.01.torso|-1624770297|Light Frankenstein Torso|Attire|Slightly faster, slightly weaker.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.02.head.png|frankensteins.monster.02.head|-1732475823|Medium Frankenstein Head|Attire|A balanced head.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.02.head.png)|frankensteins.monster.02.head|-1732475823|Medium Frankenstein Head|Attire|A balanced head.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.02.legs.png|frankensteins.monster.02.legs|835042040|Medium Frankenstein Legs|Attire|A balanced set of legs.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.02.legs.png)|frankensteins.monster.02.legs|835042040|Medium Frankenstein Legs|Attire|A balanced set of legs.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.02.torso.png|frankensteins.monster.02.torso|1491753484|Medium Frankenstein Torso|Attire|A balanced torso.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.02.torso.png)|frankensteins.monster.02.torso|1491753484|Medium Frankenstein Torso|Attire|A balanced torso.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.03.head.png|frankensteins.monster.03.head|-297099594|Heavy Frankenstein Head|Attire|Slightly slower, slightly stronger.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.03.head.png)|frankensteins.monster.03.head|-297099594|Heavy Frankenstein Head|Attire|Slightly slower, slightly stronger.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.03.legs.png|frankensteins.monster.03.legs|-2024549027|Heavy Frankenstein Legs|Attire|Slightly slower, slightly stronger.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.03.legs.png)|frankensteins.monster.03.legs|-2024549027|Heavy Frankenstein Legs|Attire|Slightly slower, slightly stronger.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.03.torso.png|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteins.monster.03.torso.png)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.
 
 Combined at a Frankenstein Table to create your very own monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteintable.png|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fridge.png|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.bass.png|fun.bass|-2107018088|Shovel Bass|Fun|Use this stringed together shovel to play some deep, deep tunes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.boomboxportable.png|fun.boomboxportable|576509618|Portable Boom Box|Fun|A portable Boom Box that can play tapes and internet audio streams. [attack] to start/stop and [attack2] to modify settings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.casetterecorder.png|fun.casetterecorder|-1530414568|Cassette Recorder|Fun|Insert a cassette and play the recorded audio with [attack], [attack2] to record new audio and [+reload] to throw.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.cowbell.png|fun.cowbell|-1049881973|Cowbell|Fun|A road sign that's been repurposed to produce some beautiful, calming, percussion.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.flute.png|fun.flute|-2040817543|Pan Flute|Fun|A set of repurposed PVC pipes that can be used to play a variety of melodies.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.guitar.png|fun.guitar|-2124352573|Acoustic Guitar|Fun|A classic acoustic guitar, built for jam sessions around campfires at night.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.jerrycanguitar.png|fun.jerrycanguitar|-979951147|Jerry Can Guitar|Fun|Take advantage of the unique acoustics of the Jerry Can Guitar to play some rustic tunes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.tambourine.png|fun.tambourine|-1379036069|Canbourine|Fun|A selection of crumpled cans assembled into a ring to produce some great background percussion.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.trumpet.png|fun.trumpet|273172220|Plumber's Trumpet|Fun|Toot your own horn with this brassy improvised Trumpet.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.tuba.png|fun.tuba|1784406797|Sousaphone|Fun|A collection of used piping that’s been converted into a Tuba. Probably not very hygienic.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/furnace.png|furnace|-1999722522|Furnace|Items|A Furnace. Use it to smelt mined ore.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/furnace.large.png|furnace.large|-1992717673|Large Furnace|Items|Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fuse.png|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gates.external.high.stone.png|gates.external.high.stone|-691113464|High External Stone Gate|Construction|A high stone gate, allowing access in and out of your compound.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gates.external.high.wood.png|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gears.png|gears|479143914|Gears|Component|A selection of gears. Some functional, some not.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/geiger.counter.png|geiger.counter|999690781|Geiger Counter|Tool|A geiger counter used by scientists|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/generator.wind.scrap.png|generator.wind.scrap|-1819763926|Wind Turbine|Electrical|Converts kinetic energy harvested from the wind into electricity. Amount generated will vary depending on wind speed. Higher altitudes will yield stronger winds.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ghostsheet.png|ghostsheet|-1043618880|Ghost Costume|Attire|Definitely not a last minute costume idea.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/giantcandycanedecor.png|giantcandycanedecor|-695124222|Giant Candy Decor|Misc|Get into the holiday spirit with this decorative inflated giant candy cane|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/giantlollipops.png|giantlollipops|282103175|Giant Lollipop Decor|Misc|Get into the holiday spirit with these decorative giant lollipops|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gloweyes.png|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/glue.png|glue|-1899491405|Glue|Component|A strong adhesive.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/granolabar.png|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gravestone.png|gravestone|809199956|Gravestone|Misc|A Gravestone marking the remains of an unknown soul|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/green.berry.png|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/grenade.beancan.png|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/grenade.f1.png|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/grenade.smoke.png|grenade.smoke|1263920163|Smoke Grenade|Tool|Produces a large cloud of opaque greyish white smoke.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/grub.png|grub|-568419968|Grub|Food|A pale, fleshy insect that can be used for bait. Could also be eaten in desperate situations.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gun.water.png|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gunpowder.png|gunpowder|-265876753|Gun Powder|Resources|Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/guntrap.png|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/habrepair.png|habrepair|-1759188988|Hab Repair|Misc|Hab repair|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.candy.png|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bat!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.lootbag.large.png|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.lootbag.medium.png|halloween.lootbag.medium|1899610628|Medium Loot Bag|Misc|Contains medium level loot, Collect 10 to upgrade to a Large loot bag, containing the best loot|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.lootbag.small.png|halloween.lootbag.small|1319617282|Small Loot Bag|Misc|Open for a surprise, or collect 10 to upgrade to a medium loot bag containing better loot!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.mummysuit.png|halloween.mummysuit|277730763|Mummy Suit|Attire|A mummy suit|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.surgeonsuit.png|halloween.surgeonsuit|-1785231475|Surgeon Scrubs|Attire|A Surgeon Suit|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hammer.png|hammer|200773292|Hammer|Tool|A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hammer.salvaged.png|hammer.salvaged|-1506397857|Salvaged Hammer|Tool|A Hammer made from a bunch of other crap.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.beenie.png|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.boonie.png|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.bunnyhat.png|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.candle.png|hat.candle|1714496074|Candle Hat|Attire|A hat with a candle on top. You can turn the candle on in your inventory.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.cap.png|hat.cap|-1022661119|Baseball Cap|Attire|A baseball cap.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.dragonmask.png|hat.dragonmask|-22883916|Dragon Mask|Attire|A special dragon mask to celebrate Chinese New Year|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.gas.mask.png|hat.gas.mask|1659114910|Gas Mask|Attire|A Gas Mask|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.miner.png|hat.miner|-1539025626|Miners Hat|Attire|A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.oxmask.png|hat.oxmask|1315082560|Ox Mask|Attire|An Ox mask to celebrate the 2021 Lunar New Year.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.ratmask.png|hat.ratmask|271048478|Rat Mask|Attire|A Beautifully crafted bronze and gold Rat mask to celebrate the 2020 Lunar New Year|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.wolf.png|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hatchet.png|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.png|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.nomadsuit.png|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A Nomad Suit.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.spacesuit.png|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A space suit built for harsh conditions.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit_scientist.png|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit_scientist_peacekeeper.png|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/healingtea.advanced.png|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/healingtea.png|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/healingtea.pure.png|healingtea.pure|-1677315902|Pure Healing Tea|Food|A tea that restores health over time.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/heavy.plate.helmet.png|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/heavy.plate.jacket.png|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/heavy.plate.pants.png|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hitchtroughcombo.png|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hobobarrel.png|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hoodie.png|hoodie|1751045826|Hoodie|Attire|A hoodie.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.armor.roadsign.png|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.armor.wood.png|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.saddle.png|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.saddlebag.png|horse.saddlebag|1400460850|Saddle bag|Attire|Equipping this saddle bag will add extra storage space on your horse|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.shoes.advanced.png|horse.shoes.advanced|1989785143|High Quality Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.shoes.basic.png|horse.shoes.basic|-1211268013|Basic Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horsedung.png|horsedung|-1579932985|Horse Dung|Resources|Fresh and fertile.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horsemeat.burned.png|horsemeat.burned|1917703890|Burnt Horse Meat|Food|Burned horse meat. Eating it will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horsemeat.cooked.png|horsemeat.cooked|-1162759543|Cooked Horse Meat|Food|Cooked Horse Meat. Eating it will restore some health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horsemeat.raw.png|horsemeat.raw|-1130350864|Raw Horse Meat|Food|Raw Horse Meat. Eating it will damage your health, try cooking it first.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hosetool.png|hosetool|363163265|Hose Tool|Electrical|A tool used to make fluid connections between objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hq.metal.ore.png|hq.metal.ore|-1982036270|High Quality Metal Ore|Resources|A rock containing High Quality Metal. Can be smelted in a furnace.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/humanmeat.burned.png|humanmeat.burned|-682687162|Burnt Human Meat|Food|Burned Meat from a human being. Consuming will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/humanmeat.cooked.png|humanmeat.cooked|1536610005|Cooked Human Meat|Food|Salty meat from a human being, eating this will restore some hunger and health but reduces hydration. Maybe you should look for a better food source.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/humanmeat.raw.png|humanmeat.raw|-1709878924|Raw Human Meat|Food|Raw human meat. Consuming will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/humanmeat.spoiled.png|humanmeat.spoiled|1272768630|Spoiled Human Meat|Food|Spoiled Human Meat. Consuming will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/icepick.salvaged.png|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/industrial.wall.light.green.png|industrial.wall.light.green|1268178466|Green Industrial Wall Light|Electrical|A small green light source.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/industrial.wall.light.png|industrial.wall.light|1623701499|Industrial Wall Light|Electrical|A small light source.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/industrial.wall.light.red.png|industrial.wall.light.red|-1160621614|Red Industrial Wall Light|Electrical|A small red light source.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/innertube.horse.png|innertube.horse|185586769|Inner Tube|Fun|An inflated tube for aquatic activities.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/innertube.png|innertube|-697981032|Inner Tube|Fun|An inflated tube for aquatic activities.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/innertube.unicorn.png|innertube.unicorn|2052270186|Inner Tube|Fun|An inflated tube for aquatic activities.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/undefined.png|undefined|undefined|undefined|undefined|undefined|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jacket.png|jacket|-1163532624|Jacket|Attire|A rugged jacket.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jacket.snow.png|jacket.snow|-48090175|Snow Jacket|Attire|A thick, high visibility Jacket. It will help keep you warm in any climate.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jackhammer.png|jackhammer|1488979457|Jackhammer|Tool|A Pneumatic Jackhammer to blast through ore nodes. The sheer power of this device requires no aiming as all weak spots will be instantly destroyed. Works well on human flesh. Can be refilled at a Workbench.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jackolantern.angry.png|jackolantern.angry|1242482355|Jack O Lantern Angry|Items|A Lantern. Place it where you need light.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jackolantern.happy.png|jackolantern.happy|-1824943010|Jack O Lantern Happy|Items|A Lantern. Place it where you need light.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jar.pickle.png|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amatuer. Eat at your own risk.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jumpsuit.suit.blue.png|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jumpsuit.suit.png|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/kayak.png|kayak|190184021|Kayak|Items|An improvised wooden kayak. Seats two and requires a Paddle to operate.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/keycard_blue.png|keycard_blue|-484206264|Blue Keycard|Misc|A keycard with medium level clearance.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/keycard_green.png|keycard_green|37122747|Green Keycard|Misc|A low level clearance card granting access to basic areas.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/keycard_red.png|keycard_red|-1880870149|Red Keycard|Misc|A keycard with advanced clearance, grants access to top level areas|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/knife.bone.png|knife.bone|1814288539|Bone Knife|Weapon|Melee weapon crafted from bone fragments. Good for harvesting carcases.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/knife.butcher.png|knife.butcher|-194509282|Butcher Knife|Weapon|A sharp butcher knife. Extremely good at harvesting flesh from both dead or alive bodies.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/knife.combat.png|knife.combat|2040726127|Combat Knife|Weapon|Combat knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ladder.wooden.wall.png|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lantern.png|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/largecandles.png|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/largemedkit.png|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/laserlight.png|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/leather.png|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lmg.m249.png|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lock.code.png|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lock.key.png|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/frankensteintable.png)|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fridge.png)|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.bass.png)|fun.bass|-2107018088|Shovel Bass|Fun|Use this stringed together shovel to play some deep, deep tunes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.boomboxportable.png)|fun.boomboxportable|576509618|Portable Boom Box|Fun|A portable Boom Box that can play tapes and internet audio streams. [attack] to start/stop and [attack2] to modify settings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.casetterecorder.png)|fun.casetterecorder|-1530414568|Cassette Recorder|Fun|Insert a cassette and play the recorded audio with [attack], [attack2] to record new audio and [+reload] to throw.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.cowbell.png)|fun.cowbell|-1049881973|Cowbell|Fun|A road sign that's been repurposed to produce some beautiful, calming, percussion.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.flute.png)|fun.flute|-2040817543|Pan Flute|Fun|A set of repurposed PVC pipes that can be used to play a variety of melodies.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.guitar.png)|fun.guitar|-2124352573|Acoustic Guitar|Fun|A classic acoustic guitar, built for jam sessions around campfires at night.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.jerrycanguitar.png)|fun.jerrycanguitar|-979951147|Jerry Can Guitar|Fun|Take advantage of the unique acoustics of the Jerry Can Guitar to play some rustic tunes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.tambourine.png)|fun.tambourine|-1379036069|Canbourine|Fun|A selection of crumpled cans assembled into a ring to produce some great background percussion.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.trumpet.png)|fun.trumpet|273172220|Plumber's Trumpet|Fun|Toot your own horn with this brassy improvised Trumpet.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fun.tuba.png)|fun.tuba|1784406797|Sousaphone|Fun|A collection of used piping that’s been converted into a Tuba. Probably not very hygienic.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/furnace.png)|furnace|-1999722522|Furnace|Items|A Furnace. Use it to smelt mined ore.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/furnace.large.png)|furnace.large|-1992717673|Large Furnace|Items|Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/fuse.png)|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gates.external.high.stone.png)|gates.external.high.stone|-691113464|High External Stone Gate|Construction|A high stone gate, allowing access in and out of your compound.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gates.external.high.wood.png)|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gears.png)|gears|479143914|Gears|Component|A selection of gears. Some functional, some not.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/geiger.counter.png)|geiger.counter|999690781|Geiger Counter|Tool|A geiger counter used by scientists|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/generator.wind.scrap.png)|generator.wind.scrap|-1819763926|Wind Turbine|Electrical|Converts kinetic energy harvested from the wind into electricity. Amount generated will vary depending on wind speed. Higher altitudes will yield stronger winds.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ghostsheet.png)|ghostsheet|-1043618880|Ghost Costume|Attire|Definitely not a last minute costume idea.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/giantcandycanedecor.png)|giantcandycanedecor|-695124222|Giant Candy Decor|Misc|Get into the holiday spirit with this decorative inflated giant candy cane|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/giantlollipops.png)|giantlollipops|282103175|Giant Lollipop Decor|Misc|Get into the holiday spirit with these decorative giant lollipops|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gloweyes.png)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/glue.png)|glue|-1899491405|Glue|Component|A strong adhesive.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/granolabar.png)|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gravestone.png)|gravestone|809199956|Gravestone|Misc|A Gravestone marking the remains of an unknown soul|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/green.berry.png)|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/grenade.beancan.png)|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/grenade.f1.png)|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/grenade.smoke.png)|grenade.smoke|1263920163|Smoke Grenade|Tool|Produces a large cloud of opaque greyish white smoke.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/grub.png)|grub|-568419968|Grub|Food|A pale, fleshy insect that can be used for bait. Could also be eaten in desperate situations.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gun.water.png)|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/gunpowder.png)|gunpowder|-265876753|Gun Powder|Resources|Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/guntrap.png)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/habrepair.png)|habrepair|-1759188988|Hab Repair|Misc|Hab repair|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.candy.png)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bat!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.lootbag.large.png)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.lootbag.medium.png)|halloween.lootbag.medium|1899610628|Medium Loot Bag|Misc|Contains medium level loot, Collect 10 to upgrade to a Large loot bag, containing the best loot|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.lootbag.small.png)|halloween.lootbag.small|1319617282|Small Loot Bag|Misc|Open for a surprise, or collect 10 to upgrade to a medium loot bag containing better loot!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.mummysuit.png)|halloween.mummysuit|277730763|Mummy Suit|Attire|A mummy suit|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/halloween.surgeonsuit.png)|halloween.surgeonsuit|-1785231475|Surgeon Scrubs|Attire|A Surgeon Suit|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hammer.png)|hammer|200773292|Hammer|Tool|A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hammer.salvaged.png)|hammer.salvaged|-1506397857|Salvaged Hammer|Tool|A Hammer made from a bunch of other crap.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.beenie.png)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.boonie.png)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.bunnyhat.png)|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.candle.png)|hat.candle|1714496074|Candle Hat|Attire|A hat with a candle on top. You can turn the candle on in your inventory.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.cap.png)|hat.cap|-1022661119|Baseball Cap|Attire|A baseball cap.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.dragonmask.png)|hat.dragonmask|-22883916|Dragon Mask|Attire|A special dragon mask to celebrate Chinese New Year|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.gas.mask.png)|hat.gas.mask|1659114910|Gas Mask|Attire|A Gas Mask|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.miner.png)|hat.miner|-1539025626|Miners Hat|Attire|A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.oxmask.png)|hat.oxmask|1315082560|Ox Mask|Attire|An Ox mask to celebrate the 2021 Lunar New Year.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.ratmask.png)|hat.ratmask|271048478|Rat Mask|Attire|A Beautifully crafted bronze and gold Rat mask to celebrate the 2020 Lunar New Year|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A Nomad Suit.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A space suit built for harsh conditions.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit_scientist.png)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/healingtea.pure.png)|healingtea.pure|-1677315902|Pure Healing Tea|Food|A tea that restores health over time.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/heavy.plate.helmet.png)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/heavy.plate.jacket.png)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/heavy.plate.pants.png)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hitchtroughcombo.png)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hobobarrel.png)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hoodie.png)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.armor.roadsign.png)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.armor.wood.png)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.saddle.png)|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.saddlebag.png)|horse.saddlebag|1400460850|Saddle bag|Attire|Equipping this saddle bag will add extra storage space on your horse|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.shoes.advanced.png)|horse.shoes.advanced|1989785143|High Quality Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horse.shoes.basic.png)|horse.shoes.basic|-1211268013|Basic Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horsedung.png)|horsedung|-1579932985|Horse Dung|Resources|Fresh and fertile.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horsemeat.burned.png)|horsemeat.burned|1917703890|Burnt Horse Meat|Food|Burned horse meat. Eating it will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horsemeat.cooked.png)|horsemeat.cooked|-1162759543|Cooked Horse Meat|Food|Cooked Horse Meat. Eating it will restore some health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/horsemeat.raw.png)|horsemeat.raw|-1130350864|Raw Horse Meat|Food|Raw Horse Meat. Eating it will damage your health, try cooking it first.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hosetool.png)|hosetool|363163265|Hose Tool|Electrical|A tool used to make fluid connections between objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/hq.metal.ore.png)|hq.metal.ore|-1982036270|High Quality Metal Ore|Resources|A rock containing High Quality Metal. Can be smelted in a furnace.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/humanmeat.burned.png)|humanmeat.burned|-682687162|Burnt Human Meat|Food|Burned Meat from a human being. Consuming will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/humanmeat.cooked.png)|humanmeat.cooked|1536610005|Cooked Human Meat|Food|Salty meat from a human being, eating this will restore some hunger and health but reduces hydration. Maybe you should look for a better food source.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/humanmeat.raw.png)|humanmeat.raw|-1709878924|Raw Human Meat|Food|Raw human meat. Consuming will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/humanmeat.spoiled.png)|humanmeat.spoiled|1272768630|Spoiled Human Meat|Food|Spoiled Human Meat. Consuming will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/icepick.salvaged.png)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/industrial.wall.light.green.png)|industrial.wall.light.green|1268178466|Green Industrial Wall Light|Electrical|A small green light source.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/industrial.wall.light.png)|industrial.wall.light|1623701499|Industrial Wall Light|Electrical|A small light source.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/industrial.wall.light.red.png)|industrial.wall.light.red|-1160621614|Red Industrial Wall Light|Electrical|A small red light source.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/innertube.horse.png)|innertube.horse|185586769|Inner Tube|Fun|An inflated tube for aquatic activities.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/innertube.png)|innertube|-697981032|Inner Tube|Fun|An inflated tube for aquatic activities.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/innertube.unicorn.png)|innertube.unicorn|2052270186|Inner Tube|Fun|An inflated tube for aquatic activities.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/undefined.png)|undefined|undefined|undefined|undefined|undefined|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jacket.png)|jacket|-1163532624|Jacket|Attire|A rugged jacket.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jacket.snow.png)|jacket.snow|-48090175|Snow Jacket|Attire|A thick, high visibility Jacket. It will help keep you warm in any climate.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jackhammer.png)|jackhammer|1488979457|Jackhammer|Tool|A Pneumatic Jackhammer to blast through ore nodes. The sheer power of this device requires no aiming as all weak spots will be instantly destroyed. Works well on human flesh. Can be refilled at a Workbench.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jackolantern.angry.png)|jackolantern.angry|1242482355|Jack O Lantern Angry|Items|A Lantern. Place it where you need light.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jackolantern.happy.png)|jackolantern.happy|-1824943010|Jack O Lantern Happy|Items|A Lantern. Place it where you need light.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jar.pickle.png)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amatuer. Eat at your own risk.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jumpsuit.suit.blue.png)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/jumpsuit.suit.png)|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/kayak.png)|kayak|190184021|Kayak|Items|An improvised wooden kayak. Seats two and requires a Paddle to operate.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/keycard_blue.png)|keycard_blue|-484206264|Blue Keycard|Misc|A keycard with medium level clearance.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/keycard_green.png)|keycard_green|37122747|Green Keycard|Misc|A low level clearance card granting access to basic areas.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/keycard_red.png)|keycard_red|-1880870149|Red Keycard|Misc|A keycard with advanced clearance, grants access to top level areas|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/knife.bone.png)|knife.bone|1814288539|Bone Knife|Weapon|Melee weapon crafted from bone fragments. Good for harvesting carcases.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/knife.butcher.png)|knife.butcher|-194509282|Butcher Knife|Weapon|A sharp butcher knife. Extremely good at harvesting flesh from both dead or alive bodies.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/knife.combat.png)|knife.combat|2040726127|Combat Knife|Weapon|Combat knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/ladder.wooden.wall.png)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lantern.png)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/largecandles.png)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/largemedkit.png)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/laserlight.png)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/leather.png)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lmg.m249.png)|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lock.code.png)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lock.key.png)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.
 
 If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/locker.png|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/longsword.png|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lowgradefuel.png|lowgradefuel|-946369541|Low Grade Fuel|Resources|Low Grade Fuel, used to power light sources.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lumberjack hoodie.png|lumberjack hoodie|-763071910|Lumberjack Hoodie|Attire|A Lumberjack Hoodie|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lunar.firecrackers.png|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mace.png|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/machete.png|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mailbox.png|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/map.png|map|696029452|Paper Map|Items|Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/locker.png)|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/longsword.png)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lowgradefuel.png)|lowgradefuel|-946369541|Low Grade Fuel|Resources|Low Grade Fuel, used to power light sources.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lumberjack hoodie.png)|lumberjack hoodie|-763071910|Lumberjack Hoodie|Attire|A Lumberjack Hoodie|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/lunar.firecrackers.png)|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mace.png)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/machete.png)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mailbox.png)|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/map.png)|map|696029452|Paper Map|Items|Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.
 
 
 Drag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default).|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mask.balaclava.png|mask.balaclava|-2012470695|Improvised Balaclava|Attire|A home made balaclava.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mask.bandana.png|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/maxhealthtea.advanced.png|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|A tea that increases your maximum health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/maxhealthtea.png|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A tea that increases your maximum health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/maxhealthtea.pure.png|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|A tea that increases your maximum health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/meat.boar.png|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/meat.pork.burned.png|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/meat.pork.cooked.png|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/megaphone.png|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.facemask.png|metal.facemask|-194953424|Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.fragments.png|metal.fragments|69511070|Metal Fragments|Resources|Metal Fragments. Smelted from Metal Ore, used in lots of different crafting recipes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.ore.png|metal.ore|-4031221|Metal Ore|Resources|A naturally occurring rock containing metal and metal compounds. You can extract this metal using a furnace.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.plate.torso.png|metal.plate.torso|1110385766|Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.refined.png|metal.refined|317398316|High Quality Metal|Resources|High quality metal suitable for armor and weapons construction.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metalblade.png|metalblade|1882709339|Metal Blade|Component|A Metal Blade for making melee weapons.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metalpipe.png|metalpipe|95950017|Metal Pipe|Component|Metal Pipe.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metalspring.png|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/microphonestand.png|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+reload] to change voice mode between high and low pitch.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/minihelicopter.repair.png|minihelicopter.repair|1426574435|MC repair|Misc|MC repair dummy|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mining.pumpjack.png|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mining.quarry.png|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mixingtable.png|mixingtable|1259919256|Mixing Table|Items|Used for mixing recipes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mlrs.png|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mobilephone.png|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialler.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/modularcarlift.png|modularcarlift|1696050067|Modular Car Lift|Electrical|This allows you to modify modular vehicles|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/movembermoustache.png|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache for Movember|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/movembermoustachecard.png|movembermoustachecard|3380160|Card Movember Moustache|Attire|A fake moustache for Movember|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/multiplegrenadelauncher.png|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mushroom.png|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/newyeargong.png|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/nightvisiongoggles.png|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/note.png|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/oretea.advanced.png|oretea.advanced|2063916636|Advanced Ore Tea|Food|A tea that increases the amount of ore you receive.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/oretea.png|oretea|1480022580|Basic Ore Tea|Food|A tea that increases the amount of ore you receive.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/oretea.pure.png|oretea.pure|1729374708|Pure Ore Tea|Food|A tea that increases the amount of ore you receive.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/paddle.png|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/paddlingpool.png|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pants.png|pants|237239288|Pants|Attire|Pants.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pants.shorts.png|pants.shorts|-1695367501|Shorts|Attire|Trousers without the bottom of the legs.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/paper.png|paper|-1779183908|Paper|Resources|Paper, a ingredient for Building plan and Note.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/partyhat.png|partyhat|-575744869|Party Hat|Attire|A very stupid looking party hat|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/photo.png|photo|62577426|Photograph|Misc|A photograph taken with an instant camera.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/photoframe.landscape.png|photoframe.landscape|1697996440|Landscape Photo Frame|Items|A landscape oriented canvas for artists paintings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/photoframe.large.png|photoframe.large|1205084994|Large Photo Frame|Items|A large frame for your photos.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/photoframe.portrait.png|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/piano.png|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pickaxe.png|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.eoka.png|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.m92.png|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.nailgun.png|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.python.png|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.revolver.png|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.semiauto.png|pistol.semiauto|818877484|Semi-Automatic Pistol|Weapon|A semi-automatic pistol, fires rapidly and with good accuracy.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.water.png|pistol.water|-1815301988|Water Pistol|Weapon|A small water gun that doesn't require pumping, but has a lower range and output.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/piston1.png|piston1|1883981798|Low Quality Pistons|Component|Low quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/piston2.png|piston2|1883981801|Medium Quality Pistons|Component|Medium quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/piston3.png|piston3|1883981800|High Quality Pistons|Component|High quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pitchfork.png|pitchfork|1090916276|Pitchfork|Weapon|A 3 pronged pitchfork. Extremely easy to hit targets with.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/planter.large.png|planter.large|1581210395|Large Planter Box|Items|A large planter with enough room to plant 9 seeds.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/planter.small.png|planter.small|1903654061|Small Planter Box|Items|A small planter with enough room to plant 3 seeds.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/plantfiber.png|plantfiber|-804769727|Plant Fiber|Resources|Fiber from dead plants. Can be composted.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pookie.bear.png|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/potato.png|potato|-2086926071|Potato|Food|Potato.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/powered.water.purifier.png|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/propanetank.png|propanetank|-1673693549|Empty Propane Tank|Component|Strong metal object.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pumpkin.png|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pumpkinbasket.png|pumpkinbasket|1346158228|Pumpkin Bucket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationremovetea.advanced.png|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationremovetea.png|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationremovetea.pure.png|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|Food|A tea that removes some radiation.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationresisttea.advanced.png|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationresisttea.png|radiationresisttea|-487356515|Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationresisttea.pure.png|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/red.berry.png|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/research.table.png|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/researchpaper.png|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rf.detonator.png|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rf_pager.png|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.ak.png|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.bolt.png|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.l96.png|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.lr300.png|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.m39.png|rifle.m39|28201841|M39 Rifle|Weapon|Military grade semi auto rifle|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.semiauto.png|rifle.semiauto|-904863145|Semi-Automatic Rifle|Weapon|A Semi Automatic Rifle.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/riflebody.png|riflebody|176787552|Rifle Body|Component|The firing mechanism of a rifle. Used in construction of a weapon that can fire 5.56 ammo fully automatic.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/riot.helmet.png|riot.helmet|671063303|Riot Helmet|Attire|A makeshift riot Helmet. Great at deflecting melee attacks.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.gloves.png|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal offers a good amount of protection to the upper body.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.jacket.png|roadsign.jacket|-2002277461|Road Sign Jacket|Attire|A shoddy piece of body armor made from roadsigns.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.kilt.png|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/roadsigns.png|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rock.png|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rocket.launcher.png|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rope.png|rope|1414245522|Rope|Component|A Length of Rope.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rug.bear.png|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rug.png|rug|-1985799200|Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_a.png|rustige_egg_a|-173268129|Rustigé Egg - Red|Misc|An exquisite hand crafted gold and diamond egg. When opened, a very special melody can be heard as you observe an intricate representation of your favorite monument.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_b.png|rustige_egg_b|-173268132|Rustigé Egg - Blue|Misc|A beautiful hand crafted white gold and sapphire encrusted egg, with a miniature monument contained inside.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_c.png|rustige_egg_c|-173268131|Rustigé Egg - Purple|Misc|A beautiful hand crafted purple egg with gold lace, a miniature offshore monument is contained inside.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_d.png|rustige_egg_d|-173268126|Rustigé Egg - Ivory|Misc|A beautiful hand crafted Ivory and gold egg, with a miniature monument contained inside.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_e.png|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/salvaged.cleaver.png|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/salvaged.sword.png|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/samsite.png|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/santabeard.png|santabeard|2126889441|Santa Beard|Attire|A santa beard. Ho Ho ho.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/santahat.png|santahat|-575483084|Santa Hat|Attire|A santa hat. Ho Ho ho.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scarecrow.png|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorate deployable item.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scarecrow.suit.png|scarecrow.suit|273951840|Scarecrow Suit|Attire|A spooky scarecrow suit|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scarecrowhead.png|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scientistsuit_heavy.png|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scrap.png|scrap|-932201673|Scrap|Resources|Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scraptea.advanced.png|scraptea.advanced|524678627|Advanced Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scraptea.png|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scraptea.pure.png|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scraptransportheli.repair.png|scraptransportheli.repair|-1884328185|ScrapTransportHeliRepair|Misc|ScrapTransportHeliRepair Dummy|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/searchlight.png|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/secretlabchair.png|secretlabchair|567871954|Secret Lab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.black.berry.png|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mask.balaclava.png)|mask.balaclava|-2012470695|Improvised Balaclava|Attire|A home made balaclava.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mask.bandana.png)|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/maxhealthtea.advanced.png)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|A tea that increases your maximum health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/maxhealthtea.png)|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A tea that increases your maximum health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/maxhealthtea.pure.png)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|A tea that increases your maximum health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/meat.boar.png)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/meat.pork.burned.png)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/megaphone.png)|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.fragments.png)|metal.fragments|69511070|Metal Fragments|Resources|Metal Fragments. Smelted from Metal Ore, used in lots of different crafting recipes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.ore.png)|metal.ore|-4031221|Metal Ore|Resources|A naturally occurring rock containing metal and metal compounds. You can extract this metal using a furnace.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.plate.torso.png)|metal.plate.torso|1110385766|Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metal.refined.png)|metal.refined|317398316|High Quality Metal|Resources|High quality metal suitable for armor and weapons construction.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metalblade.png)|metalblade|1882709339|Metal Blade|Component|A Metal Blade for making melee weapons.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metalpipe.png)|metalpipe|95950017|Metal Pipe|Component|Metal Pipe.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/metalspring.png)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/microphonestand.png)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+reload] to change voice mode between high and low pitch.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/minihelicopter.repair.png)|minihelicopter.repair|1426574435|MC repair|Misc|MC repair dummy|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mining.pumpjack.png)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mining.quarry.png)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mixingtable.png)|mixingtable|1259919256|Mixing Table|Items|Used for mixing recipes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mlrs.png)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mobilephone.png)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialler.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/modularcarlift.png)|modularcarlift|1696050067|Modular Car Lift|Electrical|This allows you to modify modular vehicles|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/movembermoustache.png)|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache for Movember|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/movembermoustachecard.png)|movembermoustachecard|3380160|Card Movember Moustache|Attire|A fake moustache for Movember|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/multiplegrenadelauncher.png)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/mushroom.png)|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/newyeargong.png)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/nightvisiongoggles.png)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/note.png)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/oretea.advanced.png)|oretea.advanced|2063916636|Advanced Ore Tea|Food|A tea that increases the amount of ore you receive.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/oretea.png)|oretea|1480022580|Basic Ore Tea|Food|A tea that increases the amount of ore you receive.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/oretea.pure.png)|oretea.pure|1729374708|Pure Ore Tea|Food|A tea that increases the amount of ore you receive.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/paddle.png)|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/paddlingpool.png)|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pants.png)|pants|237239288|Pants|Attire|Pants.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pants.shorts.png)|pants.shorts|-1695367501|Shorts|Attire|Trousers without the bottom of the legs.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/paper.png)|paper|-1779183908|Paper|Resources|Paper, a ingredient for Building plan and Note.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/partyhat.png)|partyhat|-575744869|Party Hat|Attire|A very stupid looking party hat|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/photo.png)|photo|62577426|Photograph|Misc|A photograph taken with an instant camera.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/photoframe.landscape.png)|photoframe.landscape|1697996440|Landscape Photo Frame|Items|A landscape oriented canvas for artists paintings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/photoframe.large.png)|photoframe.large|1205084994|Large Photo Frame|Items|A large frame for your photos.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/photoframe.portrait.png)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/piano.png)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pickaxe.png)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.m92.png)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.nailgun.png)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.python.png)|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.revolver.png)|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.semiauto.png)|pistol.semiauto|818877484|Semi-Automatic Pistol|Weapon|A semi-automatic pistol, fires rapidly and with good accuracy.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pistol.water.png)|pistol.water|-1815301988|Water Pistol|Weapon|A small water gun that doesn't require pumping, but has a lower range and output.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/piston1.png)|piston1|1883981798|Low Quality Pistons|Component|Low quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/piston2.png)|piston2|1883981801|Medium Quality Pistons|Component|Medium quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/piston3.png)|piston3|1883981800|High Quality Pistons|Component|High quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pitchfork.png)|pitchfork|1090916276|Pitchfork|Weapon|A 3 pronged pitchfork. Extremely easy to hit targets with.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/planter.large.png)|planter.large|1581210395|Large Planter Box|Items|A large planter with enough room to plant 9 seeds.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/planter.small.png)|planter.small|1903654061|Small Planter Box|Items|A small planter with enough room to plant 3 seeds.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/plantfiber.png)|plantfiber|-804769727|Plant Fiber|Resources|Fiber from dead plants. Can be composted.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pookie.bear.png)|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/potato.png)|potato|-2086926071|Potato|Food|Potato.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/powered.water.purifier.png)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/propanetank.png)|propanetank|-1673693549|Empty Propane Tank|Component|Strong metal object.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pumpkin.png)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/pumpkinbasket.png)|pumpkinbasket|1346158228|Pumpkin Bucket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationremovetea.advanced.png)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationremovetea.png)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationremovetea.pure.png)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|Food|A tea that removes some radiation.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationresisttea.advanced.png)|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationresisttea.png)|radiationresisttea|-487356515|Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/radiationresisttea.pure.png)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/red.berry.png)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/research.table.png)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/researchpaper.png)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rf_pager.png)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.ak.png)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.bolt.png)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.l96.png)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.lr300.png)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.m39.png)|rifle.m39|28201841|M39 Rifle|Weapon|Military grade semi auto rifle|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rifle.semiauto.png)|rifle.semiauto|-904863145|Semi-Automatic Rifle|Weapon|A Semi Automatic Rifle.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/riflebody.png)|riflebody|176787552|Rifle Body|Component|The firing mechanism of a rifle. Used in construction of a weapon that can fire 5.56 ammo fully automatic.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/riot.helmet.png)|riot.helmet|671063303|Riot Helmet|Attire|A makeshift riot Helmet. Great at deflecting melee attacks.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.gloves.png)|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal offers a good amount of protection to the upper body.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.jacket.png)|roadsign.jacket|-2002277461|Road Sign Jacket|Attire|A shoddy piece of body armor made from roadsigns.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/roadsign.kilt.png)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/roadsigns.png)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rock.png)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rope.png)|rope|1414245522|Rope|Component|A Length of Rope.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rug.bear.png)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rug.png)|rug|-1985799200|Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_a.png)|rustige_egg_a|-173268129|Rustigé Egg - Red|Misc|An exquisite hand crafted gold and diamond egg. When opened, a very special melody can be heard as you observe an intricate representation of your favorite monument.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_b.png)|rustige_egg_b|-173268132|Rustigé Egg - Blue|Misc|A beautiful hand crafted white gold and sapphire encrusted egg, with a miniature monument contained inside.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_c.png)|rustige_egg_c|-173268131|Rustigé Egg - Purple|Misc|A beautiful hand crafted purple egg with gold lace, a miniature offshore monument is contained inside.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_d.png)|rustige_egg_d|-173268126|Rustigé Egg - Ivory|Misc|A beautiful hand crafted Ivory and gold egg, with a miniature monument contained inside.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/rustige_egg_e.png)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/salvaged.cleaver.png)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/salvaged.sword.png)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/samsite.png)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/santabeard.png)|santabeard|2126889441|Santa Beard|Attire|A santa beard. Ho Ho ho.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/santahat.png)|santahat|-575483084|Santa Hat|Attire|A santa hat. Ho Ho ho.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scarecrow.png)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorate deployable item.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scarecrow.suit.png)|scarecrow.suit|273951840|Scarecrow Suit|Attire|A spooky scarecrow suit|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scarecrowhead.png)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scientistsuit_heavy.png)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scrap.png)|scrap|-932201673|Scrap|Resources|Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scraptea.advanced.png)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scraptea.png)|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scraptea.pure.png)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/scraptransportheli.repair.png)|scraptransportheli.repair|-1884328185|ScrapTransportHeliRepair|Misc|ScrapTransportHeliRepair Dummy|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/searchlight.png)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/secretlabchair.png)|secretlabchair|567871954|Secret Lab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.black.berry.png)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.blue.berry.png|seed.blue.berry|803954639|Blue Berry Seed|Food|These blue berry seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.blue.berry.png)|seed.blue.berry|803954639|Blue Berry Seed|Food|These blue berry seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.corn.png|seed.corn|998894949|Corn Seed|Food|Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.corn.png)|seed.corn|998894949|Corn Seed|Food|Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.green.berry.png|seed.green.berry|-1776128552|Green Berry Seed|Food|These green berry seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.green.berry.png)|seed.green.berry|-1776128552|Green Berry Seed|Food|These green berry seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.hemp.png|seed.hemp|-237809779|Hemp Seed|Food|Hemp seeds can be found when picking wild Hemp. These seeds can be planted in the ground and grown to collect additional cloth.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.hemp.png)|seed.hemp|-237809779|Hemp Seed|Food|Hemp seeds can be found when picking wild Hemp. These seeds can be planted in the ground and grown to collect additional cloth.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more cloth and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.potato.png|seed.potato|-2084071424|Potato Seed|Food|These potato seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.potato.png)|seed.potato|-2084071424|Potato Seed|Food|These potato seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.pumpkin.png|seed.pumpkin|-1511285251|Pumpkin Seed|Food|Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.pumpkin.png)|seed.pumpkin|-1511285251|Pumpkin Seed|Food|Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Pumpkins and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.red.berry.png|seed.red.berry|830839496|Red Berry Seed|Food|These red berry seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.red.berry.png)|seed.red.berry|830839496|Red Berry Seed|Food|These red berry seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.white.berry.png|seed.white.berry|-992286106|White Berry Seed|Food|These white berry seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.white.berry.png)|seed.white.berry|-992286106|White Berry Seed|Food|These white berry seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.yellow.berry.png|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/seed.yellow.berry.png)|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.
 
 
 Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/semibody.png|semibody|573926264|Semi Automatic Body|Component|The firing mechanism of a semi automatic weapon.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sewingkit.png|sewingkit|1234880403|Sewing Kit|Component|A Sewing kit. Used to make advanced clothing.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sheetmetal.png|sheetmetal|-1994909036|Sheet Metal|Component|Sheet metal scraps.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shelves.png|shelves|1950721418|Salvaged Shelves|Items|Shelves for item stacking|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shirt.collared.png|shirt.collared|-2025184684|Shirt|Attire|A smart casual shirt|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shirt.tanktop.png|shirt.tanktop|1608640313|Tank Top|Attire|A tshirt without sleeves|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shoes.boots.png|shoes.boots|-1549739227|Boots|Attire|Work boots.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shotgun.double.png|shotgun.double|-765183617|Double Barrel Shotgun|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shotgun.pump.png|shotgun.pump|795371088|Pump Shotgun|Weapon|A Shotgun. Fires six rounds.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shotgun.spas12.png|shotgun.spas12|-41440462|Spas-12 Shotgun|Weapon|A semi automatic military issue shotgun|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shotgun.waterpipe.png|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|Weapon|A Shotgun. Fires a single round before reloading.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shutter.metal.embrasure.a.png|shutter.metal.embrasure.a|-1199897169|Metal horizontal embrasure|Construction|Static shutter that forms a metal horizontal embrasure over your window frame.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shutter.metal.embrasure.b.png|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shutter.wood.a.png|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sickle.png|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.hanging.banner.large.png|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.hanging.png|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.hanging.ornate.png|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.125x125.png|sign.neon.125x125|1305578813|Small Neon Sign|Electrical|A small neon sign!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.125x215.animated.png|sign.neon.125x215.animated|42535890|Medium Animated Neon Sign|Electrical|An animated neon sign!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.125x215.png|sign.neon.125x215|-1423304443|Medium Neon Sign|Electrical|A medium neon sign!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.xl.animated.png|sign.neon.xl.animated|1643667218|Large Animated Neon Sign|Electrical|A large, animated neon sign!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.xl.png|sign.neon.xl|866332017|Large Neon Sign|Electrical|A large neon sign!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.landscape.png|sign.pictureframe.landscape|-845557339|Landscape Picture Frame|Items|A landscape oriented canvas for artists paintings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.portrait.png|sign.pictureframe.portrait|-1370759135|Portrait Picture Frame|Items|A portrait oriented canvas for artists paintings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.tall.png|sign.pictureframe.tall|121049755|Tall Picture Frame|Items|A tall canvas for artists paintings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.xl.png|sign.pictureframe.xl|-996185386|XL Picture Frame|Items|An extra large canvas for artists paintings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.xxl.png|sign.pictureframe.xxl|98508942|XXL Picture Frame|Items|A double extra large canvas for artists paintings.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pole.banner.large.png|sign.pole.banner.large|2070189026|Large Banner on pole|Items|A large banner hanging on a pole.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.post.double.png|sign.post.double|1521286012|Double Sign Post|Items|A double sign post that you can plant into terrain.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.post.single.png|sign.post.single|1542290441|Single Sign Post|Items|A single sign post that you can plant into terrain.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.post.town.png|sign.post.town|-1832422579|One Sided Town Sign Post|Items|A one sided town sign post, that you can plant into terrain.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.post.town.roof.png|sign.post.town.roof|826309791|Two Sided Town Sign Post|Items|A double sided town sign post, with roof, that you can plant into terrain.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.wooden.huge.png|sign.wooden.huge|-143132326|Huge Wooden Sign|Items|A 6-meter by 3-meter wooden sign that you can write on.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.wooden.large.png|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.wooden.medium.png|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.wooden.small.png|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.human.png|skull.human|996293980|Human Skull|Resources|A human skull.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.png|skull|1312843609|Skull|Tool|A spooky skull|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.trophy.jar.png|skull.trophy.jar|971362526|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.trophy.jar2.png|skull.trophy.jar2|-924959988|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.trophy.png|skull.trophy|-769647921|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.trophy.table.png|skull.trophy.table|-156748077|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.wolf.png|skull.wolf|2048317869|Wolf Skull|Resources|A wolf skull.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull_fire_pit.png|skull_fire_pit|553887414|Skull Fire Pit|Items|Enjoy burning your enemies remnants to ashes with this Halloween exclusive! Provides warmth and light, and you can cook with it.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skulldoorknocker.png|skulldoorknocker|-216116642|Skull Door Knocker|Items|A spooky skull door knocker|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skullspikes.candles.png|skullspikes.candles|-25740268|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skullspikes.png|skullspikes|-1073015016|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skullspikes.pumpkin.png|skullspikes.pumpkin|-1078639462|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sled.png|sled|-333406828|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sled.xmas.png|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sleepingbag.png|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you a location to respawn.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/small.oil.refinery.png|small.oil.refinery|-1293296287|Small Oil Refinery|Items|A small refinery which can produce Low Grade Fuel from Crude Oil.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smallcandles.png|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smallwaterbottle.png|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smart.alarm.png|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smart.switch.png|smart.switch|988652725|Smart Switch|Electrical|A smart electric switch.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smg.2.png|smg.2|1796682209|Custom SMG|Weapon|A rapid-firing Machine Gun. Sacrifices accuracy and distance for speed.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smg.mp5.png|smg.mp5|1318558775|MP5A4|Weapon|A medium damage machine gun.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smg.thompson.png|smg.thompson|-1758372725|Thompson|Weapon|A medium damage machine gun.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smgbody.png|smgbody|1230323789|SMG Body|Component|The firing mechanism of a submachinegun. Used in construction of a weapon that can fire pistol ammo fully automatic.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/snowball.png|snowball|-363689972|Snowball|Weapon|A snowball, throw it!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/snowballgun.png|snowballgun|1103488722|Snowball Gun|Weapon|Load snowballs and lay waste to your foes with Christmas cheer.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/snowmachine.png|snowmachine|1358643074|Snow Machine|Misc|A machine which will blanket the surrounding terrain in snow.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/snowman.png|snowman|1629293099|Snowman|Items|Get into the holiday spirit with this decorative snowman|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sofa.png|sofa|-555122905|Sofa|Items|A comfortable old sofa. A decorative item which provides comfort and seats two.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sofa.pattern.png|sofa.pattern|782422285|Sofa - Pattern|Items|A comfortable old sofa with a floral pattern. A decorative item which provides comfort and seats two.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/soundlight.png|soundlight|-343857907|Sound Light|Fun|A light that will pulse in time to music when connected to a Boom Box.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sparkplug1.png|sparkplug1|-89874794|Low Quality Spark Plugs|Component|Low quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sparkplug2.png|sparkplug2|-493159321|Medium Quality Spark Plugs|Component|Medium quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sparkplug3.png|sparkplug3|1072924620|High Quality Spark Plugs|Component|High quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spear.stone.png|spear.stone|1602646136|Stone Spear|Weapon|A stone-tipped wooden Spear. Slightly longer range.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spear.wooden.png|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/speargun.png|speargun|-1517740219|Speargun|Weapon|A speargun which can only be fired underwater. Excellent for hunting Sharks.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/speargun.spear.png|speargun.spear|-1800345240|Speargun Spear|Ammunition|Ammunition for a speargun.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spiderweb.png|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spikes.floor.png|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spinner.wheel.png|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spookyspeaker.png|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stash.small.png|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sticks.png|sticks|642482233|Sticks|Component|Some long, some short.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stocking.large.png|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stocking.small.png|stocking.small|1668858301|Small Stocking|Items|A small stocking. Hang it by a fire and you might just get a gift! Collect 6 to upgrade to a SUPER Stocking.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stone.pickaxe.png|stone.pickaxe|171931394|Stone Pickaxe|Tool|Primitive tool used for harvesting Stone, Metal ore and Sulfur ore.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stonehatchet.png|stonehatchet|-1583967946|Stone Hatchet|Tool|Primitive tool used for harvesting wood from trees and logs.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stones.png|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/storage.monitor.png|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/strobelight.png|strobelight|2104517339|Strobe Light|Misc|A flashing light, 3 speeds. Causes seizures.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/submarine.torpedo.straight.png|submarine.torpedo.straight|-1671551935|Torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead in a straight line.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/submarineduo.png|submarineduo|1015352446|Duo Submarine|Misc|A small two-person submarine.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/submarinesolo.png|submarinesolo|-187031121|Solo Submarine|Misc|A small one-person submarine.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sulfur.png|sulfur|-1581843485|Sulfur|Resources|Sulfur is commonly used in gunpowder, medicine, and matches. Matches release sulfur dioxide when they burn, giving them their smell. Sulfur is an essential component to living cells. Many proteins contain sulfur. It is also used as a pesticide on organic farms.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sulfur.ore.png|sulfur.ore|-1157596551|Sulfur Ore|Resources|A rock containing sulfur. The sulfur can be extracted using a furnace.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses.png|sunglasses|352321488|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses02black.png|sunglasses02black|1258768145|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses02camo.png|sunglasses02camo|-2103694546|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses02red.png|sunglasses02red|1557173737|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses03black.png|sunglasses03black|-176608084|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses03chrome.png|sunglasses03chrome|-1997698639|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses03gold.png|sunglasses03gold|-1408336705|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/supply.signal.png|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/surveycharge.png|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/syringe.medical.png|syringe.medical|1079279582|Medical Syringe|Medical|Heal yourself or others with this syringe. Left-click heals you, right-click heals a target.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/table.png|table|593465182|Table|Items|Every home needs a table. A decorative item which provides comfort when in close proximity.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tactical.gloves.png|tactical.gloves|-1108136649|Tactical Gloves|Attire|Military issue tactical gloves provide protection as well as weapon stabilization leading to higher accuracy when used.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/target.reactive.png|target.reactive|-1736356576|Reactive Target|Electrical|A reactive target that knocks down when hit, can be reset.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/targeting.computer.png|targeting.computer|1523195708|Targeting Computer|Resources|A computer loaded with software that can analyze a video and produce rotational deltas to individual objects contained in the feed.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tarp.png|tarp|2019042823|Tarp|Component|A waterproof tarp.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/techparts.png|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/telephone.png|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tool.binoculars.png|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tool.camera.png|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tool.instant_camera.png|tool.instant_camera|-2001260025|Instant Camera|Tool|An instant camera. Take photos with primary fire, zoom in and out with secondary fire, and change focus mode with reload.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/toolgun.png|toolgun|1803831286|Garry's Mod Tool Gun|Tool|Celebrating 15 Years of Garry's Mod! Use this tool gun to upgrade building parts. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/torch.png|torch|795236088|Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/trap.bear.png|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/trap.landmine.png|trap.landmine|-1663759755|Land Mine|Traps|An old military Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tshirt.png|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tshirt.long.png|tshirt.long|935692442|Longsleeve T-Shirt|Attire|A t-shirt with long sleeves.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tunalight.png|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/twitch.headset.png|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/twitchsunglasses.png|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/valve1.png|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/valve2.png|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/valve3.png|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.cockpit.armored.png|vehicle.1mod.cockpit.armored|1874610722|Armored Cockpit Vehicle Module|Component|Single module armored cockpit for a driver and one passenger.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.cockpit.png|vehicle.1mod.cockpit|-1501451746|Cockpit Vehicle Module|Component|Single module cockpit for a driver and one passenger.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.cockpit.with.engine.png|vehicle.1mod.cockpit.with.engine|170758448|Cockpit With Engine Vehicle Module|Component|Single module cockpit for a driver and one passenger, with a small engine.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.engine.png|vehicle.1mod.engine|1559779253|Engine Vehicle Module|Component|Single module large engine.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.flatbed.png|vehicle.1mod.flatbed|-1880231361|Flatbed Vehicle Module|Component|Single module flatbed.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.passengers.armored.png|vehicle.1mod.passengers.armored|-1615281216|Armored Passenger Vehicle Module|Component|Single module armored seating for two passengers.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.rear.seats.png|vehicle.1mod.rear.seats|1376065505|Rear Seats Vehicle Module|Component|Single module seating for two passengers.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.storage.png|vehicle.1mod.storage|268565518|Storage Vehicle Module|Component|Single module storage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.taxi.png|vehicle.1mod.taxi|-626174997|Taxi Vehicle Module|Component|Single module seating for two passengers, with protection at the front.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.2mod.camper.png|vehicle.2mod.camper|-1040518150|Camper Vehicle Module|Component|Dual module camper that allows up to 4 players to respawn. Also includes a barbecue, a locker and a small box for item storage.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.2mod.flatbed.png|vehicle.2mod.flatbed|-1693832478|Large Flatbed Vehicle Module|Component|Dual module large flatbed.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.2mod.fuel.tank.png|vehicle.2mod.fuel.tank|1186655046|Fuel Tank Vehicle Module|Component|Dual module large fuel tank.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.2mod.passengers.png|vehicle.2mod.passengers|895374329|Passenger Vehicle Module|Component|Dual module seating.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.chassis.2mod.png|vehicle.chassis.2mod|-44066600|Small Chassis|Component|Two-socket vehicle chassis.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.chassis.3mod.png|vehicle.chassis.3mod|-44066823|Medium Chassis|Component|Three-socket vehicle chassis.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.chassis.4mod.png|vehicle.chassis.4mod|-44066790|Large Chassis|Component|Four-socket vehicle chassis.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.chassis.png|vehicle.chassis|1770744540|Generic vehicle chassis|Component|Generic vehicle chassis|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.module.png|vehicle.module|878301596|Generic vehicle module|Component|Generic vehicle module|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vending.machine.png|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/semibody.png)|semibody|573926264|Semi Automatic Body|Component|The firing mechanism of a semi automatic weapon.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sewingkit.png)|sewingkit|1234880403|Sewing Kit|Component|A Sewing kit. Used to make advanced clothing.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sheetmetal.png)|sheetmetal|-1994909036|Sheet Metal|Component|Sheet metal scraps.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shelves.png)|shelves|1950721418|Salvaged Shelves|Items|Shelves for item stacking|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shirt.collared.png)|shirt.collared|-2025184684|Shirt|Attire|A smart casual shirt|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shirt.tanktop.png)|shirt.tanktop|1608640313|Tank Top|Attire|A tshirt without sleeves|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shoes.boots.png)|shoes.boots|-1549739227|Boots|Attire|Work boots.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shotgun.double.png)|shotgun.double|-765183617|Double Barrel Shotgun|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shotgun.pump.png)|shotgun.pump|795371088|Pump Shotgun|Weapon|A Shotgun. Fires six rounds.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shotgun.spas12.png)|shotgun.spas12|-41440462|Spas-12 Shotgun|Weapon|A semi automatic military issue shotgun|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shotgun.waterpipe.png)|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|Weapon|A Shotgun. Fires a single round before reloading.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shutter.metal.embrasure.a.png)|shutter.metal.embrasure.a|-1199897169|Metal horizontal embrasure|Construction|Static shutter that forms a metal horizontal embrasure over your window frame.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shutter.metal.embrasure.b.png)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/shutter.wood.a.png)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sickle.png)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.hanging.banner.large.png)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.hanging.png)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.hanging.ornate.png)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.125x125.png)|sign.neon.125x125|1305578813|Small Neon Sign|Electrical|A small neon sign!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.125x215.animated.png)|sign.neon.125x215.animated|42535890|Medium Animated Neon Sign|Electrical|An animated neon sign!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.125x215.png)|sign.neon.125x215|-1423304443|Medium Neon Sign|Electrical|A medium neon sign!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.xl.animated.png)|sign.neon.xl.animated|1643667218|Large Animated Neon Sign|Electrical|A large, animated neon sign!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.neon.xl.png)|sign.neon.xl|866332017|Large Neon Sign|Electrical|A large neon sign!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.landscape.png)|sign.pictureframe.landscape|-845557339|Landscape Picture Frame|Items|A landscape oriented canvas for artists paintings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.portrait.png)|sign.pictureframe.portrait|-1370759135|Portrait Picture Frame|Items|A portrait oriented canvas for artists paintings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.tall.png)|sign.pictureframe.tall|121049755|Tall Picture Frame|Items|A tall canvas for artists paintings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.xl.png)|sign.pictureframe.xl|-996185386|XL Picture Frame|Items|An extra large canvas for artists paintings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pictureframe.xxl.png)|sign.pictureframe.xxl|98508942|XXL Picture Frame|Items|A double extra large canvas for artists paintings.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.pole.banner.large.png)|sign.pole.banner.large|2070189026|Large Banner on pole|Items|A large banner hanging on a pole.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.post.double.png)|sign.post.double|1521286012|Double Sign Post|Items|A double sign post that you can plant into terrain.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.post.single.png)|sign.post.single|1542290441|Single Sign Post|Items|A single sign post that you can plant into terrain.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.post.town.png)|sign.post.town|-1832422579|One Sided Town Sign Post|Items|A one sided town sign post, that you can plant into terrain.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.post.town.roof.png)|sign.post.town.roof|826309791|Two Sided Town Sign Post|Items|A double sided town sign post, with roof, that you can plant into terrain.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.wooden.huge.png)|sign.wooden.huge|-143132326|Huge Wooden Sign|Items|A 6-meter by 3-meter wooden sign that you can write on.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.wooden.large.png)|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.wooden.medium.png)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sign.wooden.small.png)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.human.png)|skull.human|996293980|Human Skull|Resources|A human skull.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.png)|skull|1312843609|Skull|Tool|A spooky skull|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.trophy.jar.png)|skull.trophy.jar|971362526|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.trophy.jar2.png)|skull.trophy.jar2|-924959988|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.trophy.png)|skull.trophy|-769647921|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.trophy.table.png)|skull.trophy.table|-156748077|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull.wolf.png)|skull.wolf|2048317869|Wolf Skull|Resources|A wolf skull.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skull_fire_pit.png)|skull_fire_pit|553887414|Skull Fire Pit|Items|Enjoy burning your enemies remnants to ashes with this Halloween exclusive! Provides warmth and light, and you can cook with it.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skulldoorknocker.png)|skulldoorknocker|-216116642|Skull Door Knocker|Items|A spooky skull door knocker|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skullspikes.candles.png)|skullspikes.candles|-25740268|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skullspikes.png)|skullspikes|-1073015016|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/skullspikes.pumpkin.png)|skullspikes.pumpkin|-1078639462|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sled.png)|sled|-333406828|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sled.xmas.png)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sleepingbag.png)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you a location to respawn.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/small.oil.refinery.png)|small.oil.refinery|-1293296287|Small Oil Refinery|Items|A small refinery which can produce Low Grade Fuel from Crude Oil.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smallcandles.png)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smallwaterbottle.png)|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smart.alarm.png)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smart.switch.png)|smart.switch|988652725|Smart Switch|Electrical|A smart electric switch.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smg.2.png)|smg.2|1796682209|Custom SMG|Weapon|A rapid-firing Machine Gun. Sacrifices accuracy and distance for speed.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smg.mp5.png)|smg.mp5|1318558775|MP5A4|Weapon|A medium damage machine gun.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smg.thompson.png)|smg.thompson|-1758372725|Thompson|Weapon|A medium damage machine gun.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/smgbody.png)|smgbody|1230323789|SMG Body|Component|The firing mechanism of a submachinegun. Used in construction of a weapon that can fire pistol ammo fully automatic.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/snowball.png)|snowball|-363689972|Snowball|Weapon|A snowball, throw it!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/snowballgun.png)|snowballgun|1103488722|Snowball Gun|Weapon|Load snowballs and lay waste to your foes with Christmas cheer.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/snowmachine.png)|snowmachine|1358643074|Snow Machine|Misc|A machine which will blanket the surrounding terrain in snow.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/snowman.png)|snowman|1629293099|Snowman|Items|Get into the holiday spirit with this decorative snowman|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sofa.png)|sofa|-555122905|Sofa|Items|A comfortable old sofa. A decorative item which provides comfort and seats two.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sofa.pattern.png)|sofa.pattern|782422285|Sofa - Pattern|Items|A comfortable old sofa with a floral pattern. A decorative item which provides comfort and seats two.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/soundlight.png)|soundlight|-343857907|Sound Light|Fun|A light that will pulse in time to music when connected to a Boom Box.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sparkplug1.png)|sparkplug1|-89874794|Low Quality Spark Plugs|Component|Low quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sparkplug2.png)|sparkplug2|-493159321|Medium Quality Spark Plugs|Component|Medium quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sparkplug3.png)|sparkplug3|1072924620|High Quality Spark Plugs|Component|High quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spear.stone.png)|spear.stone|1602646136|Stone Spear|Weapon|A stone-tipped wooden Spear. Slightly longer range.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spear.wooden.png)|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/speargun.png)|speargun|-1517740219|Speargun|Weapon|A speargun which can only be fired underwater. Excellent for hunting Sharks.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/speargun.spear.png)|speargun.spear|-1800345240|Speargun Spear|Ammunition|Ammunition for a speargun.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spiderweb.png)|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spikes.floor.png)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stocking.large.png)|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stocking.small.png)|stocking.small|1668858301|Small Stocking|Items|A small stocking. Hang it by a fire and you might just get a gift! Collect 6 to upgrade to a SUPER Stocking.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stone.pickaxe.png)|stone.pickaxe|171931394|Stone Pickaxe|Tool|Primitive tool used for harvesting Stone, Metal ore and Sulfur ore.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stonehatchet.png)|stonehatchet|-1583967946|Stone Hatchet|Tool|Primitive tool used for harvesting wood from trees and logs.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/stones.png)|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/storage.monitor.png)|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/strobelight.png)|strobelight|2104517339|Strobe Light|Misc|A flashing light, 3 speeds. Causes seizures.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/submarine.torpedo.straight.png)|submarine.torpedo.straight|-1671551935|Torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead in a straight line.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/submarineduo.png)|submarineduo|1015352446|Duo Submarine|Misc|A small two-person submarine.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/submarinesolo.png)|submarinesolo|-187031121|Solo Submarine|Misc|A small one-person submarine.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sulfur.png)|sulfur|-1581843485|Sulfur|Resources|Sulfur is commonly used in gunpowder, medicine, and matches. Matches release sulfur dioxide when they burn, giving them their smell. Sulfur is an essential component to living cells. Many proteins contain sulfur. It is also used as a pesticide on organic farms.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sulfur.ore.png)|sulfur.ore|-1157596551|Sulfur Ore|Resources|A rock containing sulfur. The sulfur can be extracted using a furnace.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses.png)|sunglasses|352321488|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses02black.png)|sunglasses02black|1258768145|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses02camo.png)|sunglasses02camo|-2103694546|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses02red.png)|sunglasses02red|1557173737|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses03black.png)|sunglasses03black|-176608084|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses03chrome.png)|sunglasses03chrome|-1997698639|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/sunglasses03gold.png)|sunglasses03gold|-1408336705|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/supply.signal.png)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/surveycharge.png)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/syringe.medical.png)|syringe.medical|1079279582|Medical Syringe|Medical|Heal yourself or others with this syringe. Left-click heals you, right-click heals a target.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/table.png)|table|593465182|Table|Items|Every home needs a table. A decorative item which provides comfort when in close proximity.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tactical.gloves.png)|tactical.gloves|-1108136649|Tactical Gloves|Attire|Military issue tactical gloves provide protection as well as weapon stabilization leading to higher accuracy when used.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/target.reactive.png)|target.reactive|-1736356576|Reactive Target|Electrical|A reactive target that knocks down when hit, can be reset.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/targeting.computer.png)|targeting.computer|1523195708|Targeting Computer|Resources|A computer loaded with software that can analyze a video and produce rotational deltas to individual objects contained in the feed.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tarp.png)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/techparts.png)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/telephone.png)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tool.binoculars.png)|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tool.camera.png)|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tool.instant_camera.png)|tool.instant_camera|-2001260025|Instant Camera|Tool|An instant camera. Take photos with primary fire, zoom in and out with secondary fire, and change focus mode with reload.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/toolgun.png)|toolgun|1803831286|Garry's Mod Tool Gun|Tool|Celebrating 15 Years of Garry's Mod! Use this tool gun to upgrade building parts. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/torch.png)|torch|795236088|Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/trap.bear.png)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/trap.landmine.png)|trap.landmine|-1663759755|Land Mine|Traps|An old military Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tshirt.png)|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tshirt.long.png)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|A t-shirt with long sleeves.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/twitch.headset.png)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/twitchsunglasses.png)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/valve1.png)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/valve2.png)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/valve3.png)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.cockpit.armored.png)|vehicle.1mod.cockpit.armored|1874610722|Armored Cockpit Vehicle Module|Component|Single module armored cockpit for a driver and one passenger.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.cockpit.png)|vehicle.1mod.cockpit|-1501451746|Cockpit Vehicle Module|Component|Single module cockpit for a driver and one passenger.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.cockpit.with.engine.png)|vehicle.1mod.cockpit.with.engine|170758448|Cockpit With Engine Vehicle Module|Component|Single module cockpit for a driver and one passenger, with a small engine.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.engine.png)|vehicle.1mod.engine|1559779253|Engine Vehicle Module|Component|Single module large engine.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.flatbed.png)|vehicle.1mod.flatbed|-1880231361|Flatbed Vehicle Module|Component|Single module flatbed.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.passengers.armored.png)|vehicle.1mod.passengers.armored|-1615281216|Armored Passenger Vehicle Module|Component|Single module armored seating for two passengers.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.rear.seats.png)|vehicle.1mod.rear.seats|1376065505|Rear Seats Vehicle Module|Component|Single module seating for two passengers.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.storage.png)|vehicle.1mod.storage|268565518|Storage Vehicle Module|Component|Single module storage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.1mod.taxi.png)|vehicle.1mod.taxi|-626174997|Taxi Vehicle Module|Component|Single module seating for two passengers, with protection at the front.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.2mod.camper.png)|vehicle.2mod.camper|-1040518150|Camper Vehicle Module|Component|Dual module camper that allows up to 4 players to respawn. Also includes a barbecue, a locker and a small box for item storage.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.2mod.flatbed.png)|vehicle.2mod.flatbed|-1693832478|Large Flatbed Vehicle Module|Component|Dual module large flatbed.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.2mod.fuel.tank.png)|vehicle.2mod.fuel.tank|1186655046|Fuel Tank Vehicle Module|Component|Dual module large fuel tank.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.2mod.passengers.png)|vehicle.2mod.passengers|895374329|Passenger Vehicle Module|Component|Dual module seating.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.chassis.2mod.png)|vehicle.chassis.2mod|-44066600|Small Chassis|Component|Two-socket vehicle chassis.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.chassis.3mod.png)|vehicle.chassis.3mod|-44066823|Medium Chassis|Component|Three-socket vehicle chassis.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.chassis.4mod.png)|vehicle.chassis.4mod|-44066790|Large Chassis|Component|Four-socket vehicle chassis.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.chassis.png)|vehicle.chassis|1770744540|Generic vehicle chassis|Component|Generic vehicle chassis|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vehicle.module.png)|vehicle.module|878301596|Generic vehicle module|Component|Generic vehicle module|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/vending.machine.png)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  
 
 If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.external.high.ice.png|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.external.high.png|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.external.high.stone.png|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.cell.gate.png|wall.frame.cell.gate|-956706906|Prison Cell Gate|Construction|A prison cell gate to lock things behind bars|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.cell.png|wall.frame.cell|-1429456799|Prison Cell Wall|Construction|A prison cell wall.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.fence.gate.png|wall.frame.fence.gate|1451568081|Chainlink Fence Gate|Construction|A Chainlink Fence Gate.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.fence.png|wall.frame.fence|-1117626326|Chainlink Fence|Construction|A Chainlink Fence.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.garagedoor.png|wall.frame.garagedoor|-148794216|Garage Door|Construction|A garage door that rolls up and down.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.netting.png|wall.frame.netting|1516985844|Netting|Construction|Netting you can climb.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.shopfront.png|wall.frame.shopfront|-796583652|Shop Front|Construction|A shop front to do commerce.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.shopfront.metal.png|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.graveyard.fence.png|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.ice.wall.png|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.window.bars.metal.png|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.window.bars.toptier.png|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.window.bars.wood.png|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.window.glass.reinforced.png|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/watchtower.wood.png|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.barrel.png|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.catcher.large.png|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.catcher.small.png|water.catcher.small|-132247350|Small Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.png|water|-1779180711|Water|Resources|Water. Drinking it will alleviate your thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.purifier.png|water.purifier|2114754781|Water Purifier|Items|A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.salt.png|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/waterjug.png|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/waterpump.png|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.8x.scope.png|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.flashlight.png|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.holosight.png|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.lasersight.png|weapon.mod.lasersight|-132516482|Weapon Lasersight|Weapon|Attaches to a weapon. Provides user with a guiding laser and reduces weapon sway.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.muzzleboost.png|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|Weapon|Increases weapon fire rate by channeling gasses back into the weapon cycling it faster, at the cost of bullet velocity and accuracy.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.muzzlebrake.png|weapon.mod.muzzlebrake|1478091698|Muzzle Brake|Weapon|Lowers recoil felt by the operator but can make bullet path more unpredictable and dealing slightly less damage to your foes.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.silencer.png|weapon.mod.silencer|-1850571427|Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.simplesight.png|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.small.scope.png|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/white.berry.png|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wiretool.png|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle. you can then click on another object's input/output handle to form a connection. holding right mouse will clear or cancel a connection.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wolfmeat.burned.png|wolfmeat.burned|1827479659|Burnt Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wolfmeat.cooked.png|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wolfmeat.raw.png|wolfmeat.raw|-395377963|Raw Wolf Meat|Food|Raw Wolf Meat. Eating it will damage your health, try cooking it first.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wolfmeat.spoiled.png|wolfmeat.spoiled|-1167031859|Spoiled Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wood.armor.helmet.png|wood.armor.helmet|-2094954543|Wood Armor Helmet|Attire|A shoddy helmet made from Wood and Cloth.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wood.armor.jacket.png|wood.armor.jacket|418081930|Wood Chestplate|Attire|A shoddy piece of body armor made from Wood and rope.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wood.armor.pants.png|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wood.png|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/woodcross.png|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/woodtea.advanced.png|woodtea.advanced|-541206665|Advanced Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/woodtea.png|woodtea|-649128577|Basic Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/woodtea.pure.png|woodtea.pure|-557539629|Pure Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/workbench1.png|workbench1|1524187186|Workbench Level 1|Items|This allows you to craft and unlock items requiring workbench level 1|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/workbench2.png|workbench2|-41896755|Workbench Level 2|Items|This allows you to craft and unlock items requiring workbench level 2|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/workbench3.png|workbench3|-1607980696|Workbench Level 3|Items|This allows you to craft and unlock items requiring workbench level 3|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/workcart.png|workcart|-810326667|Work Cart|Misc|A service train designed to run on an underground rail system.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/worm.png|worm|1770475779|Worm|Food|A small, writhing worm that can be used for bait. Could also be eaten in desperate situations.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wrappedgift.png|wrappedgift|204970153|Wrapped Gift|Fun|A lazily wrapped gift.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wrappingpaper.png|wrappingpaper|1094293920|Wrapping Paper|Fun|Use this to conceal any item in a lazily wrapped gift|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.advent.png|xmas.advent|-2027793839|Advent Calendar|Items|Receive a special gift each and every day!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.baubels.png|xmas.decoration.baubels|-1667224349|Decorative Baubels|Misc|Decorative Baubels you can hang on your Christmas tree|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.candycanes.png|xmas.decoration.candycanes|-209869746|Decorative Plastic Candy Canes|Misc|Decorative Plastic Candy Canes you can hang on your Christmas tree|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.gingerbreadmen.png|xmas.decoration.gingerbreadmen|1686524871|Decorative Gingerbread Men|Misc|Decorative Gingerbread Men you can hang on your Christmas tree|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.lights.png|xmas.decoration.lights|1723747470|Tree Lights|Misc|A tree isn't complete without colorful lights!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.pinecone.png|xmas.decoration.pinecone|-129230242|Decorative Pinecones|Misc|Decorative Pinecones you can hang on your Christmas tree|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.star.png|xmas.decoration.star|-1331212963|Star Tree Topper|Misc|A golden star to top off your Christmas Tree|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.tinsel.png|xmas.decoration.tinsel|2106561762|Decorative Tinsel|Misc|Decorative Tinsel you can hang on your Christmas tree|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.door.garland.png|xmas.door.garland|674734128|Festive Doorway Garland|Items|A Festive decoration to spruce up your  doorway during the holdiays!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.double.door.garland.png|xmas.double.door.garland|-1230433643|Festive Double Doorway Garland|Items|A Festive decoration to spruce up your double doorway during the holidays!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.lightstring.advanced.png|xmas.lightstring.advanced|-151387974|Deluxe Christmas Lights|Electrical|Colored, Animated, Powered Lights. Requires 5 electricity. Click to start placement, right click to end. Each unit is 0.5m long.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.lightstring.png|xmas.lightstring|1058261682|Christmas Lights|Items|A string of colored lights to decorate your home|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.present.large.png|xmas.present.large|-1622660759|Large Present|Misc|A Large Present, the best there is. Unwrap it now!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.present.medium.png|xmas.present.medium|756517185|Medium Present|Misc|A medium present, might be good! Collect 5 to upgrade to a larger present.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.present.small.png|xmas.present.small|-722241321|Small Present|Misc|A small stocking stuffer present, Collect 10 to upgrade to a larger present.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.tree.png|xmas.tree|794443127|Christmas Tree|Items|Get into the holiday spirit with this decorative Christmas tree|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.window.garland.png|xmas.window.garland|-1379835144|Festive Window Garland|Items|A Festive decoration to spruce up your windows during the holdiays!|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmasdoorwreath.png|xmasdoorwreath|2009734114|Christmas Door Wreath|Items|Get into the christmas spirit with this holiday door wreath.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xylophone.png|xylophone|-211235948|Xylobone|Fun|A selection of bones that were “acquired” for their acoustic attributes. Play a lullaby for your camp with these soothing tones.|
-|![](https://raw.githubusercontent.com/rostov114/rust-items/main/yellow.berry.png|yellow.berry|1660145984|Yellow Berry|Food|A yellow berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.external.high.ice.png)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.external.high.png)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.external.high.stone.png)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.cell.gate.png)|wall.frame.cell.gate|-956706906|Prison Cell Gate|Construction|A prison cell gate to lock things behind bars|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.cell.png)|wall.frame.cell|-1429456799|Prison Cell Wall|Construction|A prison cell wall.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.fence.gate.png)|wall.frame.fence.gate|1451568081|Chainlink Fence Gate|Construction|A Chainlink Fence Gate.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.fence.png)|wall.frame.fence|-1117626326|Chainlink Fence|Construction|A Chainlink Fence.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.garagedoor.png)|wall.frame.garagedoor|-148794216|Garage Door|Construction|A garage door that rolls up and down.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.netting.png)|wall.frame.netting|1516985844|Netting|Construction|Netting you can climb.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.shopfront.png)|wall.frame.shopfront|-796583652|Shop Front|Construction|A shop front to do commerce.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.frame.shopfront.metal.png)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.graveyard.fence.png)|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.ice.wall.png)|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.window.bars.metal.png)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.window.bars.toptier.png)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.window.bars.wood.png)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wall.window.glass.reinforced.png)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/watchtower.wood.png)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.barrel.png)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.catcher.large.png)|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.catcher.small.png)|water.catcher.small|-132247350|Small Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.png)|water|-1779180711|Water|Resources|Water. Drinking it will alleviate your thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.purifier.png)|water.purifier|2114754781|Water Purifier|Items|A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/water.salt.png)|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/waterjug.png)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/waterpump.png)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.8x.scope.png)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.flashlight.png)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.holosight.png)|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.lasersight.png)|weapon.mod.lasersight|-132516482|Weapon Lasersight|Weapon|Attaches to a weapon. Provides user with a guiding laser and reduces weapon sway.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.muzzleboost.png)|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|Weapon|Increases weapon fire rate by channeling gasses back into the weapon cycling it faster, at the cost of bullet velocity and accuracy.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.muzzlebrake.png)|weapon.mod.muzzlebrake|1478091698|Muzzle Brake|Weapon|Lowers recoil felt by the operator but can make bullet path more unpredictable and dealing slightly less damage to your foes.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.silencer.png)|weapon.mod.silencer|-1850571427|Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.simplesight.png)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/weapon.mod.small.scope.png)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/white.berry.png)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wiretool.png)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle. you can then click on another object's input/output handle to form a connection. holding right mouse will clear or cancel a connection.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wolfmeat.burned.png)|wolfmeat.burned|1827479659|Burnt Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wolfmeat.cooked.png)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wolfmeat.raw.png)|wolfmeat.raw|-395377963|Raw Wolf Meat|Food|Raw Wolf Meat. Eating it will damage your health, try cooking it first.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wolfmeat.spoiled.png)|wolfmeat.spoiled|-1167031859|Spoiled Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wood.armor.helmet.png)|wood.armor.helmet|-2094954543|Wood Armor Helmet|Attire|A shoddy helmet made from Wood and Cloth.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wood.armor.jacket.png)|wood.armor.jacket|418081930|Wood Chestplate|Attire|A shoddy piece of body armor made from Wood and rope.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wood.armor.pants.png)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wood.png)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/woodcross.png)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/woodtea.advanced.png)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/woodtea.png)|woodtea|-649128577|Basic Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/woodtea.pure.png)|woodtea.pure|-557539629|Pure Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/workbench1.png)|workbench1|1524187186|Workbench Level 1|Items|This allows you to craft and unlock items requiring workbench level 1|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/workbench2.png)|workbench2|-41896755|Workbench Level 2|Items|This allows you to craft and unlock items requiring workbench level 2|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/workbench3.png)|workbench3|-1607980696|Workbench Level 3|Items|This allows you to craft and unlock items requiring workbench level 3|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/workcart.png)|workcart|-810326667|Work Cart|Misc|A service train designed to run on an underground rail system.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/worm.png)|worm|1770475779|Worm|Food|A small, writhing worm that can be used for bait. Could also be eaten in desperate situations.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wrappedgift.png)|wrappedgift|204970153|Wrapped Gift|Fun|A lazily wrapped gift.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/wrappingpaper.png)|wrappingpaper|1094293920|Wrapping Paper|Fun|Use this to conceal any item in a lazily wrapped gift|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.advent.png)|xmas.advent|-2027793839|Advent Calendar|Items|Receive a special gift each and every day!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.baubels.png)|xmas.decoration.baubels|-1667224349|Decorative Baubels|Misc|Decorative Baubels you can hang on your Christmas tree|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.candycanes.png)|xmas.decoration.candycanes|-209869746|Decorative Plastic Candy Canes|Misc|Decorative Plastic Candy Canes you can hang on your Christmas tree|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.gingerbreadmen.png)|xmas.decoration.gingerbreadmen|1686524871|Decorative Gingerbread Men|Misc|Decorative Gingerbread Men you can hang on your Christmas tree|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.lights.png)|xmas.decoration.lights|1723747470|Tree Lights|Misc|A tree isn't complete without colorful lights!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.pinecone.png)|xmas.decoration.pinecone|-129230242|Decorative Pinecones|Misc|Decorative Pinecones you can hang on your Christmas tree|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.star.png)|xmas.decoration.star|-1331212963|Star Tree Topper|Misc|A golden star to top off your Christmas Tree|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.decoration.tinsel.png)|xmas.decoration.tinsel|2106561762|Decorative Tinsel|Misc|Decorative Tinsel you can hang on your Christmas tree|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.door.garland.png)|xmas.door.garland|674734128|Festive Doorway Garland|Items|A Festive decoration to spruce up your  doorway during the holdiays!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.double.door.garland.png)|xmas.double.door.garland|-1230433643|Festive Double Doorway Garland|Items|A Festive decoration to spruce up your double doorway during the holidays!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.lightstring.advanced.png)|xmas.lightstring.advanced|-151387974|Deluxe Christmas Lights|Electrical|Colored, Animated, Powered Lights. Requires 5 electricity. Click to start placement, right click to end. Each unit is 0.5m long.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.lightstring.png)|xmas.lightstring|1058261682|Christmas Lights|Items|A string of colored lights to decorate your home|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.present.large.png)|xmas.present.large|-1622660759|Large Present|Misc|A Large Present, the best there is. Unwrap it now!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.present.medium.png)|xmas.present.medium|756517185|Medium Present|Misc|A medium present, might be good! Collect 5 to upgrade to a larger present.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.present.small.png)|xmas.present.small|-722241321|Small Present|Misc|A small stocking stuffer present, Collect 10 to upgrade to a larger present.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.tree.png)|xmas.tree|794443127|Christmas Tree|Items|Get into the holiday spirit with this decorative Christmas tree|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmas.window.garland.png)|xmas.window.garland|-1379835144|Festive Window Garland|Items|A Festive decoration to spruce up your windows during the holdiays!|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xmasdoorwreath.png)|xmasdoorwreath|2009734114|Christmas Door Wreath|Items|Get into the christmas spirit with this holiday door wreath.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/xylophone.png)|xylophone|-211235948|Xylobone|Fun|A selection of bones that were “acquired” for their acoustic attributes. Play a lullaby for your camp with these soothing tones.|
+|![](https://raw.githubusercontent.com/rostov114/rust-items/main/yellow.berry.png)|yellow.berry|1660145984|Yellow Berry|Food|A yellow berry. Can be eaten or used in mixing table recipes to create teas.|
