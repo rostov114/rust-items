@@ -45,6 +45,7 @@
 |![](/attire.nesthat.png)|attire.nesthat|1081315464|Nest Hat|Attire|An extremely silly easter nest hat with googly eyes.|
 |![](/attire.ninja.suit.png)|attire.ninja.suit|-1506417026|Ninja Suit|Attire|BaboAbe Ninja Suit|
 |![](/attire.reindeer.headband.png)|attire.reindeer.headband|-324675402|Reindeer Antlers|Attire|A festive reindeer antlers headband and nose.|
+|![](/attire.snowman.helmet.png)|attire.snowman.helmet|-842267147|Snowman Helmet|Attire|A snowman helmet which provides ample protection.|
 |![](/autoturret.png)|autoturret|-2139580305|Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
 |![](/axe.salvaged.png)|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
 |![](/bandage.png)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
@@ -230,6 +231,7 @@
 |![](/firework.boomer.champagne.png)|firework.boomer.champagne|1324203999|Champagne Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
 |![](/firework.boomer.green.png)|firework.boomer.green|-656349006|Green Boomer|Fun|A very large mortar type firework with a green starburst|
 |![](/firework.boomer.orange.png)|firework.boomer.orange|-7270019|Orange Boomer|Fun|A very large mortar type firework with an orange starburst|
+|![](/firework.boomer.pattern.png)|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
 |![](/firework.boomer.red.png)|firework.boomer.red|-1553999294|Red Boomer|Fun|A very large mortar type firework with a red starburst|
 |![](/firework.boomer.violet.png)|firework.boomer.violet|-280223496|Violet Boomer|Fun|A very large mortar type firework with a violet starburst|
 |![](/firework.romancandle.blue.png)|firework.romancandle.blue|-515830359|Blue Roman Candle|Fun|A small repeating firework, shoots a series of Blue balls into the air|
@@ -592,6 +594,8 @@
 |![](/snowballgun.png)|snowballgun|1103488722|Snowball Gun|Weapon|Load snowballs and lay waste to your foes with Christmas cheer.|
 |![](/snowmachine.png)|snowmachine|1358643074|Snow Machine|Misc|A machine which will blanket the surrounding terrain in snow.|
 |![](/snowman.png)|snowman|1629293099|Snowman|Items|Get into the holiday spirit with this decorative snowman|
+|![](/snowmobile.png)|snowmobile|-1364246987|Snowmobile|Misc|A custom snowmobile, made of various bits and pieces.|
+|![](/snowmobiletomaha.png)|snowmobiletomaha|1768112091|Tomaha Snowmobile|Misc|An old snowmobile from around 1980.|
 |![](/sofa.png)|sofa|-555122905|Sofa|Items|A comfortable old sofa. A decorative item which provides comfort and seats two.|
 |![](/sofa.pattern.png)|sofa.pattern|782422285|Sofa - Pattern|Items|A comfortable old sofa with a floral pattern. A decorative item which provides comfort and seats two.|
 |![](/soundlight.png)|soundlight|-343857907|Sound Light|Fun|A light that will pulse in time to music when connected to a Boom Box.|
@@ -727,6 +731,7 @@
 |![](/worm.png)|worm|1770475779|Worm|Food|A small, writhing worm that can be used for bait. Could also be eaten in desperate situations.|
 |![](/wrappedgift.png)|wrappedgift|204970153|Wrapped Gift|Fun|A lazily wrapped gift.|
 |![](/wrappingpaper.png)|wrappingpaper|1094293920|Wrapping Paper|Fun|Use this to conceal any item in a lazily wrapped gift|
+|![](/xmas.advent.png)|xmas.advent|-2027793839|Advent Calendar|Items|Receive a special gift each and every day!|
 |![](/xmas.decoration.baubels.png)|xmas.decoration.baubels|-1667224349|Decorative Baubels|Misc|Decorative Baubels you can hang on your Christmas tree|
 |![](/xmas.decoration.candycanes.png)|xmas.decoration.candycanes|-209869746|Decorative Plastic Candy Canes|Misc|Decorative Plastic Candy Canes you can hang on your Christmas tree|
 |![](/xmas.decoration.gingerbreadmen.png)|xmas.decoration.gingerbreadmen|1686524871|Decorative Gingerbread Men|Misc|Decorative Gingerbread Men you can hang on your Christmas tree|
@@ -735,6 +740,7 @@
 |![](/xmas.decoration.star.png)|xmas.decoration.star|-1331212963|Star Tree Topper|Misc|A golden star to top off your Christmas Tree|
 |![](/xmas.decoration.tinsel.png)|xmas.decoration.tinsel|2106561762|Decorative Tinsel|Misc|Decorative Tinsel you can hang on your Christmas tree|
 |![](/xmas.door.garland.png)|xmas.door.garland|674734128|Festive Doorway Garland|Items|A Festive decoration to spruce up your  doorway during the holdiays!|
+|![](/xmas.double.door.garland.png)|xmas.double.door.garland|-1230433643|Festive Double Doorway Garland|Items|A Festive decoration to spruce up your double doorway during the holidays!|
 |![](/xmas.lightstring.advanced.png)|xmas.lightstring.advanced|-151387974|Deluxe Christmas Lights|Electrical|Colored, Animated, Powered Lights. Requires 5 electricity. Click to start placement, right click to end. Each unit is 0.5m long.|
 |![](/xmas.lightstring.png)|xmas.lightstring|1058261682|Christmas Lights|Items|A string of colored lights to decorate your home|
 |![](/xmas.present.large.png)|xmas.present.large|-1622660759|Large Present|Misc|A Large Present, the best there is. Unwrap it now!|
