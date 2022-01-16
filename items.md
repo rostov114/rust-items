@@ -498,6 +498,7 @@
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rope.png)|rope|1414245522|Rope|Component|A Length of Rope.|
 |![](/rowboat.png)|rowboat|1878053256|Rowboat|Items||
+|![](/rowboat.metal.png)|rowboat.metal|-1663281411|Rowboat|Items||
 |![](/rug.bear.png)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rug.png)|rug|-1985799200|Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rustige_egg_a.png)|rustige_egg_a|-173268129|Rustigé Egg - Red|Misc|An exquisite hand crafted gold and diamond egg. When opened, a very special melody can be heard as you observe an intricate representation of your favorite monument.|
@@ -596,6 +597,8 @@
 |![](/snowballgun.png)|snowballgun|1103488722|Snowball Gun|Weapon|Load snowballs and lay waste to your foes with Christmas cheer.|
 |![](/snowmachine.png)|snowmachine|1358643074|Snow Machine|Misc|A machine which will blanket the surrounding terrain in snow.|
 |![](/snowman.png)|snowman|1629293099|Snowman|Items|Get into the holiday spirit with this decorative snowman|
+|![](/snowmobile.png)|snowmobile|-1364246987|Snowmobile|Misc|A custom snowmobile, made of various bits and pieces.|
+|![](/snowmobiletomaha.png)|snowmobiletomaha|1768112091|Tomaha Snowmobile|Misc|An old snowmobile from around 1980.|
 |![](/sofa.png)|sofa|-555122905|Sofa|Items|A comfortable old sofa. A decorative item which provides comfort and seats two.|
 |![](/sofa.pattern.png)|sofa.pattern|782422285|Sofa - Pattern|Items|A comfortable old sofa with a floral pattern. A decorative item which provides comfort and seats two.|
 |![](/soundlight.png)|soundlight|-343857907|Sound Light|Fun|A light that will pulse in time to music when connected to a Boom Box.|
@@ -621,7 +624,6 @@
 |![](/stones.png)|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
 |![](/storage.monitor.png)|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
 |![](/strobelight.png)|strobelight|2104517339|Strobe Light|Misc|A flashing light, 3 speeds. Causes seizures.|
-|![](/submarine.torpedo.rising.png)|submarine.torpedo.rising|-239306133|Surface torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead while rising to the water's surface.|
 |![](/submarine.torpedo.straight.png)|submarine.torpedo.straight|-1671551935|Torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead in a straight line.|
 |![](/submarineduo.png)|submarineduo|1015352446|Duo Submarine|Misc|A small two-person submarine.|
 |![](/submarinesolo.png)|submarinesolo|-187031121|Solo Submarine|Misc|A small one-person submarine.|
