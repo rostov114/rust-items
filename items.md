@@ -333,6 +333,7 @@
 |![](/hat.ratmask.png)|hat.ratmask|271048478|Rat Mask|Attire|A Beautifully crafted bronze and gold Rat mask to celebrate the 2020 Lunar New Year|
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
+|![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|A Arctic Suit.|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A Nomad Suit.|
 |![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A space suit built for harsh conditions.|
