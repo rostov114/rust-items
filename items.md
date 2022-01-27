@@ -333,10 +333,12 @@
 |![](/hat.ratmask.png)|hat.ratmask|271048478|Rat Mask|Attire|A Beautifully crafted bronze and gold Rat mask to celebrate the 2020 Lunar New Year|
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
+|![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic suit.|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
-|![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A Nomad Suit.|
-|![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A space suit built for harsh conditions.|
+|![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
+|![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.png)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
@@ -596,6 +598,8 @@
 |![](/snowballgun.png)|snowballgun|1103488722|Snowball Gun|Weapon|Load snowballs and lay waste to your foes with Christmas cheer.|
 |![](/snowmachine.png)|snowmachine|1358643074|Snow Machine|Misc|A machine which will blanket the surrounding terrain in snow.|
 |![](/snowman.png)|snowman|1629293099|Snowman|Items|Get into the holiday spirit with this decorative snowman|
+|![](/snowmobile.png)|snowmobile|-1364246987|Snowmobile|Misc|A custom snowmobile, made of various bits and pieces.|
+|![](/snowmobiletomaha.png)|snowmobiletomaha|1768112091|Tomaha Snowmobile|Misc|An old snowmobile from around 1980.|
 |![](/sofa.png)|sofa|-555122905|Sofa|Items|A comfortable old sofa. A decorative item which provides comfort and seats two.|
 |![](/sofa.pattern.png)|sofa.pattern|782422285|Sofa - Pattern|Items|A comfortable old sofa with a floral pattern. A decorative item which provides comfort and seats two.|
 |![](/soundlight.png)|soundlight|-343857907|Sound Light|Fun|A light that will pulse in time to music when connected to a Boom Box.|
