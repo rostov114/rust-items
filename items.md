@@ -584,7 +584,11 @@
 |![](/skullspikes.candles.png)|skullspikes.candles|-25740268|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
 |![](/skullspikes.png)|skullspikes|-1073015016|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
 |![](/skullspikes.pumpkin.png)|skullspikes.pumpkin|-1078639462|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
-|![](/skylantern.png)|skylantern|1819863051|Sky Lantern|Fun|A beautiful sky lantern. Can be launched in any direction. Has one inventory slot.|
+|![](/skylantern.png)|skylantern|1819863051|Sky Lantern|Fun|A beautiful sky lantern. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.|
+|![](/skylantern.skylantern.green.png)|skylantern.skylantern.green|-1770889433|Sky Lantern - Green|Fun||
+|![](/skylantern.skylantern.orange.png)|skylantern.skylantern.orange|-1824770114|Sky Lantern - Orange|Fun||
+|![](/skylantern.skylantern.purple.png)|skylantern.skylantern.purple|831955134|Sky Lantern - Purple|Fun||
+|![](/skylantern.skylantern.red.png)|skylantern.skylantern.red|-1433390281|Sky Lantern - Red|Fun||
 |![](/sled.png)|sled|-333406828|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sled.xmas.png)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sleepingbag.png)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you a location to respawn.|
