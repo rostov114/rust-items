@@ -485,7 +485,7 @@
 |![](/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.png)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.png)|rhib|1394042569|RHIB|Items||
-|![](/rifle.ak.ice.png)|rifle.ak.ice|-1335497659|Assault Rifle - Ice covered|Weapon|Ice-covered high damage machine rifle.|
+|![](/rifle.ak.ice.png)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.png)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.bolt.png)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.png)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
