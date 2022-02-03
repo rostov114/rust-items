@@ -334,10 +334,12 @@
 |![](/hat.tigermask.png)|hat.tigermask|709206314|Tiger Mask|Attire|A special tiger mask to celebrate Chinese New Year|
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
+|![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
-|![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A Nomad Suit.|
-|![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A space suit built for harsh conditions.|
+|![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
+|![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.png)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
@@ -482,6 +484,8 @@
 |![](/researchpaper.png)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.png)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
+|![](/rhib.png)|rhib|1394042569|RHIB|Items||
+|![](/rifle.ak.ice.png)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.png)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.bolt.png)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.png)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
@@ -497,6 +501,7 @@
 |![](/rock.png)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rope.png)|rope|1414245522|Rope|Component|A Length of Rope.|
+|![](/rowboat.png)|rowboat|1878053256|Rowboat|Items||
 |![](/rug.bear.png)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rug.png)|rug|-1985799200|Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rustige_egg_a.png)|rustige_egg_a|-173268129|Rustigé Egg - Red|Misc|An exquisite hand crafted gold and diamond egg. When opened, a very special melody can be heard as you observe an intricate representation of your favorite monument.|
@@ -600,6 +605,8 @@
 |![](/snowballgun.png)|snowballgun|1103488722|Snowball Gun|Weapon|Load snowballs and lay waste to your foes with Christmas cheer.|
 |![](/snowmachine.png)|snowmachine|1358643074|Snow Machine|Misc|A machine which will blanket the surrounding terrain in snow.|
 |![](/snowman.png)|snowman|1629293099|Snowman|Items|Get into the holiday spirit with this decorative snowman|
+|![](/snowmobile.png)|snowmobile|-1364246987|Snowmobile|Misc|A custom snowmobile, made of various bits and pieces.|
+|![](/snowmobiletomaha.png)|snowmobiletomaha|1768112091|Tomaha Snowmobile|Misc|An old snowmobile from around 1980.|
 |![](/sofa.png)|sofa|-555122905|Sofa|Items|A comfortable old sofa. A decorative item which provides comfort and seats two.|
 |![](/sofa.pattern.png)|sofa.pattern|782422285|Sofa - Pattern|Items|A comfortable old sofa with a floral pattern. A decorative item which provides comfort and seats two.|
 |![](/soundlight.png)|soundlight|-343857907|Sound Light|Fun|A light that will pulse in time to music when connected to a Boom Box.|
@@ -614,6 +621,7 @@
 |![](/spikes.floor.png)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
+|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to reskin your items. Press [attack2] while looking at an item to open the skin picker.|
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
 |![](/stocking.large.png)|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
