@@ -378,7 +378,7 @@
 |![](/jackhammer.png)|jackhammer|1488979457|Jackhammer|Tool|A Pneumatic Jackhammer to blast through ore nodes. The sheer power of this device requires no aiming as all weak spots will be instantly destroyed. Works well on human flesh. Can be refilled at a Workbench.|
 |![](/jackolantern.angry.png)|jackolantern.angry|1242482355|Jack O Lantern Angry|Items|A Lantern. Place it where you need light.|
 |![](/jackolantern.happy.png)|jackolantern.happy|-1824943010|Jack O Lantern Happy|Items|A Lantern. Place it where you need light.|
-|![](/jar.pickle.png)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amatuer. Eat at your own risk.|
+|![](/jar.pickle.png)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amateur. Eat at your own risk.|
 |![](/jumpsuit.suit.blue.png)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
 |![](/jumpsuit.suit.png)|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
 |![](/kayak.png)|kayak|190184021|Kayak|Items|An improvised wooden kayak. Seats two and requires a Paddle to operate.|
