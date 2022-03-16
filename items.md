@@ -621,7 +621,7 @@
 |![](/spikes.floor.png)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
-|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to reskin your items. Press [attack2] while looking at an item to open the skin picker.|
+|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
 |![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool|Insert a decal into the spray can to paint premade images.|
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
