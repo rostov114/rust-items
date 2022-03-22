@@ -334,7 +334,7 @@
 |![](/hat.tigermask.png)|hat.tigermask|709206314|Tiger Mask|Attire|A special tiger mask to celebrate Chinese New Year|
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
-|![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic suit.|
+|![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
 |![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
@@ -378,7 +378,7 @@
 |![](/jackhammer.png)|jackhammer|1488979457|Jackhammer|Tool|A Pneumatic Jackhammer to blast through ore nodes. The sheer power of this device requires no aiming as all weak spots will be instantly destroyed. Works well on human flesh. Can be refilled at a Workbench.|
 |![](/jackolantern.angry.png)|jackolantern.angry|1242482355|Jack O Lantern Angry|Items|A Lantern. Place it where you need light.|
 |![](/jackolantern.happy.png)|jackolantern.happy|-1824943010|Jack O Lantern Happy|Items|A Lantern. Place it where you need light.|
-|![](/jar.pickle.png)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amatuer. Eat at your own risk.|
+|![](/jar.pickle.png)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amateur. Eat at your own risk.|
 |![](/jumpsuit.suit.blue.png)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
 |![](/jumpsuit.suit.png)|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
 |![](/kayak.png)|kayak|190184021|Kayak|Items|An improvised wooden kayak. Seats two and requires a Paddle to operate.|
@@ -485,7 +485,7 @@
 |![](/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.png)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.png)|rhib|1394042569|RHIB|Items||
-|![](/rifle.ak.ice.png)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|Weapon|Ice covered High damage machine rifle.|
+|![](/rifle.ak.ice.png)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.png)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.bolt.png)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.png)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
@@ -502,7 +502,6 @@
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rope.png)|rope|1414245522|Rope|Component|A Length of Rope.|
 |![](/rowboat.png)|rowboat|1878053256|Rowboat|Items||
-|![](/rowboat.metal.png)|rowboat.metal|-1663281411|Rowboat|Items||
 |![](/rug.bear.png)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rug.png)|rug|-1985799200|Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rustige_egg_a.png)|rustige_egg_a|-173268129|Rustigé Egg - Red|Misc|An exquisite hand crafted gold and diamond egg. When opened, a very special melody can be heard as you observe an intricate representation of your favorite monument.|
@@ -585,7 +584,11 @@
 |![](/skullspikes.candles.png)|skullspikes.candles|-25740268|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
 |![](/skullspikes.png)|skullspikes|-1073015016|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
 |![](/skullspikes.pumpkin.png)|skullspikes.pumpkin|-1078639462|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
-|![](/skylantern.png)|skylantern|1819863051|Sky Lantern|Fun|A beautiful sky lantern. Can be launched in any direction. Has one inventory slot.|
+|![](/skylantern.png)|skylantern|1819863051|Sky Lantern|Fun|A beautiful sky lantern. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.|
+|![](/skylantern.skylantern.green.png)|skylantern.skylantern.green|-1770889433|Sky Lantern - Green|Fun||
+|![](/skylantern.skylantern.orange.png)|skylantern.skylantern.orange|-1824770114|Sky Lantern - Orange|Fun||
+|![](/skylantern.skylantern.purple.png)|skylantern.skylantern.purple|831955134|Sky Lantern - Purple|Fun||
+|![](/skylantern.skylantern.red.png)|skylantern.skylantern.red|-1433390281|Sky Lantern - Red|Fun||
 |![](/sled.png)|sled|-333406828|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sled.xmas.png)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sleepingbag.png)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you a location to respawn.|
@@ -619,7 +622,6 @@
 |![](/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
 |![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to reskin your items. Press [attack2] while looking at an item to open the skin picker.|
-|![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool|Insert a decal into the spray can to paint premade images.|
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
 |![](/stocking.large.png)|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
@@ -657,7 +659,7 @@
 |![](/toolgun.png)|toolgun|1803831286|Garry's Mod Tool Gun|Tool|Celebrating 15 Years of Garry's Mod! Use this tool gun to upgrade building parts. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/torch.png)|torch|795236088|Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
 |![](/trap.bear.png)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
-|![](/trap.landmine.png)|trap.landmine|-1663759755|Land Mine|Traps|An old military Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
+|![](/trap.landmine.png)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
 |![](/tshirt.png)|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|
 |![](/tshirt.long.png)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|A t-shirt with long sleeves.|
 |![](/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
