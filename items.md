@@ -36,6 +36,7 @@
 |![](/attire.banditguard.png)|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
 |![](/attire.bunny.onesie.png)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
 |![](/attire.bunnyears.png)|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
+|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped.|
 |![](/attire.hide.boots.png)|attire.hide.boots|794356786|Hide Boots|Attire|Boots made from the hide of an animal.|
 |![](/attire.hide.helterneck.png)|attire.hide.helterneck|3222790|Hide Halterneck|Attire|A Halterneck made from the hide of an animal.|
 |![](/attire.hide.pants.png)|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal.|
@@ -73,6 +74,7 @@
 |![](/blood.png)|blood|1776460938|Blood|Medical|Used in creation of medkits.|
 |![](/blue.berry.png)|blue.berry|1112162468|Blue Berry|Food|A blue berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/blueberries.png)|blueberries|-586342290|Blueberries|Food|Blueberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
+|![](/bluedogtags.png)|bluedogtags|1036321299|Blue Dog Tags|Resources|Blue Dog Tags|
 |![](/blueprintbase.png)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
 |![](/bone.armor.suit.png)|bone.armor.suit|1746956556|Bone Armor|Attire|A suit of armor made of bones.|
 |![](/bone.club.png)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
@@ -165,6 +167,7 @@
 |![](/diving.mask.png)|diving.mask|-113413047|Diving Mask|Attire|A Diving Mask. Provides clear vision under water.|
 |![](/diving.tank.png)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
 |![](/diving.wetsuit.png)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
+|![](/dogtagneutral.png)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
 |![](/door.closer.png)|door.closer|1409529282|Door Closer|Construction|Auotmatically closes your doors when left open.|
 |![](/door.double.hinged.metal.png)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.double.hinged.toptier.png)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
@@ -480,6 +483,7 @@
 |![](/radiationresisttea.png)|radiationresisttea|-487356515|Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/radiationresisttea.pure.png)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/red.berry.png)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](/reddogtags.png)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/research.table.png)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.png)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
@@ -550,6 +554,7 @@
 |![](/shutter.metal.embrasure.b.png)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
 |![](/shutter.wood.a.png)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.png)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
+|![](/sign.egg.suit.png)|sign.egg.suit|-394470247|Egg Suit Sign Test|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
 |![](/sign.hanging.banner.large.png)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.png)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.png)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
