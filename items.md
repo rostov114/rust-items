@@ -694,6 +694,7 @@
 |![](/vehicle.chassis.png)|vehicle.chassis|1770744540|Generic vehicle chassis|Component|Generic vehicle chassis|
 |![](/vehicle.module.png)|vehicle.module|878301596|Generic vehicle module|Component|Generic vehicle module|
 |![](/vending.machine.png)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
+|![](/wagon.png)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/wall.external.high.ice.png)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.png)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
 |![](/wall.external.high.stone.png)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
