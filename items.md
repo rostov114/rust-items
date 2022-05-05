@@ -554,7 +554,6 @@
 |![](/shutter.metal.embrasure.b.png)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
 |![](/shutter.wood.a.png)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.png)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
-|![](/sign.egg.suit.png)|sign.egg.suit|-394470247|Egg Suit Sign Test|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
 |![](/sign.hanging.banner.large.png)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.png)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.png)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
@@ -692,6 +691,7 @@
 |![](/vehicle.chassis.png)|vehicle.chassis|1770744540|Generic vehicle chassis|Component|Generic vehicle chassis|
 |![](/vehicle.module.png)|vehicle.module|878301596|Generic vehicle module|Component|Generic vehicle module|
 |![](/vending.machine.png)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
+|![](/wagon.png)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/wall.external.high.ice.png)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.png)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
 |![](/wall.external.high.stone.png)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
