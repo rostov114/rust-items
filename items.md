@@ -627,7 +627,7 @@
 |![](/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
 |![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items. Insert spray attachments to spray in the world.|
-|![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool|Insert a decal into the spray can to paint premade images.|
+|![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool||
 |![](/spraycanfreehand.png)|spraycanfreehand|1488285104|Spray Can Freehand Nozzle|Tool|Insert into a spray can to freely paint in the world. Use [+reload] to change colour and [+use] to change size.|
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
