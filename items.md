@@ -351,7 +351,6 @@
 |![](/heavy.plate.jacket.png)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
 |![](/heavy.plate.pants.png)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
 |![](/hitchtroughcombo.png)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
-|![](/hmlmg.png)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.png)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/hoodie.png)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/horse.armor.roadsign.png)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
@@ -626,8 +625,7 @@
 |![](/spikes.floor.png)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
-|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items. Insert spray attachments to spray in the world.|
-|![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool||
+|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to reskin your items. Press [attack2] while looking at an item to open the skin picker.|
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
 |![](/stocking.large.png)|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
@@ -721,7 +719,6 @@
 |![](/waterjug.png)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.png)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.png)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
-|![](/weapon.mod.extendedmags.png)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.png)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
 |![](/weapon.mod.holosight.png)|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
 |![](/weapon.mod.lasersight.png)|weapon.mod.lasersight|-132516482|Weapon Lasersight|Weapon|Attaches to a weapon. Provides user with a guiding laser and reduces weapon sway.|
