@@ -402,6 +402,7 @@
 |![](/lock.code.png)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
 |![](/lock.key.png)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
 |![](/locker.png)|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
+|![](/locomotive.png)|locomotive|-2027988285|Locomotive|Misc|A powerful locomotive.|
 |![](/longsword.png)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
 |![](/lowgradefuel.png)|lowgradefuel|-946369541|Low Grade Fuel|Resources|Low Grade Fuel, used to power light sources.|
 |![](/lumberjack hoodie.png)|lumberjack hoodie|-763071910|Lumberjack Hoodie|Attire|A Lumberjack Hoodie|
