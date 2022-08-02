@@ -36,7 +36,7 @@
 |![](/attire.banditguard.png)|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
 |![](/attire.bunny.onesie.png)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
 |![](/attire.bunnyears.png)|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
-|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped.|
+|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped. Releasing publicly in 2023|
 |![](/attire.hide.boots.png)|attire.hide.boots|794356786|Hide Boots|Attire|Boots made from the hide of an animal.|
 |![](/attire.hide.helterneck.png)|attire.hide.helterneck|3222790|Hide Halterneck|Attire|A Halterneck made from the hide of an animal.|
 |![](/attire.hide.pants.png)|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal.|
@@ -234,7 +234,7 @@
 |![](/firework.boomer.champagne.png)|firework.boomer.champagne|1324203999|Champagne Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
 |![](/firework.boomer.green.png)|firework.boomer.green|-656349006|Green Boomer|Fun|A very large mortar type firework with a green starburst|
 |![](/firework.boomer.orange.png)|firework.boomer.orange|-7270019|Orange Boomer|Fun|A very large mortar type firework with an orange starburst|
-|![](/firework.boomer.pattern.png)|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
+|![](/firework.boomer.pattern.png)|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A special boomer which allows you light up the night sky with a custom pattern that you draw. Multiple colors and altitude settings are available.|
 |![](/firework.boomer.red.png)|firework.boomer.red|-1553999294|Red Boomer|Fun|A very large mortar type firework with a red starburst|
 |![](/firework.boomer.violet.png)|firework.boomer.violet|-280223496|Violet Boomer|Fun|A very large mortar type firework with a violet starburst|
 |![](/firework.romancandle.blue.png)|firework.romancandle.blue|-515830359|Blue Roman Candle|Fun|A small repeating firework, shoots a series of Blue balls into the air|
