@@ -36,7 +36,7 @@
 |![](/attire.banditguard.png)|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
 |![](/attire.bunny.onesie.png)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
 |![](/attire.bunnyears.png)|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
-|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped.|
+|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped. Releasing publicly in 2023|
 |![](/attire.hide.boots.png)|attire.hide.boots|794356786|Hide Boots|Attire|Boots made from the hide of an animal.|
 |![](/attire.hide.helterneck.png)|attire.hide.helterneck|3222790|Hide Halterneck|Attire|A Halterneck made from the hide of an animal.|
 |![](/attire.hide.pants.png)|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal.|
@@ -234,7 +234,7 @@
 |![](/firework.boomer.champagne.png)|firework.boomer.champagne|1324203999|Champagne Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
 |![](/firework.boomer.green.png)|firework.boomer.green|-656349006|Green Boomer|Fun|A very large mortar type firework with a green starburst|
 |![](/firework.boomer.orange.png)|firework.boomer.orange|-7270019|Orange Boomer|Fun|A very large mortar type firework with an orange starburst|
-|![](/firework.boomer.pattern.png)|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A very large mortar type firework with an massive champagne colored explosion followed by smaller orange starbursts|
+|![](/firework.boomer.pattern.png)|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A special boomer which allows you light up the night sky with a custom pattern that you draw. Multiple colors and altitude settings are available.|
 |![](/firework.boomer.red.png)|firework.boomer.red|-1553999294|Red Boomer|Fun|A very large mortar type firework with a red starburst|
 |![](/firework.boomer.violet.png)|firework.boomer.violet|-280223496|Violet Boomer|Fun|A very large mortar type firework with a violet starburst|
 |![](/firework.romancandle.blue.png)|firework.romancandle.blue|-515830359|Blue Roman Candle|Fun|A small repeating firework, shoots a series of Blue balls into the air|
@@ -310,6 +310,8 @@
 |![](/green.berry.png)|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/grenade.beancan.png)|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
 |![](/grenade.f1.png)|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
+|![](/grenade.flashbang.png)|grenade.flashbang|-936921910|Flashbang|Weapon|A bright explosive device which blinds and disorients anyone near it upon detonation|
+|![](/grenade.molotov.png)|grenade.molotov|1556365900|Molotov Cocktail|Weapon|An incendiary device|
 |![](/grenade.smoke.png)|grenade.smoke|1263920163|Smoke Grenade|Tool|Produces a large cloud of opaque greyish white smoke.|
 |![](/grub.png)|grub|-568419968|Grub|Food|A pale, fleshy insect that can be used for bait. Could also be eaten in desperate situations.|
 |![](/gun.water.png)|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
@@ -402,6 +404,7 @@
 |![](/lock.code.png)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
 |![](/lock.key.png)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
 |![](/locker.png)|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
+|![](/locomotive.png)|locomotive|-2027988285|Locomotive|Misc|A powerful locomotive.|
 |![](/longsword.png)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
 |![](/lowgradefuel.png)|lowgradefuel|-946369541|Low Grade Fuel|Resources|Low Grade Fuel, used to power light sources.|
 |![](/lumberjack hoodie.png)|lumberjack hoodie|-763071910|Lumberjack Hoodie|Attire|A Lumberjack Hoodie|
@@ -666,6 +669,7 @@
 |![](/torch.png)|torch|795236088|Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
 |![](/trap.bear.png)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
 |![](/trap.landmine.png)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
+|![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
 |![](/tshirt.png)|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|
 |![](/tshirt.long.png)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|A t-shirt with long sleeves.|
 |![](/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
