@@ -87,8 +87,8 @@
 |![](/bow.compound.png)|bow.compound|884424049|Compound Bow|Weapon|A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed.|
 |![](/bow.hunting.png)|bow.hunting|1443579727|Hunting Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
 |![](/box.repair.bench.png)|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
-|![](/box.wooden.png)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 12 items.|
-|![](/box.wooden.large.png)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 30 items.|
+|![](/box.wooden.png)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 18 items.|
+|![](/box.wooden.large.png)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
 |![](/bucket.helmet.png)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/bucket.water.png)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
 |![](/building.planner.png)|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
@@ -128,6 +128,7 @@
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
 |![](/chocholate.png)|chocholate|363467698|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
+|![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
 |![](/clone.black.berry.png)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
 |![](/clone.blue.berry.png)|clone.blue.berry|838831151|Blue Berry Clone|Food|A clipping of a Blue Berry Plant.|
