@@ -146,8 +146,8 @@
 |![](/coffin.storage.png)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/composter.png)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.png)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
-|![](/concretehatchet.png)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of conrete and rebar which can be used to harvest wood|
-|![](/concretepickaxe.png)|concretepickaxe|-1360171080|Concrete Pickaxe|Tool|A salvaged piece of conrete and rebar with a sharp edge. Can be used to harvest Stone, Metal ore and Sulfur ore.|
+|![](/concretehatchet.png)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
+|![](/concretepickaxe.png)|concretepickaxe|-1360171080|Concrete Pickaxe|Tool|A salvaged piece of concrete and rebar with a sharp edge. Can be used to harvest Stone, Metal ore and Sulfur ore.|
 |![](/connected.speaker.png)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/corn.png)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/crankshaft1.png)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
@@ -636,7 +636,7 @@
 |![](/spikes.floor.png)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
-|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items. Insert spray attachments to spray in the world.|
+|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
 |![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool||
 |![](/spraycanfreehand.png)|spraycanfreehand|1488285104|Spray Can Freehand Nozzle|Tool|Insert into a spray can to freely paint in the world. Use [+reload] to change colour and [+use] to change size.|
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
