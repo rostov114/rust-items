@@ -87,8 +87,8 @@
 |![](/bow.compound.png)|bow.compound|884424049|Compound Bow|Weapon|A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed.|
 |![](/bow.hunting.png)|bow.hunting|1443579727|Hunting Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
 |![](/box.repair.bench.png)|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
-|![](/box.wooden.png)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 12 items.|
-|![](/box.wooden.large.png)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 30 items.|
+|![](/box.wooden.png)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 18 items.|
+|![](/box.wooden.large.png)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
 |![](/bucket.helmet.png)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/bucket.water.png)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
 |![](/building.planner.png)|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
@@ -128,6 +128,7 @@
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
 |![](/chocholate.png)|chocholate|363467698|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
+|![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
 |![](/clone.black.berry.png)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
 |![](/clone.blue.berry.png)|clone.blue.berry|838831151|Blue Berry Clone|Food|A clipping of a Blue Berry Plant.|
@@ -145,6 +146,8 @@
 |![](/coffin.storage.png)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/composter.png)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.png)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
+|![](/concretehatchet.png)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
+|![](/concretepickaxe.png)|concretepickaxe|-1360171080|Concrete Pickaxe|Tool|A salvaged piece of concrete and rebar with a sharp edge. Can be used to harvest Stone, Metal ore and Sulfur ore.|
 |![](/connected.speaker.png)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/corn.png)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/crankshaft1.png)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
@@ -341,6 +344,7 @@
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/hazmatsuit.lumberjack.png)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
 |![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.png)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
@@ -408,6 +412,8 @@
 |![](/longsword.png)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
 |![](/lowgradefuel.png)|lowgradefuel|-946369541|Low Grade Fuel|Resources|Low Grade Fuel, used to power light sources.|
 |![](/lumberjack hoodie.png)|lumberjack hoodie|-763071910|Lumberjack Hoodie|Attire|A Lumberjack Hoodie|
+|![](/lumberjack.hatchet.png)|lumberjack.hatchet|-399173933|Prototype Hatchet|Tool|A prototype field hatchet, useful for gathering wood|
+|![](/lumberjack.pickaxe.png)|lumberjack.pickaxe|236677901|Prototype Pickaxe|Tool|A prototype field pickaxe. Useful for gathering ore from rocks.|
 |![](/lunar.firecrackers.png)|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
 |![](/mace.png)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](/machete.png)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
@@ -629,7 +635,7 @@
 |![](/spikes.floor.png)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
-|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items. Insert spray attachments to spray in the world.|
+|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
 |![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool||
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
