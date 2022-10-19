@@ -530,7 +530,7 @@
 |![](/samsite.png)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
 |![](/santabeard.png)|santabeard|2126889441|Santa Beard|Attire|A santa beard. Ho Ho ho.|
 |![](/santahat.png)|santahat|-575483084|Santa Hat|Attire|A santa hat. Ho Ho ho.|
-|![](/scarecrow.png)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorate deployable item.|
+|![](/scarecrow.png)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorative deployable item.|
 |![](/scarecrow.suit.png)|scarecrow.suit|273951840|Scarecrow Suit|Attire|A spooky scarecrow suit|
 |![](/scarecrowhead.png)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
 |![](/scientistsuit_heavy.png)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
