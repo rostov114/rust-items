@@ -415,6 +415,7 @@
 |![](/lumberjack.hatchet.png)|lumberjack.hatchet|-399173933|Prototype Hatchet|Tool|A prototype field hatchet, useful for gathering wood|
 |![](/lumberjack.pickaxe.png)|lumberjack.pickaxe|236677901|Prototype Pickaxe|Tool|A prototype field pickaxe. Useful for gathering ore from rocks.|
 |![](/lunar.firecrackers.png)|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
+|![](/mace.baseballbat.png)|mace.baseballbat|-2026042603|Baseball Bat|Weapon||
 |![](/mace.png)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](/machete.png)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
 |![](/mailbox.png)|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
@@ -428,6 +429,7 @@
 |![](/meat.pork.burned.png)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
 |![](/megaphone.png)|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
+|![](/metal.facemask.hockey.png)|metal.facemask.hockey|-1334569149|Hockey Mask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.fragments.png)|metal.fragments|69511070|Metal Fragments|Resources|Metal Fragments. Smelted from Metal Ore, used in lots of different crafting recipes.|
 |![](/metal.ore.png)|metal.ore|-4031221|Metal Ore|Resources|A naturally occurring rock containing metal and metal compounds. You can extract this metal using a furnace.|
@@ -528,7 +530,7 @@
 |![](/samsite.png)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
 |![](/santabeard.png)|santabeard|2126889441|Santa Beard|Attire|A santa beard. Ho Ho ho.|
 |![](/santahat.png)|santahat|-575483084|Santa Hat|Attire|A santa hat. Ho Ho ho.|
-|![](/scarecrow.png)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorate deployable item.|
+|![](/scarecrow.png)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorative deployable item.|
 |![](/scarecrow.suit.png)|scarecrow.suit|273951840|Scarecrow Suit|Attire|A spooky scarecrow suit|
 |![](/scarecrowhead.png)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
 |![](/scientistsuit_heavy.png)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
@@ -673,6 +675,7 @@
 |![](/tool.instant_camera.png)|tool.instant_camera|-2001260025|Instant Camera|Tool|An instant camera. Take photos with primary fire, zoom in and out with secondary fire, and change focus mode with reload.|
 |![](/toolgun.png)|toolgun|1803831286|Garry's Mod Tool Gun|Tool|Celebrating 15 Years of Garry's Mod! Use this tool gun to upgrade building parts. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/torch.png)|torch|795236088|Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
+|![](/torch.torch.skull.png)|torch.torch.skull|-1175656359|Cultist Deer Torch|Tool|Cultist Deer Torch|
 |![](/trap.bear.png)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
 |![](/trap.landmine.png)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
 |![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
