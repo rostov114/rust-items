@@ -471,6 +471,7 @@
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.png)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
 |![](/pistol.nailgun.png)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
+|![](/pistol.prototype17.png)|pistol.prototype17|1914691295|Prototype 17|Weapon|A burst fire prototype pistol|
 |![](/pistol.python.png)|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
 |![](/pistol.revolver.png)|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
 |![](/pistol.semiauto.png)|pistol.semiauto|818877484|Semi-Automatic Pistol|Weapon|A semi-automatic pistol, fires rapidly and with good accuracy.|
@@ -737,6 +738,7 @@
 |![](/waterjug.png)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.png)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.png)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
+|![](/weapon.mod.burstmodule.png)|weapon.mod.burstmodule|838308300|Burst Module|Weapon|Forces the weapon to fire in 3 round bursts.|
 |![](/weapon.mod.extendedmags.png)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.png)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
 |![](/weapon.mod.holosight.png)|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
