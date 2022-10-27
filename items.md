@@ -146,6 +146,8 @@
 |![](/coffin.storage.png)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/composter.png)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.png)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
+|![](/concretehatchet.png)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
+|![](/concretepickaxe.png)|concretepickaxe|-1360171080|Concrete Pickaxe|Tool|A salvaged piece of concrete and rebar with a sharp edge. Can be used to harvest Stone, Metal ore and Sulfur ore.|
 |![](/connected.speaker.png)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/corn.png)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/crankshaft1.png)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
@@ -342,6 +344,7 @@
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/hazmatsuit.lumberjack.png)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
 |![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.png)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
@@ -409,7 +412,10 @@
 |![](/longsword.png)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
 |![](/lowgradefuel.png)|lowgradefuel|-946369541|Low Grade Fuel|Resources|Low Grade Fuel, used to power light sources.|
 |![](/lumberjack hoodie.png)|lumberjack hoodie|-763071910|Lumberjack Hoodie|Attire|A Lumberjack Hoodie|
+|![](/lumberjack.hatchet.png)|lumberjack.hatchet|-399173933|Prototype Hatchet|Tool|A prototype field hatchet, useful for gathering wood|
+|![](/lumberjack.pickaxe.png)|lumberjack.pickaxe|236677901|Prototype Pickaxe|Tool|A prototype field pickaxe. Useful for gathering ore from rocks.|
 |![](/lunar.firecrackers.png)|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
+|![](/mace.baseballbat.png)|mace.baseballbat|-2026042603|Baseball Bat|Weapon||
 |![](/mace.png)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](/machete.png)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
 |![](/mailbox.png)|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
@@ -423,6 +429,7 @@
 |![](/meat.pork.burned.png)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
 |![](/megaphone.png)|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
+|![](/metal.facemask.hockey.png)|metal.facemask.hockey|-1334569149|Hockey Mask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.fragments.png)|metal.fragments|69511070|Metal Fragments|Resources|Metal Fragments. Smelted from Metal Ore, used in lots of different crafting recipes.|
 |![](/metal.ore.png)|metal.ore|-4031221|Metal Ore|Resources|A naturally occurring rock containing metal and metal compounds. You can extract this metal using a furnace.|
@@ -464,6 +471,7 @@
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.png)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
 |![](/pistol.nailgun.png)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
+|![](/pistol.prototype17.png)|pistol.prototype17|1914691295|Prototype 17|Weapon|A burst fire prototype pistol|
 |![](/pistol.python.png)|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
 |![](/pistol.revolver.png)|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
 |![](/pistol.semiauto.png)|pistol.semiauto|818877484|Semi-Automatic Pistol|Weapon|A semi-automatic pistol, fires rapidly and with good accuracy.|
@@ -523,7 +531,7 @@
 |![](/samsite.png)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
 |![](/santabeard.png)|santabeard|2126889441|Santa Beard|Attire|A santa beard. Ho Ho ho.|
 |![](/santahat.png)|santahat|-575483084|Santa Hat|Attire|A santa hat. Ho Ho ho.|
-|![](/scarecrow.png)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorate deployable item.|
+|![](/scarecrow.png)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorative deployable item.|
 |![](/scarecrow.suit.png)|scarecrow.suit|273951840|Scarecrow Suit|Attire|A spooky scarecrow suit|
 |![](/scarecrowhead.png)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
 |![](/scientistsuit_heavy.png)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
@@ -631,7 +639,7 @@
 |![](/spikes.floor.png)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spinner.wheel.png)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
-|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items. Insert spray attachments to spray in the world.|
+|![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
 |![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool||
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
@@ -669,6 +677,7 @@
 |![](/tool.instant_camera.png)|tool.instant_camera|-2001260025|Instant Camera|Tool|An instant camera. Take photos with primary fire, zoom in and out with secondary fire, and change focus mode with reload.|
 |![](/toolgun.png)|toolgun|1803831286|Garry's Mod Tool Gun|Tool|Celebrating 15 Years of Garry's Mod! Use this tool gun to upgrade building parts. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/torch.png)|torch|795236088|Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
+|![](/torch.torch.skull.png)|torch.torch.skull|-1175656359|Cultist Deer Torch|Tool|Cultist Deer Torch|
 |![](/trap.bear.png)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
 |![](/trap.landmine.png)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
 |![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
@@ -727,6 +736,7 @@
 |![](/waterjug.png)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.png)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.png)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
+|![](/weapon.mod.burstmodule.png)|weapon.mod.burstmodule|838308300|Burst Module|Weapon|Forces the weapon to fire in 3 round bursts.|
 |![](/weapon.mod.extendedmags.png)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.png)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
 |![](/weapon.mod.holosight.png)|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
