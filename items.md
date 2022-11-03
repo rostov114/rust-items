@@ -127,7 +127,6 @@
 |![](/chicken.raw.png)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
-|![](/chocholate.png)|chocholate|363467698|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
 |![](/clone.black.berry.png)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
@@ -471,6 +470,7 @@
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.png)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
 |![](/pistol.nailgun.png)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
+|![](/pistol.prototype17.png)|pistol.prototype17|1914691295|Prototype 17|Weapon|A burst fire prototype pistol|
 |![](/pistol.python.png)|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
 |![](/pistol.revolver.png)|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
 |![](/pistol.semiauto.png)|pistol.semiauto|818877484|Semi-Automatic Pistol|Weapon|A semi-automatic pistol, fires rapidly and with good accuracy.|
@@ -734,6 +734,7 @@
 |![](/waterjug.png)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.png)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.png)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
+|![](/weapon.mod.burstmodule.png)|weapon.mod.burstmodule|838308300|Burst Module|Component|Forces the weapon to fire in 3 round bursts.|
 |![](/weapon.mod.extendedmags.png)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.png)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
 |![](/weapon.mod.holosight.png)|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
