@@ -199,7 +199,7 @@
 |![](/electric.button.png)|electric.button|-1778897469|Button|Electrical|A simple electric button.|
 |![](/electric.cabletunnel.png)|electric.cabletunnel|1835946060|Cable Tunnel|Electrical|Allows you to pass a cable through a wall. Each input will forward the amount it receives to the corresponding output on the other side.|
 |![](/electric.counter.png)|electric.counter|-216999575|Counter|Electrical|A basic cathode ray tube screen combined with an incremental counter. Can display power received, or can count upwards and allow passthrough when a target is reached.|
-|![](/electric.doorcontroller.png)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it recieves power|
+|![](/electric.doorcontroller.png)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it receives power|
 |![](/electric.flasherlight.png)|electric.flasherlight|-939424778|Flasher Light|Electrical|A flashing blue light|
 |![](/electric.fuelgenerator.small.png)|electric.fuelgenerator.small|1849887541|Small Generator|Electrical|A small electric generator powered by Low Grade Fuel that outputs 40 power.|
 |![](/electric.generator.small.png)|electric.generator.small|-295829489|Test Generator|Electrical|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
