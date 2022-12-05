@@ -306,6 +306,7 @@
 |![](/ghostsheet.png)|ghostsheet|-1043618880|Ghost Costume|Attire|Definitely not a last minute costume idea.|
 |![](/giantcandycanedecor.png)|giantcandycanedecor|-695124222|Giant Candy Decor|Misc|Get into the holiday spirit with this decorative inflated giant candy cane|
 |![](/giantlollipops.png)|giantlollipops|282103175|Giant Lollipop Decor|Misc|Get into the holiday spirit with these decorative giant lollipops|
+|![](/gingerbreadsuit.png)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.png)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.png)|glue|-1899491405|Glue|Component|A strong adhesive.|
 |![](/granolabar.png)|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
