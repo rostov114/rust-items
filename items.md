@@ -120,6 +120,7 @@
 |![](/cctv.camera.png)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
 |![](/ceilinglight.png)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
 |![](/chainsaw.png)|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
+|![](/chair.icethrone.png)|chair.icethrone|-1944704288|Ice Throne|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/chair.png)|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/charcoal.png)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
 |![](/chicken.burned.png)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
@@ -305,6 +306,7 @@
 |![](/ghostsheet.png)|ghostsheet|-1043618880|Ghost Costume|Attire|Definitely not a last minute costume idea.|
 |![](/giantcandycanedecor.png)|giantcandycanedecor|-695124222|Giant Candy Decor|Misc|Get into the holiday spirit with this decorative inflated giant candy cane|
 |![](/giantlollipops.png)|giantlollipops|282103175|Giant Lollipop Decor|Misc|Get into the holiday spirit with these decorative giant lollipops|
+|![](/gingerbreadsuit.png)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.png)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.png)|glue|-1899491405|Glue|Component|A strong adhesive.|
 |![](/granolabar.png)|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
@@ -429,9 +431,11 @@
 |![](/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
 |![](/megaphone.png)|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
 |![](/metal.facemask.hockey.png)|metal.facemask.hockey|-1334569149|Hockey Mask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
+|![](/metal.facemask.icemask.png)|metal.facemask.icemask|110116923|Ice Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.fragments.png)|metal.fragments|69511070|Metal Fragments|Resources|Metal Fragments. Smelted from Metal Ore, used in lots of different crafting recipes.|
 |![](/metal.ore.png)|metal.ore|-4031221|Metal Ore|Resources|A naturally occurring rock containing metal and metal compounds. You can extract this metal using a furnace.|
+|![](/metal.plate.torso.icevest.png)|metal.plate.torso.icevest|-1478855279|Ice Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.plate.torso.png)|metal.plate.torso|1110385766|Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.refined.png)|metal.refined|317398316|High Quality Metal|Resources|High quality metal suitable for armor and weapons construction.|
 |![](/metalblade.png)|metalblade|1882709339|Metal Blade|Component|A Metal Blade for making melee weapons.|
