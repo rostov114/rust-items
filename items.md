@@ -108,7 +108,6 @@
 |![](/candycane.png)|candycane|1121925526|Candy Cane|Food|A very old candy cane from 2014|
 |![](/candycaneclub.png)|candycaneclub|1789825282|Candy Cane Club|Weapon|Smash some faces with this large piece of candy|
 |![](/captainslog.png)|captainslog|1230691307|Captain's Log|Misc|A deteriorating piece of paper with information relating to the last moments of this vessel.|
-|![](/car.key.png)|car.key|946662961|Car Key|Misc|A key to a car, created at a vehicle lift. Keep this item safe; if lost you'll be unable to drive the car again!|
 |![](/carburetor1.png)|carburetor1|656371028|Low Quality Carburetor|Component|A low quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
 |![](/carburetor2.png)|carburetor2|656371027|Medium Quality Carburetor|Component|A medium quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
 |![](/carburetor3.png)|carburetor3|656371026|High Quality Carburetor|Component|A high quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
@@ -120,6 +119,7 @@
 |![](/cctv.camera.png)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
 |![](/ceilinglight.png)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
 |![](/chainsaw.png)|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
+|![](/chair.icethrone.png)|chair.icethrone|-1944704288|Ice Throne|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/chair.png)|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/charcoal.png)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
 |![](/chicken.burned.png)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
@@ -127,7 +127,6 @@
 |![](/chicken.raw.png)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
-|![](/chocholate.png)|chocholate|363467698|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
 |![](/clone.black.berry.png)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
@@ -200,7 +199,7 @@
 |![](/electric.button.png)|electric.button|-1778897469|Button|Electrical|A simple electric button.|
 |![](/electric.cabletunnel.png)|electric.cabletunnel|1835946060|Cable Tunnel|Electrical|Allows you to pass a cable through a wall. Each input will forward the amount it receives to the corresponding output on the other side.|
 |![](/electric.counter.png)|electric.counter|-216999575|Counter|Electrical|A basic cathode ray tube screen combined with an incremental counter. Can display power received, or can count upwards and allow passthrough when a target is reached.|
-|![](/electric.doorcontroller.png)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it recieves power|
+|![](/electric.doorcontroller.png)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it receives power|
 |![](/electric.flasherlight.png)|electric.flasherlight|-939424778|Flasher Light|Electrical|A flashing blue light|
 |![](/electric.fuelgenerator.small.png)|electric.fuelgenerator.small|1849887541|Small Generator|Electrical|A small electric generator powered by Low Grade Fuel that outputs 40 power.|
 |![](/electric.generator.small.png)|electric.generator.small|-295829489|Test Generator|Electrical|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
@@ -306,6 +305,7 @@
 |![](/ghostsheet.png)|ghostsheet|-1043618880|Ghost Costume|Attire|Definitely not a last minute costume idea.|
 |![](/giantcandycanedecor.png)|giantcandycanedecor|-695124222|Giant Candy Decor|Misc|Get into the holiday spirit with this decorative inflated giant candy cane|
 |![](/giantlollipops.png)|giantlollipops|282103175|Giant Lollipop Decor|Misc|Get into the holiday spirit with these decorative giant lollipops|
+|![](/gingerbreadsuit.png)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.png)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.png)|glue|-1899491405|Glue|Component|A strong adhesive.|
 |![](/granolabar.png)|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
@@ -430,9 +430,11 @@
 |![](/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
 |![](/megaphone.png)|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
 |![](/metal.facemask.hockey.png)|metal.facemask.hockey|-1334569149|Hockey Mask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
+|![](/metal.facemask.icemask.png)|metal.facemask.icemask|110116923|Ice Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.fragments.png)|metal.fragments|69511070|Metal Fragments|Resources|Metal Fragments. Smelted from Metal Ore, used in lots of different crafting recipes.|
 |![](/metal.ore.png)|metal.ore|-4031221|Metal Ore|Resources|A naturally occurring rock containing metal and metal compounds. You can extract this metal using a furnace.|
+|![](/metal.plate.torso.icevest.png)|metal.plate.torso.icevest|-1478855279|Ice Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.plate.torso.png)|metal.plate.torso|1110385766|Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.refined.png)|metal.refined|317398316|High Quality Metal|Resources|High quality metal suitable for armor and weapons construction.|
 |![](/metalblade.png)|metalblade|1882709339|Metal Blade|Component|A Metal Blade for making melee weapons.|
@@ -567,7 +569,6 @@
 |![](/shutter.metal.embrasure.b.png)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
 |![](/shutter.wood.a.png)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.png)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
-|![](/sign.egg.suit.png)|sign.egg.suit|-394470247|Egg Suit Sign Test|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
 |![](/sign.hanging.banner.large.png)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.png)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.png)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
@@ -736,7 +737,7 @@
 |![](/waterjug.png)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.png)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.png)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
-|![](/weapon.mod.burstmodule.png)|weapon.mod.burstmodule|838308300|Burst Module|Weapon|Forces the weapon to fire in 3 round bursts.|
+|![](/weapon.mod.burstmodule.png)|weapon.mod.burstmodule|838308300|Burst Module|Component|Forces the weapon to fire in 3 round bursts.|
 |![](/weapon.mod.extendedmags.png)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.png)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
 |![](/weapon.mod.holosight.png)|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
