@@ -339,6 +339,7 @@
 |![](/hat.gas.mask.png)|hat.gas.mask|1659114910|Gas Mask|Attire|A Gas Mask|
 |![](/hat.miner.png)|hat.miner|-1539025626|Miners Hat|Attire|A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory.|
 |![](/hat.oxmask.png)|hat.oxmask|1315082560|Ox Mask|Attire|An Ox mask to celebrate the 2021 Lunar New Year.|
+|![](/hat.rabbitmask.png)|hat.rabbitmask|-986782031|Rabbit Mask|Attire|A Beautifully crafted Rabbit mask to celebrate the 2023 Lunar New Year|
 |![](/hat.ratmask.png)|hat.ratmask|271048478|Rat Mask|Attire|A Beautifully crafted bronze and gold Rat mask to celebrate the 2020 Lunar New Year|
 |![](/hat.tigermask.png)|hat.tigermask|709206314|Tiger Mask|Attire|A special tiger mask to celebrate Chinese New Year|
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
