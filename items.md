@@ -108,7 +108,6 @@
 |![](/candycane.png)|candycane|1121925526|Candy Cane|Food|A very old candy cane from 2014|
 |![](/candycaneclub.png)|candycaneclub|1789825282|Candy Cane Club|Weapon|Smash some faces with this large piece of candy|
 |![](/captainslog.png)|captainslog|1230691307|Captain's Log|Misc|A deteriorating piece of paper with information relating to the last moments of this vessel.|
-|![](/car.key.png)|car.key|946662961|Car Key|Misc|A key to a car, created at a vehicle lift. Keep this item safe; if lost you'll be unable to drive the car again!|
 |![](/carburetor1.png)|carburetor1|656371028|Low Quality Carburetor|Component|A low quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
 |![](/carburetor2.png)|carburetor2|656371027|Medium Quality Carburetor|Component|A medium quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
 |![](/carburetor3.png)|carburetor3|656371026|High Quality Carburetor|Component|A high quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
@@ -128,7 +127,6 @@
 |![](/chicken.raw.png)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
-|![](/chocholate.png)|chocholate|363467698|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
 |![](/clone.black.berry.png)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
@@ -572,7 +570,6 @@
 |![](/shutter.metal.embrasure.b.png)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
 |![](/shutter.wood.a.png)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.png)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
-|![](/sign.egg.suit.png)|sign.egg.suit|-394470247|Egg Suit Sign Test|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
 |![](/sign.hanging.banner.large.png)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.png)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.png)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
@@ -646,7 +643,6 @@
 |![](/spookyspeaker.png)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
 |![](/spraycan.png)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
 |![](/spraycandecal.png)|spraycandecal|-1366326648|Spray Can Decal|Tool||
-|![](/spraycanfreehand.png)|spraycanfreehand|1488285104|Spray Can Freehand Nozzle|Tool|Insert into a spray can to freely paint in the world. Use [+reload] to change colour and [+use] to change size.|
 |![](/stash.small.png)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.png)|sticks|642482233|Sticks|Component|Some long, some short.|
 |![](/stocking.large.png)|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
@@ -656,7 +652,6 @@
 |![](/stones.png)|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
 |![](/storage.monitor.png)|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
 |![](/strobelight.png)|strobelight|2104517339|Strobe Light|Misc|A flashing light, 3 speeds. Causes seizures.|
-|![](/submarine.torpedo.rising.png)|submarine.torpedo.rising|-239306133|Surface torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead while rising to the water's surface.|
 |![](/submarine.torpedo.straight.png)|submarine.torpedo.straight|-1671551935|Torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead in a straight line.|
 |![](/submarineduo.png)|submarineduo|1015352446|Duo Submarine|Misc|A small two-person submarine.|
 |![](/submarinesolo.png)|submarinesolo|-187031121|Solo Submarine|Misc|A small one-person submarine.|
