@@ -202,7 +202,7 @@
 |![](/electric.doorcontroller.png)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it receives power|
 |![](/electric.flasherlight.png)|electric.flasherlight|-939424778|Flasher Light|Electrical|A flashing blue light|
 |![](/electric.fuelgenerator.small.png)|electric.fuelgenerator.small|1849887541|Small Generator|Electrical|A small electric generator powered by Low Grade Fuel that outputs 40 power.|
-|![](/electric.furnace.png)|electric.furnace|-1196547867|Electric Furnace|Items|An electrical version of a furnace that uses electricity instead of a fuel source.|
+|![](/electric.furnace.png)|electric.furnace|-1196547867|Electric Furnace|Electrical|An electrical version of a furnace that uses electricity instead of a fuel source.|
 |![](/electric.generator.small.png)|electric.generator.small|-295829489|Test Generator|Electrical|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
 |![](/electric.hbhfsensor.png)|electric.hbhfsensor|-1507239837|HBHF Sensor|Electrical|A Heartbeat, Breathing, Humidity and Footstep sensor. Passthrough is equal to the number of humans detected in a 10m radius|
 |![](/electric.heater.png)|electric.heater|-784870360|Electric Heater|Electrical|Provides warmth in a radius when on|
