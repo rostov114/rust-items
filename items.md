@@ -202,6 +202,7 @@
 |![](/electric.doorcontroller.png)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it receives power|
 |![](/electric.flasherlight.png)|electric.flasherlight|-939424778|Flasher Light|Electrical|A flashing blue light|
 |![](/electric.fuelgenerator.small.png)|electric.fuelgenerator.small|1849887541|Small Generator|Electrical|A small electric generator powered by Low Grade Fuel that outputs 40 power.|
+|![](/electric.furnace.png)|electric.furnace|-1196547867|Electric Furnace|Electrical|An electrical version of a furnace that uses electricity instead of a fuel source.|
 |![](/electric.generator.small.png)|electric.generator.small|-295829489|Test Generator|Electrical|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
 |![](/electric.hbhfsensor.png)|electric.hbhfsensor|-1507239837|HBHF Sensor|Electrical|A Heartbeat, Breathing, Humidity and Footstep sensor. Passthrough is equal to the number of humans detected in a 10m radius|
 |![](/electric.heater.png)|electric.heater|-784870360|Electric Heater|Electrical|Provides warmth in a radius when on|
@@ -338,6 +339,7 @@
 |![](/hat.gas.mask.png)|hat.gas.mask|1659114910|Gas Mask|Attire|A Gas Mask|
 |![](/hat.miner.png)|hat.miner|-1539025626|Miners Hat|Attire|A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory.|
 |![](/hat.oxmask.png)|hat.oxmask|1315082560|Ox Mask|Attire|An Ox mask to celebrate the 2021 Lunar New Year.|
+|![](/hat.rabbitmask.png)|hat.rabbitmask|-986782031|Rabbit Mask|Attire|A Beautifully crafted Rabbit mask to celebrate the 2023 Lunar New Year|
 |![](/hat.ratmask.png)|hat.ratmask|271048478|Rat Mask|Attire|A Beautifully crafted bronze and gold Rat mask to celebrate the 2020 Lunar New Year|
 |![](/hat.tigermask.png)|hat.tigermask|709206314|Tiger Mask|Attire|A special tiger mask to celebrate Chinese New Year|
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
@@ -377,6 +379,10 @@
 |![](/humanmeat.raw.png)|humanmeat.raw|-1709878924|Raw Human Meat|Food|Raw human meat. Consuming will damage your health.|
 |![](/humanmeat.spoiled.png)|humanmeat.spoiled|1272768630|Spoiled Human Meat|Food|Spoiled Human Meat. Consuming will damage your health.|
 |![](/icepick.salvaged.png)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
+|![](/industrial.combiner.png)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
+|![](/industrial.conveyor.png)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
+|![](/industrial.crafter.png)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
+|![](/industrial.splitter.png)|industrial.splitter|742745918|Industrial Splitter|Electrical|Splits an industrial connection into three separate connections.|
 |![](/industrial.wall.light.green.png)|industrial.wall.light.green|1268178466|Green Industrial Wall Light|Electrical|A small green light source.|
 |![](/industrial.wall.light.png)|industrial.wall.light|1623701499|Industrial Wall Light|Electrical|A small light source.|
 |![](/industrial.wall.light.red.png)|industrial.wall.light.red|-1160621614|Red Industrial Wall Light|Electrical|A small red light source.|
@@ -470,6 +476,7 @@
 |![](/photoframe.portrait.png)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.png)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.png)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
+|![](/pipetool.png)|pipetool|-144513264|Pipe Tool|Electrical|Now you're thinking with pipes!|
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.png)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
 |![](/pistol.nailgun.png)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
@@ -650,6 +657,7 @@
 |![](/stonehatchet.png)|stonehatchet|-1583967946|Stone Hatchet|Tool|Primitive tool used for harvesting wood from trees and logs.|
 |![](/stones.png)|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
 |![](/storage.monitor.png)|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
+|![](/storageadaptor.png)|storageadaptor|-1049172752|Storage Adaptor|Electrical|Attach to a storage container to allow industrial input/output connections.|
 |![](/strobelight.png)|strobelight|2104517339|Strobe Light|Misc|A flashing light, 3 speeds. Causes seizures.|
 |![](/submarine.torpedo.straight.png)|submarine.torpedo.straight|-1671551935|Torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead in a straight line.|
 |![](/submarineduo.png)|submarineduo|1015352446|Duo Submarine|Misc|A small two-person submarine.|
