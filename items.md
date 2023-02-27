@@ -180,7 +180,7 @@
 |![](/door.hinged.wood.png)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](/door.key.png)|door.key|-1112793865|Door Key|Misc|A key to a door, created from a Lock. Keep this item safe; if lost you'll be unable to open the door again!|
 |![](/dragondoorknocker.png)|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
-|![](/drone.png)|drone|1588492232|Drone|Items|A remote controlled drone.|
+|![](/drone.png)|drone|1588492232|Drone|Items|A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts.|
 |![](/dropbox.png)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
 |![](/drumkit.png)|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
 |![](/ducttape.png)|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
@@ -496,7 +496,7 @@
 |![](/potato.png)|potato|-2086926071|Potato|Food|Potato.|
 |![](/powered.water.purifier.png)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
 |![](/propanetank.png)|propanetank|-1673693549|Empty Propane Tank|Component|Strong metal object.|
-|![](/ptz.cctv.camera.png)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station. This camera has pan, tilt, and zoom capability for adjusting the cameras view from a Computer Station.|
+|![](/ptz.cctv.camera.png)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and securitywhen paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.png)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/pumpkinbasket.png)|pumpkinbasket|1346158228|Pumpkin Bucket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
 |![](/radiationremovetea.advanced.png)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
