@@ -536,6 +536,7 @@
 |![](/rustige_egg_c.png)|rustige_egg_c|-173268131|Rustigé Egg - Purple|Misc|A beautiful hand crafted purple egg with gold lace, a miniature offshore monument is contained inside.|
 |![](/rustige_egg_d.png)|rustige_egg_d|-173268126|Rustigé Egg - Ivory|Misc|A beautiful hand crafted Ivory and gold egg, with a miniature monument contained inside.|
 |![](/rustige_egg_e.png)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
+|![](/rustige_egg_f.png)|rustige_egg_f|-173268128|Rustigé Egg - White|Misc|A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.|
 |![](/salvaged.cleaver.png)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
 |![](/salvaged.sword.png)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
 |![](/samsite.png)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
