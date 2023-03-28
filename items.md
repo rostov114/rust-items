@@ -364,7 +364,9 @@
 |![](/hoodie.png)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/horse.armor.roadsign.png)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
 |![](/horse.armor.wood.png)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
+|![](/horse.saddle.double.png)|horse.saddle.double|-1323101799|Double Horse Saddle|Attire|A horse saddle with two seats.|
 |![](/horse.saddle.png)|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
+|![](/horse.saddle.single.png)|horse.saddle.single|1559915778|Single Horse Saddle|Attire|A horse saddle with one seat.|
 |![](/horse.saddlebag.png)|horse.saddlebag|1400460850|Saddle bag|Attire|Equipping this saddle bag will add extra storage space on your horse|
 |![](/horse.shoes.advanced.png)|horse.shoes.advanced|1989785143|High Quality Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
 |![](/horse.shoes.basic.png)|horse.shoes.basic|-1211268013|Basic Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
