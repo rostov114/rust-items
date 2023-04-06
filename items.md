@@ -36,7 +36,7 @@
 |![](/attire.banditguard.png)|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
 |![](/attire.bunny.onesie.png)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
 |![](/attire.bunnyears.png)|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
-|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped. Releasing publicly in 2023|
+|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped.|
 |![](/attire.hide.boots.png)|attire.hide.boots|794356786|Hide Boots|Attire|Boots made from the hide of an animal.|
 |![](/attire.hide.helterneck.png)|attire.hide.helterneck|3222790|Hide Halterneck|Attire|A Halterneck made from the hide of an animal.|
 |![](/attire.hide.pants.png)|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal.|
@@ -364,7 +364,9 @@
 |![](/hoodie.png)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/horse.armor.roadsign.png)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
 |![](/horse.armor.wood.png)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
+|![](/horse.saddle.double.png)|horse.saddle.double|-1323101799|Double Horse Saddle|Attire|A horse saddle with two seats. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.png)|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
+|![](/horse.saddle.single.png)|horse.saddle.single|1559915778|Single Horse Saddle|Attire|A horse saddle with one seat. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddlebag.png)|horse.saddlebag|1400460850|Saddle bag|Attire|Equipping this saddle bag will add extra storage space on your horse|
 |![](/horse.shoes.advanced.png)|horse.shoes.advanced|1989785143|High Quality Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
 |![](/horse.shoes.basic.png)|horse.shoes.basic|-1211268013|Basic Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
@@ -536,6 +538,7 @@
 |![](/rustige_egg_c.png)|rustige_egg_c|-173268131|Rustigé Egg - Purple|Misc|A beautiful hand crafted purple egg with gold lace, a miniature offshore monument is contained inside.|
 |![](/rustige_egg_d.png)|rustige_egg_d|-173268126|Rustigé Egg - Ivory|Misc|A beautiful hand crafted Ivory and gold egg, with a miniature monument contained inside.|
 |![](/rustige_egg_e.png)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
+|![](/rustige_egg_f.png)|rustige_egg_f|-173268128|Rustigé Egg - White|Misc|A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.|
 |![](/salvaged.cleaver.png)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
 |![](/salvaged.sword.png)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
 |![](/samsite.png)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
