@@ -735,6 +735,7 @@
 |![](/wall.frame.shopfront.metal.png)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
 |![](/wall.graveyard.fence.png)|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
 |![](/wall.ice.wall.png)|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
+|![](/wall.window.bars.brickskin.png)|wall.window.bars.brickskin|-81700958|Brick Skin Window Bars|Construction|Metal window bars made to fit a brick skin sized window.|
 |![](/wall.window.bars.metal.png)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
 |![](/wall.window.bars.toptier.png)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.png)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
