@@ -75,6 +75,7 @@
 |![](/blue.berry.png)|blue.berry|1112162468|Blue Berry|Food|A blue berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/blueberries.png)|blueberries|-586342290|Blueberries|Food|Blueberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/bluedogtags.png)|bluedogtags|1036321299|Blue Dog Tags|Resources|Blue Dog Tags|
+|![](/blueidtag.png)|blueidtag|1364514421|Blue ID Tag|Resources|Blue ID Tag|
 |![](/blueprintbase.png)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
 |![](/bone.armor.suit.png)|bone.armor.suit|1746956556|Bone Armor|Attire|A suit of armor made of bones.|
 |![](/bone.club.png)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
@@ -311,7 +312,9 @@
 |![](/glue.png)|glue|-1899491405|Glue|Component|A strong adhesive.|
 |![](/granolabar.png)|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
 |![](/gravestone.png)|gravestone|809199956|Gravestone|Misc|A Gravestone marking the remains of an unknown soul|
+|![](/grayidtag.png)|grayidtag|-455286320|Gray ID Tag|Resources|Gray ID Tag|
 |![](/green.berry.png)|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](/greenidtag.png)|greenidtag|1762167092|Green ID Tag|Resources|Green ID Tag|
 |![](/grenade.beancan.png)|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
 |![](/grenade.f1.png)|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
 |![](/grenade.flashbang.png)|grenade.flashbang|-936921910|Flashbang|Weapon|A bright explosive device which blinds and disorients anyone near it upon detonation|
@@ -351,6 +354,7 @@
 |![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.png)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
@@ -463,6 +467,7 @@
 |![](/newyeargong.png)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.png)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.png)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
+|![](/orangeidtag.png)|orangeidtag|-282193997|Orange ID Tag|Resources|Orange ID Tag|
 |![](/oretea.advanced.png)|oretea.advanced|2063916636|Advanced Ore Tea|Food|A tea that increases the amount of ore you receive.|
 |![](/oretea.png)|oretea|1480022580|Basic Ore Tea|Food|A tea that increases the amount of ore you receive.|
 |![](/oretea.pure.png)|oretea.pure|1729374708|Pure Ore Tea|Food|A tea that increases the amount of ore you receive.|
@@ -478,6 +483,7 @@
 |![](/photoframe.portrait.png)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.png)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.png)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
+|![](/pinkidtag.png)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.png)|pipetool|-144513264|Pipe Tool|Electrical|Now you're thinking with pipes!|
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.png)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
@@ -501,6 +507,7 @@
 |![](/ptz.cctv.camera.png)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.png)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/pumpkinbasket.png)|pumpkinbasket|1346158228|Pumpkin Bucket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
+|![](/purpleidtag.png)|purpleidtag|-1386082991|Purple ID Tag|Resources|Purple ID Tag|
 |![](/radiationremovetea.advanced.png)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.png)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.pure.png)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|Food|A tea that removes some radiation.|
@@ -509,6 +516,7 @@
 |![](/radiationresisttea.pure.png)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/red.berry.png)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.png)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
+|![](/redidtag.png)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
 |![](/research.table.png)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.png)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
@@ -675,6 +683,7 @@
 |![](/sunglasses03black.png)|sunglasses03black|-176608084|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03chrome.png)|sunglasses03chrome|-1997698639|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03gold.png)|sunglasses03gold|-1408336705|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](/supertea.png)|supertea|-1003665711|Super Tea|Food|Super Tea, more health, more ore, more wood, more scrap|
 |![](/supply.signal.png)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
 |![](/surveycharge.png)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
 |![](/syringe.medical.png)|syringe.medical|1079279582|Medical Syringe|Medical|Heal yourself or others with this syringe. Left-click heals you, right-click heals a target.|
@@ -735,6 +744,7 @@
 |![](/wall.frame.shopfront.metal.png)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
 |![](/wall.graveyard.fence.png)|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
 |![](/wall.ice.wall.png)|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
+|![](/wall.window.bars.brickskin.png)|wall.window.bars.brickskin|-81700958|Brick Skin Window Bars|Construction|Metal window bars made to fit a brick skin sized window.|
 |![](/wall.window.bars.metal.png)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
 |![](/wall.window.bars.toptier.png)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.png)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
@@ -760,6 +770,7 @@
 |![](/weapon.mod.simplesight.png)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
 |![](/weapon.mod.small.scope.png)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
 |![](/white.berry.png)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](/whiteidtag.png)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
 |![](/wiretool.png)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle. you can then click on another object's input/output handle to form a connection. holding right mouse will clear or cancel a connection.|
 |![](/wolfmeat.burned.png)|wolfmeat.burned|1827479659|Burnt Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
 |![](/wolfmeat.cooked.png)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
@@ -800,3 +811,4 @@
 |![](/xmasdoorwreath.png)|xmasdoorwreath|2009734114|Christmas Door Wreath|Items|Get into the christmas spirit with this holiday door wreath.|
 |![](/xylophone.png)|xylophone|-211235948|Xylobone|Fun|A selection of bones that were “acquired” for their acoustic attributes. Play a lullaby for your camp with these soothing tones.|
 |![](/yellow.berry.png)|yellow.berry|1660145984|Yellow Berry|Food|A yellow berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](/yellowidtag.png)|yellowidtag|81423963|Yellow ID Tag|Resources|Yellow ID Tag|
