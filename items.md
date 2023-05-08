@@ -683,7 +683,7 @@
 |![](/sunglasses03black.png)|sunglasses03black|-176608084|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03chrome.png)|sunglasses03chrome|-1997698639|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03gold.png)|sunglasses03gold|-1408336705|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](/supertea.png)|supertea|-1003665711|Super Tea|Food|Super Tea, more health, more ore, more wood, more scrap|
+|![](/supertea.png)|supertea|-1003665711|Super Serum|Food|Super Tea, more health, more ore, more wood, more scrap|
 |![](/supply.signal.png)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
 |![](/surveycharge.png)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
 |![](/syringe.medical.png)|syringe.medical|1079279582|Medical Syringe|Medical|Heal yourself or others with this syringe. Left-click heals you, right-click heals a target.|
