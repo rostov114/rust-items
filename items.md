@@ -166,6 +166,9 @@
 |![](/discoball.png)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.png)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
 |![](/discofloor.largetiles.png)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
+|![](/diverhatchet.png)|diverhatchet|1046904719|Diver Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
+|![](/diverpickaxe.png)|diverpickaxe|1561022037|Diver Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
+|![](/divertorch.png)|divertorch|1846605708|Diver Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
 |![](/diving.fins.png)|diving.fins|296519935|Diving Fins|Attire|Diving Fins which greatly increase underwater movement|
 |![](/diving.mask.png)|diving.mask|-113413047|Diving Mask|Attire|A Diving Mask. Provides clear vision under water.|
 |![](/diving.tank.png)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
@@ -348,6 +351,7 @@
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
+|![](/hazmatsuit.diver.png)|hazmatsuit.diver|-797592358|Diver|Attire|A diver suit|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.png)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
@@ -522,6 +526,7 @@
 |![](/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.png)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.png)|rhib|1394042569|RHIB|Items||
+|![](/rifle.ak.diver.png)|rifle.ak.diver|-139037392|Diver Assault Rifle|Weapon||
 |![](/rifle.ak.ice.png)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.png)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.bolt.png)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
