@@ -351,7 +351,7 @@
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
-|![](/hazmatsuit.diver.png)|hazmatsuit.diver|-797592358|Abyss Divers Suit|Attire|A divers suit found in the abyss, double as a reliable hazmat suit|
+|![](/hazmatsuit.diver.png)|hazmatsuit.diver|-797592358|Abyss Divers Suit|Attire|A divers suit found in the abyss, doubles as a reliable hazmat suit|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.png)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
