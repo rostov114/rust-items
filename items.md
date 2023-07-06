@@ -166,6 +166,9 @@
 |![](/discoball.png)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.png)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
 |![](/discofloor.largetiles.png)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
+|![](/diverhatchet.png)|diverhatchet|1046904719|Abyss Metal Hatchet|Tool|Metal hatchet, reclaimed from the abyss, perfect for survival and crafting|
+|![](/diverpickaxe.png)|diverpickaxe|1561022037|Abyss Metal Pickaxe|Tool|Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor|
+|![](/divertorch.png)|divertorch|1846605708|Abyss Torch|Tool|Illuminate the underwater depths with this durable and waterproof diving torch|
 |![](/diving.fins.png)|diving.fins|296519935|Diving Fins|Attire|Diving Fins which greatly increase underwater movement|
 |![](/diving.mask.png)|diving.mask|-113413047|Diving Mask|Attire|A Diving Mask. Provides clear vision under water.|
 |![](/diving.tank.png)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
@@ -348,6 +351,7 @@
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
+|![](/hazmatsuit.diver.png)|hazmatsuit.diver|-797592358|Abyss Divers Suit|Attire|A divers suit found in the abyss, doubles as a reliable hazmat suit|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.png)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
@@ -522,6 +526,7 @@
 |![](/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.png)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.png)|rhib|1394042569|RHIB|Items||
+|![](/rifle.ak.diver.png)|rifle.ak.diver|-139037392|Abyss Assault Rifle|Weapon|A waterlogged assault rifle from the abyss|
 |![](/rifle.ak.ice.png)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.png)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.bolt.png)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
@@ -705,6 +710,7 @@
 |![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
 |![](/tshirt.png)|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|
 |![](/tshirt.long.png)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|A t-shirt with long sleeves.|
+|![](/tugboat.png)|tugboat|-561148628|Tugboat|Items||
 |![](/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
 |![](/twitch.headset.png)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchsunglasses.png)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
