@@ -36,7 +36,7 @@
 |![](/attire.banditguard.png)|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
 |![](/attire.bunny.onesie.png)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
 |![](/attire.bunnyears.png)|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
-|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped. Releasing publicly in 2023|
+|![](/attire.egg.suit.png)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped.|
 |![](/attire.hide.boots.png)|attire.hide.boots|794356786|Hide Boots|Attire|Boots made from the hide of an animal.|
 |![](/attire.hide.helterneck.png)|attire.hide.helterneck|3222790|Hide Halterneck|Attire|A Halterneck made from the hide of an animal.|
 |![](/attire.hide.pants.png)|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal.|
@@ -75,6 +75,7 @@
 |![](/blue.berry.png)|blue.berry|1112162468|Blue Berry|Food|A blue berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/blueberries.png)|blueberries|-586342290|Blueberries|Food|Blueberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/bluedogtags.png)|bluedogtags|1036321299|Blue Dog Tags|Resources|Blue Dog Tags|
+|![](/blueidtag.png)|blueidtag|1364514421|Blue ID Tag|Resources|Blue ID Tag|
 |![](/blueprintbase.png)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
 |![](/bone.armor.suit.png)|bone.armor.suit|1746956556|Bone Armor|Attire|A suit of armor made of bones.|
 |![](/bone.club.png)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
@@ -165,6 +166,9 @@
 |![](/discoball.png)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.png)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
 |![](/discofloor.largetiles.png)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
+|![](/diverhatchet.png)|diverhatchet|1046904719|Abyss Metal Hatchet|Tool|Metal hatchet, reclaimed from the abyss, perfect for survival and crafting|
+|![](/diverpickaxe.png)|diverpickaxe|1561022037|Abyss Metal Pickaxe|Tool|Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor|
+|![](/divertorch.png)|divertorch|1846605708|Abyss Torch|Tool|Illuminate the underwater depths with this durable and waterproof diving torch|
 |![](/diving.fins.png)|diving.fins|296519935|Diving Fins|Attire|Diving Fins which greatly increase underwater movement|
 |![](/diving.mask.png)|diving.mask|-113413047|Diving Mask|Attire|A Diving Mask. Provides clear vision under water.|
 |![](/diving.tank.png)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
@@ -180,7 +184,7 @@
 |![](/door.hinged.wood.png)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](/door.key.png)|door.key|-1112793865|Door Key|Misc|A key to a door, created from a Lock. Keep this item safe; if lost you'll be unable to open the door again!|
 |![](/dragondoorknocker.png)|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
-|![](/drone.png)|drone|1588492232|Drone|Items|A remote controlled drone.|
+|![](/drone.png)|drone|1588492232|Drone|Items|A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts.|
 |![](/dropbox.png)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
 |![](/drumkit.png)|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
 |![](/ducttape.png)|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
@@ -311,7 +315,9 @@
 |![](/glue.png)|glue|-1899491405|Glue|Component|A strong adhesive.|
 |![](/granolabar.png)|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
 |![](/gravestone.png)|gravestone|809199956|Gravestone|Misc|A Gravestone marking the remains of an unknown soul|
+|![](/grayidtag.png)|grayidtag|-455286320|Gray ID Tag|Resources|Gray ID Tag|
 |![](/green.berry.png)|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](/greenidtag.png)|greenidtag|1762167092|Green ID Tag|Resources|Green ID Tag|
 |![](/grenade.beancan.png)|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
 |![](/grenade.f1.png)|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
 |![](/grenade.flashbang.png)|grenade.flashbang|-936921910|Flashbang|Weapon|A bright explosive device which blinds and disorients anyone near it upon detonation|
@@ -345,12 +351,14 @@
 |![](/hat.wolf.png)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.png)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmatsuit.arcticsuit.png)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
+|![](/hazmatsuit.diver.png)|hazmatsuit.diver|-797592358|Abyss Divers Suit|Attire|A divers suit found in the abyss, doubles as a reliable hazmat suit|
 |![](/hazmatsuit.png)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.png)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.png)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
 |![](/hazmatsuit.spacesuit.png)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.png)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
@@ -364,7 +372,9 @@
 |![](/hoodie.png)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/horse.armor.roadsign.png)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
 |![](/horse.armor.wood.png)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
+|![](/horse.saddle.double.png)|horse.saddle.double|-1323101799|Double Horse Saddle|Attire|A horse saddle with two seats. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.png)|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
+|![](/horse.saddle.single.png)|horse.saddle.single|1559915778|Single Horse Saddle|Attire|A horse saddle with one seat. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddlebag.png)|horse.saddlebag|1400460850|Saddle bag|Attire|Equipping this saddle bag will add extra storage space on your horse|
 |![](/horse.shoes.advanced.png)|horse.shoes.advanced|1989785143|High Quality Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
 |![](/horse.shoes.basic.png)|horse.shoes.basic|-1211268013|Basic Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
@@ -461,6 +471,7 @@
 |![](/newyeargong.png)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.png)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.png)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
+|![](/orangeidtag.png)|orangeidtag|-282193997|Orange ID Tag|Resources|Orange ID Tag|
 |![](/oretea.advanced.png)|oretea.advanced|2063916636|Advanced Ore Tea|Food|A tea that increases the amount of ore you receive.|
 |![](/oretea.png)|oretea|1480022580|Basic Ore Tea|Food|A tea that increases the amount of ore you receive.|
 |![](/oretea.pure.png)|oretea.pure|1729374708|Pure Ore Tea|Food|A tea that increases the amount of ore you receive.|
@@ -476,6 +487,7 @@
 |![](/photoframe.portrait.png)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.png)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.png)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
+|![](/pinkidtag.png)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.png)|pipetool|-144513264|Pipe Tool|Electrical|Now you're thinking with pipes!|
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.png)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
@@ -496,9 +508,10 @@
 |![](/potato.png)|potato|-2086926071|Potato|Food|Potato.|
 |![](/powered.water.purifier.png)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
 |![](/propanetank.png)|propanetank|-1673693549|Empty Propane Tank|Component|Strong metal object.|
-|![](/ptz.cctv.camera.png)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station. This camera has pan, tilt, and zoom capability for adjusting the cameras view from a Computer Station.|
+|![](/ptz.cctv.camera.png)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.png)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/pumpkinbasket.png)|pumpkinbasket|1346158228|Pumpkin Bucket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
+|![](/purpleidtag.png)|purpleidtag|-1386082991|Purple ID Tag|Resources|Purple ID Tag|
 |![](/radiationremovetea.advanced.png)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.png)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.pure.png)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|Food|A tea that removes some radiation.|
@@ -507,11 +520,13 @@
 |![](/radiationresisttea.pure.png)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/red.berry.png)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.png)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
+|![](/redidtag.png)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
 |![](/research.table.png)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.png)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/rf.detonator.png)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.png)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.png)|rhib|1394042569|RHIB|Items||
+|![](/rifle.ak.diver.png)|rifle.ak.diver|-139037392|Abyss Assault Rifle|Weapon|A waterlogged assault rifle from the abyss|
 |![](/rifle.ak.ice.png)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.png)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.bolt.png)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
@@ -536,6 +551,7 @@
 |![](/rustige_egg_c.png)|rustige_egg_c|-173268131|Rustigé Egg - Purple|Misc|A beautiful hand crafted purple egg with gold lace, a miniature offshore monument is contained inside.|
 |![](/rustige_egg_d.png)|rustige_egg_d|-173268126|Rustigé Egg - Ivory|Misc|A beautiful hand crafted Ivory and gold egg, with a miniature monument contained inside.|
 |![](/rustige_egg_e.png)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
+|![](/rustige_egg_f.png)|rustige_egg_f|-173268128|Rustigé Egg - White|Misc|A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.|
 |![](/salvaged.cleaver.png)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
 |![](/salvaged.sword.png)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
 |![](/samsite.png)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
@@ -672,6 +688,7 @@
 |![](/sunglasses03black.png)|sunglasses03black|-176608084|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03chrome.png)|sunglasses03chrome|-1997698639|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03gold.png)|sunglasses03gold|-1408336705|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](/supertea.png)|supertea|-1003665711|Super Serum|Food|Super Serum, more health, more ore, more wood, more scrap|
 |![](/supply.signal.png)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
 |![](/surveycharge.png)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
 |![](/syringe.medical.png)|syringe.medical|1079279582|Medical Syringe|Medical|Heal yourself or others with this syringe. Left-click heals you, right-click heals a target.|
@@ -693,6 +710,7 @@
 |![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
 |![](/tshirt.png)|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|
 |![](/tshirt.long.png)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|A t-shirt with long sleeves.|
+|![](/tugboat.png)|tugboat|-561148628|Tugboat|Items||
 |![](/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
 |![](/twitch.headset.png)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchsunglasses.png)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
@@ -732,6 +750,7 @@
 |![](/wall.frame.shopfront.metal.png)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
 |![](/wall.graveyard.fence.png)|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
 |![](/wall.ice.wall.png)|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
+|![](/wall.window.bars.brickskin.png)|wall.window.bars.brickskin|-81700958|Brick Skin Window Bars|Construction|Metal window bars made to fit a brick skin sized window.|
 |![](/wall.window.bars.metal.png)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
 |![](/wall.window.bars.toptier.png)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.png)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
@@ -757,6 +776,7 @@
 |![](/weapon.mod.simplesight.png)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
 |![](/weapon.mod.small.scope.png)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
 |![](/white.berry.png)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](/whiteidtag.png)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
 |![](/wiretool.png)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle. you can then click on another object's input/output handle to form a connection. holding right mouse will clear or cancel a connection.|
 |![](/wolfmeat.burned.png)|wolfmeat.burned|1827479659|Burnt Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
 |![](/wolfmeat.cooked.png)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
@@ -797,3 +817,4 @@
 |![](/xmasdoorwreath.png)|xmasdoorwreath|2009734114|Christmas Door Wreath|Items|Get into the christmas spirit with this holiday door wreath.|
 |![](/xylophone.png)|xylophone|-211235948|Xylobone|Fun|A selection of bones that were “acquired” for their acoustic attributes. Play a lullaby for your camp with these soothing tones.|
 |![](/yellow.berry.png)|yellow.berry|1660145984|Yellow Berry|Food|A yellow berry. Can be eaten or used in mixing table recipes to create teas.|
+|![](/yellowidtag.png)|yellowidtag|81423963|Yellow ID Tag|Resources|Yellow ID Tag|
