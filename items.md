@@ -326,6 +326,10 @@
 |![](/grub.png)|grub|-568419968|Grub|Food|A pale, fleshy insect that can be used for bait. Could also be eaten in desperate situations.|
 |![](/gun.water.png)|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
 |![](/gunpowder.png)|gunpowder|-265876753|Gun Powder|Resources|Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!|
+|![](/gunrack.horizontal.png)|gunrack.horizontal|-246672609|Horizontal Weapon Rack|Items|A rack of guns.|
+|![](/gunrack_stand.png)|gunrack_stand|1132603396|Weapon Rack Stand|Items|A standing weapon rack.|
+|![](/gunrack_tall.horizontal.png)|gunrack_tall.horizontal|240752557|Tall Weapon Rack|Items|A rack for weapons.|
+|![](/gunrack_wide.horizontal.png)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|Items|A rack for weapons.|
 |![](/guntrap.png)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
 |![](/habrepair.png)|habrepair|-1759188988|Hab Repair|Misc|Hab repair|
 |![](/halloween.candy.png)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bat!|
