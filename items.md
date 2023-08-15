@@ -780,6 +780,8 @@
 |![](/weapon.mod.silencer.png)|weapon.mod.silencer|-1850571427|Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.|
 |![](/weapon.mod.simplesight.png)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
 |![](/weapon.mod.small.scope.png)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
+|![](/weaponrack.doublelight.png)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|Electrical|A weapon rack light.|
+|![](/weaponrack.light.png)|weaponrack.light|-1163943815|Weapon Rack Light|Electrical|A weapon rack light.|
 |![](/white.berry.png)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/whiteidtag.png)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
 |![](/wiretool.png)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle. you can then click on another object's input/output handle to form a connection. holding right mouse will clear or cancel a connection.|
