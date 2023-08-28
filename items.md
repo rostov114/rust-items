@@ -487,7 +487,7 @@
 |![](/pants.shorts.png)|pants.shorts|-1695367501|Shorts|Attire|Trousers without the bottom of the legs.|
 |![](/paper.png)|paper|-1779183908|Paper|Resources|Paper, a ingredient for Building plan and Note.|
 |![](/parachute.deployed.png)|parachute.deployed|1784005657|Parachute (Deployed)|Attire|Deployed version of parachute. Hidden.|
-|![](/parachute.png)|parachute|602628465|Parachute|Attire|Once equipped, press [+jump] while in mid-air to pull the cord. Must be repacked after use.|
+|![](/parachute.png)|parachute|602628465|Parachute|Attire|Once equipped, press [+jump] while in mid-air to pull the cord. Must be repacked after use. Must be at least 15m above the ground in order to deploy.|
 |![](/partyhat.png)|partyhat|-575744869|Party Hat|Attire|A very stupid looking party hat|
 |![](/photo.png)|photo|62577426|Photograph|Misc|A photograph taken with an instant camera.|
 |![](/photoframe.landscape.png)|photoframe.landscape|1697996440|Landscape Photo Frame|Items|A landscape oriented canvas for artists paintings.|
