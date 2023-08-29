@@ -20,6 +20,7 @@
 |![](/ammo.rocket.hv.png)|ammo.rocket.hv|-1841918730|High Velocity Rocket|Ammunition|Fast moving rocket ammunition. Short to medium range self-propelled, unguided rocket which deals large splash damage on impact but less damage than a normal rocket.|
 |![](/ammo.rocket.mlrs.png)|ammo.rocket.mlrs|-1843426638|MLRS Rocket|Ammunition|A rocket intended for use in an MLRS (Multiple Launch Rocket System).|
 |![](/ammo.rocket.sam.png)|ammo.rocket.sam|-384243979|SAM Ammo|Ammunition|Ammunition for a Sam Site, This missile contains a rudimentary guidance system to help it navigate through strong winds.|
+|![](/ammo.rocket.seeker.png)|ammo.rocket.seeker|1296788329|Homing Missile|Ammunition|Fast moving rocket ammunition. Uses a type of radar for active target guidance from a Homing Launcher|
 |![](/ammo.rocket.smoke.png)|ammo.rocket.smoke|-17123659|Smoke Rocket WIP!!!!|Ammunition|Emits thick, visibility blocking smoke upon impact.|
 |![](/ammo.shotgun.fire.png)|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|Ammunition|Incendiary Shotgun Ammunition|
 |![](/ammo.shotgun.png)|ammo.shotgun|-1685290200|12 Gauge Buckshot|Ammunition|Ammunition for a Shotgun.|
@@ -333,6 +334,7 @@
 |![](/gunrack_tall.horizontal.png)|gunrack_tall.horizontal|240752557|Tall Wall-mounted Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/gunrack_wide.horizontal.png)|gunrack_wide.horizontal|-96256997|Wide Wall-mounted Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/guntrap.png)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
+|![](/hab.armor.png)|hab.armor|-1989600732|HAB Armor|Attire|Armor for the Hot Air Balloon|
 |![](/habrepair.png)|habrepair|-1759188988|Hab Repair|Misc|Hab repair|
 |![](/halloween.candy.png)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bat!|
 |![](/halloween.lootbag.large.png)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
@@ -375,6 +377,7 @@
 |![](/hitchtroughcombo.png)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
 |![](/hmlmg.png)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.png)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
+|![](/homingmissile.launcher.png)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
 |![](/hoodie.png)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/horse.armor.roadsign.png)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
 |![](/horse.armor.wood.png)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
