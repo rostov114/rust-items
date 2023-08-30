@@ -334,7 +334,7 @@
 |![](/gunrack_tall.horizontal.png)|gunrack_tall.horizontal|240752557|Tall Wall-mounted Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/gunrack_wide.horizontal.png)|gunrack_wide.horizontal|-96256997|Wide Wall-mounted Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/guntrap.png)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
-|![](/hab.armor.png)|hab.armor|-1989600732|HAB Armor|Attire|Armor for the Hot Air Balloon|
+|![](/hab.armor.png)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
 |![](/habrepair.png)|habrepair|-1759188988|Hab Repair|Misc|Hab repair|
 |![](/halloween.candy.png)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bat!|
 |![](/halloween.lootbag.large.png)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
