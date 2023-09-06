@@ -329,10 +329,10 @@
 |![](/grub.png)|grub|-568419968|Grub|Food|A pale, fleshy insect that can be used for bait. Could also be eaten in desperate situations.|
 |![](/gun.water.png)|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
 |![](/gunpowder.png)|gunpowder|-265876753|Gun Powder|Resources|Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!|
-|![](/gunrack.horizontal.png)|gunrack.horizontal|-246672609|Horizontal Wall-mounted Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
+|![](/gunrack.horizontal.png)|gunrack.horizontal|-246672609|Horizontal Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/gunrack_stand.png)|gunrack_stand|1132603396|Weapon Rack Stand|Items|Holds weaponry haphazardly, a charmingly chaotic addition to your virtual armory.|
-|![](/gunrack_tall.horizontal.png)|gunrack_tall.horizontal|240752557|Tall Wall-mounted Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
-|![](/gunrack_wide.horizontal.png)|gunrack_wide.horizontal|-96256997|Wide Wall-mounted Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
+|![](/gunrack_tall.horizontal.png)|gunrack_tall.horizontal|240752557|Tall Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
+|![](/gunrack_wide.horizontal.png)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/guntrap.png)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
 |![](/hab.armor.png)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
 |![](/habrepair.png)|habrepair|-1759188988|Hab Repair|Misc|Hab repair|
