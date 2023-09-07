@@ -20,6 +20,7 @@
 |![](/ammo.rocket.hv.png)|ammo.rocket.hv|-1841918730|High Velocity Rocket|Ammunition|Fast moving rocket ammunition. Short to medium range self-propelled, unguided rocket which deals large splash damage on impact but less damage than a normal rocket.|
 |![](/ammo.rocket.mlrs.png)|ammo.rocket.mlrs|-1843426638|MLRS Rocket|Ammunition|A rocket intended for use in an MLRS (Multiple Launch Rocket System).|
 |![](/ammo.rocket.sam.png)|ammo.rocket.sam|-384243979|SAM Ammo|Ammunition|Ammunition for a Sam Site, This missile contains a rudimentary guidance system to help it navigate through strong winds.|
+|![](/ammo.rocket.seeker.png)|ammo.rocket.seeker|1296788329|Homing Missile|Ammunition|Fast moving rocket ammunition. Uses a type of radar for active target guidance from a Homing Launcher|
 |![](/ammo.rocket.smoke.png)|ammo.rocket.smoke|-17123659|Smoke Rocket WIP!!!!|Ammunition|Emits thick, visibility blocking smoke upon impact.|
 |![](/ammo.shotgun.fire.png)|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|Ammunition|Incendiary Shotgun Ammunition|
 |![](/ammo.shotgun.png)|ammo.shotgun|-1685290200|12 Gauge Buckshot|Ammunition|Ammunition for a Shotgun.|
@@ -33,6 +34,7 @@
 |![](/arrow.fire.png)|arrow.fire|14241751|Fire Arrow|Ammunition|A fuel soaked arrow, ignite it by aiming.|
 |![](/arrow.hv.png)|arrow.hv|-1023065463|High Velocity Arrow|Ammunition|Lighter, faster arrow that deals less damage.|
 |![](/arrow.wooden.png)|arrow.wooden|-1234735557|Wooden Arrow|Ammunition|An arrow for a Hunting Bow and Crossbow.|
+|![](/attackhelicopter.png)|attackhelicopter|1113514903|Attack Helicopter|Misc|A fairly solid helicopter with weapons capability.|
 |![](/attire.banditguard.png)|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
 |![](/attire.bunny.onesie.png)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
 |![](/attire.bunnyears.png)|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
@@ -327,7 +329,12 @@
 |![](/grub.png)|grub|-568419968|Grub|Food|A pale, fleshy insect that can be used for bait. Could also be eaten in desperate situations.|
 |![](/gun.water.png)|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
 |![](/gunpowder.png)|gunpowder|-265876753|Gun Powder|Resources|Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!|
+|![](/gunrack.horizontal.png)|gunrack.horizontal|-246672609|Horizontal Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
+|![](/gunrack_stand.png)|gunrack_stand|1132603396|Weapon Rack Stand|Items|Holds weaponry haphazardly, a charmingly chaotic addition to your virtual armory.|
+|![](/gunrack_tall.horizontal.png)|gunrack_tall.horizontal|240752557|Tall Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
+|![](/gunrack_wide.horizontal.png)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/guntrap.png)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
+|![](/hab.armor.png)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
 |![](/habrepair.png)|habrepair|-1759188988|Hab Repair|Misc|Hab repair|
 |![](/halloween.candy.png)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bat!|
 |![](/halloween.lootbag.large.png)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
@@ -370,6 +377,7 @@
 |![](/hitchtroughcombo.png)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
 |![](/hmlmg.png)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.png)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
+|![](/homingmissile.launcher.png)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
 |![](/hoodie.png)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/horse.armor.roadsign.png)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
 |![](/horse.armor.wood.png)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
@@ -481,6 +489,8 @@
 |![](/pants.png)|pants|237239288|Pants|Attire|Pants.|
 |![](/pants.shorts.png)|pants.shorts|-1695367501|Shorts|Attire|Trousers without the bottom of the legs.|
 |![](/paper.png)|paper|-1779183908|Paper|Resources|Paper, a ingredient for Building plan and Note.|
+|![](/parachute.deployed.png)|parachute.deployed|1784005657|Parachute (Deployed)|Attire|Deployed version of parachute. Hidden.|
+|![](/parachute.png)|parachute|602628465|Parachute|Attire|Once equipped, press [+jump] while in mid-air to pull the cord. Must be repacked after use. Must be at least 15m above the ground in order to deploy.|
 |![](/partyhat.png)|partyhat|-575744869|Party Hat|Attire|A very stupid looking party hat|
 |![](/photo.png)|photo|62577426|Photograph|Misc|A photograph taken with an instant camera.|
 |![](/photoframe.landscape.png)|photoframe.landscape|1697996440|Landscape Photo Frame|Items|A landscape oriented canvas for artists paintings.|
@@ -776,6 +786,8 @@
 |![](/weapon.mod.silencer.png)|weapon.mod.silencer|-1850571427|Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.|
 |![](/weapon.mod.simplesight.png)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
 |![](/weapon.mod.small.scope.png)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
+|![](/weaponrack.doublelight.png)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|Electrical|A weapon rack light.|
+|![](/weaponrack.light.png)|weaponrack.light|-1163943815|Weapon Rack Light|Electrical|A weapon rack light.|
 |![](/white.berry.png)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/whiteidtag.png)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
 |![](/wiretool.png)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle. you can then click on another object's input/output handle to form a connection. holding right mouse will clear or cancel a connection.|
