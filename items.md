@@ -773,7 +773,7 @@
 |![](/water.png)|water|-1779180711|Water|Resources|Water. Drinking it will alleviate your thirst.|
 |![](/water.purifier.png)|water.purifier|2114754781|Water Purifier|Items|A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.|
 |![](/water.salt.png)|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
-|![](/waterjug.png)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
+|![](/waterjug.png)|waterjug|-119235651|Water Jug - Charitable Rust 2023|Food|A large YELLOW jerry can. To support Charitable Rust 2023 we have turned the jerry can yellow for charity water, learn more at:  https://www.charitablerust.com/|
 |![](/waterpump.png)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.png)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
 |![](/weapon.mod.burstmodule.png)|weapon.mod.burstmodule|838308300|Burst Module|Component|Forces the weapon to fire in 3 round bursts.|
