@@ -187,6 +187,7 @@
 |![](/door.hinged.wood.png)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](/door.key.png)|door.key|-1112793865|Door Key|Misc|A key to a door, created from a Lock. Keep this item safe; if lost you'll be unable to open the door again!|
 |![](/draculacape.png)|draculacape|-258574361|Dracula Cape|Attire|Definitely not a last minute costume idea.|
+|![](/draculamask.png)|draculamask|1865253052|Dracula Mask|Attire|Definitely not a last minute costume idea.|
 |![](/dragondoorknocker.png)|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
 |![](/drone.png)|drone|1588492232|Drone|Items|A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts.|
 |![](/dropbox.png)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
