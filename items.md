@@ -60,6 +60,7 @@
 |![](/barricade.wood.cover.png)|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
 |![](/barricade.wood.png)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
 |![](/barricade.woodwire.png)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
+|![](/bathtub.planter.png)|bathtub.planter|-1274093662|Bath Tub Planter|Items|A small planter with enough room to plant 3 seeds.|
 |![](/battery.small.png)|battery.small|609049394|Battery - Small|Resources|A Battery.|
 |![](/bbq.png)|bbq|1099314009|Barbeque|Items|A makeshift Barbeque. You can cook significant amounts of food with this.|
 |![](/beachchair.png)|beachchair|-321431890|Beach Chair|Fun|The Beach Chair is the best way to relax, whether it's by the pool or on the beach.|
@@ -178,6 +179,7 @@
 |![](/diving.wetsuit.png)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
 |![](/dogtagneutral.png)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
 |![](/door.closer.png)|door.closer|1409529282|Door Closer|Construction|Auotmatically closes your doors when left open.|
+|![](/door.double.hinged.bardoors.png)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](/door.double.hinged.metal.png)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.double.hinged.toptier.png)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.double.hinged.wood.png)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
@@ -271,6 +273,7 @@
 |![](/fishing.tackle.png)|fishing.tackle|-1707425764|Fishing Tackle|Tool|Fishing Tackle|
 |![](/fishingrod.handmade.png)|fishingrod.handmade|1569882109|Handmade Fishing Rod|Tool|Use [attack2] to cast out the line and wait for a bite. Requires bait.|
 |![](/fishtrap.small.png)|fishtrap.small|559147458|Survival Fish Trap|Items|Traps fish, place on the shore and load with bait. The more bait loaded the bigger the chance of catching Trout.|
+|![](/fishtrophy.png)|fishtrophy|-1913996738|Fish Trophy|Items|A wall mountable item to show off your greatest catches. Fish not included.|
 |![](/flamethrower.png)|flamethrower|-1215753368|Flame Thrower|Weapon|A Flamethrower. Uses low grade fuel as ammunition.|
 |![](/flameturret.png)|flameturret|528668503|Flame Turret|Traps|Automated Flame turret. Requires Low Grade Fuel. Sprays flames when triggered.|
 |![](/flare.png)|flare|304481038|Flare|Tool|Light up the night sky with this brand new red flare!|
@@ -332,6 +335,9 @@
 |![](/gun.water.png)|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
 |![](/gunpowder.png)|gunpowder|-265876753|Gun Powder|Resources|Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!|
 |![](/gunrack.horizontal.png)|gunrack.horizontal|-246672609|Horizontal Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
+|![](/gunrack.single.1.horizontal.png)|gunrack.single.1.horizontal|1973949960|Frontier Bolts Single Item Rack|Items|Artfully display your weapon with a handcrafted wall-mounted single weapon rack.|
+|![](/gunrack.single.2.horizontal.png)|gunrack.single.2.horizontal|-849373693|Frontier Horseshoe Single Item Rack|Items|Artfully display your weapon with a handcrafted wall-mounted single weapon rack.|
+|![](/gunrack.single.3.horizontal.png)|gunrack.single.3.horizontal|-52398594|Frontier Horns Single Item Rack|Items|Artfully display your weapon with a handcrafted wall-mounted single weapon rack.|
 |![](/gunrack_stand.png)|gunrack_stand|1132603396|Weapon Rack Stand|Items|Holds weaponry haphazardly, a charmingly chaotic addition to your virtual armory.|
 |![](/gunrack_tall.horizontal.png)|gunrack_tall.horizontal|240752557|Tall Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/gunrack_wide.horizontal.png)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
@@ -370,6 +376,7 @@
 |![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/head.bag.png)|head.bag|209218760|Head Bag|Misc|A sack containing the head of a defeated foe. Can be added to trophies.|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.pure.png)|healingtea.pure|-1677315902|Pure Healing Tea|Food|A tea that restores health over time.|
@@ -399,6 +406,8 @@
 |![](/humanmeat.cooked.png)|humanmeat.cooked|1536610005|Cooked Human Meat|Food|Salty meat from a human being, eating this will restore some hunger and health but reduces hydration. Maybe you should look for a better food source.|
 |![](/humanmeat.raw.png)|humanmeat.raw|-1709878924|Raw Human Meat|Food|Raw human meat. Consuming will damage your health.|
 |![](/humanmeat.spoiled.png)|humanmeat.spoiled|1272768630|Spoiled Human Meat|Food|Spoiled Human Meat. Consuming will damage your health.|
+|![](/huntingtrophylarge.png)|huntingtrophylarge|960673498|Large Hunting Trophy|Items|A large trophy stand to mount the head of killed animals or enemies.|
+|![](/huntingtrophysmall.png)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.png)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
 |![](/industrial.combiner.png)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
 |![](/industrial.conveyor.png)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
@@ -468,6 +477,7 @@
 |![](/metalpipe.png)|metalpipe|95950017|Metal Pipe|Component|Metal Pipe.|
 |![](/metalspring.png)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
 |![](/microphonestand.png)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+reload] to change voice mode between high and low pitch.|
+|![](/minecart.planter.png)|minecart.planter|1361520181|Minecart Planter|Items|A small planter with enough room to plant 2 seeds.|
 |![](/minihelicopter.repair.png)|minihelicopter.repair|1426574435|MC repair|Misc|MC repair dummy|
 |![](/mining.pumpjack.png)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.png)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
@@ -555,6 +565,7 @@
 |![](/roadsigns.png)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
 |![](/rock.png)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
+|![](/rockingchair.png)|rockingchair|-1863063690|Rocking Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/rope.png)|rope|1414245522|Rope|Component|A Length of Rope.|
 |![](/rowboat.png)|rowboat|1878053256|Rowboat|Items||
 |![](/rug.bear.png)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
@@ -687,6 +698,9 @@
 |![](/stonehatchet.png)|stonehatchet|-1583967946|Stone Hatchet|Tool|Primitive tool used for harvesting wood from trees and logs.|
 |![](/stones.png)|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
 |![](/storage.monitor.png)|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
+|![](/storage_barrel_a.png)|storage_barrel_a|-258457936|Storage Barrel Vertical|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
+|![](/storage_barrel_b.png)|storage_barrel_b|1307626005|Storage Barrel Vertical|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
+|![](/storage_barrel_c.png)|storage_barrel_c|-1421257350|Storage Barrel Horizontal|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
 |![](/storageadaptor.png)|storageadaptor|-1049172752|Storage Adaptor|Electrical|Attach to a storage container to allow industrial input/output connections.|
 |![](/strobelight.png)|strobelight|2104517339|Strobe Light|Misc|A flashing light, 3 speeds. Causes seizures.|
 |![](/submarine.torpedo.straight.png)|submarine.torpedo.straight|-1671551935|Torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead in a straight line.|
@@ -718,6 +732,7 @@
 |![](/toolgun.png)|toolgun|1803831286|Garry's Mod Tool Gun|Tool|Celebrating 15 Years of Garry's Mod! Use this tool gun to upgrade building parts. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/torch.png)|torch|795236088|Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
 |![](/torch.torch.skull.png)|torch.torch.skull|-1175656359|Cultist Deer Torch|Tool|Cultist Deer Torch|
+|![](/torchholder.png)|torchholder|446206234|Torch Holder|Items|A wall mounted holder for torches.|
 |![](/trap.bear.png)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
 |![](/trap.landmine.png)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
 |![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
@@ -768,6 +783,7 @@
 |![](/wall.window.bars.toptier.png)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.png)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
 |![](/wall.window.glass.reinforced.png)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
+|![](/wantedposter.png)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can be display a given player's face as wanted.|
 |![](/watchtower.wood.png)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.png)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
 |![](/water.catcher.large.png)|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
