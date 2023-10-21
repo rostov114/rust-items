@@ -745,7 +745,7 @@
 |![](/valve1.png)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve2.png)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve3.png)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
-|![](/vampire.stake.png)|vampire.stake|-885833256|Vampire stake|Weapon|Melee weapon crafted from bone fragments. Good for harvesting carcases.|
+|![](/vampire.stake.png)|vampire.stake|-885833256|Vampire Stake|Weapon|A stake adorned with special properties making it able to release the soul of undead creatures with a single strike, as well as yield extra loot from their remains.|
 |![](/vehicle.1mod.cockpit.armored.png)|vehicle.1mod.cockpit.armored|1874610722|Armored Cockpit Vehicle Module|Component|Single module armored cockpit for a driver and one passenger.|
 |![](/vehicle.1mod.cockpit.png)|vehicle.1mod.cockpit|-1501451746|Cockpit Vehicle Module|Component|Single module cockpit for a driver and one passenger.|
 |![](/vehicle.1mod.cockpit.with.engine.png)|vehicle.1mod.cockpit.with.engine|170758448|Cockpit With Engine Vehicle Module|Component|Single module cockpit for a driver and one passenger, with a small engine.|
