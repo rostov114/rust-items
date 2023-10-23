@@ -186,6 +186,8 @@
 |![](/door.hinged.toptier.png)|door.hinged.toptier|1353298668|Armored Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.hinged.wood.png)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](/door.key.png)|door.key|-1112793865|Door Key|Misc|A key to a door, created from a Lock. Keep this item safe; if lost you'll be unable to open the door again!|
+|![](/draculacape.png)|draculacape|-258574361|Dracula Cape|Attire|A robustly thick outer garment providing ample protection to the wearer.|
+|![](/draculamask.png)|draculamask|1865253052|Dracula Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/dragondoorknocker.png)|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
 |![](/drone.png)|drone|1588492232|Drone|Items|A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts.|
 |![](/dropbox.png)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
@@ -728,6 +730,7 @@
 |![](/valve1.png)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve2.png)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve3.png)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
+|![](/vampire.stake.png)|vampire.stake|-885833256|Vampire Stake|Weapon|A stake adorned with special properties making it able to release the soul of undead creatures with a single strike, as well as yield extra loot from their remains.|
 |![](/vehicle.1mod.cockpit.armored.png)|vehicle.1mod.cockpit.armored|1874610722|Armored Cockpit Vehicle Module|Component|Single module armored cockpit for a driver and one passenger.|
 |![](/vehicle.1mod.cockpit.png)|vehicle.1mod.cockpit|-1501451746|Cockpit Vehicle Module|Component|Single module cockpit for a driver and one passenger.|
 |![](/vehicle.1mod.cockpit.with.engine.png)|vehicle.1mod.cockpit.with.engine|170758448|Cockpit With Engine Vehicle Module|Component|Single module cockpit for a driver and one passenger, with a small engine.|
