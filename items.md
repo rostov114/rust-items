@@ -699,7 +699,7 @@
 |![](/stonehatchet.png)|stonehatchet|-1583967946|Stone Hatchet|Tool|Primitive tool used for harvesting wood from trees and logs.|
 |![](/stones.png)|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
 |![](/storage.monitor.png)|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
-|![](/storage_barrel_a.png)|storage_barrel_a|-258457936|Storage Barrel Vertical|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
+|![](/storage_barrel_a.png)|storage_barrel_a|-258457936|Unused Storage Barrel Vertical|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
 |![](/storage_barrel_b.png)|storage_barrel_b|1307626005|Storage Barrel Vertical|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
 |![](/storage_barrel_c.png)|storage_barrel_c|-1421257350|Storage Barrel Horizontal|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
 |![](/storageadaptor.png)|storageadaptor|-1049172752|Storage Adaptor|Electrical|Attach to a storage container to allow industrial input/output connections.|
