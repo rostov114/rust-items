@@ -297,6 +297,10 @@
 |![](/frankensteins.monster.03.torso.png)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteintable.png)|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
 |![](/fridge.png)|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
+|![](/frontiermirror.large.png)|frontiermirror.large|242933621|Frontier Mirror Large|Items|A large wooden frontier themed mirror|
+|![](/frontiermirror.medium.png)|frontiermirror.medium|2055695285|Frontier Mirror Medium|Items|A medium wood frontier themed mirror|
+|![](/frontiermirror.small.png)|frontiermirror.small|340210699|Frontier Mirror Small|Items|A small wooden frontier themed mirror|
+|![](/frontiermirror.standing.png)|frontiermirror.standing|1787198294|Frontier Mirror Standing|Items|A standing wooden frontier themed mirror|
 |![](/fun.bass.png)|fun.bass|-2107018088|Shovel Bass|Fun|Use this stringed together shovel to play some deep, deep tunes.|
 |![](/fun.boomboxportable.png)|fun.boomboxportable|576509618|Portable Boom Box|Fun|A portable Boom Box that can play tapes and internet audio streams. [attack] to start/stop and [attack2] to modify settings.|
 |![](/fun.casetterecorder.png)|fun.casetterecorder|-1530414568|Cassette Recorder|Fun|Insert a cassette and play the recorded audio with [attack], [attack2] to record new audio and [+reload] to throw.|
@@ -321,6 +325,14 @@
 |![](/gingerbreadsuit.png)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.png)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.png)|glue|-1899491405|Glue|Component|A strong adhesive.|
+|![](/goldframe.large.png)|goldframe.large|-996235148|Gold Frame large|Items|A large gold frame|
+|![](/goldframe.medium.png)|goldframe.medium|-1901993050|Gold Frame Medium|Items|A medium gold frame|
+|![](/goldframe.small.png)|goldframe.small|-1836526520|Gold Frame Small|Items|A small gold frame|
+|![](/goldframe.standing.png)|goldframe.standing|-1528767189|Gold Frame Standing|Items|A standing gold frame|
+|![](/goldmirror.large.png)|goldmirror.large|1365234594|Gold Mirror large|Items|A large gold mirror|
+|![](/goldmirror.medium.png)|goldmirror.medium|-1804515496|Gold Mirror Medium|Items|A medium gold mirror|
+|![](/goldmirror.small.png)|goldmirror.small|-1444650226|Gold Mirror Small|Items|A small gold mirror|
+|![](/goldmirror.standing.png)|goldmirror.standing|2120241887|Gold Mirror Standing|Items|A standing gold mirror|
 |![](/granolabar.png)|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
 |![](/gravestone.png)|gravestone|809199956|Gravestone|Misc|A Gravestone marking the remains of an unknown soul|
 |![](/grayidtag.png)|grayidtag|-455286320|Gray ID Tag|Resources|Gray ID Tag|
@@ -441,6 +453,14 @@
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
 |![](/leather.png)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
+|![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
+|![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
+|![](/lightupframe.small.png)|lightupframe.small|1691223771|Light-Up Frame Small|Items|A small light-up frame|
+|![](/lightupframe.standing.png)|lightupframe.standing|1950013766|Light-Up Frame Standing|Items|A standing light-up frame|
+|![](/lightupmirror.large.png)|lightupmirror.large|450531685|Light-Up Mirror Large|Items|A large light-up mirror|
+|![](/lightupmirror.medium.png)|lightupmirror.medium|1028889957|Light-Up Mirror Medium|Items|A medium light-up mirror|
+|![](/lightupmirror.small.png)|lightupmirror.small|-389796733|Light-Up Mirror Small|Items|A small light-up mirror|
+|![](/lightupmirror.standing.png)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|Items|A standing light-up mirror|
 |![](/lmg.m249.png)|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
 |![](/lock.code.png)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
 |![](/lock.key.png)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
@@ -587,6 +607,14 @@
 |![](/scarecrowhead.png)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
 |![](/scientistsuit_heavy.png)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
 |![](/scrap.png)|scrap|-932201673|Scrap|Resources|Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.|
+|![](/scrapframe.large.png)|scrapframe.large|-1094453063|Scrap Frame large|Items|A large scrap frame|
+|![](/scrapframe.medium.png)|scrapframe.medium|-1060567807|Scrap Frame Medium|Items|A medium scrap frame|
+|![](/scrapframe.small.png)|scrapframe.small|-498301781|Scrap Frame Small|Items|A small scrap frame|
+|![](/scrapframe.standing.png)|scrapframe.standing|-1774190142|Scrap Frame Standing|Items|A standing scrap frame|
+|![](/scrapmirror.large.png)|scrapmirror.large|-82758111|Scrap Mirror Large|Items|A large scrap mirror|
+|![](/scrapmirror.medium.png)|scrapmirror.medium|839738457|Scrap Mirror Medium|Items|A medium scrap mirror|
+|![](/scrapmirror.small.png)|scrapmirror.small|-1050697733|Scrap Mirror Small|Items|A small scrap mirror|
+|![](/scrapmirror.standing.png)|scrapmirror.standing|-1380144986|Scrap Mirror Standing|Items|A standing scrap mirror|
 |![](/scraptea.advanced.png)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.png)|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.pure.png)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
@@ -743,6 +771,7 @@
 |![](/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
 |![](/twitch.headset.png)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchsunglasses.png)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
+|![](/twowaymirror.window.png)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.png)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve2.png)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve3.png)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
@@ -821,6 +850,14 @@
 |![](/wood.armor.pants.png)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
 |![](/wood.png)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
 |![](/woodcross.png)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
+|![](/woodframe.large.png)|woodframe.large|-635951327|Wood Frame Large|Items|A large wooden frame|
+|![](/woodframe.medium.png)|woodframe.medium|-1541706279|Wood Frame Medium|Items|A medium wooden frame|
+|![](/woodframe.small.png)|woodframe.small|-1476278729|Wood Frame Small|Items|A small wooden frame|
+|![](/woodframe.standing.png)|woodframe.standing|1769475390|Wood Frame Standing|Items|A standing wooden frame|
+|![](/woodmirror.large.png)|woodmirror.large|1312679249|Wood Mirror Large|Items|A large wooden mirror|
+|![](/woodmirror.medium.png)|woodmirror.medium|756125481|Wood Mirror Medium|Items|A medium wood mirror|
+|![](/woodmirror.small.png)|woodmirror.small|-1497205569|Wood Mirror Small|Items|A small wooden mirror|
+|![](/woodmirror.standing.png)|woodmirror.standing|723407026|Wood Mirror Standing|Items|A standing wooden mirror|
 |![](/woodtea.advanced.png)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
 |![](/woodtea.png)|woodtea|-649128577|Basic Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
 |![](/woodtea.pure.png)|woodtea.pure|-557539629|Pure Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
