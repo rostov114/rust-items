@@ -731,8 +731,8 @@
 |![](/stones.png)|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
 |![](/storage.monitor.png)|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
 |![](/storage_barrel_a.png)|storage_barrel_a|-258457936|Unused Storage Barrel Vertical|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
-|![](/storage_barrel_b.png)|storage_barrel_b|1307626005|Storage Barrel Vertical|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
-|![](/storage_barrel_c.png)|storage_barrel_c|-1421257350|Storage Barrel Horizontal|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
+|![](/storage_barrel_b.png)|storage_barrel_b|1307626005|Storage Barrel Vertical|Items|Keep your things in this wooden barrel. Stores up to 48 items. Cannot be locked.|
+|![](/storage_barrel_c.png)|storage_barrel_c|-1421257350|Storage Barrel Horizontal|Items|Keep your things in this wooden barrel. Stores up to 48 items. Cannot be locked.|
 |![](/storageadaptor.png)|storageadaptor|-1049172752|Storage Adaptor|Electrical|Attach to a storage container to allow industrial input/output connections.|
 |![](/strobelight.png)|strobelight|2104517339|Strobe Light|Misc|A flashing light, 3 speeds. Causes seizures.|
 |![](/submarine.torpedo.straight.png)|submarine.torpedo.straight|-1671551935|Torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead in a straight line.|
