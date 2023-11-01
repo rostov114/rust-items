@@ -588,8 +588,8 @@
 |![](/rock.png)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rockingchair.png)|rockingchair|-1863063690|Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
-|![](/rockingchair.rockingchair2.png)|rockingchair.rockingchair2|1758333838|Teal Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
-|![](/rockingchair.rockingchair3.png)|rockingchair.rockingchair3|192249897|Green Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
+|![](/rockingchair.rockingchair2.png)|rockingchair.rockingchair2|1758333838|Teal|Items||
+|![](/rockingchair.rockingchair3.png)|rockingchair.rockingchair3|192249897|Green|Items||
 |![](/rope.png)|rope|1414245522|Rope|Component|A Length of Rope.|
 |![](/rowboat.png)|rowboat|1878053256|Rowboat|Items||
 |![](/rug.bear.png)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
