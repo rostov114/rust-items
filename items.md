@@ -60,6 +60,7 @@
 |![](/barricade.wood.cover.png)|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
 |![](/barricade.wood.png)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
 |![](/barricade.woodwire.png)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
+|![](/bathtub.planter.png)|bathtub.planter|-1274093662|Bath Tub Planter|Items|A small planter with enough room to plant 3 seeds.|
 |![](/battery.small.png)|battery.small|609049394|Battery - Small|Resources|A Battery.|
 |![](/bbq.png)|bbq|1099314009|Barbeque|Items|A makeshift Barbeque. You can cook significant amounts of food with this.|
 |![](/beachchair.png)|beachchair|-321431890|Beach Chair|Fun|The Beach Chair is the best way to relax, whether it's by the pool or on the beach.|
@@ -178,6 +179,7 @@
 |![](/diving.wetsuit.png)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
 |![](/dogtagneutral.png)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
 |![](/door.closer.png)|door.closer|1409529282|Door Closer|Construction|Auotmatically closes your doors when left open.|
+|![](/door.double.hinged.bardoors.png)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|Construction|Hand-carved, rugged bar doors embody the spirit of the frontier. A must-have for any survivor.|
 |![](/door.double.hinged.metal.png)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.double.hinged.toptier.png)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.double.hinged.wood.png)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
@@ -271,6 +273,7 @@
 |![](/fishing.tackle.png)|fishing.tackle|-1707425764|Fishing Tackle|Tool|Fishing Tackle|
 |![](/fishingrod.handmade.png)|fishingrod.handmade|1569882109|Handmade Fishing Rod|Tool|Use [attack2] to cast out the line and wait for a bite. Requires bait.|
 |![](/fishtrap.small.png)|fishtrap.small|559147458|Survival Fish Trap|Items|Traps fish, place on the shore and load with bait. The more bait loaded the bigger the chance of catching Trout.|
+|![](/fishtrophy.png)|fishtrophy|-1913996738|Fish Trophy|Items|A wall mountable item to show off your greatest catches. Fish not included.|
 |![](/flamethrower.png)|flamethrower|-1215753368|Flame Thrower|Weapon|A Flamethrower. Uses low grade fuel as ammunition.|
 |![](/flameturret.png)|flameturret|528668503|Flame Turret|Traps|Automated Flame turret. Requires Low Grade Fuel. Sprays flames when triggered.|
 |![](/flare.png)|flare|304481038|Flare|Tool|Light up the night sky with this brand new red flare!|
@@ -294,6 +297,10 @@
 |![](/frankensteins.monster.03.torso.png)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteintable.png)|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
 |![](/fridge.png)|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
+|![](/frontiermirror.large.png)|frontiermirror.large|242933621|Frontier Mirror Large|Items|A large wooden frontier themed mirror|
+|![](/frontiermirror.medium.png)|frontiermirror.medium|2055695285|Frontier Mirror Medium|Items|A medium wood frontier themed mirror|
+|![](/frontiermirror.small.png)|frontiermirror.small|340210699|Frontier Mirror Small|Items|A small wooden frontier themed mirror|
+|![](/frontiermirror.standing.png)|frontiermirror.standing|1787198294|Frontier Mirror Standing|Items|A standing wooden frontier themed mirror|
 |![](/fun.bass.png)|fun.bass|-2107018088|Shovel Bass|Fun|Use this stringed together shovel to play some deep, deep tunes.|
 |![](/fun.boomboxportable.png)|fun.boomboxportable|576509618|Portable Boom Box|Fun|A portable Boom Box that can play tapes and internet audio streams. [attack] to start/stop and [attack2] to modify settings.|
 |![](/fun.casetterecorder.png)|fun.casetterecorder|-1530414568|Cassette Recorder|Fun|Insert a cassette and play the recorded audio with [attack], [attack2] to record new audio and [+reload] to throw.|
@@ -318,6 +325,14 @@
 |![](/gingerbreadsuit.png)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.png)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.png)|glue|-1899491405|Glue|Component|A strong adhesive.|
+|![](/goldframe.large.png)|goldframe.large|-996235148|Gold Frame large|Items|A large gold frame|
+|![](/goldframe.medium.png)|goldframe.medium|-1901993050|Gold Frame Medium|Items|A medium gold frame|
+|![](/goldframe.small.png)|goldframe.small|-1836526520|Gold Frame Small|Items|A small gold frame|
+|![](/goldframe.standing.png)|goldframe.standing|-1528767189|Gold Frame Standing|Items|A standing gold frame|
+|![](/goldmirror.large.png)|goldmirror.large|1365234594|Gold Mirror large|Items|A large gold mirror|
+|![](/goldmirror.medium.png)|goldmirror.medium|-1804515496|Gold Mirror Medium|Items|A medium gold mirror|
+|![](/goldmirror.small.png)|goldmirror.small|-1444650226|Gold Mirror Small|Items|A small gold mirror|
+|![](/goldmirror.standing.png)|goldmirror.standing|2120241887|Gold Mirror Standing|Items|A standing gold mirror|
 |![](/granolabar.png)|granolabar|-746030907|Granola Bar|Food|Granola Bar found as loot. Eating it provides a small boost to health, hunger.|
 |![](/gravestone.png)|gravestone|809199956|Gravestone|Misc|A Gravestone marking the remains of an unknown soul|
 |![](/grayidtag.png)|grayidtag|-455286320|Gray ID Tag|Resources|Gray ID Tag|
@@ -332,6 +347,9 @@
 |![](/gun.water.png)|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
 |![](/gunpowder.png)|gunpowder|-265876753|Gun Powder|Resources|Made from Sulfur and Charcoal, a key ingredient of anything that goes bang!|
 |![](/gunrack.horizontal.png)|gunrack.horizontal|-246672609|Horizontal Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
+|![](/gunrack.single.1.horizontal.png)|gunrack.single.1.horizontal|1973949960|Frontier Bolts Single Item Rack|Items|Artfully display your weapon with a handcrafted wall-mounted single weapon rack.|
+|![](/gunrack.single.2.horizontal.png)|gunrack.single.2.horizontal|-849373693|Frontier Horseshoe Single Item Rack|Items|Artfully display your weapon with a handcrafted wall-mounted single weapon rack.|
+|![](/gunrack.single.3.horizontal.png)|gunrack.single.3.horizontal|-52398594|Frontier Horns Single Item Rack|Items|Artfully display your weapon with a handcrafted wall-mounted single weapon rack.|
 |![](/gunrack_stand.png)|gunrack_stand|1132603396|Weapon Rack Stand|Items|Holds weaponry haphazardly, a charmingly chaotic addition to your virtual armory.|
 |![](/gunrack_tall.horizontal.png)|gunrack_tall.horizontal|240752557|Tall Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/gunrack_wide.horizontal.png)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
@@ -370,6 +388,7 @@
 |![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/head.bag.png)|head.bag|209218760|Head Bag|Misc|A sack containing the head of a defeated foe. Can be added to trophies.|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.pure.png)|healingtea.pure|-1677315902|Pure Healing Tea|Food|A tea that restores health over time.|
@@ -399,6 +418,8 @@
 |![](/humanmeat.cooked.png)|humanmeat.cooked|1536610005|Cooked Human Meat|Food|Salty meat from a human being, eating this will restore some hunger and health but reduces hydration. Maybe you should look for a better food source.|
 |![](/humanmeat.raw.png)|humanmeat.raw|-1709878924|Raw Human Meat|Food|Raw human meat. Consuming will damage your health.|
 |![](/humanmeat.spoiled.png)|humanmeat.spoiled|1272768630|Spoiled Human Meat|Food|Spoiled Human Meat. Consuming will damage your health.|
+|![](/huntingtrophylarge.png)|huntingtrophylarge|960673498|Large Hunting Trophy|Items|A large trophy stand to mount the head of killed animals or enemies.|
+|![](/huntingtrophysmall.png)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.png)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
 |![](/industrial.combiner.png)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
 |![](/industrial.conveyor.png)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
@@ -425,12 +446,21 @@
 |![](/knife.bone.png)|knife.bone|1814288539|Bone Knife|Weapon|Melee weapon crafted from bone fragments. Good for harvesting carcases.|
 |![](/knife.butcher.png)|knife.butcher|-194509282|Butcher Knife|Weapon|A sharp butcher knife. Extremely good at harvesting flesh from both dead or alive bodies.|
 |![](/knife.combat.png)|knife.combat|2040726127|Combat Knife|Weapon|Combat knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
+|![](/knife.skinning.png)|knife.skinning|-2073432256|Skinning Knife|Weapon|A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.|
 |![](/ladder.wooden.wall.png)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.png)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
 |![](/leather.png)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
+|![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
+|![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
+|![](/lightupframe.small.png)|lightupframe.small|1691223771|Light-Up Frame Small|Items|A small light-up frame|
+|![](/lightupframe.standing.png)|lightupframe.standing|1950013766|Light-Up Frame Standing|Items|A standing light-up frame|
+|![](/lightupmirror.large.png)|lightupmirror.large|450531685|Light-Up Mirror Large|Items|A large light-up mirror|
+|![](/lightupmirror.medium.png)|lightupmirror.medium|1028889957|Light-Up Mirror Medium|Items|A medium light-up mirror|
+|![](/lightupmirror.small.png)|lightupmirror.small|-389796733|Light-Up Mirror Small|Items|A small light-up mirror|
+|![](/lightupmirror.standing.png)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|Items|A standing light-up mirror|
 |![](/lmg.m249.png)|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
 |![](/lock.code.png)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
 |![](/lock.key.png)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
@@ -468,6 +498,7 @@
 |![](/metalpipe.png)|metalpipe|95950017|Metal Pipe|Component|Metal Pipe.|
 |![](/metalspring.png)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
 |![](/microphonestand.png)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+reload] to change voice mode between high and low pitch.|
+|![](/minecart.planter.png)|minecart.planter|1361520181|Minecart Planter|Items|A small planter with enough room to plant 2 seeds.|
 |![](/minihelicopter.repair.png)|minihelicopter.repair|1426574435|MC repair|Misc|MC repair dummy|
 |![](/mining.pumpjack.png)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.png)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
@@ -531,6 +562,7 @@
 |![](/radiationresisttea.advanced.png)|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/radiationresisttea.png)|radiationresisttea|-487356515|Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/radiationresisttea.pure.png)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
+|![](/rail.road.planter.png)|rail.road.planter|615112838|Rail Road Planter|Items|A large planter with enough room to plant 9 seeds.|
 |![](/red.berry.png)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.png)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/redidtag.png)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
@@ -555,6 +587,9 @@
 |![](/roadsigns.png)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
 |![](/rock.png)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
+|![](/rockingchair.png)|rockingchair|-1863063690|Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
+|![](/rockingchair.rockingchair2.png)|rockingchair.rockingchair2|1758333838|Teal|Items||
+|![](/rockingchair.rockingchair3.png)|rockingchair.rockingchair3|192249897|Green|Items||
 |![](/rope.png)|rope|1414245522|Rope|Component|A Length of Rope.|
 |![](/rowboat.png)|rowboat|1878053256|Rowboat|Items||
 |![](/rug.bear.png)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
@@ -575,6 +610,14 @@
 |![](/scarecrowhead.png)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
 |![](/scientistsuit_heavy.png)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
 |![](/scrap.png)|scrap|-932201673|Scrap|Resources|Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.|
+|![](/scrapframe.large.png)|scrapframe.large|-1094453063|Scrap Frame large|Items|A large scrap frame|
+|![](/scrapframe.medium.png)|scrapframe.medium|-1060567807|Scrap Frame Medium|Items|A medium scrap frame|
+|![](/scrapframe.small.png)|scrapframe.small|-498301781|Scrap Frame Small|Items|A small scrap frame|
+|![](/scrapframe.standing.png)|scrapframe.standing|-1774190142|Scrap Frame Standing|Items|A standing scrap frame|
+|![](/scrapmirror.large.png)|scrapmirror.large|-82758111|Scrap Mirror Large|Items|A large scrap mirror|
+|![](/scrapmirror.medium.png)|scrapmirror.medium|839738457|Scrap Mirror Medium|Items|A medium scrap mirror|
+|![](/scrapmirror.small.png)|scrapmirror.small|-1050697733|Scrap Mirror Small|Items|A small scrap mirror|
+|![](/scrapmirror.standing.png)|scrapmirror.standing|-1380144986|Scrap Mirror Standing|Items|A standing scrap mirror|
 |![](/scraptea.advanced.png)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.png)|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.pure.png)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
@@ -687,6 +730,9 @@
 |![](/stonehatchet.png)|stonehatchet|-1583967946|Stone Hatchet|Tool|Primitive tool used for harvesting wood from trees and logs.|
 |![](/stones.png)|stones|-2099697608|Stones|Resources|Harvested from rocks using tools, basic building material.|
 |![](/storage.monitor.png)|storage.monitor|1149964039|Storage Monitor|Electrical|The Storage Monitor attaches to the Tool Cupboard and Large Storage Box to monitor the container contents. Output sends a pulse when the container is updated.|
+|![](/storage_barrel_a.png)|storage_barrel_a|-258457936|Unused Storage Barrel Vertical|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
+|![](/storage_barrel_b.png)|storage_barrel_b|1307626005|Storage Barrel Vertical|Items|Keep your things in this wooden barrel. Stores up to 48 items. Cannot be locked.|
+|![](/storage_barrel_c.png)|storage_barrel_c|-1421257350|Storage Barrel Horizontal|Items|Keep your things in this wooden barrel. Stores up to 48 items. Cannot be locked.|
 |![](/storageadaptor.png)|storageadaptor|-1049172752|Storage Adaptor|Electrical|Attach to a storage container to allow industrial input/output connections.|
 |![](/strobelight.png)|strobelight|2104517339|Strobe Light|Misc|A flashing light, 3 speeds. Causes seizures.|
 |![](/submarine.torpedo.straight.png)|submarine.torpedo.straight|-1671551935|Torpedo|Ammunition|A torpedo for use in a submarine. Fires ahead in a straight line.|
@@ -718,6 +764,7 @@
 |![](/toolgun.png)|toolgun|1803831286|Garry's Mod Tool Gun|Tool|Celebrating 15 Years of Garry's Mod! Use this tool gun to upgrade building parts. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/torch.png)|torch|795236088|Torch|Tool|A Torch. Lights your way at night and can be used as a weapon.|
 |![](/torch.torch.skull.png)|torch.torch.skull|-1175656359|Cultist Deer Torch|Tool|Cultist Deer Torch|
+|![](/torchholder.png)|torchholder|446206234|Torch Holder|Items|A wall mounted holder for torches.|
 |![](/trap.bear.png)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
 |![](/trap.landmine.png)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
 |![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
@@ -727,6 +774,7 @@
 |![](/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
 |![](/twitch.headset.png)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchsunglasses.png)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
+|![](/twowaymirror.window.png)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.png)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve2.png)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve3.png)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
@@ -764,11 +812,14 @@
 |![](/wall.frame.shopfront.metal.png)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
 |![](/wall.graveyard.fence.png)|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
 |![](/wall.ice.wall.png)|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
-|![](/wall.window.bars.brickskin.png)|wall.window.bars.brickskin|-81700958|Brick Skin Window Bars|Construction|Metal window bars made to fit a brick skin sized window.|
 |![](/wall.window.bars.metal.png)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
 |![](/wall.window.bars.toptier.png)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.png)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
 |![](/wall.window.glass.reinforced.png)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
+|![](/wantedposter.png)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can be display a given player's face as wanted.|
+|![](/wantedposter.wantedposter2.png)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can be display a given player's face as wanted.|
+|![](/wantedposter.wantedposter3.png)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can be display a given player's face as wanted.|
+|![](/wantedposter.wantedposter4.png)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can be display a given player's face as wanted.|
 |![](/watchtower.wood.png)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.png)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
 |![](/water.catcher.large.png)|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
@@ -776,7 +827,7 @@
 |![](/water.png)|water|-1779180711|Water|Resources|Water. Drinking it will alleviate your thirst.|
 |![](/water.purifier.png)|water.purifier|2114754781|Water Purifier|Items|A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.|
 |![](/water.salt.png)|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
-|![](/waterjug.png)|waterjug|-119235651|Water Jug - Charitable Rust 2023|Food|A large YELLOW jerry can. To support Charitable Rust 2023 we have turned the jerry can yellow for charity water, learn more at:  https://www.charitablerust.com/|
+|![](/waterjug.png)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.png)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.png)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
 |![](/weapon.mod.burstmodule.png)|weapon.mod.burstmodule|838308300|Burst Module|Component|Forces the weapon to fire in 3 round bursts.|
@@ -803,6 +854,14 @@
 |![](/wood.armor.pants.png)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
 |![](/wood.png)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
 |![](/woodcross.png)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
+|![](/woodframe.large.png)|woodframe.large|-635951327|Wood Frame Large|Items|A large wooden frame|
+|![](/woodframe.medium.png)|woodframe.medium|-1541706279|Wood Frame Medium|Items|A medium wooden frame|
+|![](/woodframe.small.png)|woodframe.small|-1476278729|Wood Frame Small|Items|A small wooden frame|
+|![](/woodframe.standing.png)|woodframe.standing|1769475390|Wood Frame Standing|Items|A standing wooden frame|
+|![](/woodmirror.large.png)|woodmirror.large|1312679249|Wood Mirror Large|Items|A large wooden mirror|
+|![](/woodmirror.medium.png)|woodmirror.medium|756125481|Wood Mirror Medium|Items|A medium wood mirror|
+|![](/woodmirror.small.png)|woodmirror.small|-1497205569|Wood Mirror Small|Items|A small wooden mirror|
+|![](/woodmirror.standing.png)|woodmirror.standing|723407026|Wood Mirror Standing|Items|A standing wooden mirror|
 |![](/woodtea.advanced.png)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
 |![](/woodtea.png)|woodtea|-649128577|Basic Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
 |![](/woodtea.pure.png)|woodtea.pure|-557539629|Pure Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
