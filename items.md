@@ -388,6 +388,7 @@
 |![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/hazmatsuittwitch.png)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|Attire|A purple hazmat suit made from radiation resistant rubber.|
 |![](/head.bag.png)|head.bag|209218760|Head Bag|Misc|A sack containing the head of a defeated foe. Can be added to trophies.|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
@@ -452,6 +453,7 @@
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
+|![](/lavenderidtag.png)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.png)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
 |![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
 |![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
@@ -502,6 +504,7 @@
 |![](/minihelicopter.repair.png)|minihelicopter.repair|1426574435|MC repair|Misc|MC repair dummy|
 |![](/mining.pumpjack.png)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.png)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
+|![](/mintidtag.png)|mintidtag|1572152877|Mint ID Tag|Resources|Mint ID Tag|
 |![](/mixingtable.png)|mixingtable|1259919256|Mixing Table|Items|Used for mixing recipes.|
 |![](/mlrs.png)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
 |![](/mobilephone.png)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialler.|

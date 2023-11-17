@@ -388,6 +388,7 @@
 |![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|
 |![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|
+|![](/hazmatsuittwitch.png)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|
 |![](/head.bag.png)|head.bag|209218760|Head Bag|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|
@@ -452,6 +453,7 @@
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|
+|![](/lavenderidtag.png)|lavenderidtag|1223729384|Lavender ID Tag|
 |![](/leather.png)|leather|1381010055|Leather|
 |![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|
 |![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|
@@ -502,6 +504,7 @@
 |![](/minihelicopter.repair.png)|minihelicopter.repair|1426574435|MC repair|
 |![](/mining.pumpjack.png)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.png)|mining.quarry|1052926200|Mining Quarry|
+|![](/mintidtag.png)|mintidtag|1572152877|Mint ID Tag|
 |![](/mixingtable.png)|mixingtable|1259919256|Mixing Table|
 |![](/mlrs.png)|mlrs|-1449152644|MLRS|
 |![](/mobilephone.png)|mobilephone|-20045316|Mobile Phone|
