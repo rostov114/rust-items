@@ -776,6 +776,7 @@
 |[tugboat](/tugboat.png)|-561148628|Tugboat|Items|
 |[tunalight](/tunalight.png)|-1478445584|Tuna Can Lamp|Items|
 |[twitch.headset](/twitch.headset.png)|-1569700847|Headset|Attire|
+|[twitchrivals2023desk](/twitchrivals2023desk.png)|-243540612|Twitch Rivals Desk|Items|
 |[twitchsunglasses](/twitchsunglasses.png)|20489901|Purple Sunglasses|Attire|
 |[twowaymirror.window](/twowaymirror.window.png)|-1683726934|Two-Way Mirror|Items|
 |[valve1](/valve1.png)|1330084809|Low Quality Valves|Component|

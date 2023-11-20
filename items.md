@@ -776,6 +776,7 @@
 |![](/tugboat.png)|tugboat|-561148628|Tugboat|Items||
 |![](/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
 |![](/twitch.headset.png)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
+|![](/twitchrivals2023desk.png)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|Items|Twitch Rivals Desk|
 |![](/twitchsunglasses.png)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
 |![](/twowaymirror.window.png)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.png)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
