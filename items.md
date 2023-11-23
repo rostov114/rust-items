@@ -821,9 +821,9 @@
 |![](/wall.window.bars.wood.png)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
 |![](/wall.window.glass.reinforced.png)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
 |![](/wantedposter.png)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can display a given player's face as wanted.|
-|![](/wantedposter.wantedposter2.png)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can be display a given player's face as wanted.|
-|![](/wantedposter.wantedposter3.png)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can be display a given player's face as wanted.|
-|![](/wantedposter.wantedposter4.png)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can be display a given player's face as wanted.|
+|![](/wantedposter.wantedposter2.png)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
+|![](/wantedposter.wantedposter3.png)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|
+|![](/wantedposter.wantedposter4.png)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can display a given player's face as wanted.|
 |![](/watchtower.wood.png)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.png)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
 |![](/water.catcher.large.png)|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
