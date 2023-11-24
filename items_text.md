@@ -455,6 +455,7 @@
 |[laserlight](/laserlight.png)|853471967|Laser Light|Fun|
 |[lavenderidtag](/lavenderidtag.png)|1223729384|Lavender ID Tag|Resources|
 |[leather](/leather.png)|1381010055|Leather|Resources|
+|[legacyfurnace](/legacyfurnace.png)|-1310391395|Legacy Furnace|Items|
 |[lightup.large](/lightup.large.png)|242421166|Light-Up Frame Large|Items|
 |[lightupframe.medium](/lightupframe.medium.png)|-1294739579|Light-Up Frame Medium|Items|
 |[lightupframe.small](/lightupframe.small.png)|1691223771|Light-Up Frame Small|Items|
@@ -645,6 +646,7 @@
 |[shirt.tanktop](/shirt.tanktop.png)|1608640313|Tank Top|Attire|
 |[shoes.boots](/shoes.boots.png)|-1549739227|Boots|Attire|
 |[shotgun.double](/shotgun.double.png)|-765183617|Double Barrel Shotgun|Weapon|
+|[shotgun.m4](/shotgun.m4.png)|678698219|M4 Shotgun|Weapon|
 |[shotgun.pump](/shotgun.pump.png)|795371088|Pump Shotgun|Weapon|
 |[shotgun.spas12](/shotgun.spas12.png)|-41440462|Spas-12 Shotgun|Weapon|
 |[shotgun.waterpipe](/shotgun.waterpipe.png)|-1367281941|Waterpipe Shotgun|Weapon|

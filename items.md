@@ -455,6 +455,7 @@
 |![](/laserlight.png)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
 |![](/lavenderidtag.png)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.png)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
+|![](/legacyfurnace.png)|legacyfurnace|-1310391395|Legacy Furnace|Items|Legacy Furnace|
 |![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
 |![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
 |![](/lightupframe.small.png)|lightupframe.small|1691223771|Light-Up Frame Small|Items|A small light-up frame|
@@ -645,6 +646,7 @@
 |![](/shirt.tanktop.png)|shirt.tanktop|1608640313|Tank Top|Attire|A tshirt without sleeves|
 |![](/shoes.boots.png)|shoes.boots|-1549739227|Boots|Attire|Work boots.|
 |![](/shotgun.double.png)|shotgun.double|-765183617|Double Barrel Shotgun|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
+|![](/shotgun.m4.png)|shotgun.m4|678698219|M4 Shotgun|Weapon|A semi automatic military issue shotgun|
 |![](/shotgun.pump.png)|shotgun.pump|795371088|Pump Shotgun|Weapon|A Shotgun. Fires six rounds.|
 |![](/shotgun.spas12.png)|shotgun.spas12|-41440462|Spas-12 Shotgun|Weapon|A semi automatic military issue shotgun|
 |![](/shotgun.waterpipe.png)|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|Weapon|A Shotgun. Fires a single round before reloading.|
