@@ -773,6 +773,7 @@
 |![](/trap.bear.png)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
 |![](/trap.landmine.png)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
 |![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
+|![](/trophy2023.png)|trophy2023|-901370585|Twitch Rivals Trophy 2023|Items|A trophy dedicated to the survivors of Rust Twitch Rivals 2023|
 |![](/tshirt.png)|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|
 |![](/tshirt.long.png)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|A t-shirt with long sleeves.|
 |![](/tugboat.png)|tugboat|-561148628|Tugboat|Items||

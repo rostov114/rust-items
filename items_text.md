@@ -773,6 +773,7 @@
 |[trap.bear](/trap.bear.png)|-582782051|Snap Trap|Traps|
 |[trap.landmine](/trap.landmine.png)|-1663759755|Homemade Landmine|Traps|
 |[trophy](/trophy.png)|975983052|Twitch Rivals Trophy|Items|
+|[trophy2023](/trophy2023.png)|-901370585|Twitch Rivals Trophy 2023|Items|
 |[tshirt](/tshirt.png)|223891266|T-Shirt|Attire|
 |[tshirt.long](/tshirt.long.png)|935692442|Longsleeve T-Shirt|Attire|
 |[tugboat](/tugboat.png)|-561148628|Tugboat|Items|
