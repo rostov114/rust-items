@@ -455,6 +455,8 @@
 |[laserlight](/laserlight.png)|853471967|Laser Light|Fun|
 |[lavenderidtag](/lavenderidtag.png)|1223729384|Lavender ID Tag|Resources|
 |[leather](/leather.png)|1381010055|Leather|Resources|
+|[legacy bow](/legacy bow.png)|-73195037|Legacy bow|Weapon|
+|[legacy.shelter.wood](/legacy.shelter.wood.png)|607400343|Legacy Wood Shelter|Construction|
 |[legacyfurnace](/legacyfurnace.png)|-1310391395|Legacy Furnace|Items|
 |[lightup.large](/lightup.large.png)|242421166|Light-Up Frame Large|Items|
 |[lightupframe.medium](/lightupframe.medium.png)|-1294739579|Light-Up Frame Medium|Items|

@@ -455,6 +455,8 @@
 |![](/laserlight.png)|laserlight|853471967|Laser Light|
 |![](/lavenderidtag.png)|lavenderidtag|1223729384|Lavender ID Tag|
 |![](/leather.png)|leather|1381010055|Leather|
+|![](/legacy bow.png)|legacy bow|-73195037|Legacy bow|
+|![](/legacy.shelter.wood.png)|legacy.shelter.wood|607400343|Legacy Wood Shelter|
 |![](/legacyfurnace.png)|legacyfurnace|-1310391395|Legacy Furnace|
 |![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|
 |![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|
