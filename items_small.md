@@ -152,6 +152,7 @@
 |![](/computerstation.png)|computerstation|-1588628467|Computer Station|
 |![](/concretehatchet.png)|concretehatchet|1176355476|Concrete Hatchet|
 |![](/concretepickaxe.png)|concretepickaxe|-1360171080|Concrete Pickaxe|
+|![](/confetticannon.png)|confetticannon|1603174987|Confetti Cannon|
 |![](/connected.speaker.png)|connected.speaker|968421290|Connected Speaker|
 |![](/corn.png)|corn|1367190888|Corn|
 |![](/crankshaft1.png)|crankshaft1|1158340334|Low Quality Crankshaft|
@@ -537,6 +538,7 @@
 |![](/photoframe.portrait.png)|photoframe.portrait|1729712564|Portrait Photo Frame|
 |![](/piano.png)|piano|1272430949|Wheelbarrow Piano|
 |![](/pickaxe.png)|pickaxe|-1302129395|Pickaxe|
+|![](/pinata.png)|pinata|-1442496789|Pinata|
 |![](/pinkidtag.png)|pinkidtag|180752235|Pink ID Tag|
 |![](/pipetool.png)|pipetool|-144513264|Pipe Tool|
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|

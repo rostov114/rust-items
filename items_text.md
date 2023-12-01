@@ -152,6 +152,7 @@
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
 |[concretepickaxe](/concretepickaxe.png)|-1360171080|Concrete Pickaxe|Tool|
+|[confetticannon](/confetticannon.png)|1603174987|Confetti Cannon|Fun|
 |[connected.speaker](/connected.speaker.png)|968421290|Connected Speaker|Fun|
 |[corn](/corn.png)|1367190888|Corn|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
@@ -537,6 +538,7 @@
 |[photoframe.portrait](/photoframe.portrait.png)|1729712564|Portrait Photo Frame|Items|
 |[piano](/piano.png)|1272430949|Wheelbarrow Piano|Fun|
 |[pickaxe](/pickaxe.png)|-1302129395|Pickaxe|Tool|
+|[pinata](/pinata.png)|-1442496789|Pinata|Fun|
 |[pinkidtag](/pinkidtag.png)|180752235|Pink ID Tag|Resources|
 |[pipetool](/pipetool.png)|-144513264|Pipe Tool|Electrical|
 |[pistol.eoka](/pistol.eoka.png)|-75944661|Eoka Pistol|Weapon|

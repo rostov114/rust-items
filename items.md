@@ -152,6 +152,7 @@
 |![](/computerstation.png)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.png)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
 |![](/concretepickaxe.png)|concretepickaxe|-1360171080|Concrete Pickaxe|Tool|A salvaged piece of concrete and rebar with a sharp edge. Can be used to harvest Stone, Metal ore and Sulfur ore.|
+|![](/confetticannon.png)|confetticannon|1603174987|Confetti Cannon|Fun|Blast a cloud of birthday themed confetti cheer.|
 |![](/connected.speaker.png)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/corn.png)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/crankshaft1.png)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
@@ -537,6 +538,7 @@
 |![](/photoframe.portrait.png)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.png)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.png)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
+|![](/pinata.png)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.png)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.png)|pipetool|-144513264|Pipe Tool|Electrical|Now you're thinking with pipes!|
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
