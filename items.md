@@ -457,7 +457,7 @@
 |![](/lavenderidtag.png)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.png)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
 |![](/legacy bow.png)|legacy bow|-73195037|Legacy bow|Weapon|Legacy Bow, useful for short to medium range combat and hunting.|
-|![](/legacy.shelter.wood.png)|legacy.shelter.wood|607400343|Legacy Wood Shelter|Construction|The classic s...acred shack. A great starter base.|
+|![](/legacy.shelter.wood.png)|legacy.shelter.wood|607400343|Legacy Wood Shelter|Construction|The classic s*** shack. A great starter base for any fresh spawn.|
 |![](/legacyfurnace.png)|legacyfurnace|-1310391395|Legacy Furnace|Items|Legacy Furnace|
 |![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
 |![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
