@@ -152,6 +152,7 @@
 |![](/computerstation.png)|computerstation|-1588628467|Computer Station|
 |![](/concretehatchet.png)|concretehatchet|1176355476|Concrete Hatchet|
 |![](/concretepickaxe.png)|concretepickaxe|-1360171080|Concrete Pickaxe|
+|![](/confetticannon.png)|confetticannon|1603174987|Confetti Cannon|
 |![](/connected.speaker.png)|connected.speaker|968421290|Connected Speaker|
 |![](/corn.png)|corn|1367190888|Corn|
 |![](/crankshaft1.png)|crankshaft1|1158340334|Low Quality Crankshaft|
@@ -388,6 +389,7 @@
 |![](/hazmatsuit_scientist_arctic.png)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|
 |![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|
+|![](/hazmatsuittwitch.png)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|
 |![](/head.bag.png)|head.bag|209218760|Head Bag|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|
@@ -452,7 +454,11 @@
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|
+|![](/lavenderidtag.png)|lavenderidtag|1223729384|Lavender ID Tag|
 |![](/leather.png)|leather|1381010055|Leather|
+|![](/legacy bow.png)|legacy bow|-73195037|Legacy bow|
+|![](/legacy.shelter.wood.png)|legacy.shelter.wood|607400343|Legacy Wood Shelter|
+|![](/legacyfurnace.png)|legacyfurnace|-1310391395|Legacy Furnace|
 |![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|
 |![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|
 |![](/lightupframe.small.png)|lightupframe.small|1691223771|Light-Up Frame Small|
@@ -502,6 +508,7 @@
 |![](/minihelicopter.repair.png)|minihelicopter.repair|1426574435|MC repair|
 |![](/mining.pumpjack.png)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.png)|mining.quarry|1052926200|Mining Quarry|
+|![](/mintidtag.png)|mintidtag|1572152877|Mint ID Tag|
 |![](/mixingtable.png)|mixingtable|1259919256|Mixing Table|
 |![](/mlrs.png)|mlrs|-1449152644|MLRS|
 |![](/mobilephone.png)|mobilephone|-20045316|Mobile Phone|
@@ -531,6 +538,7 @@
 |![](/photoframe.portrait.png)|photoframe.portrait|1729712564|Portrait Photo Frame|
 |![](/piano.png)|piano|1272430949|Wheelbarrow Piano|
 |![](/pickaxe.png)|pickaxe|-1302129395|Pickaxe|
+|![](/pinata.png)|pinata|-1442496789|Pinata|
 |![](/pinkidtag.png)|pinkidtag|180752235|Pink ID Tag|
 |![](/pipetool.png)|pipetool|-144513264|Pipe Tool|
 |![](/pistol.eoka.png)|pistol.eoka|-75944661|Eoka Pistol|
@@ -642,6 +650,7 @@
 |![](/shirt.tanktop.png)|shirt.tanktop|1608640313|Tank Top|
 |![](/shoes.boots.png)|shoes.boots|-1549739227|Boots|
 |![](/shotgun.double.png)|shotgun.double|-765183617|Double Barrel Shotgun|
+|![](/shotgun.m4.png)|shotgun.m4|678698219|M4 Shotgun|
 |![](/shotgun.pump.png)|shotgun.pump|795371088|Pump Shotgun|
 |![](/shotgun.spas12.png)|shotgun.spas12|-41440462|Spas-12 Shotgun|
 |![](/shotgun.waterpipe.png)|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|
@@ -768,11 +777,13 @@
 |![](/trap.bear.png)|trap.bear|-582782051|Snap Trap|
 |![](/trap.landmine.png)|trap.landmine|-1663759755|Homemade Landmine|
 |![](/trophy.png)|trophy|975983052|Twitch Rivals Trophy|
+|![](/trophy2023.png)|trophy2023|-901370585|Twitch Rivals Trophy 2023|
 |![](/tshirt.png)|tshirt|223891266|T-Shirt|
 |![](/tshirt.long.png)|tshirt.long|935692442|Longsleeve T-Shirt|
 |![](/tugboat.png)|tugboat|-561148628|Tugboat|
 |![](/tunalight.png)|tunalight|-1478445584|Tuna Can Lamp|
 |![](/twitch.headset.png)|twitch.headset|-1569700847|Headset|
+|![](/twitchrivals2023desk.png)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|
 |![](/twitchsunglasses.png)|twitchsunglasses|20489901|Purple Sunglasses|
 |![](/twowaymirror.window.png)|twowaymirror.window|-1683726934|Two-Way Mirror|
 |![](/valve1.png)|valve1|1330084809|Low Quality Valves|

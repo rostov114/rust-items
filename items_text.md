@@ -152,6 +152,7 @@
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
 |[concretepickaxe](/concretepickaxe.png)|-1360171080|Concrete Pickaxe|Tool|
+|[confetticannon](/confetticannon.png)|1603174987|Confetti Cannon|Fun|
 |[connected.speaker](/connected.speaker.png)|968421290|Connected Speaker|Fun|
 |[corn](/corn.png)|1367190888|Corn|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
@@ -388,6 +389,7 @@
 |[hazmatsuit_scientist_arctic](/hazmatsuit_scientist_arctic.png)|1107575710|Arctic Scientist Suit|Attire|
 |[hazmatsuit_scientist_nvgm](/hazmatsuit_scientist_nvgm.png)|86840834|NVGM Scientist Suit|Attire|
 |[hazmatsuit_scientist_peacekeeper](/hazmatsuit_scientist_peacekeeper.png)|-1958316066|Scientist Suit|Attire|
+|[hazmatsuittwitch](/hazmatsuittwitch.png)|468313189|Twitch Rivals Hazmat Suit|Attire|
 |[head.bag](/head.bag.png)|209218760|Head Bag|Misc|
 |[healingtea.advanced](/healingtea.advanced.png)|-2123125470|Advanced Healing Tea|Food|
 |[healingtea](/healingtea.png)|-929092070|Basic Healing Tea|Food|
@@ -452,7 +454,11 @@
 |[largecandles](/largecandles.png)|-489848205|Large Candle Set|Misc|
 |[largemedkit](/largemedkit.png)|254522515|Large Medkit|Medical|
 |[laserlight](/laserlight.png)|853471967|Laser Light|Fun|
+|[lavenderidtag](/lavenderidtag.png)|1223729384|Lavender ID Tag|Resources|
 |[leather](/leather.png)|1381010055|Leather|Resources|
+|[legacy bow](/legacy bow.png)|-73195037|Legacy bow|Weapon|
+|[legacy.shelter.wood](/legacy.shelter.wood.png)|607400343|Legacy Wood Shelter|Construction|
+|[legacyfurnace](/legacyfurnace.png)|-1310391395|Legacy Furnace|Items|
 |[lightup.large](/lightup.large.png)|242421166|Light-Up Frame Large|Items|
 |[lightupframe.medium](/lightupframe.medium.png)|-1294739579|Light-Up Frame Medium|Items|
 |[lightupframe.small](/lightupframe.small.png)|1691223771|Light-Up Frame Small|Items|
@@ -502,6 +508,7 @@
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|MC repair|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
+|[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
 |[mixingtable](/mixingtable.png)|1259919256|Mixing Table|Items|
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
 |[mobilephone](/mobilephone.png)|-20045316|Mobile Phone|Fun|
@@ -531,6 +538,7 @@
 |[photoframe.portrait](/photoframe.portrait.png)|1729712564|Portrait Photo Frame|Items|
 |[piano](/piano.png)|1272430949|Wheelbarrow Piano|Fun|
 |[pickaxe](/pickaxe.png)|-1302129395|Pickaxe|Tool|
+|[pinata](/pinata.png)|-1442496789|Pinata|Fun|
 |[pinkidtag](/pinkidtag.png)|180752235|Pink ID Tag|Resources|
 |[pipetool](/pipetool.png)|-144513264|Pipe Tool|Electrical|
 |[pistol.eoka](/pistol.eoka.png)|-75944661|Eoka Pistol|Weapon|
@@ -642,6 +650,7 @@
 |[shirt.tanktop](/shirt.tanktop.png)|1608640313|Tank Top|Attire|
 |[shoes.boots](/shoes.boots.png)|-1549739227|Boots|Attire|
 |[shotgun.double](/shotgun.double.png)|-765183617|Double Barrel Shotgun|Weapon|
+|[shotgun.m4](/shotgun.m4.png)|678698219|M4 Shotgun|Weapon|
 |[shotgun.pump](/shotgun.pump.png)|795371088|Pump Shotgun|Weapon|
 |[shotgun.spas12](/shotgun.spas12.png)|-41440462|Spas-12 Shotgun|Weapon|
 |[shotgun.waterpipe](/shotgun.waterpipe.png)|-1367281941|Waterpipe Shotgun|Weapon|
@@ -768,11 +777,13 @@
 |[trap.bear](/trap.bear.png)|-582782051|Snap Trap|Traps|
 |[trap.landmine](/trap.landmine.png)|-1663759755|Homemade Landmine|Traps|
 |[trophy](/trophy.png)|975983052|Twitch Rivals Trophy|Items|
+|[trophy2023](/trophy2023.png)|-901370585|Twitch Rivals Trophy 2023|Items|
 |[tshirt](/tshirt.png)|223891266|T-Shirt|Attire|
 |[tshirt.long](/tshirt.long.png)|935692442|Longsleeve T-Shirt|Attire|
 |[tugboat](/tugboat.png)|-561148628|Tugboat|Items|
 |[tunalight](/tunalight.png)|-1478445584|Tuna Can Lamp|Items|
 |[twitch.headset](/twitch.headset.png)|-1569700847|Headset|Attire|
+|[twitchrivals2023desk](/twitchrivals2023desk.png)|-243540612|Twitch Rivals Desk|Electrical|
 |[twitchsunglasses](/twitchsunglasses.png)|20489901|Purple Sunglasses|Attire|
 |[twowaymirror.window](/twowaymirror.window.png)|-1683726934|Two-Way Mirror|Items|
 |[valve1](/valve1.png)|1330084809|Low Quality Valves|Component|
