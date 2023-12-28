@@ -390,6 +390,7 @@
 |![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuittwitch.png)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|Attire|A purple hazmat suit made from radiation resistant rubber.|
+|![](/hazmatyoutooz.png)|hazmatyoutooz|-1696379844|Hazmat Youtooz|Items|Hazmat Youtooz|
 |![](/head.bag.png)|head.bag|209218760|Head Bag|Misc|A sack containing the head of a defeated foe. Can be added to trophies.|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
@@ -397,6 +398,7 @@
 |![](/heavy.plate.helmet.png)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
 |![](/heavy.plate.jacket.png)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
 |![](/heavy.plate.pants.png)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
+|![](/heavyscientistyoutooz.png)|heavyscientistyoutooz|-722629980|Heavy Scientist Youtooz|Items|Heavy Scientist Youtooz|
 |![](/hitchtroughcombo.png)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
 |![](/hmlmg.png)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.png)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|

@@ -390,6 +390,7 @@
 |![](/hazmatsuit_scientist_nvgm.png)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|
 |![](/hazmatsuit_scientist_peacekeeper.png)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|
 |![](/hazmatsuittwitch.png)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|
+|![](/hazmatyoutooz.png)|hazmatyoutooz|-1696379844|Hazmat Youtooz|
 |![](/head.bag.png)|head.bag|209218760|Head Bag|
 |![](/healingtea.advanced.png)|healingtea.advanced|-2123125470|Advanced Healing Tea|
 |![](/healingtea.png)|healingtea|-929092070|Basic Healing Tea|
@@ -397,6 +398,7 @@
 |![](/heavy.plate.helmet.png)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|
 |![](/heavy.plate.jacket.png)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|
 |![](/heavy.plate.pants.png)|heavy.plate.pants|-1778159885|Heavy Plate Pants|
+|![](/heavyscientistyoutooz.png)|heavyscientistyoutooz|-722629980|Heavy Scientist Youtooz|
 |![](/hitchtroughcombo.png)|hitchtroughcombo|1160881421|Hitch & Trough|
 |![](/hmlmg.png)|hmlmg|-1214542497|HMLMG|
 |![](/hobobarrel.png)|hobobarrel|-1442559428|Hobo Barrel|
