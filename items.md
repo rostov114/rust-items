@@ -453,6 +453,7 @@
 |![](/knife.skinning.png)|knife.skinning|-2073432256|Skinning Knife|Weapon|A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.|
 |![](/ladder.wooden.wall.png)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.png)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
+|![](/largebackpack.png)|largebackpack|-907422733|Large Backpack|Attire|A larger handmade backpack that can hold items inside it|
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
@@ -703,6 +704,7 @@
 |![](/sled.xmas.png)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sleepingbag.png)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you a location to respawn.|
 |![](/small.oil.refinery.png)|small.oil.refinery|-1293296287|Small Oil Refinery|Items|A small refinery which can produce Low Grade Fuel from Crude Oil.|
+|![](/smallbackpack.png)|smallbackpack|2068884361|Small Backpack|Attire|A small, makeshift backpack|
 |![](/smallcandles.png)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
 |![](/smallwaterbottle.png)|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/smart.alarm.png)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|

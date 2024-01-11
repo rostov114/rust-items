@@ -453,6 +453,7 @@
 |![](/knife.skinning.png)|knife.skinning|-2073432256|Skinning Knife|
 |![](/ladder.wooden.wall.png)|ladder.wooden.wall|-316250604|Wooden Ladder|
 |![](/lantern.png)|lantern|1658229558|Lantern|
+|![](/largebackpack.png)|largebackpack|-907422733|Large Backpack|
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|
@@ -703,6 +704,7 @@
 |![](/sled.xmas.png)|sled.xmas|-135252633|Sled|
 |![](/sleepingbag.png)|sleepingbag|-1754948969|Sleeping Bag|
 |![](/small.oil.refinery.png)|small.oil.refinery|-1293296287|Small Oil Refinery|
+|![](/smallbackpack.png)|smallbackpack|2068884361|Small Backpack|
 |![](/smallcandles.png)|smallcandles|-2058362263|Small Candle Set|
 |![](/smallwaterbottle.png)|smallwaterbottle|-1039528932|Small Water Bottle|
 |![](/smart.alarm.png)|smart.alarm|-695978112|Smart Alarm|

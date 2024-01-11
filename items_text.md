@@ -453,6 +453,7 @@
 |[knife.skinning](/knife.skinning.png)|-2073432256|Skinning Knife|Weapon|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
+|[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
 |[largecandles](/largecandles.png)|-489848205|Large Candle Set|Misc|
 |[largemedkit](/largemedkit.png)|254522515|Large Medkit|Medical|
 |[laserlight](/laserlight.png)|853471967|Laser Light|Fun|
@@ -703,6 +704,7 @@
 |[sled.xmas](/sled.xmas.png)|-135252633|Sled|Fun|
 |[sleepingbag](/sleepingbag.png)|-1754948969|Sleeping Bag|Items|
 |[small.oil.refinery](/small.oil.refinery.png)|-1293296287|Small Oil Refinery|Items|
+|[smallbackpack](/smallbackpack.png)|2068884361|Small Backpack|Attire|
 |[smallcandles](/smallcandles.png)|-2058362263|Small Candle Set|Misc|
 |[smallwaterbottle](/smallwaterbottle.png)|-1039528932|Small Water Bottle|Food|
 |[smart.alarm](/smart.alarm.png)|-695978112|Smart Alarm|Electrical|
