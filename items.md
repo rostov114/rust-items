@@ -453,7 +453,7 @@
 |![](/knife.skinning.png)|knife.skinning|-2073432256|Skinning Knife|Weapon|A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.|
 |![](/ladder.wooden.wall.png)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.png)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
-|![](/largebackpack.png)|largebackpack|-907422733|Large Backpack|Attire|A larger handmade backpack that can hold items inside it|
+|![](/largebackpack.png)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
