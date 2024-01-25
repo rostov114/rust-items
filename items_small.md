@@ -495,6 +495,7 @@
 |![](/meat.pork.burned.png)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|
 |![](/megaphone.png)|megaphone|-583379016|Megaphone|
+|![](/metal.detector.png)|metal.detector|1168856825|Metal Detector|
 |![](/metal.facemask.hockey.png)|metal.facemask.hockey|-1334569149|Hockey Mask|
 |![](/metal.facemask.icemask.png)|metal.facemask.icemask|110116923|Ice Metal Facemask|
 |![](/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|
@@ -657,6 +658,7 @@
 |![](/shotgun.pump.png)|shotgun.pump|795371088|Pump Shotgun|
 |![](/shotgun.spas12.png)|shotgun.spas12|-41440462|Spas-12 Shotgun|
 |![](/shotgun.waterpipe.png)|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|
+|![](/shovel.png)|shovel|-1536855921|Shovel|
 |![](/shutter.metal.embrasure.a.png)|shutter.metal.embrasure.a|-1199897169|Metal horizontal embrasure|
 |![](/shutter.metal.embrasure.b.png)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|
 |![](/shutter.wood.a.png)|shutter.wood.a|-1023374709|Wood Shutters|
