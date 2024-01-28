@@ -131,6 +131,7 @@
 |![](/chicken.raw.png)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
+|![](/chineselanternwhite.png)|chineselanternwhite|-770304148|Chinese Lantern White|Items|A decorative White Paper lantern|
 |![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/clantable.png)|clantable|486661382|Clan Table|Items|A table for managing clans.|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
@@ -598,6 +599,7 @@
 |![](/roadsign.kilt.png)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns.|
 |![](/roadsigns.png)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
 |![](/rock.png)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
+|![](/rocket.launcher.dragon.png)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rockingchair.png)|rockingchair|-1863063690|Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
 |![](/rockingchair.rockingchair2.png)|rockingchair.rockingchair2|1758333838|Teal|Items||
@@ -727,6 +729,7 @@
 |![](/sparkplug1.png)|sparkplug1|-89874794|Low Quality Spark Plugs|Component|Low quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug2.png)|sparkplug2|-493159321|Medium Quality Spark Plugs|Component|Medium quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug3.png)|sparkplug3|1072924620|High Quality Spark Plugs|Component|High quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
+|![](/spear.cny.png)|spear.cny|695450239|Chinese new year spear|Weapon|A Chinese new year themed metal spear|
 |![](/spear.stone.png)|spear.stone|1602646136|Stone Spear|Weapon|A stone-tipped wooden Spear. Slightly longer range.|
 |![](/spear.wooden.png)|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
 |![](/speargun.png)|speargun|-1517740219|Speargun|Weapon|A speargun which can only be fired underwater. Excellent for hunting Sharks.|

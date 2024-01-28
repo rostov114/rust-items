@@ -131,6 +131,7 @@
 |[chicken.raw](/chicken.raw.png)|-1440987069|Raw Chicken Breast|Food|
 |[chicken.spoiled](/chicken.spoiled.png)|-751151717|Spoiled Chicken|Food|
 |[chineselantern](/chineselantern.png)|-1916473915|Chinese Lantern|Items|
+|[chineselanternwhite](/chineselanternwhite.png)|-770304148|Chinese Lantern White|Items|
 |[chocolate](/chocolate.png)|-965336208|Chocolate Bar|Food|
 |[clantable](/clantable.png)|486661382|Clan Table|Items|
 |[clatter.helmet](/clatter.helmet.png)|968019378|Clatter Helmet|Attire|
@@ -598,6 +599,7 @@
 |[roadsign.kilt](/roadsign.kilt.png)|1850456855|Road Sign Kilt|Attire|
 |[roadsigns](/roadsigns.png)|1199391518|Road Signs|Component|
 |[rock](/rock.png)|963906841|Rock|Tool|
+|[rocket.launcher.dragon](/rocket.launcher.dragon.png)|-1315992997|Dragon Rocket Launcher|Weapon|
 |[rocket.launcher](/rocket.launcher.png)|442886268|Rocket Launcher|Weapon|
 |[rockingchair](/rockingchair.png)|-1863063690|Rocking Chair|Items|
 |[rockingchair.rockingchair2](/rockingchair.rockingchair2.png)|1758333838|Teal|Items|
@@ -727,6 +729,7 @@
 |[sparkplug1](/sparkplug1.png)|-89874794|Low Quality Spark Plugs|Component|
 |[sparkplug2](/sparkplug2.png)|-493159321|Medium Quality Spark Plugs|Component|
 |[sparkplug3](/sparkplug3.png)|1072924620|High Quality Spark Plugs|Component|
+|[spear.cny](/spear.cny.png)|695450239|Chinese new year spear|Weapon|
 |[spear.stone](/spear.stone.png)|1602646136|Stone Spear|Weapon|
 |[spear.wooden](/spear.wooden.png)|1540934679|Wooden Spear|Weapon|
 |[speargun](/speargun.png)|-1517740219|Speargun|Weapon|

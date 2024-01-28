@@ -131,6 +131,7 @@
 |![](/chicken.raw.png)|chicken.raw|-1440987069|Raw Chicken Breast|
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|
+|![](/chineselanternwhite.png)|chineselanternwhite|-770304148|Chinese Lantern White|
 |![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|
 |![](/clantable.png)|clantable|486661382|Clan Table|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|
@@ -598,6 +599,7 @@
 |![](/roadsign.kilt.png)|roadsign.kilt|1850456855|Road Sign Kilt|
 |![](/roadsigns.png)|roadsigns|1199391518|Road Signs|
 |![](/rock.png)|rock|963906841|Rock|
+|![](/rocket.launcher.dragon.png)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|
 |![](/rockingchair.png)|rockingchair|-1863063690|Rocking Chair|
 |![](/rockingchair.rockingchair2.png)|rockingchair.rockingchair2|1758333838|Teal|
@@ -727,6 +729,7 @@
 |![](/sparkplug1.png)|sparkplug1|-89874794|Low Quality Spark Plugs|
 |![](/sparkplug2.png)|sparkplug2|-493159321|Medium Quality Spark Plugs|
 |![](/sparkplug3.png)|sparkplug3|1072924620|High Quality Spark Plugs|
+|![](/spear.cny.png)|spear.cny|695450239|Chinese new year spear|
 |![](/spear.stone.png)|spear.stone|1602646136|Stone Spear|
 |![](/spear.wooden.png)|spear.wooden|1540934679|Wooden Spear|
 |![](/speargun.png)|speargun|-1517740219|Speargun|
