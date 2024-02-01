@@ -131,6 +131,7 @@
 |[chicken.raw](/chicken.raw.png)|-1440987069|Raw Chicken Breast|Food|
 |[chicken.spoiled](/chicken.spoiled.png)|-751151717|Spoiled Chicken|Food|
 |[chineselantern](/chineselantern.png)|-1916473915|Chinese Lantern|Items|
+|[chineselanternwhite](/chineselanternwhite.png)|-770304148|Chinese Lantern White|Items|
 |[chocolate](/chocolate.png)|-965336208|Chocolate Bar|Food|
 |[clantable](/clantable.png)|486661382|Clan Table|Items|
 |[clatter.helmet](/clatter.helmet.png)|968019378|Clatter Helmet|Attire|
@@ -453,6 +454,7 @@
 |[knife.skinning](/knife.skinning.png)|-2073432256|Skinning Knife|Weapon|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
+|[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
 |[largecandles](/largecandles.png)|-489848205|Large Candle Set|Misc|
 |[largemedkit](/largemedkit.png)|254522515|Large Medkit|Medical|
 |[laserlight](/laserlight.png)|853471967|Laser Light|Fun|
@@ -494,6 +496,7 @@
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
 |[megaphone](/megaphone.png)|-583379016|Megaphone|Fun|
+|[metal.detector](/metal.detector.png)|1168856825|Metal Detector|Tool|
 |[metal.facemask.hockey](/metal.facemask.hockey.png)|-1334569149|Hockey Mask|Attire|
 |[metal.facemask.icemask](/metal.facemask.icemask.png)|110116923|Ice Metal Facemask|Attire|
 |[metal.facemask](/metal.facemask.png)|-194953424|Metal Facemask|Attire|
@@ -596,6 +599,7 @@
 |[roadsign.kilt](/roadsign.kilt.png)|1850456855|Road Sign Kilt|Attire|
 |[roadsigns](/roadsigns.png)|1199391518|Road Signs|Component|
 |[rock](/rock.png)|963906841|Rock|Tool|
+|[rocket.launcher.dragon](/rocket.launcher.dragon.png)|-1315992997|Dragon Rocket Launcher|Weapon|
 |[rocket.launcher](/rocket.launcher.png)|442886268|Rocket Launcher|Weapon|
 |[rockingchair](/rockingchair.png)|-1863063690|Rocking Chair|Items|
 |[rockingchair.rockingchair2](/rockingchair.rockingchair2.png)|1758333838|Teal|Items|
@@ -656,6 +660,7 @@
 |[shotgun.pump](/shotgun.pump.png)|795371088|Pump Shotgun|Weapon|
 |[shotgun.spas12](/shotgun.spas12.png)|-41440462|Spas-12 Shotgun|Weapon|
 |[shotgun.waterpipe](/shotgun.waterpipe.png)|-1367281941|Waterpipe Shotgun|Weapon|
+|[shovel](/shovel.png)|-1536855921|Shovel|Tool|
 |[shutter.metal.embrasure.a](/shutter.metal.embrasure.a.png)|-1199897169|Metal horizontal embrasure|Construction|
 |[shutter.metal.embrasure.b](/shutter.metal.embrasure.b.png)|-1199897172|Metal Vertical embrasure|Construction|
 |[shutter.wood.a](/shutter.wood.a.png)|-1023374709|Wood Shutters|Construction|
@@ -703,6 +708,7 @@
 |[sled.xmas](/sled.xmas.png)|-135252633|Sled|Fun|
 |[sleepingbag](/sleepingbag.png)|-1754948969|Sleeping Bag|Items|
 |[small.oil.refinery](/small.oil.refinery.png)|-1293296287|Small Oil Refinery|Items|
+|[smallbackpack](/smallbackpack.png)|2068884361|Small Backpack|Attire|
 |[smallcandles](/smallcandles.png)|-2058362263|Small Candle Set|Misc|
 |[smallwaterbottle](/smallwaterbottle.png)|-1039528932|Small Water Bottle|Food|
 |[smart.alarm](/smart.alarm.png)|-695978112|Smart Alarm|Electrical|
@@ -723,6 +729,7 @@
 |[sparkplug1](/sparkplug1.png)|-89874794|Low Quality Spark Plugs|Component|
 |[sparkplug2](/sparkplug2.png)|-493159321|Medium Quality Spark Plugs|Component|
 |[sparkplug3](/sparkplug3.png)|1072924620|High Quality Spark Plugs|Component|
+|[spear.cny](/spear.cny.png)|695450239|Chinese new year spear|Weapon|
 |[spear.stone](/spear.stone.png)|1602646136|Stone Spear|Weapon|
 |[spear.wooden](/spear.wooden.png)|1540934679|Wooden Spear|Weapon|
 |[speargun](/speargun.png)|-1517740219|Speargun|Weapon|

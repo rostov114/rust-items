@@ -131,6 +131,7 @@
 |![](/chicken.raw.png)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
+|![](/chineselanternwhite.png)|chineselanternwhite|-770304148|Chinese Lantern White|Items|A decorative White Paper lantern|
 |![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/clantable.png)|clantable|486661382|Clan Table|Items|A table for managing clans.|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
@@ -453,13 +454,14 @@
 |![](/knife.skinning.png)|knife.skinning|-2073432256|Skinning Knife|Weapon|A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.|
 |![](/ladder.wooden.wall.png)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.png)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
+|![](/largebackpack.png)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
 |![](/lavenderidtag.png)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.png)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
 |![](/legacy bow.png)|legacy bow|-73195037|Legacy bow|Weapon|Legacy Bow, useful for short to medium range combat and hunting.|
-|![](/legacy.shelter.wood.png)|legacy.shelter.wood|607400343|Legacy Wood Shelter|Construction|The classic s*** shack. A great starter base for any fresh spawn.|
+|![](/legacy.shelter.wood.png)|legacy.shelter.wood|607400343|Legacy Wood Shelter|Construction|The classic s*** shack. A great starter base for any fresh spawn. There is a limit to how many you can place.|
 |![](/legacyfurnace.png)|legacyfurnace|-1310391395|Legacy Furnace|Items|Legacy Furnace|
 |![](/lightup.large.png)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
 |![](/lightupframe.medium.png)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
@@ -494,6 +496,7 @@
 |![](/meat.pork.burned.png)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
 |![](/megaphone.png)|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
+|![](/metal.detector.png)|metal.detector|1168856825|Metal Detector|Tool|Detects metal objects which may otherwise be hidden. When the light flashes, or you hear a beep, aim to search for items. Increase the bar until a flag appears. Dig at the flag with a melee item to reveal what it is. Different areas yield different rewards|
 |![](/metal.facemask.hockey.png)|metal.facemask.hockey|-1334569149|Hockey Mask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.facemask.icemask.png)|metal.facemask.icemask|110116923|Ice Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
@@ -596,6 +599,7 @@
 |![](/roadsign.kilt.png)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns.|
 |![](/roadsigns.png)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
 |![](/rock.png)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
+|![](/rocket.launcher.dragon.png)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rockingchair.png)|rockingchair|-1863063690|Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
 |![](/rockingchair.rockingchair2.png)|rockingchair.rockingchair2|1758333838|Teal|Items||
@@ -656,6 +660,7 @@
 |![](/shotgun.pump.png)|shotgun.pump|795371088|Pump Shotgun|Weapon|A Shotgun. Fires six rounds.|
 |![](/shotgun.spas12.png)|shotgun.spas12|-41440462|Spas-12 Shotgun|Weapon|A semi automatic military issue shotgun|
 |![](/shotgun.waterpipe.png)|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|Weapon|A Shotgun. Fires a single round before reloading.|
+|![](/shovel.png)|shovel|-1536855921|Shovel|Tool|A shovel for digging up stuff|
 |![](/shutter.metal.embrasure.a.png)|shutter.metal.embrasure.a|-1199897169|Metal horizontal embrasure|Construction|Static shutter that forms a metal horizontal embrasure over your window frame.|
 |![](/shutter.metal.embrasure.b.png)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
 |![](/shutter.wood.a.png)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
@@ -703,6 +708,7 @@
 |![](/sled.xmas.png)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sleepingbag.png)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you a location to respawn.|
 |![](/small.oil.refinery.png)|small.oil.refinery|-1293296287|Small Oil Refinery|Items|A small refinery which can produce Low Grade Fuel from Crude Oil.|
+|![](/smallbackpack.png)|smallbackpack|2068884361|Small Backpack|Attire|A small, makeshift backpack|
 |![](/smallcandles.png)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
 |![](/smallwaterbottle.png)|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/smart.alarm.png)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|
@@ -723,6 +729,7 @@
 |![](/sparkplug1.png)|sparkplug1|-89874794|Low Quality Spark Plugs|Component|Low quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug2.png)|sparkplug2|-493159321|Medium Quality Spark Plugs|Component|Medium quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug3.png)|sparkplug3|1072924620|High Quality Spark Plugs|Component|High quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
+|![](/spear.cny.png)|spear.cny|695450239|Chinese new year spear|Weapon|A Chinese new year themed metal spear|
 |![](/spear.stone.png)|spear.stone|1602646136|Stone Spear|Weapon|A stone-tipped wooden Spear. Slightly longer range.|
 |![](/spear.wooden.png)|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
 |![](/speargun.png)|speargun|-1517740219|Speargun|Weapon|A speargun which can only be fired underwater. Excellent for hunting Sharks.|

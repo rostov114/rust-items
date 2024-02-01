@@ -131,6 +131,7 @@
 |![](/chicken.raw.png)|chicken.raw|-1440987069|Raw Chicken Breast|
 |![](/chicken.spoiled.png)|chicken.spoiled|-751151717|Spoiled Chicken|
 |![](/chineselantern.png)|chineselantern|-1916473915|Chinese Lantern|
+|![](/chineselanternwhite.png)|chineselanternwhite|-770304148|Chinese Lantern White|
 |![](/chocolate.png)|chocolate|-965336208|Chocolate Bar|
 |![](/clantable.png)|clantable|486661382|Clan Table|
 |![](/clatter.helmet.png)|clatter.helmet|968019378|Clatter Helmet|
@@ -453,6 +454,7 @@
 |![](/knife.skinning.png)|knife.skinning|-2073432256|Skinning Knife|
 |![](/ladder.wooden.wall.png)|ladder.wooden.wall|-316250604|Wooden Ladder|
 |![](/lantern.png)|lantern|1658229558|Lantern|
+|![](/largebackpack.png)|largebackpack|-907422733|Large Backpack|
 |![](/largecandles.png)|largecandles|-489848205|Large Candle Set|
 |![](/largemedkit.png)|largemedkit|254522515|Large Medkit|
 |![](/laserlight.png)|laserlight|853471967|Laser Light|
@@ -494,6 +496,7 @@
 |![](/meat.pork.burned.png)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|
 |![](/megaphone.png)|megaphone|-583379016|Megaphone|
+|![](/metal.detector.png)|metal.detector|1168856825|Metal Detector|
 |![](/metal.facemask.hockey.png)|metal.facemask.hockey|-1334569149|Hockey Mask|
 |![](/metal.facemask.icemask.png)|metal.facemask.icemask|110116923|Ice Metal Facemask|
 |![](/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|
@@ -596,6 +599,7 @@
 |![](/roadsign.kilt.png)|roadsign.kilt|1850456855|Road Sign Kilt|
 |![](/roadsigns.png)|roadsigns|1199391518|Road Signs|
 |![](/rock.png)|rock|963906841|Rock|
+|![](/rocket.launcher.dragon.png)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|
 |![](/rocket.launcher.png)|rocket.launcher|442886268|Rocket Launcher|
 |![](/rockingchair.png)|rockingchair|-1863063690|Rocking Chair|
 |![](/rockingchair.rockingchair2.png)|rockingchair.rockingchair2|1758333838|Teal|
@@ -656,6 +660,7 @@
 |![](/shotgun.pump.png)|shotgun.pump|795371088|Pump Shotgun|
 |![](/shotgun.spas12.png)|shotgun.spas12|-41440462|Spas-12 Shotgun|
 |![](/shotgun.waterpipe.png)|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|
+|![](/shovel.png)|shovel|-1536855921|Shovel|
 |![](/shutter.metal.embrasure.a.png)|shutter.metal.embrasure.a|-1199897169|Metal horizontal embrasure|
 |![](/shutter.metal.embrasure.b.png)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|
 |![](/shutter.wood.a.png)|shutter.wood.a|-1023374709|Wood Shutters|
@@ -703,6 +708,7 @@
 |![](/sled.xmas.png)|sled.xmas|-135252633|Sled|
 |![](/sleepingbag.png)|sleepingbag|-1754948969|Sleeping Bag|
 |![](/small.oil.refinery.png)|small.oil.refinery|-1293296287|Small Oil Refinery|
+|![](/smallbackpack.png)|smallbackpack|2068884361|Small Backpack|
 |![](/smallcandles.png)|smallcandles|-2058362263|Small Candle Set|
 |![](/smallwaterbottle.png)|smallwaterbottle|-1039528932|Small Water Bottle|
 |![](/smart.alarm.png)|smart.alarm|-695978112|Smart Alarm|
@@ -723,6 +729,7 @@
 |![](/sparkplug1.png)|sparkplug1|-89874794|Low Quality Spark Plugs|
 |![](/sparkplug2.png)|sparkplug2|-493159321|Medium Quality Spark Plugs|
 |![](/sparkplug3.png)|sparkplug3|1072924620|High Quality Spark Plugs|
+|![](/spear.cny.png)|spear.cny|695450239|Chinese new year spear|
 |![](/spear.stone.png)|spear.stone|1602646136|Stone Spear|
 |![](/spear.wooden.png)|spear.wooden|1540934679|Wooden Spear|
 |![](/speargun.png)|speargun|-1517740219|Speargun|
