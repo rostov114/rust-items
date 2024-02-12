@@ -496,7 +496,7 @@
 |![](/meat.pork.burned.png)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.png)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
 |![](/megaphone.png)|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
-|![](/metal.detector.png)|metal.detector|1168856825|Metal Detector|Tool|Good for detecting metal things.|
+|![](/metal.detector.png)|metal.detector|1168856825|Metal Detector|Tool|Detects metal objects which may otherwise be hidden. When the light flashes, or you hear a beep, aim to search for items. Increase the bar until a flag appears. Dig at the flag with a melee item to reveal what it is. Different areas yield different rewards|
 |![](/metal.facemask.hockey.png)|metal.facemask.hockey|-1334569149|Hockey Mask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.facemask.icemask.png)|metal.facemask.icemask|110116923|Ice Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
 |![](/metal.facemask.png)|metal.facemask|-194953424|Metal Facemask|Attire|A protective facemask which provides the user with excellent head protection from all forms of attacks.|
