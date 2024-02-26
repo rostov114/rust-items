@@ -819,6 +819,7 @@
 |![](/vehicle.module.128.webp)|vehicle.module|878301596|Generic vehicle module|
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
+|![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|

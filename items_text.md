@@ -819,6 +819,7 @@
 |[vehicle.module](/vehicle.module.png)|878301596|Generic vehicle module|Component|
 |[vending.machine](/vending.machine.png)|198438816|Vending Machine|Items|
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
+|[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
 |[wall.external.high.stone](/wall.external.high.stone.png)|-967648160|High External Stone Wall|Construction|
