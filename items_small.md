@@ -128,6 +128,7 @@
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|
+|![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|
 |![](/chicken.raw.128.webp)|chicken.raw|-1440987069|Raw Chicken Breast|
 |![](/chicken.spoiled.128.webp)|chicken.spoiled|-751151717|Spoiled Chicken|
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|

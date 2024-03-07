@@ -128,6 +128,7 @@
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
 |[chicken.burned](/chicken.burned.png)|1973684065|Burnt Chicken|Food|
 |[chicken.cooked](/chicken.cooked.png)|-1848736516|Cooked Chicken|Food|
+|[chicken.costume](/chicken.costume.png)|-152332823|Chicken Costume|Attire|
 |[chicken.raw](/chicken.raw.png)|-1440987069|Raw Chicken Breast|Food|
 |[chicken.spoiled](/chicken.spoiled.png)|-751151717|Spoiled Chicken|Food|
 |[chineselantern](/chineselantern.png)|-1916473915|Chinese Lantern|Items|
