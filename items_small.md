@@ -128,6 +128,7 @@
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|
+|![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|
 |![](/chicken.raw.128.webp)|chicken.raw|-1440987069|Raw Chicken Breast|
 |![](/chicken.spoiled.128.webp)|chicken.spoiled|-751151717|Spoiled Chicken|
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|
@@ -819,6 +820,7 @@
 |![](/vehicle.module.128.webp)|vehicle.module|878301596|Generic vehicle module|
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
+|![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|

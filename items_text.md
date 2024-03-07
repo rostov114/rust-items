@@ -128,6 +128,7 @@
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
 |[chicken.burned](/chicken.burned.png)|1973684065|Burnt Chicken|Food|
 |[chicken.cooked](/chicken.cooked.png)|-1848736516|Cooked Chicken|Food|
+|[chicken.costume](/chicken.costume.png)|-152332823|Chicken Costume|Attire|
 |[chicken.raw](/chicken.raw.png)|-1440987069|Raw Chicken Breast|Food|
 |[chicken.spoiled](/chicken.spoiled.png)|-751151717|Spoiled Chicken|Food|
 |[chineselantern](/chineselantern.png)|-1916473915|Chinese Lantern|Items|
@@ -819,6 +820,7 @@
 |[vehicle.module](/vehicle.module.png)|878301596|Generic vehicle module|Component|
 |[vending.machine](/vending.machine.png)|198438816|Vending Machine|Items|
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
+|[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
 |[wall.external.high.stone](/wall.external.high.stone.png)|-967648160|High External Stone Wall|Construction|

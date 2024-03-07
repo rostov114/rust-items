@@ -128,6 +128,7 @@
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|Food|Cooked chicken. Eating it will restore some health, hunger, and thirst.|
+|![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|Attire|An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
 |![](/chicken.raw.128.webp)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.128.webp)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
@@ -545,7 +546,7 @@
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
-|![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|Now you're thinking with pipes!|
+|![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
 |![](/pistol.eoka.128.webp)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.128.webp)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
 |![](/pistol.nailgun.128.webp)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
@@ -819,6 +820,7 @@
 |![](/vehicle.module.128.webp)|vehicle.module|878301596|Generic vehicle module|Component|Generic vehicle module|
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|Misc|A train car.|
+|![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|Items|A walkie talkie set to an unknown channel|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
@@ -864,7 +866,7 @@
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|Electrical|A weapon rack light.|
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
-|![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle. you can then click on another object's input/output handle to form a connection. holding right mouse will clear or cancel a connection.|
+|![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
 |![](/wolfmeat.burned.128.webp)|wolfmeat.burned|1827479659|Burnt Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
 |![](/wolfmeat.cooked.128.webp)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
 |![](/wolfmeat.raw.128.webp)|wolfmeat.raw|-395377963|Raw Wolf Meat|Food|Raw Wolf Meat. Eating it will damage your health, try cooking it first.|
