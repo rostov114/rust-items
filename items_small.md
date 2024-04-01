@@ -733,7 +733,7 @@
 |![](/sparkplug1.128.webp)|sparkplug1|-89874794|Low Quality Spark Plugs|
 |![](/sparkplug2.128.webp)|sparkplug2|-493159321|Medium Quality Spark Plugs|
 |![](/sparkplug3.128.webp)|sparkplug3|1072924620|High Quality Spark Plugs|
-|![](/spear.cny.128.webp)|spear.cny|695450239|Chinese new year spear|
+|![](/spear.cny.128.webp)|spear.cny|695450239|Lunar New Year Spear|
 |![](/spear.stone.128.webp)|spear.stone|1602646136|Stone Spear|
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|
 |![](/speargun.128.webp)|speargun|-1517740219|Speargun|
