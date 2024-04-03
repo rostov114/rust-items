@@ -511,6 +511,7 @@
 |[metalpipe](/metalpipe.png)|95950017|Metal Pipe|Component|
 |[metalspring](/metalspring.png)|-1021495308|Metal Spring|Component|
 |[microphonestand](/microphonestand.png)|39600618|Microphone Stand|Fun|
+|[military flamethrower](/military flamethrower.png)|703057617|Military Flame Thrower|Weapon|
 |[minecart.planter](/minecart.planter.png)|1361520181|Minecart Planter|Items|
 |[minigun](/minigun.png)|935606207|Minigun|Weapon|
 |[minigunammopack](/minigunammopack.png)|355877490|Minigun Ammo Pack|Attire|
