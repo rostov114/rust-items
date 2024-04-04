@@ -164,6 +164,7 @@
 |![](/crossbow.128.webp)|crossbow|1965232394|Crossbow|
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|
+|![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|
@@ -510,7 +511,10 @@
 |![](/metalpipe.128.webp)|metalpipe|95950017|Metal Pipe|
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|
+|![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|
+|![](/minigun.128.webp)|minigun|935606207|Minigun|
+|![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|MC repair|
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|
@@ -730,7 +734,7 @@
 |![](/sparkplug1.128.webp)|sparkplug1|-89874794|Low Quality Spark Plugs|
 |![](/sparkplug2.128.webp)|sparkplug2|-493159321|Medium Quality Spark Plugs|
 |![](/sparkplug3.128.webp)|sparkplug3|1072924620|High Quality Spark Plugs|
-|![](/spear.cny.128.webp)|spear.cny|695450239|Chinese new year spear|
+|![](/spear.cny.128.webp)|spear.cny|695450239|Lunar New Year Spear|
 |![](/spear.stone.128.webp)|spear.stone|1602646136|Stone Spear|
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|
 |![](/speargun.128.webp)|speargun|-1517740219|Speargun|
