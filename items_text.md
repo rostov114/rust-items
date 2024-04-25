@@ -34,7 +34,6 @@
 |[arrow.fire](/arrow.fire.png)|14241751|Fire Arrow|Ammunition|
 |[arrow.hv](/arrow.hv.png)|-1023065463|High Velocity Arrow|Ammunition|
 |[arrow.wooden](/arrow.wooden.png)|-1234735557|Wooden Arrow|Ammunition|
-|[atmospheric.scanner](/atmospheric.scanner.png)|788316737|Atmospheric Scanner|Tool|
 |[attackhelicopter](/attackhelicopter.png)|1113514903|Attack Helicopter|Misc|
 |[attire.banditguard](/attire.banditguard.png)|-1622110948|Bandit Guard Gear|Attire|
 |[attire.bunny.onesie](/attire.bunny.onesie.png)|-1266045928|Bunny Onesie|Attire|

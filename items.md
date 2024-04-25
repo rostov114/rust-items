@@ -34,7 +34,6 @@
 |![](/arrow.fire.128.webp)|arrow.fire|14241751|Fire Arrow|Ammunition|A fuel soaked arrow, ignite it by aiming.|
 |![](/arrow.hv.128.webp)|arrow.hv|-1023065463|High Velocity Arrow|Ammunition|Lighter, faster arrow that deals less damage.|
 |![](/arrow.wooden.128.webp)|arrow.wooden|-1234735557|Wooden Arrow|Ammunition|An arrow for a Hunting Bow and Crossbow.|
-|![](/atmospheric.scanner.128.webp)|atmospheric.scanner|788316737|Atmospheric Scanner|Tool|A data storage device designed to hold atmospheric readings. Can be inserted into a scanner to generate data for analysis.|
 |![](/attackhelicopter.128.webp)|attackhelicopter|1113514903|Attack Helicopter|Misc|A fairly solid helicopter with weapons capability.|
 |![](/attire.banditguard.128.webp)|attire.banditguard|-1622110948|Bandit Guard Gear|Attire|A bandit guard suit|
 |![](/attire.bunny.onesie.128.webp)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|

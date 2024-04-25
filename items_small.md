@@ -34,7 +34,6 @@
 |![](/arrow.fire.128.webp)|arrow.fire|14241751|Fire Arrow|
 |![](/arrow.hv.128.webp)|arrow.hv|-1023065463|High Velocity Arrow|
 |![](/arrow.wooden.128.webp)|arrow.wooden|-1234735557|Wooden Arrow|
-|![](/atmospheric.scanner.128.webp)|atmospheric.scanner|788316737|Atmospheric Scanner|
 |![](/attackhelicopter.128.webp)|attackhelicopter|1113514903|Attack Helicopter|
 |![](/attire.banditguard.128.webp)|attire.banditguard|-1622110948|Bandit Guard Gear|
 |![](/attire.bunny.onesie.128.webp)|attire.bunny.onesie|-1266045928|Bunny Onesie|
