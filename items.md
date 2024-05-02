@@ -513,7 +513,7 @@
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+attack2] to change voice mode between high and low pitch.|
 |![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|Weapon|A Military grade flamethrower. Uses low grade fuel as ammunition.|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|Items|A small planter with enough room to plant 2 seeds.|
-|![](/minigun.128.webp)|minigun|935606207|Minigun|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
+|![](/minigun.128.webp)|minigun|935606207|Minigun|Weapon|A military issue belt-fed machine gun with that must be spun up to fire. Fires rapidly once spun up at the expense of movement speed.|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|Attire|A backpack designed to store ammunition for a minigun.|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|MC repair|Misc|MC repair dummy|
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
@@ -597,6 +597,7 @@
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
 |![](/rifle.m39.128.webp)|rifle.m39|28201841|M39 Rifle|Weapon|Military grade semi auto rifle|
 |![](/rifle.semiauto.128.webp)|rifle.semiauto|-904863145|Semi-Automatic Rifle|Weapon|A Semi Automatic Rifle.|
+|![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Semi Automatic Rifle.|
 |![](/riflebody.128.webp)|riflebody|176787552|Rifle Body|Component|The firing mechanism of a rifle. Used in construction of a weapon that can fire 5.56 ammo fully automatic.|
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|Attire|A makeshift riot Helmet. Great at deflecting melee attacks.|
 |![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal offers a good amount of protection to the upper body.|
