@@ -164,6 +164,7 @@
 |[crossbow](/crossbow.png)|1965232394|Crossbow|Weapon|
 |[crude.oil](/crude.oil.png)|-321733511|Crude Oil|Resources|
 |[cupboard.tool](/cupboard.tool.png)|-97956382|Tool Cupboard|Construction|
+|[cupboard.tool.retro](/cupboard.tool.retro.png)|1488606552|Retro Tool Cupboard|Construction|
 |[cursedcauldron](/cursedcauldron.png)|1242522330|Cursed Cauldron|Misc|
 |[deer.skull.mask](/deer.skull.mask.png)|-1903165497|Bone Helmet|Attire|
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
@@ -510,7 +511,10 @@
 |[metalpipe](/metalpipe.png)|95950017|Metal Pipe|Component|
 |[metalspring](/metalspring.png)|-1021495308|Metal Spring|Component|
 |[microphonestand](/microphonestand.png)|39600618|Microphone Stand|Fun|
+|[military flamethrower](/military flamethrower.png)|703057617|Military Flame Thrower|Weapon|
 |[minecart.planter](/minecart.planter.png)|1361520181|Minecart Planter|Items|
+|[minigun](/minigun.png)|935606207|Minigun|Weapon|
+|[minigunammopack](/minigunammopack.png)|355877490|Minigun Ammo Pack|Attire|
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|MC repair|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
@@ -730,7 +734,7 @@
 |[sparkplug1](/sparkplug1.png)|-89874794|Low Quality Spark Plugs|Component|
 |[sparkplug2](/sparkplug2.png)|-493159321|Medium Quality Spark Plugs|Component|
 |[sparkplug3](/sparkplug3.png)|1072924620|High Quality Spark Plugs|Component|
-|[spear.cny](/spear.cny.png)|695450239|Chinese new year spear|Weapon|
+|[spear.cny](/spear.cny.png)|695450239|Lunar New Year Spear|Weapon|
 |[spear.stone](/spear.stone.png)|1602646136|Stone Spear|Weapon|
 |[spear.wooden](/spear.wooden.png)|1540934679|Wooden Spear|Weapon|
 |[speargun](/speargun.png)|-1517740219|Speargun|Weapon|

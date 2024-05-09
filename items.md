@@ -164,6 +164,7 @@
 |![](/crossbow.128.webp)|crossbow|1965232394|Crossbow|Weapon|A very accurate ranged weapon.|
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|Resources|Raw Oil out of the ground, must be refined in a refinery to be used.|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|Construction|Placing and authorising with the cupboard will make it so only you can build in a 50 meter radius of it. If you want your friends to build, they'll need to auth too. You should protect this.|
+|![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|Construction|Transform your tool cupboard experience with this modified Hi-Fi cabinet. Complete with retro displays indicating vital base data as well as frosted glass doors allowing you to view its contents of tools and resources!|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|Misc|A spooky cast iron cauldron with a green goo.|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A helmet made of bone.|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
@@ -509,8 +510,11 @@
 |![](/metalblade.128.webp)|metalblade|1882709339|Metal Blade|Component|A Metal Blade for making melee weapons.|
 |![](/metalpipe.128.webp)|metalpipe|95950017|Metal Pipe|Component|Metal Pipe.|
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
-|![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+reload] to change voice mode between high and low pitch.|
+|![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+attack2] to change voice mode between high and low pitch.|
+|![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|Weapon|A Military grade flamethrower. Uses low grade fuel as ammunition.|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|Items|A small planter with enough room to plant 2 seeds.|
+|![](/minigun.128.webp)|minigun|935606207|Minigun|Weapon|A military issue belt-fed machine gun with that must be spun up to fire. Fires rapidly once spun up at the expense of movement speed.|
+|![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|Attire|A backpack designed to store ammunition for a minigun.|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|MC repair|Misc|MC repair dummy|
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
@@ -600,7 +604,7 @@
 |![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns.|
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
 |![](/rock.128.webp)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
-|![](/rocket.launcher.dragon.128.webp)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
+|![](/rocket.launcher.dragon.128.webp)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
 |![](/rocket.launcher.128.webp)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
 |![](/rockingchair.128.webp)|rockingchair|-1863063690|Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
 |![](/rockingchair.rockingchair2.128.webp)|rockingchair.rockingchair2|1758333838|Teal|Items||
@@ -730,7 +734,7 @@
 |![](/sparkplug1.128.webp)|sparkplug1|-89874794|Low Quality Spark Plugs|Component|Low quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug2.128.webp)|sparkplug2|-493159321|Medium Quality Spark Plugs|Component|Medium quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug3.128.webp)|sparkplug3|1072924620|High Quality Spark Plugs|Component|High quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
-|![](/spear.cny.128.webp)|spear.cny|695450239|Chinese new year spear|Weapon|A Chinese new year themed metal spear|
+|![](/spear.cny.128.webp)|spear.cny|695450239|Lunar New Year Spear|Weapon|A Chinese themed New Year themed metal Spear|
 |![](/spear.stone.128.webp)|spear.stone|1602646136|Stone Spear|Weapon|A stone-tipped wooden Spear. Slightly longer range.|
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
 |![](/speargun.128.webp)|speargun|-1517740219|Speargun|Weapon|A speargun which can only be fired underwater. Excellent for hunting Sharks.|
