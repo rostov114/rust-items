@@ -597,6 +597,7 @@
 |[rifle.lr300](/rifle.lr300.png)|-1812555177|LR-300 Assault Rifle|Weapon|
 |[rifle.m39](/rifle.m39.png)|28201841|M39 Rifle|Weapon|
 |[rifle.semiauto](/rifle.semiauto.png)|-904863145|Semi-Automatic Rifle|Weapon|
+|[rifle.sks](/rifle.sks.png)|-348232115|SKS|Weapon|
 |[riflebody](/riflebody.png)|176787552|Rifle Body|Component|
 |[riot.helmet](/riot.helmet.png)|671063303|Riot Helmet|Attire|
 |[roadsign.gloves](/roadsign.gloves.png)|-699558439|Roadsign Gloves|Attire|
