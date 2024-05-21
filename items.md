@@ -228,6 +228,7 @@
 |![](/electric.random.switch.128.webp)|electric.random.switch|492357192|RAND Switch|Electrical|This switch will allow passthrough based on a random number. Each time the SET input receives power it will roll true or false to allow passthrough|
 |![](/electric.rf.broadcaster.128.webp)|electric.rf.broadcaster|-1044468317|RF Broadcaster|Electrical|An RF Broadcaster|
 |![](/electric.rf.receiver.128.webp)|electric.rf.receiver|888415708|RF Receiver|Electrical|An RF Receiver|
+|![](/electric.seismicsensor.128.webp)|electric.seismicsensor|-948291630|Seismic Sensor|Electrical|A small device that detects vibrations within a set range. Will let power pass through depending on the explosive type detected, ideal to know when your time has come.|
 |![](/electric.simplelight.128.webp)|electric.simplelight|-282113991|Simple Light|Electrical|A simple debugging light|
 |![](/electric.sirenlight.128.webp)|electric.sirenlight|762289806|Siren Light|Electrical|A spinning siren light|
 |![](/electric.solarpanel.large.128.webp)|electric.solarpanel.large|2090395347|Large Solar Panel|Electrical|A solar panel which converts sunlight into energy. The amount of energy generated is dependent on the sun's intensity and angle to the panel.|

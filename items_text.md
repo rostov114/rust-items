@@ -228,6 +228,7 @@
 |[electric.random.switch](/electric.random.switch.png)|492357192|RAND Switch|Electrical|
 |[electric.rf.broadcaster](/electric.rf.broadcaster.png)|-1044468317|RF Broadcaster|Electrical|
 |[electric.rf.receiver](/electric.rf.receiver.png)|888415708|RF Receiver|Electrical|
+|[electric.seismicsensor](/electric.seismicsensor.png)|-948291630|Seismic Sensor|Electrical|
 |[electric.simplelight](/electric.simplelight.png)|-282113991|Simple Light|Electrical|
 |[electric.sirenlight](/electric.sirenlight.png)|762289806|Siren Light|Electrical|
 |[electric.solarpanel.large](/electric.solarpanel.large.png)|2090395347|Large Solar Panel|Electrical|
