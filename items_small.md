@@ -228,6 +228,7 @@
 |![](/electric.random.switch.128.webp)|electric.random.switch|492357192|RAND Switch|
 |![](/electric.rf.broadcaster.128.webp)|electric.rf.broadcaster|-1044468317|RF Broadcaster|
 |![](/electric.rf.receiver.128.webp)|electric.rf.receiver|888415708|RF Receiver|
+|![](/electric.seismicsensor.128.webp)|electric.seismicsensor|-948291630|Seismic Sensor|
 |![](/electric.simplelight.128.webp)|electric.simplelight|-282113991|Simple Light|
 |![](/electric.sirenlight.128.webp)|electric.sirenlight|762289806|Siren Light|
 |![](/electric.solarpanel.large.128.webp)|electric.solarpanel.large|2090395347|Large Solar Panel|
