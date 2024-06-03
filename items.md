@@ -459,7 +459,7 @@
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|
 |![](/largecandles.128.webp)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
-|![](/largemedkit.128.webp)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
+|![](/largemedkit.128.webp)|largemedkit|254522515|Large Medkit|Medical|A large medkit that heals you to max health over time and stops any bleeding instantly.Guarantees 100% recovery from the wounded state if placed in your toolbar.|
 |![](/laserlight.128.webp)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
 |![](/lavenderidtag.128.webp)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.128.webp)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
