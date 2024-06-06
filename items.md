@@ -228,6 +228,7 @@
 |![](/electric.random.switch.128.webp)|electric.random.switch|492357192|RAND Switch|Electrical|This switch will allow passthrough based on a random number. Each time the SET input receives power it will roll true or false to allow passthrough|
 |![](/electric.rf.broadcaster.128.webp)|electric.rf.broadcaster|-1044468317|RF Broadcaster|Electrical|An RF Broadcaster|
 |![](/electric.rf.receiver.128.webp)|electric.rf.receiver|888415708|RF Receiver|Electrical|An RF Receiver|
+|![](/electric.seismicsensor.128.webp)|electric.seismicsensor|-948291630|Seismic Sensor|Electrical|A small device that detects vibrations within a set range. Will output a different power value depending on the explosive type detected, ideal to know when your time has come.|
 |![](/electric.simplelight.128.webp)|electric.simplelight|-282113991|Simple Light|Electrical|A simple debugging light|
 |![](/electric.sirenlight.128.webp)|electric.sirenlight|762289806|Siren Light|Electrical|A spinning siren light|
 |![](/electric.solarpanel.large.128.webp)|electric.solarpanel.large|2090395347|Large Solar Panel|Electrical|A solar panel which converts sunlight into energy. The amount of energy generated is dependent on the sun's intensity and angle to the panel.|
@@ -458,7 +459,7 @@
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|
 |![](/largecandles.128.webp)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
-|![](/largemedkit.128.webp)|largemedkit|254522515|Large Medkit|Medical|A large medkit.|
+|![](/largemedkit.128.webp)|largemedkit|254522515|Large Medkit|Medical|A large medkit that heals you to max health over time and stops any bleeding instantly.Guarantees 100% recovery from the wounded state if placed in your toolbar.|
 |![](/laserlight.128.webp)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
 |![](/lavenderidtag.128.webp)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.128.webp)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
