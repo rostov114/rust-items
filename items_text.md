@@ -369,6 +369,7 @@
 |[halloween.surgeonsuit](/halloween.surgeonsuit.png)|-1785231475|Surgeon Scrubs|Attire|
 |[hammer](/hammer.png)|200773292|Hammer|Tool|
 |[hammer.salvaged](/hammer.salvaged.png)|-1506397857|Salvaged Hammer|Tool|
+|[handcuffs](/handcuffs.png)|-839576748|Handcuffs|Tool|
 |[hat.beenie](/hat.beenie.png)|1675639563|Beenie Hat|Attire|
 |[hat.boonie](/hat.boonie.png)|-23994173|Boonie Hat|Attire|
 |[hat.bunnyhat](/hat.bunnyhat.png)|23391694|Bunny Hat|Attire|
@@ -570,6 +571,7 @@
 |[pookie.bear](/pookie.bear.png)|-1651220691|Pookie Bear|Items|
 |[potato](/potato.png)|-2086926071|Potato|Food|
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
+|[prisonerhood](/prisonerhood.png)|-892718768|Prisoner Hood|Attire|
 |[propanetank](/propanetank.png)|-1673693549|Empty Propane Tank|Component|
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
