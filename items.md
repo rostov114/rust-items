@@ -228,7 +228,7 @@
 |![](/electric.random.switch.128.webp)|electric.random.switch|492357192|RAND Switch|Electrical|This switch will allow passthrough based on a random number. Each time the SET input receives power it will roll true or false to allow passthrough|
 |![](/electric.rf.broadcaster.128.webp)|electric.rf.broadcaster|-1044468317|RF Broadcaster|Electrical|An RF Broadcaster|
 |![](/electric.rf.receiver.128.webp)|electric.rf.receiver|888415708|RF Receiver|Electrical|An RF Receiver|
-|![](/electric.seismicsensor.128.webp)|electric.seismicsensor|-948291630|Seismic Sensor|Electrical|A small device that detects vibrations within a set range. Will output a different power value depending on the explosive type detected, ideal to know when your time has come.|
+|![](/electric.seismicsensor.128.webp)|electric.seismicsensor|-948291630|Seismic Sensor|Electrical|A small device that detects vibrations within a set range. Will let power pass through depending on the explosive type detected, ideal to know when your time has come.|
 |![](/electric.simplelight.128.webp)|electric.simplelight|-282113991|Simple Light|Electrical|A simple debugging light|
 |![](/electric.sirenlight.128.webp)|electric.sirenlight|762289806|Siren Light|Electrical|A spinning siren light|
 |![](/electric.solarpanel.large.128.webp)|electric.solarpanel.large|2090395347|Large Solar Panel|Electrical|A solar panel which converts sunlight into energy. The amount of energy generated is dependent on the sun's intensity and angle to the panel.|
@@ -696,7 +696,6 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
-|![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
 |![](/skull.128.webp)|skull|1312843609|Skull|Tool|A spooky skull|
 |![](/skull.trophy.jar.128.webp)|skull.trophy.jar|971362526|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
