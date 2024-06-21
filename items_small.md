@@ -20,6 +20,7 @@
 |![](/ammo.rocket.hv.128.webp)|ammo.rocket.hv|-1841918730|High Velocity Rocket|
 |![](/ammo.rocket.mlrs.128.webp)|ammo.rocket.mlrs|-1843426638|MLRS Rocket|
 |![](/ammo.rocket.sam.128.webp)|ammo.rocket.sam|-384243979|SAM Ammo|
+|![](/ammo.rocket.seeker.128.webp)|ammo.rocket.seeker|1296788329|Homing Missile|
 |![](/ammo.rocket.smoke.128.webp)|ammo.rocket.smoke|-17123659|Smoke Rocket WIP!!!!|
 |![](/ammo.shotgun.fire.128.webp)|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|
 |![](/ammo.shotgun.128.webp)|ammo.shotgun|-1685290200|12 Gauge Buckshot|
@@ -33,6 +34,7 @@
 |![](/arrow.fire.128.webp)|arrow.fire|14241751|Fire Arrow|
 |![](/arrow.hv.128.webp)|arrow.hv|-1023065463|High Velocity Arrow|
 |![](/arrow.wooden.128.webp)|arrow.wooden|-1234735557|Wooden Arrow|
+|![](/attackhelicopter.128.webp)|attackhelicopter|1113514903|Attack Helicopter|
 |![](/attire.banditguard.128.webp)|attire.banditguard|-1622110948|Bandit Guard Gear|
 |![](/attire.bunny.onesie.128.webp)|attire.bunny.onesie|-1266045928|Bunny Onesie|
 |![](/attire.bunnyears.128.webp)|attire.bunnyears|-1004426654|Bunny Ears|
@@ -58,6 +60,7 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|
+|![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|
 |![](/battery.small.128.webp)|battery.small|609049394|Battery - Small|
 |![](/bbq.128.webp)|bbq|1099314009|Barbeque|
 |![](/beachchair.128.webp)|beachchair|-321431890|Beach Chair|
@@ -125,10 +128,13 @@
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|
+|![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|
 |![](/chicken.raw.128.webp)|chicken.raw|-1440987069|Raw Chicken Breast|
 |![](/chicken.spoiled.128.webp)|chicken.spoiled|-751151717|Spoiled Chicken|
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|
+|![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|
+|![](/clantable.128.webp)|clantable|486661382|Clan Table|
 |![](/clatter.helmet.128.webp)|clatter.helmet|968019378|Clatter Helmet|
 |![](/clone.black.berry.128.webp)|clone.black.berry|122783240|Black Berry Clone|
 |![](/clone.blue.berry.128.webp)|clone.blue.berry|838831151|Blue Berry Clone|
@@ -148,6 +154,7 @@
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|
 |![](/concretepickaxe.128.webp)|concretepickaxe|-1360171080|Concrete Pickaxe|
+|![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|
 |![](/corn.128.webp)|corn|1367190888|Corn|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|
@@ -157,6 +164,7 @@
 |![](/crossbow.128.webp)|crossbow|1965232394|Crossbow|
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|
+|![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|
@@ -175,6 +183,7 @@
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|
 |![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|
+|![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|
 |![](/door.double.hinged.metal.128.webp)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|
 |![](/door.double.hinged.toptier.128.webp)|door.double.hinged.toptier|1221063409|Armored Double Door|
 |![](/door.double.hinged.wood.128.webp)|door.double.hinged.wood|-1336109173|Wood Double Door|
@@ -183,6 +192,8 @@
 |![](/door.hinged.toptier.128.webp)|door.hinged.toptier|1353298668|Armored Door|
 |![](/door.hinged.wood.128.webp)|door.hinged.wood|1729120840|Wooden Door|
 |![](/door.key.128.webp)|door.key|-1112793865|Door Key|
+|![](/draculacape.128.webp)|draculacape|-258574361|Dracula Cape|
+|![](/draculamask.128.webp)|draculamask|1865253052|Dracula Mask|
 |![](/dragondoorknocker.128.webp)|dragondoorknocker|-854270928|Dragon Door Knocker|
 |![](/drone.128.webp)|drone|1588492232|Drone|
 |![](/dropbox.128.webp)|dropbox|-1519126340|Drop Box|
@@ -217,6 +228,7 @@
 |![](/electric.random.switch.128.webp)|electric.random.switch|492357192|RAND Switch|
 |![](/electric.rf.broadcaster.128.webp)|electric.rf.broadcaster|-1044468317|RF Broadcaster|
 |![](/electric.rf.receiver.128.webp)|electric.rf.receiver|888415708|RF Receiver|
+|![](/electric.seismicsensor.128.webp)|electric.seismicsensor|-948291630|Seismic Sensor|
 |![](/electric.simplelight.128.webp)|electric.simplelight|-282113991|Simple Light|
 |![](/electric.sirenlight.128.webp)|electric.sirenlight|762289806|Siren Light|
 |![](/electric.solarpanel.large.128.webp)|electric.solarpanel.large|2090395347|Large Solar Panel|
@@ -266,6 +278,7 @@
 |![](/fishing.tackle.128.webp)|fishing.tackle|-1707425764|Fishing Tackle|
 |![](/fishingrod.handmade.128.webp)|fishingrod.handmade|1569882109|Handmade Fishing Rod|
 |![](/fishtrap.small.128.webp)|fishtrap.small|559147458|Survival Fish Trap|
+|![](/fishtrophy.128.webp)|fishtrophy|-1913996738|Fish Trophy|
 |![](/flamethrower.128.webp)|flamethrower|-1215753368|Flame Thrower|
 |![](/flameturret.128.webp)|flameturret|528668503|Flame Turret|
 |![](/flare.128.webp)|flare|304481038|Flare|
@@ -289,6 +302,10 @@
 |![](/frankensteins.monster.03.torso.128.webp)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|
 |![](/frankensteintable.128.webp)|frankensteintable|1575635062|Frankenstein Table|
 |![](/fridge.128.webp)|fridge|1413014235|Fridge|
+|![](/frontiermirror.large.128.webp)|frontiermirror.large|242933621|Frontier Mirror Large|
+|![](/frontiermirror.medium.128.webp)|frontiermirror.medium|2055695285|Frontier Mirror Medium|
+|![](/frontiermirror.small.128.webp)|frontiermirror.small|340210699|Frontier Mirror Small|
+|![](/frontiermirror.standing.128.webp)|frontiermirror.standing|1787198294|Frontier Mirror Standing|
 |![](/fun.bass.128.webp)|fun.bass|-2107018088|Shovel Bass|
 |![](/fun.boomboxportable.128.webp)|fun.boomboxportable|576509618|Portable Boom Box|
 |![](/fun.casetterecorder.128.webp)|fun.casetterecorder|-1530414568|Cassette Recorder|
@@ -313,6 +330,14 @@
 |![](/gingerbreadsuit.128.webp)|gingerbreadsuit|-558880549|Gingerbread Suit|
 |![](/gloweyes.128.webp)|gloweyes|-690276911|Glowing Eyes|
 |![](/glue.128.webp)|glue|-1899491405|Glue|
+|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Gold Frame large|
+|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Gold Frame Medium|
+|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Gold Frame Small|
+|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Gold Frame Standing|
+|![](/goldmirror.large.128.webp)|goldmirror.large|1365234594|Gold Mirror large|
+|![](/goldmirror.medium.128.webp)|goldmirror.medium|-1804515496|Gold Mirror Medium|
+|![](/goldmirror.small.128.webp)|goldmirror.small|-1444650226|Gold Mirror Small|
+|![](/goldmirror.standing.128.webp)|goldmirror.standing|2120241887|Gold Mirror Standing|
 |![](/granolabar.128.webp)|granolabar|-746030907|Granola Bar|
 |![](/gravestone.128.webp)|gravestone|809199956|Gravestone|
 |![](/grayidtag.128.webp)|grayidtag|-455286320|Gray ID Tag|
@@ -327,10 +352,14 @@
 |![](/gun.water.128.webp)|gun.water|722955039|Water Gun|
 |![](/gunpowder.128.webp)|gunpowder|-265876753|Gun Powder|
 |![](/gunrack.horizontal.128.webp)|gunrack.horizontal|-246672609|Horizontal Weapon Rack|
+|![](/gunrack.single.1.horizontal.128.webp)|gunrack.single.1.horizontal|1973949960|Frontier Bolts Single Item Rack|
+|![](/gunrack.single.2.horizontal.128.webp)|gunrack.single.2.horizontal|-849373693|Frontier Horseshoe Single Item Rack|
+|![](/gunrack.single.3.horizontal.128.webp)|gunrack.single.3.horizontal|-52398594|Frontier Horns Single Item Rack|
 |![](/gunrack_stand.128.webp)|gunrack_stand|1132603396|Weapon Rack Stand|
 |![](/gunrack_tall.horizontal.128.webp)|gunrack_tall.horizontal|240752557|Tall Weapon Rack|
 |![](/gunrack_wide.horizontal.128.webp)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|
+|![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|
 |![](/habrepair.128.webp)|habrepair|-1759188988|Hab Repair|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|
@@ -340,6 +369,7 @@
 |![](/halloween.surgeonsuit.128.webp)|halloween.surgeonsuit|-1785231475|Surgeon Scrubs|
 |![](/hammer.128.webp)|hammer|200773292|Hammer|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|
+|![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|
@@ -364,15 +394,20 @@
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|
 |![](/hazmatsuit_scientist_nvgm.128.webp)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|
 |![](/hazmatsuit_scientist_peacekeeper.128.webp)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|
+|![](/hazmatsuittwitch.128.webp)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|
+|![](/hazmatyoutooz.128.webp)|hazmatyoutooz|-1696379844|Hazmat Youtooz|
+|![](/head.bag.128.webp)|head.bag|209218760|Head Bag|
 |![](/healingtea.advanced.128.webp)|healingtea.advanced|-2123125470|Advanced Healing Tea|
 |![](/healingtea.128.webp)|healingtea|-929092070|Basic Healing Tea|
 |![](/healingtea.pure.128.webp)|healingtea.pure|-1677315902|Pure Healing Tea|
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|
+|![](/heavyscientistyoutooz.128.webp)|heavyscientistyoutooz|-722629980|Heavy Scientist Youtooz|
 |![](/hitchtroughcombo.128.webp)|hitchtroughcombo|1160881421|Hitch & Trough|
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|
+|![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|
@@ -392,6 +427,8 @@
 |![](/humanmeat.cooked.128.webp)|humanmeat.cooked|1536610005|Cooked Human Meat|
 |![](/humanmeat.raw.128.webp)|humanmeat.raw|-1709878924|Raw Human Meat|
 |![](/humanmeat.spoiled.128.webp)|humanmeat.spoiled|1272768630|Spoiled Human Meat|
+|![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|
+|![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|
@@ -418,12 +455,26 @@
 |![](/knife.bone.128.webp)|knife.bone|1814288539|Bone Knife|
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|
 |![](/knife.combat.128.webp)|knife.combat|2040726127|Combat Knife|
+|![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|
+|![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|
 |![](/largecandles.128.webp)|largecandles|-489848205|Large Candle Set|
 |![](/largemedkit.128.webp)|largemedkit|254522515|Large Medkit|
 |![](/laserlight.128.webp)|laserlight|853471967|Laser Light|
+|![](/lavenderidtag.128.webp)|lavenderidtag|1223729384|Lavender ID Tag|
 |![](/leather.128.webp)|leather|1381010055|Leather|
+|![](/legacy bow.128.webp)|legacy bow|-73195037|Legacy bow|
+|![](/legacy.shelter.wood.128.webp)|legacy.shelter.wood|607400343|Legacy Wood Shelter|
+|![](/legacyfurnace.128.webp)|legacyfurnace|-1310391395|Legacy Furnace|
+|![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|
+|![](/lightupframe.medium.128.webp)|lightupframe.medium|-1294739579|Light-Up Frame Medium|
+|![](/lightupframe.small.128.webp)|lightupframe.small|1691223771|Light-Up Frame Small|
+|![](/lightupframe.standing.128.webp)|lightupframe.standing|1950013766|Light-Up Frame Standing|
+|![](/lightupmirror.large.128.webp)|lightupmirror.large|450531685|Light-Up Mirror Large|
+|![](/lightupmirror.medium.128.webp)|lightupmirror.medium|1028889957|Light-Up Mirror Medium|
+|![](/lightupmirror.small.128.webp)|lightupmirror.small|-389796733|Light-Up Mirror Small|
+|![](/lightupmirror.standing.128.webp)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|
 |![](/lmg.m249.128.webp)|lmg.m249|-2069578888|M249|
 |![](/lock.code.128.webp)|lock.code|1159991980|Code Lock|
 |![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|
@@ -449,6 +500,7 @@
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
 |![](/megaphone.128.webp)|megaphone|-583379016|Megaphone|
+|![](/metal.detector.128.webp)|metal.detector|1168856825|Metal Detector|
 |![](/metal.facemask.hockey.128.webp)|metal.facemask.hockey|-1334569149|Hockey Mask|
 |![](/metal.facemask.icemask.128.webp)|metal.facemask.icemask|110116923|Ice Metal Facemask|
 |![](/metal.facemask.128.webp)|metal.facemask|-194953424|Metal Facemask|
@@ -461,9 +513,14 @@
 |![](/metalpipe.128.webp)|metalpipe|95950017|Metal Pipe|
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|
+|![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|
+|![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|
+|![](/minigun.128.webp)|minigun|935606207|Minigun|
+|![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|MC repair|
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|
+|![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|
@@ -484,6 +541,8 @@
 |![](/pants.128.webp)|pants|237239288|Pants|
 |![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|
 |![](/paper.128.webp)|paper|-1779183908|Paper|
+|![](/parachute.deployed.128.webp)|parachute.deployed|1784005657|Parachute (Deployed)|
+|![](/parachute.128.webp)|parachute|602628465|Parachute|
 |![](/partyhat.128.webp)|partyhat|-575744869|Party Hat|
 |![](/photo.128.webp)|photo|62577426|Photograph|
 |![](/photoframe.landscape.128.webp)|photoframe.landscape|1697996440|Landscape Photo Frame|
@@ -491,6 +550,7 @@
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|
+|![](/pinata.128.webp)|pinata|-1442496789|Pinata|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|
 |![](/pistol.eoka.128.webp)|pistol.eoka|-75944661|Eoka Pistol|
@@ -511,6 +571,7 @@
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|
 |![](/potato.128.webp)|potato|-2086926071|Potato|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|
+|![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
@@ -522,6 +583,7 @@
 |![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea|
 |![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Anti-Rad Tea|
 |![](/radiationresisttea.pure.128.webp)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|
+|![](/rail.road.planter.128.webp)|rail.road.planter|615112838|Rail Road Planter|
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|
@@ -538,6 +600,7 @@
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|
 |![](/rifle.m39.128.webp)|rifle.m39|28201841|M39 Rifle|
 |![](/rifle.semiauto.128.webp)|rifle.semiauto|-904863145|Semi-Automatic Rifle|
+|![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|
 |![](/riflebody.128.webp)|riflebody|176787552|Rifle Body|
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|
 |![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|
@@ -545,7 +608,11 @@
 |![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|
 |![](/rock.128.webp)|rock|963906841|Rock|
+|![](/rocket.launcher.dragon.128.webp)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|
 |![](/rocket.launcher.128.webp)|rocket.launcher|442886268|Rocket Launcher|
+|![](/rockingchair.128.webp)|rockingchair|-1863063690|Rocking Chair|
+|![](/rockingchair.rockingchair2.128.webp)|rockingchair.rockingchair2|1758333838|Teal|
+|![](/rockingchair.rockingchair3.128.webp)|rockingchair.rockingchair3|192249897|Green|
 |![](/rope.128.webp)|rope|1414245522|Rope|
 |![](/rowboat.128.webp)|rowboat|1878053256|Rowboat|
 |![](/rug.bear.128.webp)|rug.bear|-1104881824|Rug Bear Skin|
@@ -566,6 +633,14 @@
 |![](/scarecrowhead.128.webp)|scarecrowhead|809942731|Scarecrow Wrap|
 |![](/scientistsuit_heavy.128.webp)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|
 |![](/scrap.128.webp)|scrap|-932201673|Scrap|
+|![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Scrap Frame large|
+|![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Scrap Frame Medium|
+|![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Scrap Frame Small|
+|![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Scrap Frame Standing|
+|![](/scrapmirror.large.128.webp)|scrapmirror.large|-82758111|Scrap Mirror Large|
+|![](/scrapmirror.medium.128.webp)|scrapmirror.medium|839738457|Scrap Mirror Medium|
+|![](/scrapmirror.small.128.webp)|scrapmirror.small|-1050697733|Scrap Mirror Small|
+|![](/scrapmirror.standing.128.webp)|scrapmirror.standing|-1380144986|Scrap Mirror Standing|
 |![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
@@ -590,9 +665,11 @@
 |![](/shirt.tanktop.128.webp)|shirt.tanktop|1608640313|Tank Top|
 |![](/shoes.boots.128.webp)|shoes.boots|-1549739227|Boots|
 |![](/shotgun.double.128.webp)|shotgun.double|-765183617|Double Barrel Shotgun|
+|![](/shotgun.m4.128.webp)|shotgun.m4|678698219|M4 Shotgun|
 |![](/shotgun.pump.128.webp)|shotgun.pump|795371088|Pump Shotgun|
 |![](/shotgun.spas12.128.webp)|shotgun.spas12|-41440462|Spas-12 Shotgun|
 |![](/shotgun.waterpipe.128.webp)|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|
+|![](/shovel.128.webp)|shovel|-1536855921|Shovel|
 |![](/shutter.metal.embrasure.a.128.webp)|shutter.metal.embrasure.a|-1199897169|Metal horizontal embrasure|
 |![](/shutter.metal.embrasure.b.128.webp)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|
@@ -640,6 +717,7 @@
 |![](/sled.xmas.128.webp)|sled.xmas|-135252633|Sled|
 |![](/sleepingbag.128.webp)|sleepingbag|-1754948969|Sleeping Bag|
 |![](/small.oil.refinery.128.webp)|small.oil.refinery|-1293296287|Small Oil Refinery|
+|![](/smallbackpack.128.webp)|smallbackpack|2068884361|Small Backpack|
 |![](/smallcandles.128.webp)|smallcandles|-2058362263|Small Candle Set|
 |![](/smallwaterbottle.128.webp)|smallwaterbottle|-1039528932|Small Water Bottle|
 |![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|
@@ -660,6 +738,7 @@
 |![](/sparkplug1.128.webp)|sparkplug1|-89874794|Low Quality Spark Plugs|
 |![](/sparkplug2.128.webp)|sparkplug2|-493159321|Medium Quality Spark Plugs|
 |![](/sparkplug3.128.webp)|sparkplug3|1072924620|High Quality Spark Plugs|
+|![](/spear.cny.128.webp)|spear.cny|695450239|Lunar New Year Spear|
 |![](/spear.stone.128.webp)|spear.stone|1602646136|Stone Spear|
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|
 |![](/speargun.128.webp)|speargun|-1517740219|Speargun|
@@ -678,6 +757,9 @@
 |![](/stonehatchet.128.webp)|stonehatchet|-1583967946|Stone Hatchet|
 |![](/stones.128.webp)|stones|-2099697608|Stones|
 |![](/storage.monitor.128.webp)|storage.monitor|1149964039|Storage Monitor|
+|![](/storage_barrel_a.128.webp)|storage_barrel_a|-258457936|Unused Storage Barrel Vertical|
+|![](/storage_barrel_b.128.webp)|storage_barrel_b|1307626005|Storage Barrel Vertical|
+|![](/storage_barrel_c.128.webp)|storage_barrel_c|-1421257350|Storage Barrel Horizontal|
 |![](/storageadaptor.128.webp)|storageadaptor|-1049172752|Storage Adaptor|
 |![](/strobelight.128.webp)|strobelight|2104517339|Strobe Light|
 |![](/submarine.torpedo.straight.128.webp)|submarine.torpedo.straight|-1671551935|Torpedo|
@@ -709,18 +791,23 @@
 |![](/toolgun.128.webp)|toolgun|1803831286|Garry's Mod Tool Gun|
 |![](/torch.128.webp)|torch|795236088|Torch|
 |![](/torch.torch.skull.128.webp)|torch.torch.skull|-1175656359|Cultist Deer Torch|
+|![](/torchholder.128.webp)|torchholder|446206234|Torch Holder|
 |![](/trap.bear.128.webp)|trap.bear|-582782051|Snap Trap|
 |![](/trap.landmine.128.webp)|trap.landmine|-1663759755|Homemade Landmine|
 |![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|
+|![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|
 |![](/tshirt.128.webp)|tshirt|223891266|T-Shirt|
 |![](/tshirt.long.128.webp)|tshirt.long|935692442|Longsleeve T-Shirt|
 |![](/tugboat.128.webp)|tugboat|-561148628|Tugboat|
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|
+|![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|
+|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|
+|![](/vampire.stake.128.webp)|vampire.stake|-885833256|Vampire Stake|
 |![](/vehicle.1mod.cockpit.armored.128.webp)|vehicle.1mod.cockpit.armored|1874610722|Armored Cockpit Vehicle Module|
 |![](/vehicle.1mod.cockpit.128.webp)|vehicle.1mod.cockpit|-1501451746|Cockpit Vehicle Module|
 |![](/vehicle.1mod.cockpit.with.engine.128.webp)|vehicle.1mod.cockpit.with.engine|170758448|Cockpit With Engine Vehicle Module|
@@ -741,6 +828,7 @@
 |![](/vehicle.module.128.webp)|vehicle.module|878301596|Generic vehicle module|
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
+|![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|
@@ -754,11 +842,14 @@
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|
 |![](/wall.graveyard.fence.128.webp)|wall.graveyard.fence|-1679267738|Graveyard Fence|
 |![](/wall.ice.wall.128.webp)|wall.ice.wall|1327005675|Short Ice Wall|
-|![](/wall.window.bars.brickskin.128.webp)|wall.window.bars.brickskin|-81700958|Brick Skin Window Bars|
 |![](/wall.window.bars.metal.128.webp)|wall.window.bars.metal|-819720157|Metal Window Bars|
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|
+|![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|
+|![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|
+|![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|
+|![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|
@@ -779,6 +870,8 @@
 |![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Silencer|
 |![](/weapon.mod.simplesight.128.webp)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|
+|![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|
+|![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|
 |![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|
@@ -791,6 +884,14 @@
 |![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|
 |![](/wood.128.webp)|wood|-151838493|Wood|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|
+|![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|
+|![](/woodframe.medium.128.webp)|woodframe.medium|-1541706279|Wood Frame Medium|
+|![](/woodframe.small.128.webp)|woodframe.small|-1476278729|Wood Frame Small|
+|![](/woodframe.standing.128.webp)|woodframe.standing|1769475390|Wood Frame Standing|
+|![](/woodmirror.large.128.webp)|woodmirror.large|1312679249|Wood Mirror Large|
+|![](/woodmirror.medium.128.webp)|woodmirror.medium|756125481|Wood Mirror Medium|
+|![](/woodmirror.small.128.webp)|woodmirror.small|-1497205569|Wood Mirror Small|
+|![](/woodmirror.standing.128.webp)|woodmirror.standing|723407026|Wood Mirror Standing|
 |![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|
 |![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|
