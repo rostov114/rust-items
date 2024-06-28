@@ -71,6 +71,7 @@
 |![](/bearmeat.cooked.128.webp)|bearmeat.cooked|1873897110|Cooked Bear Meat|Food|Delicious Bear Meat, Eating it will restore some health, hunger, and thirst.|
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
 |![](/bed.128.webp)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
+|![](/bicycle.128.webp)|bicycle|821588319|Bicycle|Misc|A pedal bike.|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|Food|A black berry.|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|Food|Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/bleach.128.webp)|bleach|1553078977|Bleach|Component|A powerful oxidizing agent. Can be used as a disinfectant.|
@@ -525,6 +526,8 @@
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialler.|
 |![](/modularcarlift.128.webp)|modularcarlift|1696050067|Modular Car Lift|Electrical|This allows you to modify modular vehicles|
+|![](/motorbike.128.webp)|motorbike|-1417478274|Motorbike|Misc|A motorbike.|
+|![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|Misc|A motorbike with sidecar.|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache for Movember|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|Attire|A fake moustache for Movember|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
@@ -571,7 +574,7 @@
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
 |![](/potato.128.webp)|potato|-2086926071|Potato|Food|Potato.|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
-|![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|Attire|A hood for prisoners.|
+|![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|Attire|A hood for prisoners, restricts vision.|
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|Component|Strong metal object.|
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
@@ -696,7 +699,6 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
-|![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
 |![](/skull.128.webp)|skull|1312843609|Skull|Tool|A spooky skull|
 |![](/skull.trophy.jar.128.webp)|skull.trophy.jar|971362526|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
@@ -795,6 +797,7 @@
 |![](/torchholder.128.webp)|torchholder|446206234|Torch Holder|Items|A wall mounted holder for torches.|
 |![](/trap.bear.128.webp)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
 |![](/trap.landmine.128.webp)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
+|![](/trike.128.webp)|trike|1991794121|Trike|Misc|A three-wheeled bicycle.|
 |![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
 |![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|Items|A trophy dedicated to the survivors of Rust Twitch Rivals 2023|
 |![](/tshirt.128.webp)|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|

@@ -71,6 +71,7 @@
 |[bearmeat.cooked](/bearmeat.cooked.png)|1873897110|Cooked Bear Meat|Food|
 |[bearmeat](/bearmeat.png)|-1520560807|Raw Bear Meat|Food|
 |[bed](/bed.png)|-1273339005|Bed|Items|
+|[bicycle](/bicycle.png)|821588319|Bicycle|Misc|
 |[black.berry](/black.berry.png)|1771755747|Black Berry|Food|
 |[black.raspberries](/black.raspberries.png)|1931713481|Black Raspberries|Food|
 |[bleach](/bleach.png)|1553078977|Bleach|Component|
@@ -525,6 +526,8 @@
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
 |[mobilephone](/mobilephone.png)|-20045316|Mobile Phone|Fun|
 |[modularcarlift](/modularcarlift.png)|1696050067|Modular Car Lift|Electrical|
+|[motorbike](/motorbike.png)|-1417478274|Motorbike|Misc|
+|[motorbike_sidecar](/motorbike_sidecar.png)|1869224826|Motorbike With Sidecar|Misc|
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
 |[movembermoustachecard](/movembermoustachecard.png)|3380160|Card Movember Moustache|Attire|
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
@@ -696,7 +699,6 @@
 |[sign.wooden.large](/sign.wooden.large.png)|1153652756|Large Wooden Sign|Items|
 |[sign.wooden.medium](/sign.wooden.medium.png)|-1819233322|Medium Wooden Sign|Items|
 |[sign.wooden.small](/sign.wooden.small.png)|-1138208076|Small Wooden Sign|Items|
-|[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
 |[skull](/skull.png)|1312843609|Skull|Tool|
 |[skull.trophy.jar](/skull.trophy.jar.png)|971362526|Skull Trophy|Fun|
@@ -795,6 +797,7 @@
 |[torchholder](/torchholder.png)|446206234|Torch Holder|Items|
 |[trap.bear](/trap.bear.png)|-582782051|Snap Trap|Traps|
 |[trap.landmine](/trap.landmine.png)|-1663759755|Homemade Landmine|Traps|
+|[trike](/trike.png)|1991794121|Trike|Misc|
 |[trophy](/trophy.png)|975983052|Twitch Rivals Trophy|Items|
 |[trophy2023](/trophy2023.png)|-901370585|Twitch Rivals Trophy 2023|Items|
 |[tshirt](/tshirt.png)|223891266|T-Shirt|Attire|
