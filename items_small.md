@@ -71,6 +71,7 @@
 |![](/bearmeat.cooked.128.webp)|bearmeat.cooked|1873897110|Cooked Bear Meat|
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|
 |![](/bed.128.webp)|bed|-1273339005|Bed|
+|![](/bicycle.128.webp)|bicycle|821588319|Bicycle|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|
 |![](/bleach.128.webp)|bleach|1553078977|Bleach|
@@ -369,6 +370,7 @@
 |![](/halloween.surgeonsuit.128.webp)|halloween.surgeonsuit|-1785231475|Surgeon Scrubs|
 |![](/hammer.128.webp)|hammer|200773292|Hammer|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|
+|![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|
@@ -524,6 +526,8 @@
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|
 |![](/modularcarlift.128.webp)|modularcarlift|1696050067|Modular Car Lift|
+|![](/motorbike.128.webp)|motorbike|-1417478274|Motorbike|
+|![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|
@@ -570,6 +574,7 @@
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|
 |![](/potato.128.webp)|potato|-2086926071|Potato|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|
+|![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
@@ -792,6 +797,7 @@
 |![](/torchholder.128.webp)|torchholder|446206234|Torch Holder|
 |![](/trap.bear.128.webp)|trap.bear|-582782051|Snap Trap|
 |![](/trap.landmine.128.webp)|trap.landmine|-1663759755|Homemade Landmine|
+|![](/trike.128.webp)|trike|1991794121|Trike|
 |![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|
 |![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|
 |![](/tshirt.128.webp)|tshirt|223891266|T-Shirt|

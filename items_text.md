@@ -71,6 +71,7 @@
 |[bearmeat.cooked](/bearmeat.cooked.png)|1873897110|Cooked Bear Meat|Food|
 |[bearmeat](/bearmeat.png)|-1520560807|Raw Bear Meat|Food|
 |[bed](/bed.png)|-1273339005|Bed|Items|
+|[bicycle](/bicycle.png)|821588319|Bicycle|Misc|
 |[black.berry](/black.berry.png)|1771755747|Black Berry|Food|
 |[black.raspberries](/black.raspberries.png)|1931713481|Black Raspberries|Food|
 |[bleach](/bleach.png)|1553078977|Bleach|Component|
@@ -369,6 +370,7 @@
 |[halloween.surgeonsuit](/halloween.surgeonsuit.png)|-1785231475|Surgeon Scrubs|Attire|
 |[hammer](/hammer.png)|200773292|Hammer|Tool|
 |[hammer.salvaged](/hammer.salvaged.png)|-1506397857|Salvaged Hammer|Tool|
+|[handcuffs](/handcuffs.png)|-839576748|Handcuffs|Tool|
 |[hat.beenie](/hat.beenie.png)|1675639563|Beenie Hat|Attire|
 |[hat.boonie](/hat.boonie.png)|-23994173|Boonie Hat|Attire|
 |[hat.bunnyhat](/hat.bunnyhat.png)|23391694|Bunny Hat|Attire|
@@ -524,6 +526,8 @@
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
 |[mobilephone](/mobilephone.png)|-20045316|Mobile Phone|Fun|
 |[modularcarlift](/modularcarlift.png)|1696050067|Modular Car Lift|Electrical|
+|[motorbike](/motorbike.png)|-1417478274|Motorbike|Misc|
+|[motorbike_sidecar](/motorbike_sidecar.png)|1869224826|Motorbike With Sidecar|Misc|
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
 |[movembermoustachecard](/movembermoustachecard.png)|3380160|Card Movember Moustache|Attire|
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
@@ -570,6 +574,7 @@
 |[pookie.bear](/pookie.bear.png)|-1651220691|Pookie Bear|Items|
 |[potato](/potato.png)|-2086926071|Potato|Food|
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
+|[prisonerhood](/prisonerhood.png)|-892718768|Prisoner Hood|Attire|
 |[propanetank](/propanetank.png)|-1673693549|Empty Propane Tank|Component|
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
@@ -792,6 +797,7 @@
 |[torchholder](/torchholder.png)|446206234|Torch Holder|Items|
 |[trap.bear](/trap.bear.png)|-582782051|Snap Trap|Traps|
 |[trap.landmine](/trap.landmine.png)|-1663759755|Homemade Landmine|Traps|
+|[trike](/trike.png)|1991794121|Trike|Misc|
 |[trophy](/trophy.png)|975983052|Twitch Rivals Trophy|Items|
 |[trophy2023](/trophy2023.png)|-901370585|Twitch Rivals Trophy 2023|Items|
 |[tshirt](/tshirt.png)|223891266|T-Shirt|Attire|
