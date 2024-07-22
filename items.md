@@ -788,6 +788,7 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
+|![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|Traps|A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Simple but effective.|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|
 |![](/tool.instant_camera.128.webp)|tool.instant_camera|-2001260025|Instant Camera|Tool|An instant camera. Take photos with primary fire, zoom in and out with secondary fire, and change focus mode with reload.|
