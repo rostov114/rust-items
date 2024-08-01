@@ -166,6 +166,7 @@
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|Resources|Raw Oil out of the ground, must be refined in a refinery to be used.|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|Construction|Placing and authorising with the cupboard will make it so only you can build in a 50 meter radius of it. If you want your friends to build, they'll need to auth too. You should protect this.|
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|Construction|Transform your tool cupboard experience with this modified Hi-Fi cabinet. Complete with retro displays indicating vital base data as well as frosted glass doors allowing you to view its contents of tools and resources!|
+|![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|Construction|Ensure 100% Tool Cupboard uptime with this Tool Cupboard skin.|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|Misc|A spooky cast iron cauldron with a green goo.|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A helmet made of bone.|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
@@ -788,6 +789,7 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
+|![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|Traps|A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Simple but effective.|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|
 |![](/tool.instant_camera.128.webp)|tool.instant_camera|-2001260025|Instant Camera|Tool|An instant camera. Take photos with primary fire, zoom in and out with secondary fire, and change focus mode with reload.|

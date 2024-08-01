@@ -166,6 +166,7 @@
 |[crude.oil](/crude.oil.png)|-321733511|Crude Oil|Resources|
 |[cupboard.tool](/cupboard.tool.png)|-97956382|Tool Cupboard|Construction|
 |[cupboard.tool.retro](/cupboard.tool.retro.png)|1488606552|Retro Tool Cupboard|Construction|
+|[cupboard.tool.shockbyte](/cupboard.tool.shockbyte.png)|1174957864|Shockbyte Tool Cupboard|Construction|
 |[cursedcauldron](/cursedcauldron.png)|1242522330|Cursed Cauldron|Misc|
 |[deer.skull.mask](/deer.skull.mask.png)|-1903165497|Bone Helmet|Attire|
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
@@ -788,6 +789,7 @@
 |[tarp](/tarp.png)|2019042823|Tarp|Component|
 |[techparts](/techparts.png)|73681876|Tech Trash|Component|
 |[telephone](/telephone.png)|1234878710|Telephone|Fun|
+|[tincan.alarm](/tincan.alarm.png)|962186730|Tin Can Alarm|Traps|
 |[tool.binoculars](/tool.binoculars.png)|-1262185308|Binoculars|Tool|
 |[tool.camera](/tool.camera.png)|-1316706473|Camera|Tool|
 |[tool.instant_camera](/tool.instant_camera.png)|-2001260025|Instant Camera|Tool|

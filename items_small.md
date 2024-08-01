@@ -166,6 +166,7 @@
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|
+|![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|
@@ -788,6 +789,7 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|
+|![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|
 |![](/tool.instant_camera.128.webp)|tool.instant_camera|-2001260025|Instant Camera|
