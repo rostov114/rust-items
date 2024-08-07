@@ -362,7 +362,7 @@
 |![](/gunrack_wide.horizontal.128.webp)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|
-|![](/habrepair.128.webp)|habrepair|-1759188988|Hab Repair|
+|![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|
@@ -519,7 +519,7 @@
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|
-|![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|MC repair|
+|![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|
@@ -648,7 +648,7 @@
 |![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
-|![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|ScrapTransportHeliRepair|
+|![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secret Lab Chair|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|
