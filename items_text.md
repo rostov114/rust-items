@@ -362,7 +362,7 @@
 |[gunrack_wide.horizontal](/gunrack_wide.horizontal.png)|-96256997|Wide Weapon Rack|Items|
 |[guntrap](/guntrap.png)|352499047|Shotgun Trap|Traps|
 |[hab.armor](/hab.armor.png)|-1989600732|Hot Air Balloon Armor|Attire|
-|[habrepair](/habrepair.png)|-1759188988|Hab Repair|Misc|
+|[habrepair](/habrepair.png)|-1759188988|Hot Air Balloon|Misc|
 |[halloween.candy](/halloween.candy.png)|-888153050|Halloween Candy|Misc|
 |[halloween.lootbag.large](/halloween.lootbag.large.png)|479292118|Large Loot Bag|Misc|
 |[halloween.lootbag.medium](/halloween.lootbag.medium.png)|1899610628|Medium Loot Bag|Misc|
@@ -519,7 +519,7 @@
 |[minecart.planter](/minecart.planter.png)|1361520181|Minecart Planter|Items|
 |[minigun](/minigun.png)|935606207|Minigun|Weapon|
 |[minigunammopack](/minigunammopack.png)|355877490|Minigun Ammo Pack|Attire|
-|[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|MC repair|Misc|
+|[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
 |[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
@@ -648,7 +648,7 @@
 |[scraptea.advanced](/scraptea.advanced.png)|524678627|Advanced Scrap Tea|Food|
 |[scraptea](/scraptea.png)|263834859|Basic Scrap Tea|Food|
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
-|[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|ScrapTransportHeliRepair|Misc|
+|[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|Scrap Transport Helicopter|Misc|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secret Lab Chair|Items|
 |[seed.black.berry](/seed.black.berry.png)|1911552868|Black Berry Seed|Food|
