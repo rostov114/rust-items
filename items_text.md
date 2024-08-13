@@ -852,6 +852,7 @@
 |[wall.window.bars.toptier](/wall.window.bars.toptier.png)|671706427|Reinforced Glass Window|Construction|
 |[wall.window.bars.wood](/wall.window.bars.wood.png)|-1183726687|Wooden Window Bars|Construction|
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
+|[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
