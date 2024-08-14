@@ -216,6 +216,7 @@
 |[electric.button](/electric.button.png)|-1778897469|Button|Electrical|
 |[electric.cabletunnel](/electric.cabletunnel.png)|1835946060|Cable Tunnel|Electrical|
 |[electric.counter](/electric.counter.png)|-216999575|Counter|Electrical|
+|[electric.digitalclock](/electric.digitalclock.png)|1619039771|Digital Clock|Electrical|
 |[electric.doorcontroller](/electric.doorcontroller.png)|-502177121|Door Controller|Electrical|
 |[electric.flasherlight](/electric.flasherlight.png)|-939424778|Flasher Light|Electrical|
 |[electric.fuelgenerator.small](/electric.fuelgenerator.small.png)|1849887541|Small Generator|Electrical|

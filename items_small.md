@@ -216,6 +216,7 @@
 |![](/electric.button.128.webp)|electric.button|-1778897469|Button|
 |![](/electric.cabletunnel.128.webp)|electric.cabletunnel|1835946060|Cable Tunnel|
 |![](/electric.counter.128.webp)|electric.counter|-216999575|Counter|
+|![](/electric.digitalclock.128.webp)|electric.digitalclock|1619039771|Digital Clock|
 |![](/electric.doorcontroller.128.webp)|electric.doorcontroller|-502177121|Door Controller|
 |![](/electric.flasherlight.128.webp)|electric.flasherlight|-939424778|Flasher Light|
 |![](/electric.fuelgenerator.small.128.webp)|electric.fuelgenerator.small|1849887541|Small Generator|
