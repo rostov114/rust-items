@@ -871,6 +871,7 @@
 |[weapon.mod.burstmodule](/weapon.mod.burstmodule.png)|838308300|Burst Module|Component|
 |[weapon.mod.extendedmags](/weapon.mod.extendedmags.png)|2005491391|Extended Magazine|Weapon|
 |[weapon.mod.flashlight](/weapon.mod.flashlight.png)|952603248|Weapon flashlight|Weapon|
+|[weapon.mod.gascompressionovedrive](/weapon.mod.gascompressionovedrive.png)|-1767794021|Gas Compression Overdrive|Component|
 |[weapon.mod.holosight](/weapon.mod.holosight.png)|442289265|Holosight|Weapon|
 |[weapon.mod.lasersight](/weapon.mod.lasersight.png)|-132516482|Weapon Lasersight|Weapon|
 |[weapon.mod.muzzleboost](/weapon.mod.muzzleboost.png)|-1405508498|Muzzle Boost|Weapon|
