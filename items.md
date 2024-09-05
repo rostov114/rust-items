@@ -389,6 +389,7 @@
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Divers Suit|Attire|A divers suit found in the abyss, doubles as a reliable hazmat suit|
+|![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|Attire|A Frontier suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
@@ -451,6 +452,7 @@
 |![](/jar.pickle.128.webp)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amateur. Eat at your own risk.|
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
+|![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|Attire|A green jumpsuit and gasmask worn by the waterwell NPC|
 |![](/kayak.128.webp)|kayak|190184021|Kayak|Items|An improvised wooden kayak. Seats two and requires a Paddle to operate.|
 |![](/keycard_blue.128.webp)|keycard_blue|-484206264|Blue Keycard|Misc|A keycard with medium level clearance.|
 |![](/keycard_green.128.webp)|keycard_green|37122747|Green Keycard|Misc|A low level clearance card granting access to basic areas.|
@@ -701,6 +703,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
+|![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
 |![](/skull.128.webp)|skull|1312843609|Skull|Tool|A spooky skull|
 |![](/skull.trophy.jar.128.webp)|skull.trophy.jar|971362526|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
@@ -864,6 +867,7 @@
 |![](/water.catcher.small.128.webp)|water.catcher.small|-132247350|Small Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
 |![](/water.128.webp)|water|-1779180711|Water|Resources|Water. Drinking it will alleviate your thirst.|
 |![](/water.purifier.128.webp)|water.purifier|2114754781|Water Purifier|Items|A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.|
+|![](/water.radioactive.128.webp)|water.radioactive|1811780502|Radioactive Water|Resources|Glowing water. Consuming will damage your health and irradiate you.|
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
 |![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|

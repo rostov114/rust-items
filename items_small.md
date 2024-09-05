@@ -389,6 +389,7 @@
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Divers Suit|
+|![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|
@@ -451,6 +452,7 @@
 |![](/jar.pickle.128.webp)|jar.pickle|286193827|Pickles|
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|
+|![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|
 |![](/kayak.128.webp)|kayak|190184021|Kayak|
 |![](/keycard_blue.128.webp)|keycard_blue|-484206264|Blue Keycard|
 |![](/keycard_green.128.webp)|keycard_green|37122747|Green Keycard|
@@ -701,6 +703,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|
+|![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|
 |![](/skull.128.webp)|skull|1312843609|Skull|
 |![](/skull.trophy.jar.128.webp)|skull.trophy.jar|971362526|Skull Trophy|
@@ -864,6 +867,7 @@
 |![](/water.catcher.small.128.webp)|water.catcher.small|-132247350|Small Water Catcher|
 |![](/water.128.webp)|water|-1779180711|Water|
 |![](/water.purifier.128.webp)|water.purifier|2114754781|Water Purifier|
+|![](/water.radioactive.128.webp)|water.radioactive|1811780502|Radioactive Water|
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|
 |![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|

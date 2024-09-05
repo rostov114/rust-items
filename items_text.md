@@ -389,6 +389,7 @@
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
 |[hazmatsuit.arcticsuit](/hazmatsuit.arcticsuit.png)|-470439097|Arctic Suit|Attire|
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Divers Suit|Attire|
+|[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
 |[hazmatsuit](/hazmatsuit.png)|1266491000|Hazmat Suit|Attire|
 |[hazmatsuit.lumberjack](/hazmatsuit.lumberjack.png)|861513346|Lumberjack Suit|Attire|
 |[hazmatsuit.nomadsuit](/hazmatsuit.nomadsuit.png)|491263800|Nomad Suit|Attire|
@@ -451,6 +452,7 @@
 |[jar.pickle](/jar.pickle.png)|286193827|Pickles|Food|
 |[jumpsuit.suit.blue](/jumpsuit.suit.blue.png)|1601468620|Blue Jumpsuit|Attire|
 |[jumpsuit.suit](/jumpsuit.suit.png)|-97459906|Jumpsuit|Attire|
+|[jumpsuit.waterwellnpc](/jumpsuit.waterwellnpc.png)|-874908751|Waterwell NPC Jumpsuit|Attire|
 |[kayak](/kayak.png)|190184021|Kayak|Items|
 |[keycard_blue](/keycard_blue.png)|-484206264|Blue Keycard|Misc|
 |[keycard_green](/keycard_green.png)|37122747|Green Keycard|Misc|
@@ -701,6 +703,7 @@
 |[sign.wooden.large](/sign.wooden.large.png)|1153652756|Large Wooden Sign|Items|
 |[sign.wooden.medium](/sign.wooden.medium.png)|-1819233322|Medium Wooden Sign|Items|
 |[sign.wooden.small](/sign.wooden.small.png)|-1138208076|Small Wooden Sign|Items|
+|[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
 |[skull](/skull.png)|1312843609|Skull|Tool|
 |[skull.trophy.jar](/skull.trophy.jar.png)|971362526|Skull Trophy|Fun|
@@ -864,6 +867,7 @@
 |[water.catcher.small](/water.catcher.small.png)|-132247350|Small Water Catcher|Construction|
 |[water](/water.png)|-1779180711|Water|Resources|
 |[water.purifier](/water.purifier.png)|2114754781|Water Purifier|Items|
+|[water.radioactive](/water.radioactive.png)|1811780502|Radioactive Water|Resources|
 |[water.salt](/water.salt.png)|-277057363|Salt Water|Resources|
 |[waterjug](/waterjug.png)|-119235651|Water Jug|Food|
 |[waterpump](/waterpump.png)|-1284169891|Water Pump|Electrical|
