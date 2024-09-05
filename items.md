@@ -216,6 +216,7 @@
 |![](/electric.button.128.webp)|electric.button|-1778897469|Button|Electrical|A simple electric button.|
 |![](/electric.cabletunnel.128.webp)|electric.cabletunnel|1835946060|Cable Tunnel|Electrical|Allows you to pass a cable through a wall. Each input will forward the amount it receives to the corresponding output on the other side.|
 |![](/electric.counter.128.webp)|electric.counter|-216999575|Counter|Electrical|A basic cathode ray tube screen combined with an incremental counter. Can display power received, or can count upwards and allow passthrough when a target is reached.|
+|![](/electric.digitalclock.128.webp)|electric.digitalclock|1619039771|Digital Clock|Electrical|A digital clock that displays the server time and lets you set alarms to pass power through when ringing. Ideal for synchronizing traps or timed events.|
 |![](/electric.doorcontroller.128.webp)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it receives power|
 |![](/electric.flasherlight.128.webp)|electric.flasherlight|-939424778|Flasher Light|Electrical|A flashing blue light|
 |![](/electric.fuelgenerator.small.128.webp)|electric.fuelgenerator.small|1849887541|Small Generator|Electrical|A small electric generator powered by Low Grade Fuel that outputs 40 power.|
@@ -362,7 +363,7 @@
 |![](/gunrack_wide.horizontal.128.webp)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
-|![](/habrepair.128.webp)|habrepair|-1759188988|Hab Repair|Misc|Hab repair|
+|![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|Misc|A Hot Air Balloon.|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bat!|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|Misc|Contains medium level loot, Collect 10 to upgrade to a Large loot bag, containing the best loot|
@@ -519,7 +520,7 @@
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|Items|A small planter with enough room to plant 2 seeds.|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|Weapon|A military issue belt-fed machine gun with that must be spun up to fire. Fires rapidly once spun up at the expense of movement speed.|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|Attire|A backpack designed to store ammunition for a minigun.|
-|![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|MC repair|Misc|MC repair dummy|
+|![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|Misc||
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|Resources|Mint ID Tag|
@@ -648,7 +649,7 @@
 |![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
-|![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|ScrapTransportHeliRepair|Misc|ScrapTransportHeliRepair Dummy|
+|![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secret Lab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
@@ -852,6 +853,7 @@
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
+|![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|Items|Transform your base from a rusty shack to a cozy hideout with this sleek wallpaper. A nice touch of style - until the next raid, at least.|
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|
@@ -869,6 +871,7 @@
 |![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|Component|Forces the weapon to fire in 3 round bursts.|
 |![](/weapon.mod.extendedmags.128.webp)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.128.webp)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
+|![](/weapon.mod.gascompressionovedrive.128.webp)|weapon.mod.gascompressionovedrive|-1767794021|Gas Compression Overdrive|Component|An internal weapon mod which compresses and directs gasses used for cycling the weapon to the barrel, effectively increasing projectile velocity and damage at the expense of cycle rate.|
 |![](/weapon.mod.holosight.128.webp)|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
 |![](/weapon.mod.lasersight.128.webp)|weapon.mod.lasersight|-132516482|Weapon Lasersight|Weapon|Attaches to a weapon. Provides user with a guiding laser and reduces weapon sway.|
 |![](/weapon.mod.muzzleboost.128.webp)|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|Weapon|Increases weapon fire rate by channeling gasses back into the weapon cycling it faster, at the cost of bullet velocity and accuracy.|

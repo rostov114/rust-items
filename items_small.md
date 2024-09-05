@@ -216,6 +216,7 @@
 |![](/electric.button.128.webp)|electric.button|-1778897469|Button|
 |![](/electric.cabletunnel.128.webp)|electric.cabletunnel|1835946060|Cable Tunnel|
 |![](/electric.counter.128.webp)|electric.counter|-216999575|Counter|
+|![](/electric.digitalclock.128.webp)|electric.digitalclock|1619039771|Digital Clock|
 |![](/electric.doorcontroller.128.webp)|electric.doorcontroller|-502177121|Door Controller|
 |![](/electric.flasherlight.128.webp)|electric.flasherlight|-939424778|Flasher Light|
 |![](/electric.fuelgenerator.small.128.webp)|electric.fuelgenerator.small|1849887541|Small Generator|
@@ -362,7 +363,7 @@
 |![](/gunrack_wide.horizontal.128.webp)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|
-|![](/habrepair.128.webp)|habrepair|-1759188988|Hab Repair|
+|![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|
@@ -519,7 +520,7 @@
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|
-|![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|MC repair|
+|![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|
@@ -648,7 +649,7 @@
 |![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
-|![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|ScrapTransportHeliRepair|
+|![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secret Lab Chair|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|
@@ -852,6 +853,7 @@
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|
+|![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|
@@ -869,6 +871,7 @@
 |![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|
 |![](/weapon.mod.extendedmags.128.webp)|weapon.mod.extendedmags|2005491391|Extended Magazine|
 |![](/weapon.mod.flashlight.128.webp)|weapon.mod.flashlight|952603248|Weapon flashlight|
+|![](/weapon.mod.gascompressionovedrive.128.webp)|weapon.mod.gascompressionovedrive|-1767794021|Gas Compression Overdrive|
 |![](/weapon.mod.holosight.128.webp)|weapon.mod.holosight|442289265|Holosight|
 |![](/weapon.mod.lasersight.128.webp)|weapon.mod.lasersight|-132516482|Weapon Lasersight|
 |![](/weapon.mod.muzzleboost.128.webp)|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|

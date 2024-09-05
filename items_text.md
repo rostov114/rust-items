@@ -216,6 +216,7 @@
 |[electric.button](/electric.button.png)|-1778897469|Button|Electrical|
 |[electric.cabletunnel](/electric.cabletunnel.png)|1835946060|Cable Tunnel|Electrical|
 |[electric.counter](/electric.counter.png)|-216999575|Counter|Electrical|
+|[electric.digitalclock](/electric.digitalclock.png)|1619039771|Digital Clock|Electrical|
 |[electric.doorcontroller](/electric.doorcontroller.png)|-502177121|Door Controller|Electrical|
 |[electric.flasherlight](/electric.flasherlight.png)|-939424778|Flasher Light|Electrical|
 |[electric.fuelgenerator.small](/electric.fuelgenerator.small.png)|1849887541|Small Generator|Electrical|
@@ -362,7 +363,7 @@
 |[gunrack_wide.horizontal](/gunrack_wide.horizontal.png)|-96256997|Wide Weapon Rack|Items|
 |[guntrap](/guntrap.png)|352499047|Shotgun Trap|Traps|
 |[hab.armor](/hab.armor.png)|-1989600732|Hot Air Balloon Armor|Attire|
-|[habrepair](/habrepair.png)|-1759188988|Hab Repair|Misc|
+|[habrepair](/habrepair.png)|-1759188988|Hot Air Balloon|Misc|
 |[halloween.candy](/halloween.candy.png)|-888153050|Halloween Candy|Misc|
 |[halloween.lootbag.large](/halloween.lootbag.large.png)|479292118|Large Loot Bag|Misc|
 |[halloween.lootbag.medium](/halloween.lootbag.medium.png)|1899610628|Medium Loot Bag|Misc|
@@ -519,7 +520,7 @@
 |[minecart.planter](/minecart.planter.png)|1361520181|Minecart Planter|Items|
 |[minigun](/minigun.png)|935606207|Minigun|Weapon|
 |[minigunammopack](/minigunammopack.png)|355877490|Minigun Ammo Pack|Attire|
-|[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|MC repair|Misc|
+|[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
 |[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
@@ -648,7 +649,7 @@
 |[scraptea.advanced](/scraptea.advanced.png)|524678627|Advanced Scrap Tea|Food|
 |[scraptea](/scraptea.png)|263834859|Basic Scrap Tea|Food|
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
-|[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|ScrapTransportHeliRepair|Misc|
+|[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|Scrap Transport Helicopter|Misc|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secret Lab Chair|Items|
 |[seed.black.berry](/seed.black.berry.png)|1911552868|Black Berry Seed|Food|
@@ -852,6 +853,7 @@
 |[wall.window.bars.toptier](/wall.window.bars.toptier.png)|671706427|Reinforced Glass Window|Construction|
 |[wall.window.bars.wood](/wall.window.bars.wood.png)|-1183726687|Wooden Window Bars|Construction|
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
+|[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
@@ -869,6 +871,7 @@
 |[weapon.mod.burstmodule](/weapon.mod.burstmodule.png)|838308300|Burst Module|Component|
 |[weapon.mod.extendedmags](/weapon.mod.extendedmags.png)|2005491391|Extended Magazine|Weapon|
 |[weapon.mod.flashlight](/weapon.mod.flashlight.png)|952603248|Weapon flashlight|Weapon|
+|[weapon.mod.gascompressionovedrive](/weapon.mod.gascompressionovedrive.png)|-1767794021|Gas Compression Overdrive|Component|
 |[weapon.mod.holosight](/weapon.mod.holosight.png)|442289265|Holosight|Weapon|
 |[weapon.mod.lasersight](/weapon.mod.lasersight.png)|-132516482|Weapon Lasersight|Weapon|
 |[weapon.mod.muzzleboost](/weapon.mod.muzzleboost.png)|-1405508498|Muzzle Boost|Weapon|
