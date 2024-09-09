@@ -875,7 +875,7 @@
 |![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|Component|Forces the weapon to fire in 3 round bursts.|
 |![](/weapon.mod.extendedmags.128.webp)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.128.webp)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
-|![](/weapon.mod.gascompressionovedrive.128.webp)|weapon.mod.gascompressionovedrive|-1767794021|Gas Compression Overdrive|Component|An internal weapon mod which compresses and directs gasses used for cycling the weapon to the barrel, effectively increasing projectile velocity and damage at the expense of cycle rate.|
+|![](/weapon.mod.gascompressionovedrive.128.webp)|weapon.mod.gascompressionovedrive|-1767794021|Gas Compression Overdrive|Weapon|An internal weapon mod which compresses and directs gasses used for cycling the weapon to the barrel, effectively increasing projectile velocity and damage at the expense of cycle rate.|
 |![](/weapon.mod.holosight.128.webp)|weapon.mod.holosight|442289265|Holosight|Weapon|Uses laser projection to create a holographic sight which is always pointing at the target regardless of view angle.|
 |![](/weapon.mod.lasersight.128.webp)|weapon.mod.lasersight|-132516482|Weapon Lasersight|Weapon|Attaches to a weapon. Provides user with a guiding laser and reduces weapon sway.|
 |![](/weapon.mod.muzzleboost.128.webp)|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|Weapon|Increases weapon fire rate by channeling gasses back into the weapon cycling it faster, at the cost of bullet velocity and accuracy.|
