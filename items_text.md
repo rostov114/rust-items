@@ -580,7 +580,7 @@
 |[propanetank](/propanetank.png)|-1673693549|Empty Propane Tank|Component|
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
-|[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Bucket|Misc|
+|[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
 |[purpleidtag](/purpleidtag.png)|-1386082991|Purple ID Tag|Resources|
 |[radiationremovetea.advanced](/radiationremovetea.advanced.png)|2021351233|Advanced Rad. Removal Tea|Food|
 |[radiationremovetea](/radiationremovetea.png)|-496584751|Rad. Removal Tea|Food|
@@ -651,7 +651,7 @@
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|Scrap Transport Helicopter|Misc|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
-|[secretlabchair](/secretlabchair.png)|567871954|Secret Lab Chair|Items|
+|[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
 |[seed.black.berry](/seed.black.berry.png)|1911552868|Black Berry Seed|Food|
 |[seed.blue.berry](/seed.blue.berry.png)|803954639|Blue Berry Seed|Food|
 |[seed.corn](/seed.corn.png)|998894949|Corn Seed|Food|

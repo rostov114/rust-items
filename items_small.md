@@ -580,7 +580,7 @@
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
-|![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Bucket|
+|![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|
@@ -651,7 +651,7 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
-|![](/secretlabchair.128.webp)|secretlabchair|567871954|Secret Lab Chair|
+|![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|
 |![](/seed.blue.berry.128.webp)|seed.blue.berry|803954639|Blue Berry Seed|
 |![](/seed.corn.128.webp)|seed.corn|998894949|Corn Seed|
