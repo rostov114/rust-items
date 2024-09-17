@@ -596,6 +596,7 @@
 |[redidtag](/redidtag.png)|70102328|Red ID Tag|Resources|
 |[research.table](/research.table.png)|-1861522751|Research Table|Items|
 |[researchpaper](/researchpaper.png)|-544317637|Research Paper|Resources|
+|[revolver.hc](/revolver.hc.png)|-92315244|High Caliber Revolver|Weapon|
 |[rf.detonator](/rf.detonator.png)|596469572|RF Transmitter|Tool|
 |[rf_pager](/rf_pager.png)|-566907190|RF Pager|Electrical|
 |[rhib](/rhib.png)|1394042569|RHIB|Items|
