@@ -19,7 +19,7 @@
 |![](/ammo.rocket.fire.128.webp)|ammo.rocket.fire|1638322904|Incendiary Rocket|Ammunition|Creates flames upon impact.|
 |![](/ammo.rocket.hv.128.webp)|ammo.rocket.hv|-1841918730|High Velocity Rocket|Ammunition|Fast moving rocket ammunition. Short to medium range self-propelled, unguided rocket which deals large splash damage on impact but less damage than a normal rocket.|
 |![](/ammo.rocket.mlrs.128.webp)|ammo.rocket.mlrs|-1843426638|MLRS Rocket|Ammunition|A rocket intended for use in an MLRS (Multiple Launch Rocket System).|
-|![](/ammo.rocket.sam.128.webp)|ammo.rocket.sam|-384243979|SAM Ammo|Ammunition|Ammunition for a Sam Site, This missile contains a rudimentary guidance system to help it navigate through strong winds.|
+|![](/ammo.rocket.sam.128.webp)|ammo.rocket.sam|-384243979|SAM Ammo|Ammunition|Ammunition for a SAM Site. This missile contains a rudimentary guidance system to help it navigate through strong winds.|
 |![](/ammo.rocket.seeker.128.webp)|ammo.rocket.seeker|1296788329|Homing Missile|Ammunition|Fast moving rocket ammunition. Uses a type of radar for active target guidance from a Homing Launcher|
 |![](/ammo.rocket.smoke.128.webp)|ammo.rocket.smoke|-17123659|Smoke Rocket WIP!!!!|Ammunition|Emits thick, visibility blocking smoke upon impact.|
 |![](/ammo.shotgun.fire.128.webp)|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|Ammunition|Incendiary Shotgun Ammunition|
@@ -184,7 +184,7 @@
 |![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
-|![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|Construction|Auotmatically closes your doors when left open.|
+|![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|Construction|Automatically closes your doors when left open.|
 |![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|Construction|Hand-carved, rugged bar doors embody the spirit of the frontier. A must-have for any survivor.|
 |![](/door.double.hinged.metal.128.webp)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.double.hinged.toptier.128.webp)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
@@ -240,7 +240,7 @@
 |![](/electric.switch.128.webp)|electric.switch|1951603367|Switch|Electrical|A simple electric switch.|
 |![](/electric.teslacoil.128.webp)|electric.teslacoil|1371909803|Tesla Coil|Electrical|An electrical trap that zaps nearby players when powered. More power supplied will result in higher damage. Loses durability with use.|
 |![](/electric.timer.128.webp)|electric.timer|665332906|Timer|Electrical|A Timer switch, will pass power through for duration.|
-|![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. if BOTH inputs recieve power, passthrough will be zero.|
+|![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. If BOTH inputs recieve power, passthrough will be zero.|
 |![](/electrical.branch.128.webp)|electrical.branch|-1448252298|Electrical Branch|Electrical|This object allows you to branch power off from a main line by a set amount.|
 |![](/electrical.combiner.128.webp)|electrical.combiner|-458565393|Root Combiner|Electrical|This object combines two root electrical sources into a single signal. Helpful for stringing together low energy batteries or solar panels to produce higher power output. Can be wired in series, can not be used with any non energy producing electrical components.|
 |![](/electrical.memorycell.128.webp)|electrical.memorycell|-746647361|Memory Cell|Electrical|A 1 bit storage component. SET input will set the value to 1 CLEAR input sets the value to 0. Output will provide connected power if value is 1, Inverted output will provide connected power if value is 0. This is also known as a D-Type Flip Flop|
@@ -364,7 +364,7 @@
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
 |![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|Misc|A Hot Air Balloon.|
-|![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bat!|
+|![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bag!|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|Misc|Contains medium level loot, Collect 10 to upgrade to a Large loot bag, containing the best loot|
 |![](/halloween.lootbag.small.128.webp)|halloween.lootbag.small|1319617282|Small Loot Bag|Misc|Open for a surprise, or collect 10 to upgrade to a medium loot bag containing better loot!|
@@ -528,7 +528,7 @@
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|Resources|Mint ID Tag|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|Items|Used for mixing recipes.|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
-|![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialler.|
+|![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialer.|
 |![](/modularcarlift.128.webp)|modularcarlift|1696050067|Modular Car Lift|Electrical|This allows you to modify modular vehicles|
 |![](/motorbike.128.webp)|motorbike|-1417478274|Motorbike|Misc|A motorbike.|
 |![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|Misc|A motorbike with sidecar.|
@@ -582,7 +582,7 @@
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|Component|Strong metal object.|
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
-|![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Bucket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
+|![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|Resources|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
@@ -610,7 +610,7 @@
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Semi Automatic Rifle.|
 |![](/riflebody.128.webp)|riflebody|176787552|Rifle Body|Component|The firing mechanism of a rifle. Used in construction of a weapon that can fire 5.56 ammo fully automatic.|
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|Attire|A makeshift riot Helmet. Great at deflecting melee attacks.|
-|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal offers a good amount of protection to the upper body.|
+|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal, offer a good amount of protection to the upper body.|
 |![](/roadsign.jacket.128.webp)|roadsign.jacket|-2002277461|Road Sign Jacket|Attire|A shoddy piece of body armor made from roadsigns.|
 |![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns.|
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
@@ -653,17 +653,17 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
-|![](/secretlabchair.128.webp)|secretlabchair|567871954|Secret Lab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
-|![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](/seed.blue.berry.128.webp)|seed.blue.berry|803954639|Blue Berry Seed|Food|These blue berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](/seed.corn.128.webp)|seed.corn|998894949|Corn Seed|Food|Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
+|![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
+|![](/seed.blue.berry.128.webp)|seed.blue.berry|803954639|Blue Berry Seed|Food|These blue berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
+|![](/seed.corn.128.webp)|seed.corn|998894949|Corn Seed|Food|Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more corn and faster growth.|
 |![](/seed.green.berry.128.webp)|seed.green.berry|-1776128552|Green Berry Seed|Food|These green berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](/seed.hemp.128.webp)|seed.hemp|-237809779|Hemp Seed|Food|Hemp seeds can be found when picking wild Hemp. These seeds can be planted in the ground and grown to collect additional cloth.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more cloth and faster groth.|
-|![](/seed.potato.128.webp)|seed.potato|-2084071424|Potato Seed|Food|These potato seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](/seed.pumpkin.128.webp)|seed.pumpkin|-1511285251|Pumpkin Seed|Food|Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Pumpkins and faster groth.|
-|![](/seed.red.berry.128.webp)|seed.red.berry|830839496|Red Berry Seed|Food|These red berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](/seed.white.berry.128.webp)|seed.white.berry|-992286106|White Berry Seed|Food|These white berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
-|![](/seed.yellow.berry.128.webp)|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
+|![](/seed.hemp.128.webp)|seed.hemp|-237809779|Hemp Seed|Food|Hemp seeds can be found when picking wild Hemp. These seeds can be planted in the ground and grown to collect additional cloth.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more cloth and faster growth.|
+|![](/seed.potato.128.webp)|seed.potato|-2084071424|Potato Seed|Food|These potato seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more potatoes and faster growth.|
+|![](/seed.pumpkin.128.webp)|seed.pumpkin|-1511285251|Pumpkin Seed|Food|Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more pumpkins and faster growth.|
+|![](/seed.red.berry.128.webp)|seed.red.berry|830839496|Red Berry Seed|Food|These red berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
+|![](/seed.white.berry.128.webp)|seed.white.berry|-992286106|White Berry Seed|Food|These white berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
+|![](/seed.yellow.berry.128.webp)|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/semibody.128.webp)|semibody|573926264|Semi Automatic Body|Component|The firing mechanism of a semi automatic weapon.|
 |![](/sewingkit.128.webp)|sewingkit|1234880403|Sewing Kit|Component|A Sewing kit. Used to make advanced clothing.|
 |![](/sheetmetal.128.webp)|sheetmetal|-1994909036|Sheet Metal|Component|Sheet metal scraps.|
