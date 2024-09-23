@@ -81,6 +81,7 @@
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|
+|![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|
 |![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|
@@ -294,6 +295,7 @@
 |![](/fluid.splitter.128.webp)|fluid.splitter|-1166712463|Fluid Splitter|
 |![](/fluid.switch.128.webp)|fluid.switch|443432036|Fluid Switch & Pump|
 |![](/fogmachine.128.webp)|fogmachine|-1973785141|Fogger-3000|
+|![](/frankensteinmask.128.webp)|frankensteinmask|-1647389398|Frankenstein Mask|
 |![](/frankensteins.monster.01.head.128.webp)|frankensteins.monster.01.head|-134959124|Light Frankenstein Head|
 |![](/frankensteins.monster.01.legs.128.webp)|frankensteins.monster.01.legs|106959911|Light Frankenstein Legs|
 |![](/frankensteins.monster.01.torso.128.webp)|frankensteins.monster.01.torso|-1624770297|Light Frankenstein Torso|
@@ -305,6 +307,7 @@
 |![](/frankensteins.monster.03.torso.128.webp)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|
 |![](/frankensteintable.128.webp)|frankensteintable|1575635062|Frankenstein Table|
 |![](/fridge.128.webp)|fridge|1413014235|Fridge|
+|![](/frontier_hatchet.128.webp)|frontier_hatchet|1937380239|Frontier Hatchet|
 |![](/frontiermirror.large.128.webp)|frontiermirror.large|242933621|Frontier Mirror Large|
 |![](/frontiermirror.medium.128.webp)|frontiermirror.medium|2055695285|Frontier Mirror Medium|
 |![](/frontiermirror.small.128.webp)|frontiermirror.small|340210699|Frontier Mirror Small|
@@ -535,6 +538,7 @@
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|
+|![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|

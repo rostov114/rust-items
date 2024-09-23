@@ -81,6 +81,7 @@
 |[bluedogtags](/bluedogtags.png)|1036321299|Blue Dog Tags|Resources|
 |[blueidtag](/blueidtag.png)|1364514421|Blue ID Tag|Resources|
 |[blueprintbase](/blueprintbase.png)|-996920608|Blueprint|Misc|
+|[blunderbuss](/blunderbuss.png)|-880412831|Blunderbuss|Weapon|
 |[bone.armor.suit](/bone.armor.suit.png)|1746956556|Bone Armor|Attire|
 |[bone.club](/bone.club.png)|1711033574|Bone Club|Weapon|
 |[bone.fragments](/bone.fragments.png)|1719978075|Bone Fragments|Resources|
@@ -294,6 +295,7 @@
 |[fluid.splitter](/fluid.splitter.png)|-1166712463|Fluid Splitter|Electrical|
 |[fluid.switch](/fluid.switch.png)|443432036|Fluid Switch & Pump|Electrical|
 |[fogmachine](/fogmachine.png)|-1973785141|Fogger-3000|Misc|
+|[frankensteinmask](/frankensteinmask.png)|-1647389398|Frankenstein Mask|Attire|
 |[frankensteins.monster.01.head](/frankensteins.monster.01.head.png)|-134959124|Light Frankenstein Head|Attire|
 |[frankensteins.monster.01.legs](/frankensteins.monster.01.legs.png)|106959911|Light Frankenstein Legs|Attire|
 |[frankensteins.monster.01.torso](/frankensteins.monster.01.torso.png)|-1624770297|Light Frankenstein Torso|Attire|
@@ -305,6 +307,7 @@
 |[frankensteins.monster.03.torso](/frankensteins.monster.03.torso.png)|1614528785|Heavy Frankenstein Torso|Attire|
 |[frankensteintable](/frankensteintable.png)|1575635062|Frankenstein Table|Items|
 |[fridge](/fridge.png)|1413014235|Fridge|Items|
+|[frontier_hatchet](/frontier_hatchet.png)|1937380239|Frontier Hatchet|Tool|
 |[frontiermirror.large](/frontiermirror.large.png)|242933621|Frontier Mirror Large|Items|
 |[frontiermirror.medium](/frontiermirror.medium.png)|2055695285|Frontier Mirror Medium|Items|
 |[frontiermirror.small](/frontiermirror.small.png)|340210699|Frontier Mirror Small|Items|
@@ -535,6 +538,7 @@
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
 |[movembermoustachecard](/movembermoustachecard.png)|3380160|Card Movember Moustache|Attire|
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
+|[mummymask](/mummymask.png)|809689733|Mummy Mask|Attire|
 |[mushroom](/mushroom.png)|-1962971928|Mushroom|Food|
 |[newyeargong](/newyeargong.png)|-961457160|New Year Gong|Fun|
 |[nightvisiongoggles](/nightvisiongoggles.png)|-1518883088|Night Vision Goggles|Attire|

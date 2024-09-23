@@ -81,6 +81,7 @@
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|Resources|Blue Dog Tags|
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|Resources|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
+|![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
 |![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|Attire|A suit of armor made of bones.|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|Resources|Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.|
@@ -294,6 +295,7 @@
 |![](/fluid.splitter.128.webp)|fluid.splitter|-1166712463|Fluid Splitter|Electrical|Splits a fluid connection into three separate connections.|
 |![](/fluid.switch.128.webp)|fluid.switch|443432036|Fluid Switch & Pump|Electrical|A simple switch that enables fluid to pass through. Can be switched on/off manually or via electricity. Can also pump water upwards to higher entities when powered.|
 |![](/fogmachine.128.webp)|fogmachine|-1973785141|Fogger-3000|Misc|A Fog machine which runs on low grade fuel. Can be set to fill an area with a dense fog or triggered by motion.|
+|![](/frankensteinmask.128.webp)|frankensteinmask|-1647389398|Frankenstein Mask|Attire|Frankenstein halloween costume mask which provides decent protection.|
 |![](/frankensteins.monster.01.head.128.webp)|frankensteins.monster.01.head|-134959124|Light Frankenstein Head|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteins.monster.01.legs.128.webp)|frankensteins.monster.01.legs|106959911|Light Frankenstein Legs|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteins.monster.01.torso.128.webp)|frankensteins.monster.01.torso|-1624770297|Light Frankenstein Torso|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
@@ -305,6 +307,7 @@
 |![](/frankensteins.monster.03.torso.128.webp)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteintable.128.webp)|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
 |![](/fridge.128.webp)|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
+|![](/frontier_hatchet.128.webp)|frontier_hatchet|1937380239|Frontier Hatchet|Tool|A Frontier Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/frontiermirror.large.128.webp)|frontiermirror.large|242933621|Frontier Mirror Large|Items|A large wooden frontier themed mirror|
 |![](/frontiermirror.medium.128.webp)|frontiermirror.medium|2055695285|Frontier Mirror Medium|Items|A medium wood frontier themed mirror|
 |![](/frontiermirror.small.128.webp)|frontiermirror.small|340210699|Frontier Mirror Small|Items|A small wooden frontier themed mirror|
@@ -535,6 +538,7 @@
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache for Movember|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|Attire|A fake moustache for Movember|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
+|![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
