@@ -81,6 +81,7 @@
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|Resources|Blue Dog Tags|
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|Resources|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
+|![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
 |![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|Attire|A suit of armor made of bones.|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|Resources|Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.|
@@ -294,6 +295,7 @@
 |![](/fluid.splitter.128.webp)|fluid.splitter|-1166712463|Fluid Splitter|Electrical|Splits a fluid connection into three separate connections.|
 |![](/fluid.switch.128.webp)|fluid.switch|443432036|Fluid Switch & Pump|Electrical|A simple switch that enables fluid to pass through. Can be switched on/off manually or via electricity. Can also pump water upwards to higher entities when powered.|
 |![](/fogmachine.128.webp)|fogmachine|-1973785141|Fogger-3000|Misc|A Fog machine which runs on low grade fuel. Can be set to fill an area with a dense fog or triggered by motion.|
+|![](/frankensteinmask.128.webp)|frankensteinmask|-1647389398|Frankenstein Mask|Attire|Frankenstein halloween costume mask which provides decent protection.|
 |![](/frankensteins.monster.01.head.128.webp)|frankensteins.monster.01.head|-134959124|Light Frankenstein Head|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteins.monster.01.legs.128.webp)|frankensteins.monster.01.legs|106959911|Light Frankenstein Legs|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteins.monster.01.torso.128.webp)|frankensteins.monster.01.torso|-1624770297|Light Frankenstein Torso|Attire|Slightly faster, slightly weaker.Combined at a Frankenstein Table to create your very own monster.|
@@ -305,6 +307,7 @@
 |![](/frankensteins.monster.03.torso.128.webp)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteintable.128.webp)|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
 |![](/fridge.128.webp)|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
+|![](/frontier_hatchet.128.webp)|frontier_hatchet|1937380239|Frontier Hatchet|Tool|A Frontier Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/frontiermirror.large.128.webp)|frontiermirror.large|242933621|Frontier Mirror Large|Items|A large wooden frontier themed mirror|
 |![](/frontiermirror.medium.128.webp)|frontiermirror.medium|2055695285|Frontier Mirror Medium|Items|A medium wood frontier themed mirror|
 |![](/frontiermirror.small.128.webp)|frontiermirror.small|340210699|Frontier Mirror Small|Items|A small wooden frontier themed mirror|
@@ -389,6 +392,7 @@
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Divers Suit|Attire|A divers suit found in the abyss, doubles as a reliable hazmat suit|
+|![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|Attire|A Frontier suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
@@ -451,6 +455,7 @@
 |![](/jar.pickle.128.webp)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amateur. Eat at your own risk.|
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
+|![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|Attire|A green jumpsuit and gasmask worn by the waterwell NPC|
 |![](/kayak.128.webp)|kayak|190184021|Kayak|Items|An improvised wooden kayak. Seats two and requires a Paddle to operate.|
 |![](/keycard_blue.128.webp)|keycard_blue|-484206264|Blue Keycard|Misc|A keycard with medium level clearance.|
 |![](/keycard_green.128.webp)|keycard_green|37122747|Green Keycard|Misc|A low level clearance card granting access to basic areas.|
@@ -533,6 +538,7 @@
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache for Movember|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|Attire|A fake moustache for Movember|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
+|![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
@@ -594,6 +600,7 @@
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
+|![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|A High Caliber six-shooter.|
 |![](/rf.detonator.128.webp)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|Items||
@@ -701,6 +708,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
+|![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
 |![](/skull.128.webp)|skull|1312843609|Skull|Tool|A spooky skull|
 |![](/skull.trophy.jar.128.webp)|skull.trophy.jar|971362526|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
@@ -864,6 +872,7 @@
 |![](/water.catcher.small.128.webp)|water.catcher.small|-132247350|Small Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
 |![](/water.128.webp)|water|-1779180711|Water|Resources|Water. Drinking it will alleviate your thirst.|
 |![](/water.purifier.128.webp)|water.purifier|2114754781|Water Purifier|Items|A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.|
+|![](/water.radioactive.128.webp)|water.radioactive|1811780502|Radioactive Water|Resources|Glowing water. Consuming will damage your health and irradiate you.|
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
 |![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
