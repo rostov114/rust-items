@@ -81,6 +81,7 @@
 |[bluedogtags](/bluedogtags.png)|1036321299|Blue Dog Tags|Resources|
 |[blueidtag](/blueidtag.png)|1364514421|Blue ID Tag|Resources|
 |[blueprintbase](/blueprintbase.png)|-996920608|Blueprint|Misc|
+|[blunderbuss](/blunderbuss.png)|-880412831|Blunderbuss|Weapon|
 |[bone.armor.suit](/bone.armor.suit.png)|1746956556|Bone Armor|Attire|
 |[bone.club](/bone.club.png)|1711033574|Bone Club|Weapon|
 |[bone.fragments](/bone.fragments.png)|1719978075|Bone Fragments|Resources|
@@ -294,6 +295,7 @@
 |[fluid.splitter](/fluid.splitter.png)|-1166712463|Fluid Splitter|Electrical|
 |[fluid.switch](/fluid.switch.png)|443432036|Fluid Switch & Pump|Electrical|
 |[fogmachine](/fogmachine.png)|-1973785141|Fogger-3000|Misc|
+|[frankensteinmask](/frankensteinmask.png)|-1647389398|Frankenstein Mask|Attire|
 |[frankensteins.monster.01.head](/frankensteins.monster.01.head.png)|-134959124|Light Frankenstein Head|Attire|
 |[frankensteins.monster.01.legs](/frankensteins.monster.01.legs.png)|106959911|Light Frankenstein Legs|Attire|
 |[frankensteins.monster.01.torso](/frankensteins.monster.01.torso.png)|-1624770297|Light Frankenstein Torso|Attire|
@@ -305,6 +307,7 @@
 |[frankensteins.monster.03.torso](/frankensteins.monster.03.torso.png)|1614528785|Heavy Frankenstein Torso|Attire|
 |[frankensteintable](/frankensteintable.png)|1575635062|Frankenstein Table|Items|
 |[fridge](/fridge.png)|1413014235|Fridge|Items|
+|[frontier_hatchet](/frontier_hatchet.png)|1937380239|Frontier Hatchet|Tool|
 |[frontiermirror.large](/frontiermirror.large.png)|242933621|Frontier Mirror Large|Items|
 |[frontiermirror.medium](/frontiermirror.medium.png)|2055695285|Frontier Mirror Medium|Items|
 |[frontiermirror.small](/frontiermirror.small.png)|340210699|Frontier Mirror Small|Items|
@@ -389,6 +392,7 @@
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
 |[hazmatsuit.arcticsuit](/hazmatsuit.arcticsuit.png)|-470439097|Arctic Suit|Attire|
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Divers Suit|Attire|
+|[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
 |[hazmatsuit](/hazmatsuit.png)|1266491000|Hazmat Suit|Attire|
 |[hazmatsuit.lumberjack](/hazmatsuit.lumberjack.png)|861513346|Lumberjack Suit|Attire|
 |[hazmatsuit.nomadsuit](/hazmatsuit.nomadsuit.png)|491263800|Nomad Suit|Attire|
@@ -451,6 +455,7 @@
 |[jar.pickle](/jar.pickle.png)|286193827|Pickles|Food|
 |[jumpsuit.suit.blue](/jumpsuit.suit.blue.png)|1601468620|Blue Jumpsuit|Attire|
 |[jumpsuit.suit](/jumpsuit.suit.png)|-97459906|Jumpsuit|Attire|
+|[jumpsuit.waterwellnpc](/jumpsuit.waterwellnpc.png)|-874908751|Waterwell NPC Jumpsuit|Attire|
 |[kayak](/kayak.png)|190184021|Kayak|Items|
 |[keycard_blue](/keycard_blue.png)|-484206264|Blue Keycard|Misc|
 |[keycard_green](/keycard_green.png)|37122747|Green Keycard|Misc|
@@ -533,6 +538,7 @@
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
 |[movembermoustachecard](/movembermoustachecard.png)|3380160|Card Movember Moustache|Attire|
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
+|[mummymask](/mummymask.png)|809689733|Mummy Mask|Attire|
 |[mushroom](/mushroom.png)|-1962971928|Mushroom|Food|
 |[newyeargong](/newyeargong.png)|-961457160|New Year Gong|Fun|
 |[nightvisiongoggles](/nightvisiongoggles.png)|-1518883088|Night Vision Goggles|Attire|
@@ -580,7 +586,7 @@
 |[propanetank](/propanetank.png)|-1673693549|Empty Propane Tank|Component|
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
-|[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Bucket|Misc|
+|[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
 |[purpleidtag](/purpleidtag.png)|-1386082991|Purple ID Tag|Resources|
 |[radiationremovetea.advanced](/radiationremovetea.advanced.png)|2021351233|Advanced Rad. Removal Tea|Food|
 |[radiationremovetea](/radiationremovetea.png)|-496584751|Rad. Removal Tea|Food|
@@ -594,6 +600,7 @@
 |[redidtag](/redidtag.png)|70102328|Red ID Tag|Resources|
 |[research.table](/research.table.png)|-1861522751|Research Table|Items|
 |[researchpaper](/researchpaper.png)|-544317637|Research Paper|Resources|
+|[revolver.hc](/revolver.hc.png)|-92315244|High Caliber Revolver|Weapon|
 |[rf.detonator](/rf.detonator.png)|596469572|RF Transmitter|Tool|
 |[rf_pager](/rf_pager.png)|-566907190|RF Pager|Electrical|
 |[rhib](/rhib.png)|1394042569|RHIB|Items|
@@ -651,7 +658,7 @@
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|Scrap Transport Helicopter|Misc|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
-|[secretlabchair](/secretlabchair.png)|567871954|Secret Lab Chair|Items|
+|[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
 |[seed.black.berry](/seed.black.berry.png)|1911552868|Black Berry Seed|Food|
 |[seed.blue.berry](/seed.blue.berry.png)|803954639|Blue Berry Seed|Food|
 |[seed.corn](/seed.corn.png)|998894949|Corn Seed|Food|
@@ -701,6 +708,7 @@
 |[sign.wooden.large](/sign.wooden.large.png)|1153652756|Large Wooden Sign|Items|
 |[sign.wooden.medium](/sign.wooden.medium.png)|-1819233322|Medium Wooden Sign|Items|
 |[sign.wooden.small](/sign.wooden.small.png)|-1138208076|Small Wooden Sign|Items|
+|[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
 |[skull](/skull.png)|1312843609|Skull|Tool|
 |[skull.trophy.jar](/skull.trophy.jar.png)|971362526|Skull Trophy|Fun|
@@ -864,6 +872,7 @@
 |[water.catcher.small](/water.catcher.small.png)|-132247350|Small Water Catcher|Construction|
 |[water](/water.png)|-1779180711|Water|Resources|
 |[water.purifier](/water.purifier.png)|2114754781|Water Purifier|Items|
+|[water.radioactive](/water.radioactive.png)|1811780502|Radioactive Water|Resources|
 |[water.salt](/water.salt.png)|-277057363|Salt Water|Resources|
 |[waterjug](/waterjug.png)|-119235651|Water Jug|Food|
 |[waterpump](/waterpump.png)|-1284169891|Water Pump|Electrical|

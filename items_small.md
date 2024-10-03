@@ -81,6 +81,7 @@
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|
+|![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|
 |![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|
@@ -294,6 +295,7 @@
 |![](/fluid.splitter.128.webp)|fluid.splitter|-1166712463|Fluid Splitter|
 |![](/fluid.switch.128.webp)|fluid.switch|443432036|Fluid Switch & Pump|
 |![](/fogmachine.128.webp)|fogmachine|-1973785141|Fogger-3000|
+|![](/frankensteinmask.128.webp)|frankensteinmask|-1647389398|Frankenstein Mask|
 |![](/frankensteins.monster.01.head.128.webp)|frankensteins.monster.01.head|-134959124|Light Frankenstein Head|
 |![](/frankensteins.monster.01.legs.128.webp)|frankensteins.monster.01.legs|106959911|Light Frankenstein Legs|
 |![](/frankensteins.monster.01.torso.128.webp)|frankensteins.monster.01.torso|-1624770297|Light Frankenstein Torso|
@@ -305,6 +307,7 @@
 |![](/frankensteins.monster.03.torso.128.webp)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|
 |![](/frankensteintable.128.webp)|frankensteintable|1575635062|Frankenstein Table|
 |![](/fridge.128.webp)|fridge|1413014235|Fridge|
+|![](/frontier_hatchet.128.webp)|frontier_hatchet|1937380239|Frontier Hatchet|
 |![](/frontiermirror.large.128.webp)|frontiermirror.large|242933621|Frontier Mirror Large|
 |![](/frontiermirror.medium.128.webp)|frontiermirror.medium|2055695285|Frontier Mirror Medium|
 |![](/frontiermirror.small.128.webp)|frontiermirror.small|340210699|Frontier Mirror Small|
@@ -389,6 +392,7 @@
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Divers Suit|
+|![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|
@@ -451,6 +455,7 @@
 |![](/jar.pickle.128.webp)|jar.pickle|286193827|Pickles|
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|
+|![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|
 |![](/kayak.128.webp)|kayak|190184021|Kayak|
 |![](/keycard_blue.128.webp)|keycard_blue|-484206264|Blue Keycard|
 |![](/keycard_green.128.webp)|keycard_green|37122747|Green Keycard|
@@ -533,6 +538,7 @@
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|
+|![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|
@@ -580,7 +586,7 @@
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
-|![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Bucket|
+|![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|
@@ -594,6 +600,7 @@
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|
+|![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|
 |![](/rf.detonator.128.webp)|rf.detonator|596469572|RF Transmitter|
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|
@@ -651,7 +658,7 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
-|![](/secretlabchair.128.webp)|secretlabchair|567871954|Secret Lab Chair|
+|![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|
 |![](/seed.blue.berry.128.webp)|seed.blue.berry|803954639|Blue Berry Seed|
 |![](/seed.corn.128.webp)|seed.corn|998894949|Corn Seed|
@@ -701,6 +708,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|
+|![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|
 |![](/skull.128.webp)|skull|1312843609|Skull|
 |![](/skull.trophy.jar.128.webp)|skull.trophy.jar|971362526|Skull Trophy|
@@ -864,6 +872,7 @@
 |![](/water.catcher.small.128.webp)|water.catcher.small|-132247350|Small Water Catcher|
 |![](/water.128.webp)|water|-1779180711|Water|
 |![](/water.purifier.128.webp)|water.purifier|2114754781|Water Purifier|
+|![](/water.radioactive.128.webp)|water.radioactive|1811780502|Radioactive Water|
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|
 |![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|
