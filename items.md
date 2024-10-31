@@ -791,6 +791,7 @@
 |![](/supply.signal.128.webp)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
 |![](/surveycharge.128.webp)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
 |![](/syringe.medical.128.webp)|syringe.medical|1079279582|Medical Syringe|Medical|Heal yourself or others with this syringe. Left-click heals you, right-click heals a target.|
+|![](/t1_smg.128.webp)|t1_smg|2083256995|Tier 1 SMG|Weapon|A rapid-firing Machine Gun. Sacrifices accuracy and distance for speed.|
 |![](/table.128.webp)|table|593465182|Table|Items|Every home needs a table. A decorative item which provides comfort when in close proximity.|
 |![](/tactical.gloves.128.webp)|tactical.gloves|-1108136649|Tactical Gloves|Attire|Military issue tactical gloves provide protection as well as weapon stabilization leading to higher accuracy when used.|
 |![](/target.reactive.128.webp)|target.reactive|-1736356576|Reactive Target|Electrical|A reactive target that knocks down when hit, can be reset.|

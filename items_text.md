@@ -791,6 +791,7 @@
 |[supply.signal](/supply.signal.png)|1397052267|Supply Signal|Tool|
 |[surveycharge](/surveycharge.png)|1975934948|Survey Charge|Tool|
 |[syringe.medical](/syringe.medical.png)|1079279582|Medical Syringe|Medical|
+|[t1_smg](/t1_smg.png)|2083256995|Tier 1 SMG|Weapon|
 |[table](/table.png)|593465182|Table|Items|
 |[tactical.gloves](/tactical.gloves.png)|-1108136649|Tactical Gloves|Attire|
 |[target.reactive](/target.reactive.png)|-1736356576|Reactive Target|Electrical|
