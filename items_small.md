@@ -791,6 +791,7 @@
 |![](/supply.signal.128.webp)|supply.signal|1397052267|Supply Signal|
 |![](/surveycharge.128.webp)|surveycharge|1975934948|Survey Charge|
 |![](/syringe.medical.128.webp)|syringe.medical|1079279582|Medical Syringe|
+|![](/t1_smg.128.webp)|t1_smg|2083256995|Handmade SMG|
 |![](/table.128.webp)|table|593465182|Table|
 |![](/tactical.gloves.128.webp)|tactical.gloves|-1108136649|Tactical Gloves|
 |![](/target.reactive.128.webp)|target.reactive|-1736356576|Reactive Target|

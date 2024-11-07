@@ -612,7 +612,7 @@
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
 |![](/rifle.m39.128.webp)|rifle.m39|28201841|M39 Rifle|Weapon|Military grade semi auto rifle|
 |![](/rifle.semiauto.128.webp)|rifle.semiauto|-904863145|Semi-Automatic Rifle|Weapon|A Semi Automatic Rifle.|
-|![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Semi Automatic Rifle.|
+|![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Military-Grade Semi Automatic Rifle.|
 |![](/riflebody.128.webp)|riflebody|176787552|Rifle Body|Component|The firing mechanism of a rifle. Used in construction of a weapon that can fire 5.56 ammo fully automatic.|
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|Attire|A makeshift riot Helmet. Great at deflecting melee attacks.|
 |![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal, offer a good amount of protection to the upper body.|
@@ -791,6 +791,7 @@
 |![](/supply.signal.128.webp)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
 |![](/surveycharge.128.webp)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
 |![](/syringe.medical.128.webp)|syringe.medical|1079279582|Medical Syringe|Medical|Heal yourself or others with this syringe. Left-click heals you, right-click heals a target.|
+|![](/t1_smg.128.webp)|t1_smg|2083256995|Handmade SMG|Weapon|An extremely basic automatic firearm. Low damage and accuracy.|
 |![](/table.128.webp)|table|593465182|Table|Items|Every home needs a table. A decorative item which provides comfort when in close proximity.|
 |![](/tactical.gloves.128.webp)|tactical.gloves|-1108136649|Tactical Gloves|Attire|Military issue tactical gloves provide protection as well as weapon stabilization leading to higher accuracy when used.|
 |![](/target.reactive.128.webp)|target.reactive|-1736356576|Reactive Target|Electrical|A reactive target that knocks down when hit, can be reset.|
