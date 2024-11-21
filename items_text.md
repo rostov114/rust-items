@@ -390,6 +390,7 @@
 |[hat.tigermask](/hat.tigermask.png)|709206314|Tiger Mask|Attire|
 |[hat.wolf](/hat.wolf.png)|-1478212975|Wolf Headdress|Attire|
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
+|[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Items|
 |[hazmatsuit.arcticsuit](/hazmatsuit.arcticsuit.png)|-470439097|Arctic Suit|Attire|
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Divers Suit|Attire|
 |[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
