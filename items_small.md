@@ -390,6 +390,7 @@
 |![](/hat.tigermask.128.webp)|hat.tigermask|709206314|Tiger Mask|
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|
+|![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Divers Suit|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
