@@ -3,6 +3,10 @@
 |:-:|:-:|:-:|:-:|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|MLRS Aiming Module|Component|
+|[ammo.boulder.explosive](/ammo.boulder.explosive.png)|-346591922|Explosive Boulder|Ammunition|
+|[ammo.boulder.incendiary](/ammo.boulder.incendiary.png)|170078613|Incendiary boulder|Ammunition|
+|[ammo.boulder](/ammo.boulder.png)|-217207585|Catapult Boulder|Ammunition|
+|[ammo.catapult.explosive](/ammo.catapult.explosive.png)|-1764973137|Catapult Explosive Ammo|Ammunition|
 |[ammo.grenadelauncher.buckshot](/ammo.grenadelauncher.buckshot.png)|1055319033|40mm Shotgun Round|Ammunition|
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
@@ -51,6 +55,10 @@
 |[attire.snowman.helmet](/attire.snowman.helmet.png)|-842267147|Snowman Helmet|Attire|
 |[autoturret](/autoturret.png)|-2139580305|Auto Turret|Electrical|
 |[axe.salvaged](/axe.salvaged.png)|-262590403|Salvaged Axe|Tool|
+|[ballista.bolt.incendiary](/ballista.bolt.incendiary.png)|-1987565603|Ballista Fire Bolt|Ammunition|
+|[ballista.bolt](/ballista.bolt.png)|-1195249017|Ballista Bolt|Ammunition|
+|[ballista](/ballista.png)|-438281480|Ballista|Weapon|
+|[ballista.spear.incendiary](/ballista.spear.incendiary.png)|-498343851|Ballista Incendiary Spear|Ammunition|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
@@ -61,6 +69,8 @@
 |[barricade.wood](/barricade.wood.png)|866889860|Wooden Barricade|Construction|
 |[barricade.woodwire](/barricade.woodwire.png)|1382263453|Barbed Wooden Barricade|Construction|
 |[bathtub.planter](/bathtub.planter.png)|-1274093662|Bath Tub Planter|Items|
+|[batteringram.head.repair](/batteringram.head.repair.png)|-479314201|Battering Ram Head|Weapon|
+|[batteringram](/batteringram.png)|-187304968|Battering Ram|Weapon|
 |[battery.small](/battery.small.png)|609049394|Battery - Small|Resources|
 |[bbq](/bbq.png)|1099314009|Barbeque|Items|
 |[beachchair](/beachchair.png)|-321431890|Beach Chair|Fun|
@@ -122,6 +132,8 @@
 |[cassette](/cassette.png)|476066818|Cassette - Long|Fun|
 |[cassette.medium](/cassette.medium.png)|-912398867|Cassette - Medium|Fun|
 |[cassette.short](/cassette.short.png)|1523403414|Cassette - Short|Fun|
+|[catapult.ammo.incendiary](/catapult.ammo.incendiary.png)|-484006286|Catapult Incendiary Ammo|Ammunition|
+|[catapult](/catapult.png)|1145722690|Catapult|Weapon|
 |[cctv.camera](/cctv.camera.png)|634478325|CCTV Camera|Resources|
 |[ceilinglight](/ceilinglight.png)|1142993169|Ceiling Light|Electrical|
 |[chainsaw](/chainsaw.png)|1104520648|Chainsaw|Tool|
@@ -169,6 +181,7 @@
 |[cupboard.tool.retro](/cupboard.tool.retro.png)|1488606552|Retro Tool Cupboard|Construction|
 |[cupboard.tool.shockbyte](/cupboard.tool.shockbyte.png)|1174957864|Shockbyte Tool Cupboard|Construction|
 |[cursedcauldron](/cursedcauldron.png)|1242522330|Cursed Cauldron|Misc|
+|[dart.bone](/dart.bone.png)|-361911645|Bone Dart|Ammunition|
 |[deer.skull.mask](/deer.skull.mask.png)|-1903165497|Bone Helmet|Attire|
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
 |[deermeat.cooked](/deermeat.cooked.png)|-1509851560|Cooked Deer Meat|Food|
@@ -438,6 +451,7 @@
 |[huntingtrophylarge](/huntingtrophylarge.png)|960673498|Large Hunting Trophy|Items|
 |[huntingtrophysmall](/huntingtrophysmall.png)|-869598982|Small Hunting Trophy|Items|
 |[icepick.salvaged](/icepick.salvaged.png)|-1780802565|Salvaged Icepick|Tool|
+|[improvised.shield](/improvised.shield.png)|196784377|Improvised Shield|Attire|
 |[industrial.combiner](/industrial.combiner.png)|1538126328|Industrial Combiner|Electrical|
 |[industrial.conveyor](/industrial.conveyor.png)|610102428|Industrial Conveyor|Electrical|
 |[industrial.crafter](/industrial.crafter.png)|1430085198|Industrial Crafter|Electrical|
@@ -518,6 +532,7 @@
 |[metal.plate.torso.icevest](/metal.plate.torso.icevest.png)|-1478855279|Ice Metal Chest Plate|Attire|
 |[metal.plate.torso](/metal.plate.torso.png)|1110385766|Metal Chest Plate|Attire|
 |[metal.refined](/metal.refined.png)|317398316|High Quality Metal|Resources|
+|[metal.shield](/metal.shield.png)|625599716|Metal Shield|Attire|
 |[metalblade](/metalblade.png)|1882709339|Metal Blade|Component|
 |[metalpipe](/metalpipe.png)|95950017|Metal Pipe|Component|
 |[metalspring](/metalspring.png)|-1021495308|Metal Spring|Component|
@@ -599,6 +614,7 @@
 |[red.berry](/red.berry.png)|1272194103|Red Berry|Food|
 |[reddogtags](/reddogtags.png)|-602717596|Red Dog Tags|Resources|
 |[redidtag](/redidtag.png)|70102328|Red ID Tag|Resources|
+|[reinforced.wooden.shield](/reinforced.wooden.shield.png)|969768382|Reinforced Wooden Shield|Attire|
 |[research.table](/research.table.png)|-1861522751|Research Table|Items|
 |[researchpaper](/researchpaper.png)|-544317637|Research Paper|Resources|
 |[revolver.hc](/revolver.hc.png)|-92315244|High Caliber Revolver|Weapon|
@@ -658,6 +674,7 @@
 |[scraptea](/scraptea.png)|263834859|Basic Scrap Tea|Food|
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|Scrap Transport Helicopter|Misc|
+|[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Items|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
 |[seed.black.berry](/seed.black.berry.png)|1911552868|Black Berry Seed|Food|
@@ -687,6 +704,7 @@
 |[shutter.metal.embrasure.b](/shutter.metal.embrasure.b.png)|-1199897172|Metal Vertical embrasure|Construction|
 |[shutter.wood.a](/shutter.wood.a.png)|-1023374709|Wood Shutters|Construction|
 |[sickle](/sickle.png)|-1368584029|Sickle|Misc|
+|[siegetower](/siegetower.png)|-1290278434|Siege Tower|Weapon|
 |[sign.hanging.banner.large](/sign.hanging.banner.large.png)|23352662|Large Banner Hanging|Items|
 |[sign.hanging](/sign.hanging.png)|1205607945|Two Sided Hanging Sign|Items|
 |[sign.hanging.ornate](/sign.hanging.ornate.png)|-1647846966|Two Sided Ornate Hanging Sign|Items|
@@ -752,6 +770,7 @@
 |[sparkplug1](/sparkplug1.png)|-89874794|Low Quality Spark Plugs|Component|
 |[sparkplug2](/sparkplug2.png)|-493159321|Medium Quality Spark Plugs|Component|
 |[sparkplug3](/sparkplug3.png)|1072924620|High Quality Spark Plugs|Component|
+|[spear.ballista](/spear.ballista.png)|201524843|Ballista Spear|Ammunition|
 |[spear.cny](/spear.cny.png)|695450239|Lunar New Year Spear|Weapon|
 |[spear.stone](/spear.stone.png)|1602646136|Stone Spear|Weapon|
 |[spear.wooden](/spear.wooden.png)|1540934679|Wooden Spear|Weapon|
@@ -800,6 +819,7 @@
 |[tarp](/tarp.png)|2019042823|Tarp|Component|
 |[techparts](/techparts.png)|73681876|Tech Trash|Component|
 |[telephone](/telephone.png)|1234878710|Telephone|Fun|
+|[testhitchablecart](/testhitchablecart.png)|2125503246|Test hitchable cart|Misc|
 |[tincan.alarm](/tincan.alarm.png)|962186730|Tin Can Alarm|Traps|
 |[tool.binoculars](/tool.binoculars.png)|-1262185308|Binoculars|Tool|
 |[tool.camera](/tool.camera.png)|-1316706473|Camera|Tool|
@@ -904,6 +924,7 @@
 |[wood.armor.pants](/wood.armor.pants.png)|832133926|Wood Armor Pants|Attire|
 |[wood](/wood.png)|-151838493|Wood|Resources|
 |[woodcross](/woodcross.png)|699075597|Wooden Cross|Misc|
+|[wooden.shield](/wooden.shield.png)|1604837581|Wooden Shield|Attire|
 |[woodframe.large](/woodframe.large.png)|-635951327|Wood Frame Large|Items|
 |[woodframe.medium](/woodframe.medium.png)|-1541706279|Wood Frame Medium|Items|
 |[woodframe.small](/woodframe.small.png)|-1476278729|Wood Frame Small|Items|

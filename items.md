@@ -3,6 +3,10 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
+|![](/ammo.boulder.explosive.128.webp)|ammo.boulder.explosive|-346591922|Explosive Boulder|Ammunition||
+|![](/ammo.boulder.incendiary.128.webp)|ammo.boulder.incendiary|170078613|Incendiary boulder|Ammunition||
+|![](/ammo.boulder.128.webp)|ammo.boulder|-217207585|Catapult Boulder|Ammunition||
+|![](/ammo.catapult.explosive.128.webp)|ammo.catapult.explosive|-1764973137|Catapult Explosive Ammo|Ammunition||
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
@@ -51,6 +55,10 @@
 |![](/attire.snowman.helmet.128.webp)|attire.snowman.helmet|-842267147|Snowman Helmet|Attire|A snowman helmet which provides ample protection.|
 |![](/autoturret.128.webp)|autoturret|-2139580305|Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
+|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Ballista Fire Bolt|Ammunition|A Ballista fire bolt|
+|![](/ballista.bolt.128.webp)|ballista.bolt|-1195249017|Ballista Bolt|Ammunition|A Ballista bolt|
+|![](/ballista.128.webp)|ballista|-438281480|Ballista|Weapon|A Ballista|
+|![](/ballista.spear.incendiary.128.webp)|ballista.spear.incendiary|-498343851|Ballista Incendiary Spear|Ammunition|A Ballista Incendiary Spear|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
@@ -61,6 +69,8 @@
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|Items|A small planter with enough room to plant 3 seeds.|
+|![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|Weapon||
+|![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|Weapon|A Battering Ram|
 |![](/battery.small.128.webp)|battery.small|609049394|Battery - Small|Resources|A Battery.|
 |![](/bbq.128.webp)|bbq|1099314009|Barbeque|Items|A makeshift Barbeque. You can cook significant amounts of food with this.|
 |![](/beachchair.128.webp)|beachchair|-321431890|Beach Chair|Fun|The Beach Chair is the best way to relax, whether it's by the pool or on the beach.|
@@ -122,6 +132,8 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
+|![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Catapult Incendiary Ammo|Ammunition||
+|![](/catapult.128.webp)|catapult|1145722690|Catapult|Weapon|Catapult desc|
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
@@ -169,6 +181,7 @@
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|Construction|Transform your tool cupboard experience with this modified Hi-Fi cabinet. Complete with retro displays indicating vital base data as well as frosted glass doors allowing you to view its contents of tools and resources!|
 |![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|Construction|Ensure 100% Tool Cupboard uptime with this Tool Cupboard skin.|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|Misc|A spooky cast iron cauldron with a green goo.|
+|![](/dart.bone.128.webp)|dart.bone|-361911645|Bone Dart|Ammunition|A basic damage dart.|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A helmet made of bone.|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|Food|Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.|
@@ -438,6 +451,7 @@
 |![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|Items|A large trophy stand to mount the head of killed animals or enemies.|
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
+|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|Will be equipped when a compatible weapon is equipped|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
@@ -518,6 +532,7 @@
 |![](/metal.plate.torso.icevest.128.webp)|metal.plate.torso.icevest|-1478855279|Ice Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.plate.torso.128.webp)|metal.plate.torso|1110385766|Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.refined.128.webp)|metal.refined|317398316|High Quality Metal|Resources|High quality metal suitable for armor and weapons construction.|
+|![](/metal.shield.128.webp)|metal.shield|625599716|Metal Shield|Attire|Will be equipped when a compatible weapon is equipped|
 |![](/metalblade.128.webp)|metalblade|1882709339|Metal Blade|Component|A Metal Blade for making melee weapons.|
 |![](/metalpipe.128.webp)|metalpipe|95950017|Metal Pipe|Component|Metal Pipe.|
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
@@ -599,6 +614,7 @@
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
+|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|Will be equipped when a compatible weapon is equipped|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|A High Caliber six-shooter.|
@@ -658,6 +674,7 @@
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
+|![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|An block of ice you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
@@ -687,6 +704,7 @@
 |![](/shutter.metal.embrasure.b.128.webp)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
+|![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|Weapon|Better than a ladder|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
@@ -752,6 +770,7 @@
 |![](/sparkplug1.128.webp)|sparkplug1|-89874794|Low Quality Spark Plugs|Component|Low quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug2.128.webp)|sparkplug2|-493159321|Medium Quality Spark Plugs|Component|Medium quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug3.128.webp)|sparkplug3|1072924620|High Quality Spark Plugs|Component|High quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
+|![](/spear.ballista.128.webp)|spear.ballista|201524843|Ballista Spear|Ammunition|A Ballista Spear|
 |![](/spear.cny.128.webp)|spear.cny|695450239|Lunar New Year Spear|Weapon|A Chinese themed New Year themed metal Spear|
 |![](/spear.stone.128.webp)|spear.stone|1602646136|Stone Spear|Weapon|A stone-tipped wooden Spear. Slightly longer range.|
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
@@ -800,6 +819,7 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
+|![](/testhitchablecart.128.webp)|testhitchablecart|2125503246|Test hitchable cart|Misc|It has a "cannon"|
 |![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|Traps|A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Simple but effective.|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|
@@ -904,6 +924,7 @@
 |![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
 |![](/wood.128.webp)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
+|![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|Will be equipped when a compatible weapon is equipped|
 |![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|Items|A large wooden frame|
 |![](/woodframe.medium.128.webp)|woodframe.medium|-1541706279|Wood Frame Medium|Items|A medium wooden frame|
 |![](/woodframe.small.128.webp)|woodframe.small|-1476278729|Wood Frame Small|Items|A small wooden frame|

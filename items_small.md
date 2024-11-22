@@ -3,6 +3,10 @@
 |:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|
+|![](/ammo.boulder.explosive.128.webp)|ammo.boulder.explosive|-346591922|Explosive Boulder|
+|![](/ammo.boulder.incendiary.128.webp)|ammo.boulder.incendiary|170078613|Incendiary boulder|
+|![](/ammo.boulder.128.webp)|ammo.boulder|-217207585|Catapult Boulder|
+|![](/ammo.catapult.explosive.128.webp)|ammo.catapult.explosive|-1764973137|Catapult Explosive Ammo|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|
@@ -51,6 +55,10 @@
 |![](/attire.snowman.helmet.128.webp)|attire.snowman.helmet|-842267147|Snowman Helmet|
 |![](/autoturret.128.webp)|autoturret|-2139580305|Auto Turret|
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|
+|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Ballista Fire Bolt|
+|![](/ballista.bolt.128.webp)|ballista.bolt|-1195249017|Ballista Bolt|
+|![](/ballista.128.webp)|ballista|-438281480|Ballista|
+|![](/ballista.spear.incendiary.128.webp)|ballista.spear.incendiary|-498343851|Ballista Incendiary Spear|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|
@@ -61,6 +69,8 @@
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|
+|![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|
+|![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|
 |![](/battery.small.128.webp)|battery.small|609049394|Battery - Small|
 |![](/bbq.128.webp)|bbq|1099314009|Barbeque|
 |![](/beachchair.128.webp)|beachchair|-321431890|Beach Chair|
@@ -122,6 +132,8 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|
+|![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Catapult Incendiary Ammo|
+|![](/catapult.128.webp)|catapult|1145722690|Catapult|
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|
@@ -169,6 +181,7 @@
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|
 |![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|
+|![](/dart.bone.128.webp)|dart.bone|-361911645|Bone Dart|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|
@@ -438,6 +451,7 @@
 |![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|
+|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|
@@ -518,6 +532,7 @@
 |![](/metal.plate.torso.icevest.128.webp)|metal.plate.torso.icevest|-1478855279|Ice Metal Chest Plate|
 |![](/metal.plate.torso.128.webp)|metal.plate.torso|1110385766|Metal Chest Plate|
 |![](/metal.refined.128.webp)|metal.refined|317398316|High Quality Metal|
+|![](/metal.shield.128.webp)|metal.shield|625599716|Metal Shield|
 |![](/metalblade.128.webp)|metalblade|1882709339|Metal Blade|
 |![](/metalpipe.128.webp)|metalpipe|95950017|Metal Pipe|
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|
@@ -599,6 +614,7 @@
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|
+|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|
@@ -658,6 +674,7 @@
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|
+|![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|
@@ -687,6 +704,7 @@
 |![](/shutter.metal.embrasure.b.128.webp)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|
+|![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|
@@ -752,6 +770,7 @@
 |![](/sparkplug1.128.webp)|sparkplug1|-89874794|Low Quality Spark Plugs|
 |![](/sparkplug2.128.webp)|sparkplug2|-493159321|Medium Quality Spark Plugs|
 |![](/sparkplug3.128.webp)|sparkplug3|1072924620|High Quality Spark Plugs|
+|![](/spear.ballista.128.webp)|spear.ballista|201524843|Ballista Spear|
 |![](/spear.cny.128.webp)|spear.cny|695450239|Lunar New Year Spear|
 |![](/spear.stone.128.webp)|spear.stone|1602646136|Stone Spear|
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|
@@ -800,6 +819,7 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|
+|![](/testhitchablecart.128.webp)|testhitchablecart|2125503246|Test hitchable cart|
 |![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|
@@ -904,6 +924,7 @@
 |![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|
 |![](/wood.128.webp)|wood|-151838493|Wood|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|
+|![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|
 |![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|
 |![](/woodframe.medium.128.webp)|woodframe.medium|-1541706279|Wood Frame Medium|
 |![](/woodframe.small.128.webp)|woodframe.small|-1476278729|Wood Frame Small|
