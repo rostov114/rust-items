@@ -898,7 +898,7 @@
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|
 |![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|
-|![](/weapon.mod.8x.scope.128.webp)|weapon.mod.8x.scope|174866732|16x Zoom Scope|
+|![](/weapon.mod.8x.scope.128.webp)|weapon.mod.8x.scope|174866732|Variable Zoom Scope|
 |![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|
 |![](/weapon.mod.extendedmags.128.webp)|weapon.mod.extendedmags|2005491391|Extended Magazine|
 |![](/weapon.mod.flashlight.128.webp)|weapon.mod.flashlight|952603248|Weapon flashlight|

@@ -898,7 +898,7 @@
 |[water.salt](/water.salt.png)|-277057363|Salt Water|Resources|
 |[waterjug](/waterjug.png)|-119235651|Water Jug|Food|
 |[waterpump](/waterpump.png)|-1284169891|Water Pump|Electrical|
-|[weapon.mod.8x.scope](/weapon.mod.8x.scope.png)|174866732|16x Zoom Scope|Weapon|
+|[weapon.mod.8x.scope](/weapon.mod.8x.scope.png)|174866732|Variable Zoom Scope|Weapon|
 |[weapon.mod.burstmodule](/weapon.mod.burstmodule.png)|838308300|Burst Module|Component|
 |[weapon.mod.extendedmags](/weapon.mod.extendedmags.png)|2005491391|Extended Magazine|Weapon|
 |[weapon.mod.flashlight](/weapon.mod.flashlight.png)|952603248|Weapon flashlight|Weapon|
