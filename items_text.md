@@ -858,6 +858,7 @@
 |[vehicle.2mod.flatbed](/vehicle.2mod.flatbed.png)|-1693832478|Large Flatbed Vehicle Module|Component|
 |[vehicle.2mod.fuel.tank](/vehicle.2mod.fuel.tank.png)|1186655046|Fuel Tank Vehicle Module|Component|
 |[vehicle.2mod.passengers](/vehicle.2mod.passengers.png)|895374329|Passenger Vehicle Module|Component|
+|[vehicle.car_radio](/vehicle.car_radio.png)|721798950|Car Radio|Component|
 |[vehicle.chassis.2mod](/vehicle.chassis.2mod.png)|-44066600|Small Chassis|Component|
 |[vehicle.chassis.3mod](/vehicle.chassis.3mod.png)|-44066823|Medium Chassis|Component|
 |[vehicle.chassis.4mod](/vehicle.chassis.4mod.png)|-44066790|Large Chassis|Component|
