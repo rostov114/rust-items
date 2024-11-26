@@ -5,8 +5,8 @@
 |[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|MLRS Aiming Module|Component|
 |[ammo.boulder.explosive](/ammo.boulder.explosive.png)|-346591922|Explosive Boulder|Ammunition|
 |[ammo.boulder.incendiary](/ammo.boulder.incendiary.png)|170078613|Incendiary boulder|Ammunition|
-|[ammo.boulder](/ammo.boulder.png)|-217207585|Catapult Boulder|Ammunition|
-|[ammo.catapult.explosive](/ammo.catapult.explosive.png)|-1764973137|Catapult Explosive Ammo|Ammunition|
+|[ammo.boulder](/ammo.boulder.png)|-217207585|Stone Boulder|Ammunition|
+|[ammo.catapult.explosive](/ammo.catapult.explosive.png)|-1764973137|Propane Bomb|Ammunition|
 |[ammo.grenadelauncher.buckshot](/ammo.grenadelauncher.buckshot.png)|1055319033|40mm Shotgun Round|Ammunition|
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
@@ -132,7 +132,7 @@
 |[cassette](/cassette.png)|476066818|Cassette - Long|Fun|
 |[cassette.medium](/cassette.medium.png)|-912398867|Cassette - Medium|Fun|
 |[cassette.short](/cassette.short.png)|1523403414|Cassette - Short|Fun|
-|[catapult.ammo.incendiary](/catapult.ammo.incendiary.png)|-484006286|Catapult Incendiary Ammo|Ammunition|
+|[catapult.ammo.incendiary](/catapult.ammo.incendiary.png)|-484006286|Firebomb|Ammunition|
 |[catapult](/catapult.png)|1145722690|Catapult|Weapon|
 |[cctv.camera](/cctv.camera.png)|634478325|CCTV Camera|Resources|
 |[ceilinglight](/ceilinglight.png)|1142993169|Ceiling Light|Electrical|
