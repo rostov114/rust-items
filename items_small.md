@@ -658,6 +658,7 @@
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|
+|![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|

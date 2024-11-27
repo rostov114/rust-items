@@ -658,6 +658,7 @@
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
+|![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|An block of ice you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
