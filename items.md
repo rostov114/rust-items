@@ -55,8 +55,11 @@
 |![](/attire.snowman.helmet.128.webp)|attire.snowman.helmet|-842267147|Snowman Helmet|Attire|A snowman helmet which provides ample protection.|
 |![](/autoturret.128.webp)|autoturret|-2139580305|Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
-|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Ballista Fire Bolt|Ammunition|A Ballista fire bolt|
+|![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|Ammunition|Heavy and solid bolt designed to hammer through building.|
+|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|Ammunition|Wrapped in burning cloth, ignites targets upon impact.|
 |![](/ballista.bolt.128.webp)|ballista.bolt|-1195249017|Ballista Bolt|Ammunition|A Ballista bolt|
+|![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|Ammunition|A piercing bolt capable of penetrating armored vehicles.|
+|![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt designed to cause maximum disruption to groups.|
 |![](/ballista.128.webp)|ballista|-438281480|Ballista|Weapon|A Ballista|
 |![](/ballista.spear.incendiary.128.webp)|ballista.spear.incendiary|-498343851|Ballista Incendiary Spear|Ammunition|A Ballista Incendiary Spear|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
@@ -858,7 +861,7 @@
 |![](/vehicle.2mod.flatbed.128.webp)|vehicle.2mod.flatbed|-1693832478|Large Flatbed Vehicle Module|Component|Dual module large flatbed.|
 |![](/vehicle.2mod.fuel.tank.128.webp)|vehicle.2mod.fuel.tank|1186655046|Fuel Tank Vehicle Module|Component|Dual module large fuel tank.|
 |![](/vehicle.2mod.passengers.128.webp)|vehicle.2mod.passengers|895374329|Passenger Vehicle Module|Component|Dual module seating.|
-|![](/vehicle.car_radio.128.webp)|vehicle.car_radio|721798950|Car Radio|Component|A small radio to use in cars.|
+|![](/vehicle.car_radio.128.webp)|vehicle.car_radio|721798950|Car Radio|Fun|A small radio to use in cars. Will only work while the car is turned on.|
 |![](/vehicle.chassis.2mod.128.webp)|vehicle.chassis.2mod|-44066600|Small Chassis|Component|Two-socket vehicle chassis.|
 |![](/vehicle.chassis.3mod.128.webp)|vehicle.chassis.3mod|-44066823|Medium Chassis|Component|Three-socket vehicle chassis.|
 |![](/vehicle.chassis.4mod.128.webp)|vehicle.chassis.4mod|-44066790|Large Chassis|Component|Four-socket vehicle chassis.|

@@ -55,8 +55,11 @@
 |![](/attire.snowman.helmet.128.webp)|attire.snowman.helmet|-842267147|Snowman Helmet|
 |![](/autoturret.128.webp)|autoturret|-2139580305|Auto Turret|
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|
-|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Ballista Fire Bolt|
+|![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|
+|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|
 |![](/ballista.bolt.128.webp)|ballista.bolt|-1195249017|Ballista Bolt|
+|![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|
+|![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|
 |![](/ballista.128.webp)|ballista|-438281480|Ballista|
 |![](/ballista.spear.incendiary.128.webp)|ballista.spear.incendiary|-498343851|Ballista Incendiary Spear|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|

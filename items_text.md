@@ -55,8 +55,11 @@
 |[attire.snowman.helmet](/attire.snowman.helmet.png)|-842267147|Snowman Helmet|Attire|
 |[autoturret](/autoturret.png)|-2139580305|Auto Turret|Electrical|
 |[axe.salvaged](/axe.salvaged.png)|-262590403|Salvaged Axe|Tool|
-|[ballista.bolt.incendiary](/ballista.bolt.incendiary.png)|-1987565603|Ballista Fire Bolt|Ammunition|
+|[ballista.bolt.hammerhead](/ballista.bolt.hammerhead.png)|-19318653|Hammerhead Bolt|Ammunition|
+|[ballista.bolt.incendiary](/ballista.bolt.incendiary.png)|-1987565603|Incendiary Bolt|Ammunition|
 |[ballista.bolt](/ballista.bolt.png)|-1195249017|Ballista Bolt|Ammunition|
+|[ballista.bolt.piercer](/ballista.bolt.piercer.png)|-1127003365|Piercer Bolt|Ammunition|
+|[ballista.bolt.pitchfork](/ballista.bolt.pitchfork.png)|-357442017|Pitchfork Bolt|Ammunition|
 |[ballista](/ballista.png)|-438281480|Ballista|Weapon|
 |[ballista.spear.incendiary](/ballista.spear.incendiary.png)|-498343851|Ballista Incendiary Spear|Ammunition|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
@@ -858,7 +861,7 @@
 |[vehicle.2mod.flatbed](/vehicle.2mod.flatbed.png)|-1693832478|Large Flatbed Vehicle Module|Component|
 |[vehicle.2mod.fuel.tank](/vehicle.2mod.fuel.tank.png)|1186655046|Fuel Tank Vehicle Module|Component|
 |[vehicle.2mod.passengers](/vehicle.2mod.passengers.png)|895374329|Passenger Vehicle Module|Component|
-|[vehicle.car_radio](/vehicle.car_radio.png)|721798950|Car Radio|Component|
+|[vehicle.car_radio](/vehicle.car_radio.png)|721798950|Car Radio|Fun|
 |[vehicle.chassis.2mod](/vehicle.chassis.2mod.png)|-44066600|Small Chassis|Component|
 |[vehicle.chassis.3mod](/vehicle.chassis.3mod.png)|-44066823|Medium Chassis|Component|
 |[vehicle.chassis.4mod](/vehicle.chassis.4mod.png)|-44066790|Large Chassis|Component|
