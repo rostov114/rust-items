@@ -839,6 +839,7 @@
 |![](/vehicle.2mod.flatbed.128.webp)|vehicle.2mod.flatbed|-1693832478|Large Flatbed Vehicle Module|Component|Dual module large flatbed.|
 |![](/vehicle.2mod.fuel.tank.128.webp)|vehicle.2mod.fuel.tank|1186655046|Fuel Tank Vehicle Module|Component|Dual module large fuel tank.|
 |![](/vehicle.2mod.passengers.128.webp)|vehicle.2mod.passengers|895374329|Passenger Vehicle Module|Component|Dual module seating.|
+|![](/vehicle.car_radio.128.webp)|vehicle.car_radio|721798950|Car Radio|Fun|A small radio to use in cars. Will only work while the car is turned on.|
 |![](/vehicle.chassis.2mod.128.webp)|vehicle.chassis.2mod|-44066600|Small Chassis|Component|Two-socket vehicle chassis.|
 |![](/vehicle.chassis.3mod.128.webp)|vehicle.chassis.3mod|-44066823|Medium Chassis|Component|Three-socket vehicle chassis.|
 |![](/vehicle.chassis.4mod.128.webp)|vehicle.chassis.4mod|-44066790|Large Chassis|Component|Four-socket vehicle chassis.|
