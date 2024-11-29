@@ -820,6 +820,7 @@
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|Electrical|Twitch Rivals Desk|
+|![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|Attire|A wearable flag for Twitch Rivals|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
 |![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
