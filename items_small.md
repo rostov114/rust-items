@@ -842,6 +842,7 @@
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|
+|![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|
 |![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|
