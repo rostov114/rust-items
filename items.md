@@ -390,6 +390,7 @@
 |![](/hat.tigermask.128.webp)|hat.tigermask|709206314|Tiger Mask|Attire|A special tiger mask to celebrate Chinese New Year|
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
+|![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|Items|A plushy of your favourite outfit made by the fabulous people at YouTooz.com|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Divers Suit|Attire|A divers suit found in the abyss, doubles as a reliable hazmat suit|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|Attire|A Frontier suit|
@@ -657,6 +658,7 @@
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
+|![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|An block of ice you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
@@ -818,6 +820,7 @@
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|Electrical|Twitch Rivals Desk|
+|![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|Attire|A wearable flag for Twitch Rivals|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop event.|
 |![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
@@ -837,6 +840,7 @@
 |![](/vehicle.2mod.flatbed.128.webp)|vehicle.2mod.flatbed|-1693832478|Large Flatbed Vehicle Module|Component|Dual module large flatbed.|
 |![](/vehicle.2mod.fuel.tank.128.webp)|vehicle.2mod.fuel.tank|1186655046|Fuel Tank Vehicle Module|Component|Dual module large fuel tank.|
 |![](/vehicle.2mod.passengers.128.webp)|vehicle.2mod.passengers|895374329|Passenger Vehicle Module|Component|Dual module seating.|
+|![](/vehicle.car_radio.128.webp)|vehicle.car_radio|721798950|Car Radio|Fun|A small radio to use in cars. Will only work while the car is turned on.|
 |![](/vehicle.chassis.2mod.128.webp)|vehicle.chassis.2mod|-44066600|Small Chassis|Component|Two-socket vehicle chassis.|
 |![](/vehicle.chassis.3mod.128.webp)|vehicle.chassis.3mod|-44066823|Medium Chassis|Component|Three-socket vehicle chassis.|
 |![](/vehicle.chassis.4mod.128.webp)|vehicle.chassis.4mod|-44066790|Large Chassis|Component|Four-socket vehicle chassis.|
@@ -877,7 +881,7 @@
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
 |![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
-|![](/weapon.mod.8x.scope.128.webp)|weapon.mod.8x.scope|174866732|16x Zoom Scope|Weapon|A large 16x zoom scope.|
+|![](/weapon.mod.8x.scope.128.webp)|weapon.mod.8x.scope|174866732|Variable Zoom Scope|Weapon|A large military-grade scope that can be configured from 4x zoom to 16x zoom.|
 |![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|Component|Forces the weapon to fire in 3 round bursts.|
 |![](/weapon.mod.extendedmags.128.webp)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.128.webp)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|

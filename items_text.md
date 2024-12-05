@@ -390,6 +390,7 @@
 |[hat.tigermask](/hat.tigermask.png)|709206314|Tiger Mask|Attire|
 |[hat.wolf](/hat.wolf.png)|-1478212975|Wolf Headdress|Attire|
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
+|[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Items|
 |[hazmatsuit.arcticsuit](/hazmatsuit.arcticsuit.png)|-470439097|Arctic Suit|Attire|
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Divers Suit|Attire|
 |[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
@@ -657,6 +658,7 @@
 |[scraptea](/scraptea.png)|263834859|Basic Scrap Tea|Food|
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|Scrap Transport Helicopter|Misc|
+|[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Items|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
 |[seed.black.berry](/seed.black.berry.png)|1911552868|Black Berry Seed|Food|
@@ -818,6 +820,7 @@
 |[tunalight](/tunalight.png)|-1478445584|Tuna Can Lamp|Items|
 |[twitch.headset](/twitch.headset.png)|-1569700847|Headset|Attire|
 |[twitchrivals2023desk](/twitchrivals2023desk.png)|-243540612|Twitch Rivals Desk|Electrical|
+|[twitchrivalsflag](/twitchrivalsflag.png)|-739993590|Twitch Rivals Flag|Attire|
 |[twitchsunglasses](/twitchsunglasses.png)|20489901|Purple Sunglasses|Attire|
 |[twowaymirror.window](/twowaymirror.window.png)|-1683726934|Two-Way Mirror|Items|
 |[valve1](/valve1.png)|1330084809|Low Quality Valves|Component|
@@ -837,6 +840,7 @@
 |[vehicle.2mod.flatbed](/vehicle.2mod.flatbed.png)|-1693832478|Large Flatbed Vehicle Module|Component|
 |[vehicle.2mod.fuel.tank](/vehicle.2mod.fuel.tank.png)|1186655046|Fuel Tank Vehicle Module|Component|
 |[vehicle.2mod.passengers](/vehicle.2mod.passengers.png)|895374329|Passenger Vehicle Module|Component|
+|[vehicle.car_radio](/vehicle.car_radio.png)|721798950|Car Radio|Fun|
 |[vehicle.chassis.2mod](/vehicle.chassis.2mod.png)|-44066600|Small Chassis|Component|
 |[vehicle.chassis.3mod](/vehicle.chassis.3mod.png)|-44066823|Medium Chassis|Component|
 |[vehicle.chassis.4mod](/vehicle.chassis.4mod.png)|-44066790|Large Chassis|Component|
@@ -877,7 +881,7 @@
 |[water.salt](/water.salt.png)|-277057363|Salt Water|Resources|
 |[waterjug](/waterjug.png)|-119235651|Water Jug|Food|
 |[waterpump](/waterpump.png)|-1284169891|Water Pump|Electrical|
-|[weapon.mod.8x.scope](/weapon.mod.8x.scope.png)|174866732|16x Zoom Scope|Weapon|
+|[weapon.mod.8x.scope](/weapon.mod.8x.scope.png)|174866732|Variable Zoom Scope|Weapon|
 |[weapon.mod.burstmodule](/weapon.mod.burstmodule.png)|838308300|Burst Module|Component|
 |[weapon.mod.extendedmags](/weapon.mod.extendedmags.png)|2005491391|Extended Magazine|Weapon|
 |[weapon.mod.flashlight](/weapon.mod.flashlight.png)|952603248|Weapon flashlight|Weapon|

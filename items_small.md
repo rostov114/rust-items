@@ -390,6 +390,7 @@
 |![](/hat.tigermask.128.webp)|hat.tigermask|709206314|Tiger Mask|
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|
+|![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Divers Suit|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
@@ -657,6 +658,7 @@
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|
+|![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|
@@ -818,6 +820,7 @@
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|
+|![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|
 |![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|
@@ -837,6 +840,7 @@
 |![](/vehicle.2mod.flatbed.128.webp)|vehicle.2mod.flatbed|-1693832478|Large Flatbed Vehicle Module|
 |![](/vehicle.2mod.fuel.tank.128.webp)|vehicle.2mod.fuel.tank|1186655046|Fuel Tank Vehicle Module|
 |![](/vehicle.2mod.passengers.128.webp)|vehicle.2mod.passengers|895374329|Passenger Vehicle Module|
+|![](/vehicle.car_radio.128.webp)|vehicle.car_radio|721798950|Car Radio|
 |![](/vehicle.chassis.2mod.128.webp)|vehicle.chassis.2mod|-44066600|Small Chassis|
 |![](/vehicle.chassis.3mod.128.webp)|vehicle.chassis.3mod|-44066823|Medium Chassis|
 |![](/vehicle.chassis.4mod.128.webp)|vehicle.chassis.4mod|-44066790|Large Chassis|
@@ -877,7 +881,7 @@
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|
 |![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|
-|![](/weapon.mod.8x.scope.128.webp)|weapon.mod.8x.scope|174866732|16x Zoom Scope|
+|![](/weapon.mod.8x.scope.128.webp)|weapon.mod.8x.scope|174866732|Variable Zoom Scope|
 |![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|
 |![](/weapon.mod.extendedmags.128.webp)|weapon.mod.extendedmags|2005491391|Extended Magazine|
 |![](/weapon.mod.flashlight.128.webp)|weapon.mod.flashlight|952603248|Weapon flashlight|
