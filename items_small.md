@@ -65,6 +65,7 @@
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|
+|![](/barricade.medieval.128.webp)|barricade.medieval|-424687710|Medieval Barricade|
 |![](/barricade.metal.128.webp)|barricade.metal|1655650836|Metal Barricade|
 |![](/barricade.sandbags.128.webp)|barricade.sandbags|-559599960|Sandbag Barricade|
 |![](/barricade.stone.128.webp)|barricade.stone|15388698|Stone Barricade|

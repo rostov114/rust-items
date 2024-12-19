@@ -65,6 +65,7 @@
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
+|[barricade.medieval](/barricade.medieval.png)|-424687710|Medieval Barricade|Construction|
 |[barricade.metal](/barricade.metal.png)|1655650836|Metal Barricade|Construction|
 |[barricade.sandbags](/barricade.sandbags.png)|-559599960|Sandbag Barricade|Construction|
 |[barricade.stone](/barricade.stone.png)|15388698|Stone Barricade|Construction|
