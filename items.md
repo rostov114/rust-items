@@ -495,7 +495,7 @@
 |![](/lumberjack.hatchet.128.webp)|lumberjack.hatchet|-399173933|Prototype Hatchet|Tool|A prototype field hatchet, useful for gathering wood|
 |![](/lumberjack.pickaxe.128.webp)|lumberjack.pickaxe|236677901|Prototype Pickaxe|Tool|A prototype field pickaxe. Useful for gathering ore from rocks.|
 |![](/lunar.firecrackers.128.webp)|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
-|![](/mace.baseballbat.128.webp)|mace.baseballbat|-2026042603|Baseball Bat|Weapon||
+|![](/mace.baseballbat.128.webp)|mace.baseballbat|-2026042603|Baseball Bat|Weapon|A baseball bat wrapped in barbed wire|
 |![](/mace.128.webp)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](/machete.128.webp)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
 |![](/mailbox.128.webp)|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
