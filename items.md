@@ -3,8 +3,6 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
-|![](/ammo.boulder.explosive.128.webp)|ammo.boulder.explosive|-346591922|Explosive Boulder|Ammunition||
-|![](/ammo.boulder.incendiary.128.webp)|ammo.boulder.incendiary|170078613|Incendiary boulder|Ammunition||
 |![](/ammo.boulder.128.webp)|ammo.boulder|-217207585|Stone Boulder|Ammunition|Heavy rock projectile for a Catapult. Delivers pure kinetic damage on impact.|
 |![](/ammo.catapult.explosive.128.webp)|ammo.catapult.explosive|-1764973137|Propane Bomb|Ammunition|Explosive projectile for a Catapult. A propane-filled keg, devastating to structures.|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
@@ -57,11 +55,9 @@
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
 |![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|Ammunition|Heavy and solid bolt designed to hammer through building.|
 |![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|Ammunition|Wrapped in burning cloth, ignites targets upon impact.|
-|![](/ballista.bolt.128.webp)|ballista.bolt|-1195249017|Ballista Bolt|Ammunition|A Ballista bolt|
 |![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|Ammunition|A piercing bolt capable of penetrating armored vehicles.|
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt designed to cause maximum disruption to groups.|
 |![](/ballista.128.webp)|ballista|-438281480|Ballista|Weapon|A Ballista|
-|![](/ballista.spear.incendiary.128.webp)|ballista.spear.incendiary|-498343851|Ballista Incendiary Spear|Ammunition|A Ballista Incendiary Spear|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
@@ -774,7 +770,6 @@
 |![](/sparkplug1.128.webp)|sparkplug1|-89874794|Low Quality Spark Plugs|Component|Low quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug2.128.webp)|sparkplug2|-493159321|Medium Quality Spark Plugs|Component|Medium quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
 |![](/sparkplug3.128.webp)|sparkplug3|1072924620|High Quality Spark Plugs|Component|High quality spark plugs for a combustion engine. Spark plugs ignite the fuel/air mixture to move the pistons.|
-|![](/spear.ballista.128.webp)|spear.ballista|201524843|Ballista Spear|Ammunition|A Ballista Spear|
 |![](/spear.cny.128.webp)|spear.cny|695450239|Lunar New Year Spear|Weapon|A Chinese themed New Year themed metal Spear|
 |![](/spear.stone.128.webp)|spear.stone|1602646136|Stone Spear|Weapon|A stone-tipped wooden Spear. Slightly longer range.|
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
@@ -823,7 +818,6 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
-|![](/testhitchablecart.128.webp)|testhitchablecart|2125503246|Test hitchable cart|Misc|It has a "cannon"|
 |![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|Traps|A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Simple but effective.|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|

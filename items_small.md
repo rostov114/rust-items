@@ -3,8 +3,6 @@
 |:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|
-|![](/ammo.boulder.explosive.128.webp)|ammo.boulder.explosive|-346591922|Explosive Boulder|
-|![](/ammo.boulder.incendiary.128.webp)|ammo.boulder.incendiary|170078613|Incendiary boulder|
 |![](/ammo.boulder.128.webp)|ammo.boulder|-217207585|Stone Boulder|
 |![](/ammo.catapult.explosive.128.webp)|ammo.catapult.explosive|-1764973137|Propane Bomb|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|
@@ -57,11 +55,9 @@
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|
 |![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|
 |![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|
-|![](/ballista.bolt.128.webp)|ballista.bolt|-1195249017|Ballista Bolt|
 |![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|
 |![](/ballista.128.webp)|ballista|-438281480|Ballista|
-|![](/ballista.spear.incendiary.128.webp)|ballista.spear.incendiary|-498343851|Ballista Incendiary Spear|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|
@@ -774,7 +770,6 @@
 |![](/sparkplug1.128.webp)|sparkplug1|-89874794|Low Quality Spark Plugs|
 |![](/sparkplug2.128.webp)|sparkplug2|-493159321|Medium Quality Spark Plugs|
 |![](/sparkplug3.128.webp)|sparkplug3|1072924620|High Quality Spark Plugs|
-|![](/spear.ballista.128.webp)|spear.ballista|201524843|Ballista Spear|
 |![](/spear.cny.128.webp)|spear.cny|695450239|Lunar New Year Spear|
 |![](/spear.stone.128.webp)|spear.stone|1602646136|Stone Spear|
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|
@@ -823,7 +818,6 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|
-|![](/testhitchablecart.128.webp)|testhitchablecart|2125503246|Test hitchable cart|
 |![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|

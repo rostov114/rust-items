@@ -3,8 +3,6 @@
 |:-:|:-:|:-:|:-:|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|MLRS Aiming Module|Component|
-|[ammo.boulder.explosive](/ammo.boulder.explosive.png)|-346591922|Explosive Boulder|Ammunition|
-|[ammo.boulder.incendiary](/ammo.boulder.incendiary.png)|170078613|Incendiary boulder|Ammunition|
 |[ammo.boulder](/ammo.boulder.png)|-217207585|Stone Boulder|Ammunition|
 |[ammo.catapult.explosive](/ammo.catapult.explosive.png)|-1764973137|Propane Bomb|Ammunition|
 |[ammo.grenadelauncher.buckshot](/ammo.grenadelauncher.buckshot.png)|1055319033|40mm Shotgun Round|Ammunition|
@@ -57,11 +55,9 @@
 |[axe.salvaged](/axe.salvaged.png)|-262590403|Salvaged Axe|Tool|
 |[ballista.bolt.hammerhead](/ballista.bolt.hammerhead.png)|-19318653|Hammerhead Bolt|Ammunition|
 |[ballista.bolt.incendiary](/ballista.bolt.incendiary.png)|-1987565603|Incendiary Bolt|Ammunition|
-|[ballista.bolt](/ballista.bolt.png)|-1195249017|Ballista Bolt|Ammunition|
 |[ballista.bolt.piercer](/ballista.bolt.piercer.png)|-1127003365|Piercer Bolt|Ammunition|
 |[ballista.bolt.pitchfork](/ballista.bolt.pitchfork.png)|-357442017|Pitchfork Bolt|Ammunition|
 |[ballista](/ballista.png)|-438281480|Ballista|Weapon|
-|[ballista.spear.incendiary](/ballista.spear.incendiary.png)|-498343851|Ballista Incendiary Spear|Ammunition|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
@@ -774,7 +770,6 @@
 |[sparkplug1](/sparkplug1.png)|-89874794|Low Quality Spark Plugs|Component|
 |[sparkplug2](/sparkplug2.png)|-493159321|Medium Quality Spark Plugs|Component|
 |[sparkplug3](/sparkplug3.png)|1072924620|High Quality Spark Plugs|Component|
-|[spear.ballista](/spear.ballista.png)|201524843|Ballista Spear|Ammunition|
 |[spear.cny](/spear.cny.png)|695450239|Lunar New Year Spear|Weapon|
 |[spear.stone](/spear.stone.png)|1602646136|Stone Spear|Weapon|
 |[spear.wooden](/spear.wooden.png)|1540934679|Wooden Spear|Weapon|
@@ -823,7 +818,6 @@
 |[tarp](/tarp.png)|2019042823|Tarp|Component|
 |[techparts](/techparts.png)|73681876|Tech Trash|Component|
 |[telephone](/telephone.png)|1234878710|Telephone|Fun|
-|[testhitchablecart](/testhitchablecart.png)|2125503246|Test hitchable cart|Misc|
 |[tincan.alarm](/tincan.alarm.png)|962186730|Tin Can Alarm|Traps|
 |[tool.binoculars](/tool.binoculars.png)|-1262185308|Binoculars|Tool|
 |[tool.camera](/tool.camera.png)|-1316706473|Camera|Tool|
