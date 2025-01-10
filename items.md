@@ -481,7 +481,7 @@
 |![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|Weapon|A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.|
 |![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|Attire|A medieval knights helmet. made from scrap metal. excellent craftmanship|
 |![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|Attire|A well made set of knights plate that covers the hips and thighs. Made of scrap metal.|
-|![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass, pouldrons and vambrace.|Attire|A well made collection of scrap metal formed into a knights armour|
+|![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass|Attire|A well made collection of scrap metal formed into a knights armour|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|

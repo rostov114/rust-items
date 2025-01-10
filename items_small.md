@@ -481,7 +481,7 @@
 |![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|
 |![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|
 |![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|
-|![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass, pouldrons and vambrace.|
+|![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|

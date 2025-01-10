@@ -481,7 +481,7 @@
 |[knife.skinning](/knife.skinning.png)|-2073432256|Skinning Knife|Weapon|
 |[knightsarmour.helmet](/knightsarmour.helmet.png)|-427072335|Knights armour helmet|Attire|
 |[knightsarmour.skirt](/knightsarmour.skirt.png)|-945708533|Knights armour skirt plates|Attire|
-|[knighttorso.armour](/knighttorso.armour.png)|547862680|Knights armour cuirass, pouldrons and vambrace.|Attire|
+|[knighttorso.armour](/knighttorso.armour.png)|547862680|Knights armour cuirass|Attire|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
 |[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
