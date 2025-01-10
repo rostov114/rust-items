@@ -479,6 +479,9 @@
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|
 |![](/knife.combat.128.webp)|knife.combat|2040726127|Combat Knife|
 |![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|
+|![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|
+|![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|
+|![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass, pouldrons and vambrace.|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|
@@ -522,6 +525,8 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
+|![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|
+|![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|
 |![](/megaphone.128.webp)|megaphone|-583379016|Megaphone|
 |![](/metal.detector.128.webp)|metal.detector|1168856825|Metal Detector|
 |![](/metal.facemask.hockey.128.webp)|metal.facemask.hockey|-1334569149|Hockey Mask|

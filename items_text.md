@@ -479,6 +479,9 @@
 |[knife.butcher](/knife.butcher.png)|-194509282|Butcher Knife|Weapon|
 |[knife.combat](/knife.combat.png)|2040726127|Combat Knife|Weapon|
 |[knife.skinning](/knife.skinning.png)|-2073432256|Skinning Knife|Weapon|
+|[knightsarmour.helmet](/knightsarmour.helmet.png)|-427072335|Knights armour helmet|Attire|
+|[knightsarmour.skirt](/knightsarmour.skirt.png)|-945708533|Knights armour skirt plates|Attire|
+|[knighttorso.armour](/knighttorso.armour.png)|547862680|Knights armour cuirass, pouldrons and vambrace.|Attire|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
 |[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
@@ -522,6 +525,8 @@
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
+|[medieval.door.double.hinged.metal](/medieval.door.double.hinged.metal.png)|-380502678|Medieval Sheet Metal Double Door|Construction|
+|[medieval.door.hinged.metal](/medieval.door.hinged.metal.png)|-1654401345|Medieval Sheet Metal Door|Construction|
 |[megaphone](/megaphone.png)|-583379016|Megaphone|Fun|
 |[metal.detector](/metal.detector.png)|1168856825|Metal Detector|Tool|
 |[metal.facemask.hockey](/metal.facemask.hockey.png)|-1334569149|Hockey Mask|Attire|
