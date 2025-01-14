@@ -401,6 +401,7 @@
 |![](/hat.rabbitmask.128.webp)|hat.rabbitmask|-986782031|Rabbit Mask|
 |![](/hat.ratmask.128.webp)|hat.ratmask|271048478|Rat Mask|
 |![](/hat.tigermask.128.webp)|hat.tigermask|709206314|Tiger Mask|
+|![](/hat.wellipets.128.webp)|hat.wellipets|-507248640|Wellipets Hat|
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|
