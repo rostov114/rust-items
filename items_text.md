@@ -388,6 +388,7 @@
 |[hat.rabbitmask](/hat.rabbitmask.png)|-986782031|Rabbit Mask|Attire|
 |[hat.ratmask](/hat.ratmask.png)|271048478|Rat Mask|Attire|
 |[hat.tigermask](/hat.tigermask.png)|709206314|Tiger Mask|Attire|
+|[hat.wellipets](/hat.wellipets.png)|-507248640|Wellipets Hat|Attire|
 |[hat.wolf](/hat.wolf.png)|-1478212975|Wolf Headdress|Attire|
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
 |[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Items|
