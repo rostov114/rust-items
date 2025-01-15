@@ -545,6 +545,7 @@
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|
 |![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|
+|![](/minicrossbow.128.webp)|minicrossbow|-482348853|Mini Crossbow|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|

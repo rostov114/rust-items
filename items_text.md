@@ -545,6 +545,7 @@
 |[microphonestand](/microphonestand.png)|39600618|Microphone Stand|Fun|
 |[military flamethrower](/military flamethrower.png)|703057617|Military Flame Thrower|Weapon|
 |[minecart.planter](/minecart.planter.png)|1361520181|Minecart Planter|Items|
+|[minicrossbow](/minicrossbow.png)|-482348853|Mini Crossbow|Weapon|
 |[minigun](/minigun.png)|935606207|Minigun|Weapon|
 |[minigunammopack](/minigunammopack.png)|355877490|Minigun Ammo Pack|Attire|
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
