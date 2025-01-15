@@ -132,6 +132,8 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
+|![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Stone Boulder|Ammunition|Heavy rock projectile for a Catapult. Delivers pure kinetic damage on impact.|
+|![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Bomb|Ammunition|Explosive projectile for a Catapult. A propane-filled keg, devastating to structures.|
 |![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|Ammunition|Incendiary projectile for a Catapult. A cluster of fuel-filled jugs wrapped in a net, spreading flames on impact.|
 |![](/catapult.128.webp)|catapult|1145722690|Catapult|Weapon|Catapult desc|
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|

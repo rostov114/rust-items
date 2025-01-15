@@ -132,6 +132,8 @@
 |[cassette](/cassette.png)|476066818|Cassette - Long|Fun|
 |[cassette.medium](/cassette.medium.png)|-912398867|Cassette - Medium|Fun|
 |[cassette.short](/cassette.short.png)|1523403414|Cassette - Short|Fun|
+|[catapult.ammo.boulder](/catapult.ammo.boulder.png)|1831249347|Stone Boulder|Ammunition|
+|[catapult.ammo.explosive](/catapult.ammo.explosive.png)|-1827561369|Propane Bomb|Ammunition|
 |[catapult.ammo.incendiary](/catapult.ammo.incendiary.png)|-484006286|Firebomb|Ammunition|
 |[catapult](/catapult.png)|1145722690|Catapult|Weapon|
 |[cctv.camera](/cctv.camera.png)|634478325|CCTV Camera|Resources|
