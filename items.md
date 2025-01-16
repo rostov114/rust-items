@@ -61,7 +61,7 @@
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
-|![](/barricade.medieval.128.webp)|barricade.medieval|-424687710|Medieval Barricade|Construction|A tough metal barricade with barbed wire, made from Metal Fragments. The barbed wire causes damage and will also slow player movement.|
+|![](/barricade.medieval.128.webp)|barricade.medieval|-424687710|Medieval Barricade|Construction|A medieval barricade. Designed to block paths and provide defensive cover as well as being an effective tool to fortify your base.|
 |![](/barricade.metal.128.webp)|barricade.metal|1655650836|Metal Barricade|Construction|A tough metal barricade with barbed wire, made from Metal Fragments. The barbed wire causes damage and will also slow player movement.|
 |![](/barricade.sandbags.128.webp)|barricade.sandbags|-559599960|Sandbag Barricade|Construction|A protective barricade made out of Sand Bags.|
 |![](/barricade.stone.128.webp)|barricade.stone|15388698|Stone Barricade|Construction|A protective barricade made out of Stones.|
