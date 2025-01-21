@@ -387,6 +387,7 @@
 |![](/hat.oxmask.128.webp)|hat.oxmask|1315082560|Ox Mask|
 |![](/hat.rabbitmask.128.webp)|hat.rabbitmask|-986782031|Rabbit Mask|
 |![](/hat.ratmask.128.webp)|hat.ratmask|271048478|Rat Mask|
+|![](/hat.snakemask.128.webp)|hat.snakemask|-1314079879|Snake mask|
 |![](/hat.tigermask.128.webp)|hat.tigermask|709206314|Tiger Mask|
 |![](/hat.wellipets.128.webp)|hat.wellipets|-507248640|Wellipets Hat|
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|
@@ -858,6 +859,9 @@
 |![](/wall.frame.fence.gate.128.webp)|wall.frame.fence.gate|1451568081|Chainlink Fence Gate|
 |![](/wall.frame.fence.128.webp)|wall.frame.fence|-1117626326|Chainlink Fence|
 |![](/wall.frame.garagedoor.128.webp)|wall.frame.garagedoor|-148794216|Garage Door|
+|![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Lunar Wall Frame Inlay|
+|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Swirling|
+|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Floral|
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|

@@ -387,6 +387,7 @@
 |[hat.oxmask](/hat.oxmask.png)|1315082560|Ox Mask|Attire|
 |[hat.rabbitmask](/hat.rabbitmask.png)|-986782031|Rabbit Mask|Attire|
 |[hat.ratmask](/hat.ratmask.png)|271048478|Rat Mask|Attire|
+|[hat.snakemask](/hat.snakemask.png)|-1314079879|Snake mask|Attire|
 |[hat.tigermask](/hat.tigermask.png)|709206314|Tiger Mask|Attire|
 |[hat.wellipets](/hat.wellipets.png)|-507248640|Wellipets Hat|Attire|
 |[hat.wolf](/hat.wolf.png)|-1478212975|Wolf Headdress|Attire|
@@ -858,6 +859,9 @@
 |[wall.frame.fence.gate](/wall.frame.fence.gate.png)|1451568081|Chainlink Fence Gate|Construction|
 |[wall.frame.fence](/wall.frame.fence.png)|-1117626326|Chainlink Fence|Construction|
 |[wall.frame.garagedoor](/wall.frame.garagedoor.png)|-148794216|Garage Door|Construction|
+|[wall.frame.lunar2025_a](/wall.frame.lunar2025_a.png)|1115193056|Lunar Wall Frame Inlay|Construction|
+|[wall.frame.lunar2025_b](/wall.frame.lunar2025_b.png)|-450890885|Lunar Wall Frame Swirling|Construction|
+|[wall.frame.lunar2025_c](/wall.frame.lunar2025_c.png)|-2016974826|Lunar Wall Frame Floral|Construction|
 |[wall.frame.netting](/wall.frame.netting.png)|1516985844|Netting|Construction|
 |[wall.frame.shopfront](/wall.frame.shopfront.png)|-796583652|Shop Front|Construction|
 |[wall.frame.shopfront.metal](/wall.frame.shopfront.metal.png)|-148229307|Metal Shop Front|Construction|
