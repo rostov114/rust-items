@@ -3,8 +3,6 @@
 |:-:|:-:|:-:|:-:|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|MLRS Aiming Module|Component|
-|[ammo.boulder](/ammo.boulder.png)|-217207585|Stone Boulder|Ammunition|
-|[ammo.catapult.explosive](/ammo.catapult.explosive.png)|-1764973137|Propane Bomb|Ammunition|
 |[ammo.grenadelauncher.buckshot](/ammo.grenadelauncher.buckshot.png)|1055319033|40mm Shotgun Round|Ammunition|
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
