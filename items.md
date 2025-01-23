@@ -387,6 +387,7 @@
 |![](/hat.oxmask.128.webp)|hat.oxmask|1315082560|Ox Mask|Attire|An Ox mask to celebrate the 2021 Lunar New Year.|
 |![](/hat.rabbitmask.128.webp)|hat.rabbitmask|-986782031|Rabbit Mask|Attire|A Beautifully crafted Rabbit mask to celebrate the 2023 Lunar New Year|
 |![](/hat.ratmask.128.webp)|hat.ratmask|271048478|Rat Mask|Attire|A Beautifully crafted bronze and gold Rat mask to celebrate the 2020 Lunar New Year|
+|![](/hat.snakemask.128.webp)|hat.snakemask|-1314079879|Snake mask|Attire|A Beautifully crafted Snake mask to celebrate the 2025 Lunar New Year|
 |![](/hat.tigermask.128.webp)|hat.tigermask|709206314|Tiger Mask|Attire|A special tiger mask to celebrate Chinese New Year|
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
@@ -857,6 +858,9 @@
 |![](/wall.frame.fence.gate.128.webp)|wall.frame.fence.gate|1451568081|Chainlink Fence Gate|Construction|A Chainlink Fence Gate.|
 |![](/wall.frame.fence.128.webp)|wall.frame.fence|-1117626326|Chainlink Fence|Construction|A Chainlink Fence.|
 |![](/wall.frame.garagedoor.128.webp)|wall.frame.garagedoor|-148794216|Garage Door|Construction|A garage door that rolls up and down.|
+|![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Lunar Wall Frame Inlay|Construction|A Lunar New Year themed decorative wall divider with geometric inlay|
+|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Swirling|Construction|A Lunar New Year themed decorative wall divider with swirling inlay|
+|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Floral|Construction|A Lunar New Year themed decorative wall divider with floral inlay|
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|Construction|Netting you can climb.|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|Construction|A shop front to do commerce.|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
