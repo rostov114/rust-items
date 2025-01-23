@@ -479,7 +479,7 @@
 |![](/keycard_red.128.webp)|keycard_red|-1880870149|Red Keycard|Misc|A keycard with advanced clearance, grants access to top level areas|
 |![](/knife.bone.128.webp)|knife.bone|1814288539|Bone Knife|Weapon|Melee weapon crafted from bone fragments. Good for harvesting carcases.|
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|Weapon|A sharp butcher knife. Extremely good at harvesting flesh from both dead or alive bodies.|
-|![](/knife.combat.128.webp)|knife.combat|2040726127|Combat Knife|Weapon|Combat knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh. |
+|![](/knife.combat.128.webp)|knife.combat|2040726127|Combat Knife|Weapon|Combat knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
 |![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|Weapon|A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.|
 |![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|Attire|A medieval knights helmet. made from scrap metal. excellent craftmanship|
 |![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|Attire|A well made set of knights plate that covers the hips and thighs. Made of scrap metal.|
@@ -583,7 +583,7 @@
 |![](/photoframe.landscape.128.webp)|photoframe.landscape|1697996440|Landscape Photo Frame|Items|A landscape oriented canvas for artists paintings.|
 |![](/photoframe.large.128.webp)|photoframe.large|1205084994|Large Photo Frame|Items|A large frame for your photos.|
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
-|![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes. |
+|![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
