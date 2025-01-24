@@ -453,7 +453,7 @@
 |![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|Items|A large trophy stand to mount the head of killed animals or enemies.|
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
-|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|Will be equipped when a compatible weapon is equipped|
+|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area.  Usable with single handed weapons and tools.|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
@@ -481,9 +481,9 @@
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|Weapon|A sharp butcher knife. Extremely good at harvesting flesh from both dead or alive bodies.|
 |![](/knife.combat.128.webp)|knife.combat|2040726127|Combat Knife|Weapon|Combat knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
 |![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|Weapon|A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.|
-|![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|Attire|A medieval knights helmet. made from scrap metal. excellent craftmanship|
+|![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|Attire|A medieval knights helmet. Made from scrap metal. Excellent craftmanship.|
 |![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|Attire|A well made set of knights plate that covers the hips and thighs. Made of scrap metal.|
-|![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass|Attire|A well made collection of scrap metal formed into a knights armour|
+|![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass|Attire|A well made collection of scrap metal formed into a knights armour.|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|
@@ -539,7 +539,7 @@
 |![](/metal.plate.torso.icevest.128.webp)|metal.plate.torso.icevest|-1478855279|Ice Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.plate.torso.128.webp)|metal.plate.torso|1110385766|Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.refined.128.webp)|metal.refined|317398316|High Quality Metal|Resources|High quality metal suitable for armor and weapons construction.|
-|![](/metal.shield.128.webp)|metal.shield|625599716|Metal Shield|Attire|Will be equipped when a compatible weapon is equipped|
+|![](/metal.shield.128.webp)|metal.shield|625599716|Metal Shield|Attire|A large sturdy metal shield, keeps arrows and bullets at bay.  Usable with single handed weapons and tools.|
 |![](/metalblade.128.webp)|metalblade|1882709339|Metal Blade|Component|A Metal Blade for making melee weapons.|
 |![](/metalpipe.128.webp)|metalpipe|95950017|Metal Pipe|Component|Metal Pipe.|
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
@@ -622,7 +622,7 @@
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
-|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|Will be equipped when a compatible weapon is equipped|
+|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long.  Usable with single handed weapons and tools.|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|A High Caliber six-shooter.|
@@ -935,7 +935,7 @@
 |![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
 |![](/wood.128.webp)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
-|![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|Will be equipped when a compatible weapon is equipped|
+|![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|A basic wooden shield, won't last very long. Usable with single handed weapons and tools.|
 |![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|Items|A large wooden frame|
 |![](/woodframe.medium.128.webp)|woodframe.medium|-1541706279|Wood Frame Medium|Items|A medium wooden frame|
 |![](/woodframe.small.128.webp)|woodframe.small|-1476278729|Wood Frame Small|Items|A small wooden frame|
