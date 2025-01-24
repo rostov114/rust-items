@@ -56,6 +56,8 @@
 |![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|
 |![](/ballista.128.webp)|ballista|-438281480|Ballista|
+|![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|
+|![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|

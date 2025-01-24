@@ -56,6 +56,8 @@
 |[ballista.bolt.piercer](/ballista.bolt.piercer.png)|-1127003365|Piercer Bolt|Ammunition|
 |[ballista.bolt.pitchfork](/ballista.bolt.pitchfork.png)|-357442017|Pitchfork Bolt|Ammunition|
 |[ballista](/ballista.png)|-438281480|Ballista|Weapon|
+|[ballista.mounted](/ballista.mounted.png)|-759279626|Mounted Ballista|Weapon|
+|[ballista.static](/ballista.static.png)|1714509152|Ballista|Weapon|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
