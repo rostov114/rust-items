@@ -51,13 +51,13 @@
 |![](/attire.snowman.helmet.128.webp)|attire.snowman.helmet|-842267147|Snowman Helmet|Attire|A snowman helmet which provides ample protection.|
 |![](/autoturret.128.webp)|autoturret|-2139580305|Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
-|![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|Ammunition|Heavy and solid bolt designed to hammer through building.|
-|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|Ammunition|Wrapped in burning cloth, ignites targets upon impact.|
-|![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|Ammunition|A piercing bolt capable of penetrating armored vehicles.|
-|![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt designed to cause maximum disruption to groups.|
+|![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|Ammunition|Heavy and solid bolt for a ballista, designed to hammer through building.|
+|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|Ammunition|A fire-tipped bolt for a ballista, wrapped in burning cloth, ignites targets upon impact.|
+|![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|Ammunition|A piercing bolt for a ballista, capable of penetrating armored vehicles.|
+|![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt for a ballista, designed to cause maximum disruption to groups.|
 |![](/ballista.128.webp)|ballista|-438281480|Ballista|Weapon|A Ballista|
-|![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|Weapon|A Ballista|
-|![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|Weapon|A Ballista|
+|![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|Weapon|A ballista mounted on wheels, designed for mobility and capable of firing bolts at distant targets. Can be towed by horses.|
+|![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|Weapon|A stationary ballista, perfect for defence. Can fire deadly bolts at distant targets.|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
@@ -70,7 +70,7 @@
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|Items|A small planter with enough room to plant 3 seeds.|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|Weapon||
-|![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|Weapon|A Battering Ram|
+|![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|Weapon|A reinforced siege weapon built for smashing through wooden and stone constructions with brute force. Must be repaired with high quality metal to keep functioning.|
 |![](/battery.small.128.webp)|battery.small|609049394|Battery - Small|Resources|A Battery.|
 |![](/bbq.128.webp)|bbq|1099314009|Barbeque|Items|A makeshift Barbeque. You can cook significant amounts of food with this.|
 |![](/beachchair.128.webp)|beachchair|-321431890|Beach Chair|Fun|The Beach Chair is the best way to relax, whether it's by the pool or on the beach.|
@@ -132,10 +132,10 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
-|![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Stone Boulder|Ammunition|Heavy rock projectile for a Catapult. Delivers pure kinetic damage on impact.|
-|![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|Ammunition|Explosive projectile for a Catapult. A propane-filled keg, devastating to structures.|
-|![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|Ammunition|Incendiary projectile for a Catapult. A cluster of fuel-filled jugs wrapped in a net, spreading flames on impact.|
-|![](/catapult.128.webp)|catapult|1145722690|Catapult|Weapon|Catapult desc|
+|![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Stone Boulder|Ammunition|Heavy rock projectile for a catapult. Delivers pure kinetic damage on impact.|
+|![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|Ammunition|Explosive projectile for a catapult. A propane-filled keg, devastating to structures.|
+|![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|Ammunition|Incendiary projectile for a catapult. A cluster of fuel-filled jugs wrapped in a net, spreading flames on impact.|
+|![](/catapult.128.webp)|catapult|1145722690|Catapult|Weapon|An improvised catapult siege weapon. Built for flinging destructive projectiles with questionable accuracy. Can be towed by horses.|
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
@@ -715,7 +715,7 @@
 |![](/shutter.metal.embrasure.b.128.webp)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|Construction|Static shutter that forms a metal vertical embrasure over your window frame.|
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
-|![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|Weapon|Better than a ladder|
+|![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|Weapon|A rolling siege tower, providing cover and access to enemy bases. Can be locked with your own door. Can be towed by horses.|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
