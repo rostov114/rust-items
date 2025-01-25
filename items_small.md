@@ -634,6 +634,7 @@
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|
+|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval AR|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|
