@@ -132,7 +132,7 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|
-|![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Stone Boulder|
+|![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Scattershot|
 |![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|
 |![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|
 |![](/catapult.128.webp)|catapult|1145722690|Catapult|
