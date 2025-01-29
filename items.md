@@ -51,10 +51,10 @@
 |![](/attire.snowman.helmet.128.webp)|attire.snowman.helmet|-842267147|Snowman Helmet|Attire|A snowman helmet which provides ample protection.|
 |![](/autoturret.128.webp)|autoturret|-2139580305|Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
-|![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|Ammunition|Heavy and solid bolt for a ballista, designed to hammer through building.|
-|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|Ammunition|A fire-tipped bolt for a ballista, wrapped in burning cloth, ignites targets upon impact.|
+|![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|Ammunition|Heavy and solid bolt for a ballista, designed to hammer through doors.|
+|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|Ammunition|A fire-tipped bolt for a ballista, wrapped in burning cloth, ignites upon impact.|
 |![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|Ammunition|A piercing bolt for a ballista, capable of penetrating armored vehicles.|
-|![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt for a ballista, designed to cause maximum disruption to groups.|
+|![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt for a ballista, covering a large area while dealing moderate damage.|
 |![](/ballista.128.webp)|ballista|-438281480|Ballista|Weapon|A Ballista|
 |![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|Weapon|A ballista mounted on wheels, designed for mobility and capable of firing bolts at distant targets. Can be towed by horses.|
 |![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|Weapon|A stationary ballista, perfect for defence. Can fire deadly bolts at distant targets.|
