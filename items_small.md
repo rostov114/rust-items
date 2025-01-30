@@ -51,9 +51,16 @@
 |![](/attire.snowman.helmet.128.webp)|attire.snowman.helmet|-842267147|Snowman Helmet|
 |![](/autoturret.128.webp)|autoturret|-2139580305|Auto Turret|
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|
+|![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|
+|![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|
+|![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|
+|![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|
+|![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|
+|![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|
+|![](/barricade.medieval.128.webp)|barricade.medieval|-424687710|Medieval Barricade|
 |![](/barricade.metal.128.webp)|barricade.metal|1655650836|Metal Barricade|
 |![](/barricade.sandbags.128.webp)|barricade.sandbags|-559599960|Sandbag Barricade|
 |![](/barricade.stone.128.webp)|barricade.stone|15388698|Stone Barricade|
@@ -61,6 +68,8 @@
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|
+|![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|
+|![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|
 |![](/battery.small.128.webp)|battery.small|609049394|Battery - Small|
 |![](/bbq.128.webp)|bbq|1099314009|Barbeque|
 |![](/beachchair.128.webp)|beachchair|-321431890|Beach Chair|
@@ -122,6 +131,10 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|
+|![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Scattershot|
+|![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|
+|![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|
+|![](/catapult.128.webp)|catapult|1145722690|Catapult|
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|
@@ -169,6 +182,7 @@
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|
 |![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|
+|![](/dart.bone.128.webp)|dart.bone|-361911645|Bone Dart|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|
@@ -440,6 +454,7 @@
 |![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|
+|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|
@@ -467,6 +482,9 @@
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|
 |![](/knife.combat.128.webp)|knife.combat|2040726127|Combat Knife|
 |![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|
+|![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|
+|![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|
+|![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|
@@ -510,6 +528,9 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
+|![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|
+|![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|
+|![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|
 |![](/megaphone.128.webp)|megaphone|-583379016|Megaphone|
 |![](/metal.detector.128.webp)|metal.detector|1168856825|Metal Detector|
 |![](/metal.facemask.hockey.128.webp)|metal.facemask.hockey|-1334569149|Hockey Mask|
@@ -520,12 +541,14 @@
 |![](/metal.plate.torso.icevest.128.webp)|metal.plate.torso.icevest|-1478855279|Ice Metal Chest Plate|
 |![](/metal.plate.torso.128.webp)|metal.plate.torso|1110385766|Metal Chest Plate|
 |![](/metal.refined.128.webp)|metal.refined|317398316|High Quality Metal|
+|![](/metal.shield.128.webp)|metal.shield|625599716|Metal Shield|
 |![](/metalblade.128.webp)|metalblade|1882709339|Metal Blade|
 |![](/metalpipe.128.webp)|metalpipe|95950017|Metal Pipe|
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|
 |![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|
+|![](/minicrossbow.128.webp)|minicrossbow|-482348853|Mini Crossbow|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|
@@ -601,6 +624,7 @@
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|
+|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|
@@ -610,6 +634,7 @@
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Assault Rifle - ICE|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|
+|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval AR|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|
@@ -690,6 +715,7 @@
 |![](/shutter.metal.embrasure.b.128.webp)|shutter.metal.embrasure.b|-1199897172|Metal Vertical embrasure|
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|
+|![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|
@@ -912,6 +938,7 @@
 |![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|
 |![](/wood.128.webp)|wood|-151838493|Wood|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|
+|![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|
 |![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|
 |![](/woodframe.medium.128.webp)|woodframe.medium|-1541706279|Wood Frame Medium|
 |![](/woodframe.small.128.webp)|woodframe.small|-1476278729|Wood Frame Small|
