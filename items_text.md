@@ -529,6 +529,7 @@
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
+|[medieval.box.wooden.large](/medieval.box.wooden.large.png)|814297925|Medieval Large Wood Box|Items|
 |[medieval.door.double.hinged.metal](/medieval.door.double.hinged.metal.png)|-380502678|Medieval Sheet Metal Double Door|Construction|
 |[medieval.door.hinged.metal](/medieval.door.hinged.metal.png)|-1654401345|Medieval Sheet Metal Door|Construction|
 |[megaphone](/megaphone.png)|-583379016|Megaphone|Fun|

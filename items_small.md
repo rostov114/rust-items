@@ -529,6 +529,7 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
+|![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|
 |![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|
 |![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|
 |![](/megaphone.128.webp)|megaphone|-583379016|Megaphone|
