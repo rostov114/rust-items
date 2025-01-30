@@ -633,9 +633,9 @@
 |[rf_pager](/rf_pager.png)|-566907190|RF Pager|Electrical|
 |[rhib](/rhib.png)|1394042569|RHIB|Items|
 |[rifle.ak.diver](/rifle.ak.diver.png)|-139037392|Abyss Assault Rifle|Weapon|
-|[rifle.ak.ice](/rifle.ak.ice.png)|-1335497659|Assault Rifle - ICE|Weapon|
+|[rifle.ak.ice](/rifle.ak.ice.png)|-1335497659|Ice Assault Rifle|Weapon|
 |[rifle.ak](/rifle.ak.png)|1545779598|Assault Rifle|Weapon|
-|[rifle.ak.med](/rifle.ak.med.png)|472505338|Medieval AR|Weapon|
+|[rifle.ak.med](/rifle.ak.med.png)|472505338|Medieval Assault Rifle|Weapon|
 |[rifle.bolt](/rifle.bolt.png)|1588298435|Bolt Action Rifle|Weapon|
 |[rifle.l96](/rifle.l96.png)|-778367295|L96 Rifle|Weapon|
 |[rifle.lr300](/rifle.lr300.png)|-1812555177|LR-300 Assault Rifle|Weapon|
