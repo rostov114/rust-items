@@ -529,7 +529,7 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
-|![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
+|![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|Items|Keep your things in this medieval themed wooden storage box. Stores up to 48 items.|
 |![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/megaphone.128.webp)|megaphone|-583379016|Megaphone|Fun|A megaphone that lets you broadcast your voice. [attack] to activate your voice.|
