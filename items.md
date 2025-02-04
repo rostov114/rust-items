@@ -213,7 +213,7 @@
 |![](/draculacape.128.webp)|draculacape|-258574361|Dracula Cape|Attire|A robustly thick outer garment providing ample protection to the wearer.|
 |![](/draculamask.128.webp)|draculamask|1865253052|Dracula Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/dragondoorknocker.128.webp)|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
-|![](/drone.128.webp)|drone|1588492232|Drone|Items|A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts.|
+|![](/drone.128.webp)|drone|1588492232|Drone|Items|A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts. |
 |![](/dropbox.128.webp)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
 |![](/drumkit.128.webp)|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
 |![](/ducttape.128.webp)|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
@@ -455,7 +455,7 @@
 |![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|Items|A large trophy stand to mount the head of killed animals or enemies.|
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
-|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area.  Usable with single handed weapons and tools.|
+|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area.  Usable with single handed weapons and tools. |
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
@@ -586,7 +586,7 @@
 |![](/photoframe.landscape.128.webp)|photoframe.landscape|1697996440|Landscape Photo Frame|Items|A landscape oriented canvas for artists paintings.|
 |![](/photoframe.large.128.webp)|photoframe.large|1205084994|Large Photo Frame|Items|A large frame for your photos.|
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
-|![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
+|![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes. |
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
@@ -618,14 +618,14 @@
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.pure.128.webp)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|Food|A tea that removes some radiation.|
-|![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
+|![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea |Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/radiationresisttea.pure.128.webp)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
 |![](/rail.road.planter.128.webp)|rail.road.planter|615112838|Rail Road Planter|Items|A large planter with enough room to plant 9 seeds.|
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
-|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long.  Usable with single handed weapons and tools.|
+|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long.  Usable with single handed weapons and tools. |
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|A High Caliber six-shooter.|
@@ -939,7 +939,7 @@
 |![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
 |![](/wood.128.webp)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
-|![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|A basic wooden shield, won't last very long. Usable with single handed weapons and tools.|
+|![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|A basic wooden shield, won't last very long. Usable with single handed weapons and tools. |
 |![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|Items|A large wooden frame|
 |![](/woodframe.medium.128.webp)|woodframe.medium|-1541706279|Wood Frame Medium|Items|A medium wooden frame|
 |![](/woodframe.small.128.webp)|woodframe.small|-1476278729|Wood Frame Small|Items|A small wooden frame|
