@@ -618,7 +618,7 @@
 |[radiationremovetea.advanced](/radiationremovetea.advanced.png)|2021351233|Advanced Rad. Removal Tea|Food|
 |[radiationremovetea](/radiationremovetea.png)|-496584751|Rad. Removal Tea|Food|
 |[radiationremovetea.pure](/radiationremovetea.pure.png)|1905387657|Pure Rad. Removal Tea|Food|
-|[radiationresisttea.advanced](/radiationresisttea.advanced.png)|-1729415579|Adv. Anti-Rad Tea |Food|
+|[radiationresisttea.advanced](/radiationresisttea.advanced.png)|-1729415579|Adv. Anti-Rad Tea|Food|
 |[radiationresisttea](/radiationresisttea.png)|-487356515|Anti-Rad Tea|Food|
 |[radiationresisttea.pure](/radiationresisttea.pure.png)|-33009419|Pure Anti-Rad Tea|Food|
 |[rail.road.planter](/rail.road.planter.png)|615112838|Rail Road Planter|Items|
