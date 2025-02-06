@@ -51,9 +51,16 @@
 |[attire.snowman.helmet](/attire.snowman.helmet.png)|-842267147|Snowman Helmet|Attire|
 |[autoturret](/autoturret.png)|-2139580305|Auto Turret|Electrical|
 |[axe.salvaged](/axe.salvaged.png)|-262590403|Salvaged Axe|Tool|
+|[ballista.bolt.hammerhead](/ballista.bolt.hammerhead.png)|-19318653|Hammerhead Bolt|Ammunition|
+|[ballista.bolt.incendiary](/ballista.bolt.incendiary.png)|-1987565603|Incendiary Bolt|Ammunition|
+|[ballista.bolt.piercer](/ballista.bolt.piercer.png)|-1127003365|Piercer Bolt|Ammunition|
+|[ballista.bolt.pitchfork](/ballista.bolt.pitchfork.png)|-357442017|Pitchfork Bolt|Ammunition|
+|[ballista.mounted](/ballista.mounted.png)|-759279626|Mounted Ballista|Weapon|
+|[ballista.static](/ballista.static.png)|1714509152|Ballista|Weapon|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
+|[barricade.medieval](/barricade.medieval.png)|-424687710|Medieval Barricade|Construction|
 |[barricade.metal](/barricade.metal.png)|1655650836|Metal Barricade|Construction|
 |[barricade.sandbags](/barricade.sandbags.png)|-559599960|Sandbag Barricade|Construction|
 |[barricade.stone](/barricade.stone.png)|15388698|Stone Barricade|Construction|
@@ -61,6 +68,8 @@
 |[barricade.wood](/barricade.wood.png)|866889860|Wooden Barricade|Construction|
 |[barricade.woodwire](/barricade.woodwire.png)|1382263453|Barbed Wooden Barricade|Construction|
 |[bathtub.planter](/bathtub.planter.png)|-1274093662|Bath Tub Planter|Items|
+|[batteringram.head.repair](/batteringram.head.repair.png)|-479314201|Battering Ram Head|Weapon|
+|[batteringram](/batteringram.png)|-187304968|Battering Ram|Weapon|
 |[battery.small](/battery.small.png)|609049394|Battery - Small|Resources|
 |[bbq](/bbq.png)|1099314009|Barbeque|Items|
 |[beachchair](/beachchair.png)|-321431890|Beach Chair|Fun|
@@ -122,6 +131,10 @@
 |[cassette](/cassette.png)|476066818|Cassette - Long|Fun|
 |[cassette.medium](/cassette.medium.png)|-912398867|Cassette - Medium|Fun|
 |[cassette.short](/cassette.short.png)|1523403414|Cassette - Short|Fun|
+|[catapult.ammo.boulder](/catapult.ammo.boulder.png)|1831249347|Scattershot|Ammunition|
+|[catapult.ammo.explosive](/catapult.ammo.explosive.png)|-1827561369|Propane Explosive Bomb|Ammunition|
+|[catapult.ammo.incendiary](/catapult.ammo.incendiary.png)|-484006286|Firebomb|Ammunition|
+|[catapult](/catapult.png)|1145722690|Catapult|Weapon|
 |[cctv.camera](/cctv.camera.png)|634478325|CCTV Camera|Resources|
 |[ceilinglight](/ceilinglight.png)|1142993169|Ceiling Light|Electrical|
 |[chainsaw](/chainsaw.png)|1104520648|Chainsaw|Tool|
@@ -169,6 +182,7 @@
 |[cupboard.tool.retro](/cupboard.tool.retro.png)|1488606552|Retro Tool Cupboard|Construction|
 |[cupboard.tool.shockbyte](/cupboard.tool.shockbyte.png)|1174957864|Shockbyte Tool Cupboard|Construction|
 |[cursedcauldron](/cursedcauldron.png)|1242522330|Cursed Cauldron|Misc|
+|[dart.bone](/dart.bone.png)|-361911645|Bone Dart|Ammunition|
 |[deer.skull.mask](/deer.skull.mask.png)|-1903165497|Bone Helmet|Attire|
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
 |[deermeat.cooked](/deermeat.cooked.png)|-1509851560|Cooked Deer Meat|Food|
@@ -389,6 +403,7 @@
 |[hat.ratmask](/hat.ratmask.png)|271048478|Rat Mask|Attire|
 |[hat.snakemask](/hat.snakemask.png)|-1314079879|Snake mask|Attire|
 |[hat.tigermask](/hat.tigermask.png)|709206314|Tiger Mask|Attire|
+|[hat.wellipets](/hat.wellipets.png)|-507248640|Wellipets Hat|Attire|
 |[hat.wolf](/hat.wolf.png)|-1478212975|Wolf Headdress|Attire|
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
 |[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Items|
@@ -439,6 +454,7 @@
 |[huntingtrophylarge](/huntingtrophylarge.png)|960673498|Large Hunting Trophy|Items|
 |[huntingtrophysmall](/huntingtrophysmall.png)|-869598982|Small Hunting Trophy|Items|
 |[icepick.salvaged](/icepick.salvaged.png)|-1780802565|Salvaged Icepick|Tool|
+|[improvised.shield](/improvised.shield.png)|196784377|Improvised Shield|Attire|
 |[industrial.combiner](/industrial.combiner.png)|1538126328|Industrial Combiner|Electrical|
 |[industrial.conveyor](/industrial.conveyor.png)|610102428|Industrial Conveyor|Electrical|
 |[industrial.crafter](/industrial.crafter.png)|1430085198|Industrial Crafter|Electrical|
@@ -466,6 +482,9 @@
 |[knife.butcher](/knife.butcher.png)|-194509282|Butcher Knife|Weapon|
 |[knife.combat](/knife.combat.png)|2040726127|Combat Knife|Weapon|
 |[knife.skinning](/knife.skinning.png)|-2073432256|Skinning Knife|Weapon|
+|[knightsarmour.helmet](/knightsarmour.helmet.png)|-427072335|Knights armour helmet|Attire|
+|[knightsarmour.skirt](/knightsarmour.skirt.png)|-945708533|Knights armour skirt plates|Attire|
+|[knighttorso.armour](/knighttorso.armour.png)|547862680|Knights armour cuirass|Attire|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
 |[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
@@ -509,6 +528,9 @@
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
+|[medieval.box.wooden.large](/medieval.box.wooden.large.png)|814297925|Medieval Large Wood Box|Items|
+|[medieval.door.double.hinged.metal](/medieval.door.double.hinged.metal.png)|-380502678|Medieval Sheet Metal Double Door|Construction|
+|[medieval.door.hinged.metal](/medieval.door.hinged.metal.png)|-1654401345|Medieval Sheet Metal Door|Construction|
 |[megaphone](/megaphone.png)|-583379016|Megaphone|Fun|
 |[metal.detector](/metal.detector.png)|1168856825|Metal Detector|Tool|
 |[metal.facemask.hockey](/metal.facemask.hockey.png)|-1334569149|Hockey Mask|Attire|
@@ -519,12 +541,14 @@
 |[metal.plate.torso.icevest](/metal.plate.torso.icevest.png)|-1478855279|Ice Metal Chest Plate|Attire|
 |[metal.plate.torso](/metal.plate.torso.png)|1110385766|Metal Chest Plate|Attire|
 |[metal.refined](/metal.refined.png)|317398316|High Quality Metal|Resources|
+|[metal.shield](/metal.shield.png)|625599716|Metal Shield|Attire|
 |[metalblade](/metalblade.png)|1882709339|Metal Blade|Component|
 |[metalpipe](/metalpipe.png)|95950017|Metal Pipe|Component|
 |[metalspring](/metalspring.png)|-1021495308|Metal Spring|Component|
 |[microphonestand](/microphonestand.png)|39600618|Microphone Stand|Fun|
 |[military flamethrower](/military flamethrower.png)|703057617|Military Flame Thrower|Weapon|
 |[minecart.planter](/minecart.planter.png)|1361520181|Minecart Planter|Items|
+|[minicrossbow](/minicrossbow.png)|-482348853|Mini Crossbow|Weapon|
 |[minigun](/minigun.png)|935606207|Minigun|Weapon|
 |[minigunammopack](/minigunammopack.png)|355877490|Minigun Ammo Pack|Attire|
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
@@ -600,6 +624,7 @@
 |[red.berry](/red.berry.png)|1272194103|Red Berry|Food|
 |[reddogtags](/reddogtags.png)|-602717596|Red Dog Tags|Resources|
 |[redidtag](/redidtag.png)|70102328|Red ID Tag|Resources|
+|[reinforced.wooden.shield](/reinforced.wooden.shield.png)|969768382|Reinforced Wooden Shield|Attire|
 |[research.table](/research.table.png)|-1861522751|Research Table|Items|
 |[researchpaper](/researchpaper.png)|-544317637|Research Paper|Resources|
 |[revolver.hc](/revolver.hc.png)|-92315244|High Caliber Revolver|Weapon|
@@ -607,8 +632,9 @@
 |[rf_pager](/rf_pager.png)|-566907190|RF Pager|Electrical|
 |[rhib](/rhib.png)|1394042569|RHIB|Items|
 |[rifle.ak.diver](/rifle.ak.diver.png)|-139037392|Abyss Assault Rifle|Weapon|
-|[rifle.ak.ice](/rifle.ak.ice.png)|-1335497659|Assault Rifle - ICE|Weapon|
+|[rifle.ak.ice](/rifle.ak.ice.png)|-1335497659|Ice Assault Rifle|Weapon|
 |[rifle.ak](/rifle.ak.png)|1545779598|Assault Rifle|Weapon|
+|[rifle.ak.med](/rifle.ak.med.png)|472505338|Medieval Assault Rifle|Weapon|
 |[rifle.bolt](/rifle.bolt.png)|1588298435|Bolt Action Rifle|Weapon|
 |[rifle.l96](/rifle.l96.png)|-778367295|L96 Rifle|Weapon|
 |[rifle.lr300](/rifle.lr300.png)|-1812555177|LR-300 Assault Rifle|Weapon|
@@ -689,6 +715,7 @@
 |[shutter.metal.embrasure.b](/shutter.metal.embrasure.b.png)|-1199897172|Metal Vertical embrasure|Construction|
 |[shutter.wood.a](/shutter.wood.a.png)|-1023374709|Wood Shutters|Construction|
 |[sickle](/sickle.png)|-1368584029|Sickle|Misc|
+|[siegetower](/siegetower.png)|-1290278434|Siege Tower|Weapon|
 |[sign.hanging.banner.large](/sign.hanging.banner.large.png)|23352662|Large Banner Hanging|Items|
 |[sign.hanging](/sign.hanging.png)|1205607945|Two Sided Hanging Sign|Items|
 |[sign.hanging.ornate](/sign.hanging.ornate.png)|-1647846966|Two Sided Ornate Hanging Sign|Items|
@@ -911,6 +938,7 @@
 |[wood.armor.pants](/wood.armor.pants.png)|832133926|Wood Armor Pants|Attire|
 |[wood](/wood.png)|-151838493|Wood|Resources|
 |[woodcross](/woodcross.png)|699075597|Wooden Cross|Misc|
+|[wooden.shield](/wooden.shield.png)|1604837581|Wooden Shield|Attire|
 |[woodframe.large](/woodframe.large.png)|-635951327|Wood Frame Large|Items|
 |[woodframe.medium](/woodframe.medium.png)|-1541706279|Wood Frame Medium|Items|
 |[woodframe.small](/woodframe.small.png)|-1476278729|Wood Frame Small|Items|
