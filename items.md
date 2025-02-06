@@ -132,8 +132,8 @@
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
 |![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Scattershot|Ammunition|A cluster of heavy rock projectiles for a catapult. Wide spread, pure kinetic damage on impact.|
-|![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|Ammunition|Explosive projectile for a catapult. A propane-filled keg, devastating to structures.|
-|![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|Ammunition|Incendiary projectile for a catapult. A cluster of fuel-filled jugs wrapped in a net, spreading flames on impact.|
+|![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|Ammunition|An explosive propane-filled keg, devastating to structures. Can be placed or used as a projectile in a catapult.|
+|![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|Ammunition|A crude firebomb made of fuel-filled jugs wrapped in a net. Can be placed or used as a projectile in a catapult.|
 |![](/catapult.128.webp)|catapult|1145722690|Catapult|Weapon|An improvised catapult siege weapon. Built for flinging destructive projectiles with questionable accuracy. Can be towed by horses.|
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
@@ -454,7 +454,7 @@
 |![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|Items|A large trophy stand to mount the head of killed animals or enemies.|
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
-|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area.  Usable with single handed weapons and tools.|
+|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area. Usable with single handed weapons and tools.|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
@@ -541,7 +541,7 @@
 |![](/metal.plate.torso.icevest.128.webp)|metal.plate.torso.icevest|-1478855279|Ice Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.plate.torso.128.webp)|metal.plate.torso|1110385766|Metal Chest Plate|Attire|A metal plate covering your torso, provides excellent protection from all forms of attacks.|
 |![](/metal.refined.128.webp)|metal.refined|317398316|High Quality Metal|Resources|High quality metal suitable for armor and weapons construction.|
-|![](/metal.shield.128.webp)|metal.shield|625599716|Metal Shield|Attire|A large sturdy metal shield, keeps arrows and bullets at bay.  Usable with single handed weapons and tools.|
+|![](/metal.shield.128.webp)|metal.shield|625599716|Metal Shield|Attire|A large sturdy metal shield, keeps arrows and bullets at bay. Usable with single handed weapons and tools.|
 |![](/metalblade.128.webp)|metalblade|1882709339|Metal Blade|Component|A Metal Blade for making melee weapons.|
 |![](/metalpipe.128.webp)|metalpipe|95950017|Metal Pipe|Component|Metal Pipe.|
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
@@ -624,7 +624,7 @@
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
-|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long.  Usable with single handed weapons and tools.|
+|![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long. Usable with single handed weapons and tools.|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|A High Caliber six-shooter.|
