@@ -434,6 +434,7 @@
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|
+|![](/hopper.128.webp)|hopper|1428574144|Hopper|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|
 |![](/horse.saddle.double.128.webp)|horse.saddle.double|-1323101799|Double Horse Saddle|

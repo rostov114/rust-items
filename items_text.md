@@ -434,6 +434,7 @@
 |[hobobarrel](/hobobarrel.png)|-1442559428|Hobo Barrel|Items|
 |[homingmissile.launcher](/homingmissile.launcher.png)|-218009552|Homing Missile Launcher|Weapon|
 |[hoodie](/hoodie.png)|1751045826|Hoodie|Attire|
+|[hopper](/hopper.png)|1428574144|Hopper|Electrical|
 |[horse.armor.roadsign](/horse.armor.roadsign.png)|60528587|Roadsign Horse Armor|Attire|
 |[horse.armor.wood](/horse.armor.wood.png)|1659447559|Wooden Horse Armor|Attire|
 |[horse.saddle.double](/horse.saddle.double.png)|-1323101799|Double Horse Saddle|Attire|
