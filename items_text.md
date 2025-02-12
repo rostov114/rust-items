@@ -606,6 +606,7 @@
 |[pitchfork](/pitchfork.png)|1090916276|Pitchfork|Weapon|
 |[planter.large](/planter.large.png)|1581210395|Large Planter Box|Items|
 |[planter.small](/planter.small.png)|1903654061|Small Planter Box|Items|
+|[planter.triangle](/planter.triangle.png)|-280812482|Triangle Planter Box|Items|
 |[plantfiber](/plantfiber.png)|-804769727|Plant Fiber|Resources|
 |[pookie.bear](/pookie.bear.png)|-1651220691|Pookie Bear|Items|
 |[potato](/potato.png)|-2086926071|Potato|Food|

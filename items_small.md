@@ -606,6 +606,7 @@
 |![](/pitchfork.128.webp)|pitchfork|1090916276|Pitchfork|
 |![](/planter.large.128.webp)|planter.large|1581210395|Large Planter Box|
 |![](/planter.small.128.webp)|planter.small|1903654061|Small Planter Box|
+|![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|
 |![](/potato.128.webp)|potato|-2086926071|Potato|
