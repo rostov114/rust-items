@@ -606,7 +606,7 @@
 |![](/pitchfork.128.webp)|pitchfork|1090916276|Pitchfork|Weapon|A 3 pronged pitchfork. Extremely easy to hit targets with.|
 |![](/planter.large.128.webp)|planter.large|1581210395|Large Planter Box|Items|A large planter with enough room to plant 9 seeds.|
 |![](/planter.small.128.webp)|planter.small|1903654061|Small Planter Box|Items|A small planter with enough room to plant 3 seeds.|
-|![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|Items|A triangle planter with enough room to plant 3 seeds.|
+|![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|Items|A triangle planter with enough room to plant 4 seeds.|
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|Resources|Fiber from dead plants. Can be composted.|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
 |![](/potato.128.webp)|potato|-2086926071|Potato|Food|Potato.|
