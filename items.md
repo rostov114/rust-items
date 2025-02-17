@@ -80,6 +80,7 @@
 |![](/bearmeat.burned.128.webp)|bearmeat.burned|-989755543|Burnt Bear Meat|Food|Bear Meat that has been overcooked.|
 |![](/bearmeat.cooked.128.webp)|bearmeat.cooked|1873897110|Cooked Bear Meat|Food|Delicious Bear Meat, Eating it will restore some health, hunger, and thirst.|
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
+|![](/bearmeat.spoiled.128.webp)|bearmeat.spoiled|1348294923|Spoiled Bear Meat|Food|Spoiled Bear Meat. Consuming will damage your health.|
 |![](/bed.128.webp)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|Misc|A pedal bike.|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|Food|A black berry.|
@@ -105,6 +106,7 @@
 |![](/box.repair.bench.128.webp)|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
 |![](/box.wooden.128.webp)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 18 items.|
 |![](/box.wooden.large.128.webp)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
+|![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|Food|A Loaf of Bread. Eating it provides a small boost to health, hunger|
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
 |![](/building.planner.128.webp)|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
@@ -147,6 +149,7 @@
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|Attire|An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
 |![](/chicken.raw.128.webp)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.128.webp)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
+|![](/chickencoop.128.webp)|chickencoop|-2018158920|Chicken Coop|Items|An enclosure to keep some chickens around.|
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
 |![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|Items|A decorative White Paper lantern|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
@@ -157,21 +160,30 @@
 |![](/clone.corn.128.webp)|clone.corn|-778875547|Corn Clone|Food|A Clipping of a Corn Plant.|
 |![](/clone.green.berry.128.webp)|clone.green.berry|-1305326964|Green Berry Clone|Food|A clipping of a Green Berry Plant.|
 |![](/clone.hemp.128.webp)|clone.hemp|-886280491|Hemp Clone|Food|A clipping of a hemp plant.|
+|![](/clone.orchid.128.webp)|clone.orchid|-798662404|Orchid Clone|Food|A clipping of an orchid plant.|
 |![](/clone.potato.128.webp)|clone.potato|1512054436|Potato Clone|Food|A Clipping of a Potato Plant.|
 |![](/clone.pumpkin.128.webp)|clone.pumpkin|1898094925|Pumpkin Plant Clone|Food|A Clipping of a pumpkin plant.|
 |![](/clone.red.berry.128.webp)|clone.red.berry|2133269020|Red Berry Clone|Food|A clipping of a Red Berry Plant.|
+|![](/clone.rose.128.webp)|clone.rose|-19360132|Rose Clone|Food|A clipping of a rose plant.|
+|![](/clone.sunflower.128.webp)|clone.sunflower|912235912|Sunflower Clone|Food|A clipping of a sunflower plant.|
+|![](/clone.wheat.128.webp)|clone.wheat|924598634|Wheat Clone|Food|A Clipping of a Wheat Plant.|
 |![](/clone.white.berry.128.webp)|clone.white.berry|1533551194|White Berry Clone|Food|A clipping of a White Berry Plant.|
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|Food|A clipping of a Yellow Berry Plant.|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|Resources|Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more.|
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
+|![](/combinedcoolingptea.128.webp)|combinedcoolingptea|1431167058|Combined Cooling Tea|Food|A tea that decreases your max and core temperature.|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
 |![](/concretepickaxe.128.webp)|concretepickaxe|-1360171080|Concrete Pickaxe|Tool|A salvaged piece of concrete and rebar with a sharp edge. Can be used to harvest Stone, Metal ore and Sulfur ore.|
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|Fun|Blast a cloud of birthday themed confetti cheer.|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
+|![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced dishes|
+|![](/coolingtea.advanced.128.webp)|coolingtea.advanced|2077323731|Advanced Cooling Tea|Food|A tea that decreases your core temperature.|
+|![](/coolingtea.128.webp)|coolingtea|-1260229965|Basic Cooling Tea|Food|A tea that decreasesyour core temperature.|
+|![](/coolingtea.pure.128.webp)|coolingtea.pure|-1600691369|Pure Cooling Tea|Food|A tea that decreases your core temperature.|
 |![](/corn.128.webp)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|Component|A medium quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
@@ -188,6 +200,7 @@
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|Food|Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.|
 |![](/deermeat.raw.128.webp)|deermeat.raw|1422530437|Raw Deer Meat|Food|Raw Deer Meat. Eating it will damage your health, try cooking it first.|
+|![](/deermeat.spoiled.128.webp)|deermeat.spoiled|-2035449523|Spoiled Deer Meat|Food|Spoiled Deer Meat. Consuming will damage your health.|
 |![](/diesel_barrel.128.webp)|diesel_barrel|1568388703|Diesel Fuel|Resources|Appropriate fuel for the excavator|
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
@@ -223,6 +236,7 @@
 |![](/easter.silveregg.128.webp)|easter.silveregg|1757265204|Silver Egg|Misc|A Silver Egg. Contains medium level loot, Collect 10 to upgrade to a gold Egg|
 |![](/easterbasket.128.webp)|easterbasket|1856217390|Egg Basket|Misc|An easter egg basket. Equip to pick up eggs during an easter egg hunt with left click. Use right click to throw|
 |![](/easterdoorwreath.128.webp)|easterdoorwreath|-979302481|Easter Door Wreath|Items|A beautiful, hand crafted Easter themed door wreath.|
+|![](/egg.128.webp)|egg|1858828593|Egg|Food|An egg, laid by a chicken. Can be eaten or hatched in a chicken coop.|
 |![](/electric.andswitch.128.webp)|electric.andswitch|1171735914|AND Switch|Electrical|A logic gate that allows electrical passthrough if BOTH inputs receives power, passthrough amount is the greater of either power source|
 |![](/electric.audioalarm.128.webp)|electric.audioalarm|2100007442|Audio Alarm|Electrical|A speaker which will emit a loud warning alarm when powered|
 |![](/electric.battery.rechargable.large.128.webp)|electric.battery.rechargable.large|553270375|Large Rechargeable Battery|Electrical|A Large Rechargeable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
@@ -292,6 +306,7 @@
 |![](/fish.salmon.128.webp)|fish.salmon|-851988960|Salmon|Food|A large Salmon, found in fresh and salt water. Eats everything, so you never know what you'll find in it's stomach.|
 |![](/fish.sardine.128.webp)|fish.sardine|-1654233406|Sardine|Food|A small oily fish, commonly found in large schools.|
 |![](/fish.smallshark.128.webp)|fish.smallshark|-1768880890|Small Shark|Food|A small, surprisingly aggressive deep sea predator. Eats everything, so you never know what you'll find in it's stomach.|
+|![](/fish.spoiled.128.webp)|fish.spoiled|1130729138|Spoiled Fish Meat|Food|Spoiled Fish Meat. Consuming will damage your health.|
 |![](/fish.troutsmall.128.webp)|fish.troutsmall|-1878764039|Small Trout|Food|A Small Trout. Good for a few meals.|
 |![](/fish.yellowperch.128.webp)|fish.yellowperch|680234026|Yellow Perch|Food|A Yellow Perch, commonly found in freshwater rivers.|
 |![](/fishing.tackle.128.webp)|fishing.tackle|-1707425764|Fishing Tackle|Tool|Fishing Tackle|
@@ -527,6 +542,7 @@
 |![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|A tea that increases your maximum health.|
 |![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A tea that increases your maximum health.|
 |![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|A tea that increases your maximum health.|
+|![](/maxtemptea.128.webp)|maxtemptea|-284748120|Basic Max Temp Tea|Food|A tea that decreases your max temperature.|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
@@ -556,6 +572,7 @@
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|Misc||
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
+|![](/mintemptea.128.webp)|mintemptea|-1296203562|Basic Min Temp Tea|Food|A tea that increases your minimum temperature.|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|Resources|Mint ID Tag|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|Items|Used for mixing recipes.|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
@@ -572,6 +589,7 @@
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.128.webp)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
 |![](/orangeidtag.128.webp)|orangeidtag|-282193997|Orange ID Tag|Resources|Orange ID Tag|
+|![](/orchid.128.webp)|orchid|734320711|Orchid|Food|Smells nice.|
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|Food|A tea that increases the amount of ore you receive.|
 |![](/oretea.128.webp)|oretea|1480022580|Basic Ore Tea|Food|A tea that increases the amount of ore you receive.|
 |![](/oretea.pure.128.webp)|oretea.pure|1729374708|Pure Ore Tea|Food|A tea that increases the amount of ore you receive.|
@@ -589,6 +607,13 @@
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
+|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|Always too hot.|
+|![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Chicken Pie|
+|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Fishy|
+|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Hunters Pie|
+|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Oink oink|
+|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky.|
+|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|Greetings, Survivors|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
@@ -608,7 +633,9 @@
 |![](/planter.small.128.webp)|planter.small|1903654061|Small Planter Box|Items|A small planter with enough room to plant 3 seeds.|
 |![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|Items|A triangle planter with enough room to plant 4 seeds.|
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|Resources|Fiber from dead plants. Can be composted.|
+|![](/plantpot.single.128.webp)|plantpot.single|-430416124|Single Plant Pot|Items|A single plant pot.|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
+|![](/porkmeat.spoiled.128.webp)|porkmeat.spoiled|1925646349|Spoiled Pork Meat|Food|Spoiled Pork Meat. Consuming will damage your health.|
 |![](/potato.128.webp)|potato|-2086926071|Potato|Food|Potato.|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
 |![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|Attire|A hood for prisoners, restricts vision.|
@@ -657,6 +684,7 @@
 |![](/rockingchair.rockingchair2.128.webp)|rockingchair.rockingchair2|1758333838|Teal|Items||
 |![](/rockingchair.rockingchair3.128.webp)|rockingchair.rockingchair3|192249897|Green|Items||
 |![](/rope.128.webp)|rope|1414245522|Rope|Component|A Length of Rope.|
+|![](/rose.128.webp)|rose|1414245519|Rose|Food|Romantic AF.|
 |![](/rowboat.128.webp)|rowboat|1878053256|Rowboat|Items||
 |![](/rug.bear.128.webp)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rug.128.webp)|rug|-1985799200|Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
@@ -696,9 +724,13 @@
 |![](/seed.corn.128.webp)|seed.corn|998894949|Corn Seed|Food|Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more corn and faster growth.|
 |![](/seed.green.berry.128.webp)|seed.green.berry|-1776128552|Green Berry Seed|Food|These green berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more Corn and faster groth.|
 |![](/seed.hemp.128.webp)|seed.hemp|-237809779|Hemp Seed|Food|Hemp seeds can be found when picking wild Hemp. These seeds can be planted in the ground and grown to collect additional cloth.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more cloth and faster growth.|
+|![](/seed.orchid.128.webp)|seed.orchid|1004843240|Orchid Seed|Food|Orchid seeds can be found when picking wild Orchids.|
 |![](/seed.potato.128.webp)|seed.potato|-2084071424|Potato Seed|Food|These potato seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more potatoes and faster growth.|
 |![](/seed.pumpkin.128.webp)|seed.pumpkin|-1511285251|Pumpkin Seed|Food|Pumpkin Seeds can be found when picking wild Pumpkin plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more pumpkins and faster growth.|
 |![](/seed.red.berry.128.webp)|seed.red.berry|830839496|Red Berry Seed|Food|These red berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
+|![](/seed.rose.128.webp)|seed.rose|-1037472336|Rose Seed|Food|Rose seeds can be found when picking wild Roses.|
+|![](/seed.sunflower.128.webp)|seed.sunflower|1412103380|Sunflower Seed|Food|Sunflower seeds can be found when picking wild Sunflowers.|
+|![](/seed.wheat.128.webp)|seed.wheat|-1790885730|Wheat Seed|Food|Wheat seeds can be found when picking wild Wheat plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more corn and faster growth.|
 |![](/seed.white.berry.128.webp)|seed.white.berry|-992286106|White Berry Seed|Food|These white berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/seed.yellow.berry.128.webp)|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/semibody.128.webp)|semibody|573926264|Semi Automatic Body|Component|The firing mechanism of a semi automatic weapon.|
@@ -813,6 +845,7 @@
 |![](/submarinesolo.128.webp)|submarinesolo|-187031121|Solo Submarine|Misc|A small one-person submarine.|
 |![](/sulfur.128.webp)|sulfur|-1581843485|Sulfur|Resources|Sulfur is commonly used in gunpowder, medicine, and matches. Matches release sulfur dioxide when they burn, giving them their smell. Sulfur is an essential component to living cells. Many proteins contain sulfur. It is also used as a pesticide on organic farms.|
 |![](/sulfur.ore.128.webp)|sulfur.ore|-1157596551|Sulfur Ore|Resources|A rock containing sulfur. The sulfur can be extracted using a furnace.|
+|![](/sunflower.128.webp)|sunflower|-611118083|Sunflower|Food|Very tall.|
 |![](/sunglasses.128.webp)|sunglasses|352321488|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses02black.128.webp)|sunglasses02black|1258768145|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses02camo.128.webp)|sunglasses02camo|-2103694546|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
@@ -906,6 +939,10 @@
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can display a given player's face as wanted.|
+|![](/warmingcombinedtea.128.webp)|warmingcombinedtea|-403606116|Combined Warming Tea|Food|A tea that increases your minimum and core temperature.|
+|![](/warmingtea.advanced.128.webp)|warmingtea.advanced|-351630003|Advanced Warming Tea|Food|A tea that increases your core temperature.|
+|![](/warmingtea.128.webp)|warmingtea|-1142222427|Basic Warming Tea|Food|A tea that increases your core temperature.|
+|![](/warmingtea.pure.128.webp)|warmingtea.pure|-1742339835|Pure Warming Tea|Food|A tea that increases your core temperature.|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
@@ -930,6 +967,7 @@
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
 |![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|Electrical|A weapon rack light.|
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|Electrical|A weapon rack light.|
+|![](/wheat.128.webp)|wheat|1178325727|Wheat|Food|Wheaty|
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
 |![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
