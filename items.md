@@ -482,6 +482,7 @@
 |![](/innertube.horse.128.webp)|innertube.horse|185586769|Inner Tube|Fun|An inflated tube for aquatic activities.|
 |![](/innertube.128.webp)|innertube|-697981032|Inner Tube|Fun|An inflated tube for aquatic activities.|
 |![](/innertube.unicorn.128.webp)|innertube.unicorn|2052270186|Inner Tube|Fun|An inflated tube for aquatic activities.|
+|![](/iotable.128.webp)|iotable|210787554|Engineering Workbench|Items|This allows you to craft and unlock electrical, water and industrial items|
 |![](/jacket.128.webp)|jacket|-1163532624|Jacket|Attire|A rugged jacket.|
 |![](/jacket.snow.128.webp)|jacket.snow|-48090175|Snow Jacket|Attire|A thick, high visibility Jacket. It will help keep you warm in any climate.|
 |![](/jackhammer.128.webp)|jackhammer|1488979457|Jackhammer|Tool|A Pneumatic Jackhammer to blast through ore nodes. The sheer power of this device requires no aiming as all weak spots will be instantly destroyed. Works well on human flesh. Can be refilled at a Workbench.|
