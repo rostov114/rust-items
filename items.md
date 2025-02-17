@@ -842,6 +842,7 @@
 |![](/torchholder.128.webp)|torchholder|446206234|Torch Holder|Items|A wall mounted holder for torches.|
 |![](/trap.bear.128.webp)|trap.bear|-582782051|Snap Trap|Traps|A metal trap that can injure or even kill people when stepped on. Can be picked up after been triggered.|
 |![](/trap.landmine.128.webp)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
+|![](/triangle.rail.road.planter.128.webp)|triangle.rail.road.planter|647240052|Triangle Rail Road Planter|Items|A triangle planter with enough room to plant 4 seeds.|
 |![](/trike.128.webp)|trike|1991794121|Trike|Misc|A three-wheeled bicycle.|
 |![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
 |![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|Items|A trophy dedicated to the survivors of Rust Twitch Rivals 2023|

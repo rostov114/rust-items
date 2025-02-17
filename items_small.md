@@ -842,6 +842,7 @@
 |![](/torchholder.128.webp)|torchholder|446206234|Torch Holder|
 |![](/trap.bear.128.webp)|trap.bear|-582782051|Snap Trap|
 |![](/trap.landmine.128.webp)|trap.landmine|-1663759755|Homemade Landmine|
+|![](/triangle.rail.road.planter.128.webp)|triangle.rail.road.planter|647240052|Triangle Rail Road Planter|
 |![](/trike.128.webp)|trike|1991794121|Trike|
 |![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|
 |![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|
