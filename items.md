@@ -82,6 +82,7 @@
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
 |![](/bearmeat.spoiled.128.webp)|bearmeat.spoiled|1348294923|Spoiled Bear Meat|Food|Spoiled Bear Meat. Consuming will damage your health.|
 |![](/bed.128.webp)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
+|![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Stores bees and lets them make honey.|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|Misc|A pedal bike.|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|Food|A black berry.|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|Food|Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
@@ -380,6 +381,7 @@
 |![](/green.berry.128.webp)|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/greenidtag.128.webp)|greenidtag|1762167092|Green ID Tag|Resources|Green ID Tag|
 |![](/grenade.beancan.128.webp)|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
+|![](/grenade.bee.128.webp)|grenade.bee|1168916338|Bee Grenade|Weapon||
 |![](/grenade.f1.128.webp)|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
 |![](/grenade.flashbang.128.webp)|grenade.flashbang|-936921910|Flashbang|Weapon|A bright explosive device which blinds and disorients anyone near it upon detonation|
 |![](/grenade.molotov.128.webp)|grenade.molotov|1556365900|Molotov Cocktail|Weapon|An incendiary device|
@@ -448,6 +450,8 @@
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
+|![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A Jar of Honey. Great in tea.|
+|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Resources|Building blocks of a beehive|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
@@ -589,6 +593,7 @@
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.128.webp)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
+|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|Required for an artifical Beehive to generate honey and bees.|
 |![](/orangeidtag.128.webp)|orangeidtag|-282193997|Orange ID Tag|Resources|Orange ID Tag|
 |![](/orchid.128.webp)|orchid|734320711|Orchid|Food|Smells nice.|
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|Food|A tea that increases the amount of ore you receive.|

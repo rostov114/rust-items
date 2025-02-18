@@ -82,6 +82,7 @@
 |[bearmeat](/bearmeat.png)|-1520560807|Raw Bear Meat|Food|
 |[bearmeat.spoiled](/bearmeat.spoiled.png)|1348294923|Spoiled Bear Meat|Food|
 |[bed](/bed.png)|-1273339005|Bed|Items|
+|[beehive](/beehive.png)|184516676|Beehive|Construction|
 |[bicycle](/bicycle.png)|821588319|Bicycle|Misc|
 |[black.berry](/black.berry.png)|1771755747|Black Berry|Food|
 |[black.raspberries](/black.raspberries.png)|1931713481|Black Raspberries|Food|
@@ -380,6 +381,7 @@
 |[green.berry](/green.berry.png)|858486327|Green Berry|Food|
 |[greenidtag](/greenidtag.png)|1762167092|Green ID Tag|Resources|
 |[grenade.beancan](/grenade.beancan.png)|1840822026|Beancan Grenade|Weapon|
+|[grenade.bee](/grenade.bee.png)|1168916338|Bee Grenade|Weapon|
 |[grenade.f1](/grenade.f1.png)|143803535|F1 Grenade|Weapon|
 |[grenade.flashbang](/grenade.flashbang.png)|-936921910|Flashbang|Weapon|
 |[grenade.molotov](/grenade.molotov.png)|1556365900|Molotov Cocktail|Weapon|
@@ -448,6 +450,8 @@
 |[hmlmg](/hmlmg.png)|-1214542497|HMLMG|Weapon|
 |[hobobarrel](/hobobarrel.png)|-1442559428|Hobo Barrel|Items|
 |[homingmissile.launcher](/homingmissile.launcher.png)|-218009552|Homing Missile Launcher|Weapon|
+|[honey](/honey.png)|1601800933|Jar of Honey|Food|
+|[honeycomb](/honeycomb.png)|-1513203236|Honeycomb|Resources|
 |[hoodie](/hoodie.png)|1751045826|Hoodie|Attire|
 |[hopper](/hopper.png)|1428574144|Hopper|Electrical|
 |[horse.armor.roadsign](/horse.armor.roadsign.png)|60528587|Roadsign Horse Armor|Attire|
@@ -589,6 +593,7 @@
 |[newyeargong](/newyeargong.png)|-961457160|New Year Gong|Fun|
 |[nightvisiongoggles](/nightvisiongoggles.png)|-1518883088|Night Vision Goggles|Attire|
 |[note](/note.png)|1414245162|Note|Misc|
+|[nucleus](/nucleus.png)|-1811234677|Beehive Nucleus|Resources|
 |[orangeidtag](/orangeidtag.png)|-282193997|Orange ID Tag|Resources|
 |[orchid](/orchid.png)|734320711|Orchid|Food|
 |[oretea.advanced](/oretea.advanced.png)|2063916636|Advanced Ore Tea|Food|
