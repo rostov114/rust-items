@@ -171,6 +171,11 @@
 |[clone.white.berry](/clone.white.berry.png)|1533551194|White Berry Clone|Food|
 |[clone.yellow.berry](/clone.yellow.berry.png)|390728933|Yellow Berry Clone|Food|
 |[cloth](/cloth.png)|-858312878|Cloth|Resources|
+|[clothing.mod.armorinsert_asbestos](/clothing.mod.armorinsert_asbestos.png)|-903796529|Asbestos Armor Insert|Items|
+|[clothing.mod.armorinsert_lead](/clothing.mod.armorinsert_lead.png)|2047789913|Lead Armor Insert|Items|
+|[clothing.mod.armorinsert_leather](/clothing.mod.armorinsert_leather.png)|-2103136326|Leather Armor Insert|Items|
+|[clothing.mod.armorinsert_metal](/clothing.mod.armorinsert_metal.png)|1099611828|Metal Armor Insert|Items|
+|[clothing.mod.armorinsert_wood](/clothing.mod.armorinsert_wood.png)|-593892112|Wooden Armor Insert|Items|
 |[coal](/coal.png)|204391461|Coal :(|Resources|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
@@ -186,6 +191,7 @@
 |[coolingtea](/coolingtea.png)|-1260229965|Basic Cooling Tea|Food|
 |[coolingtea.pure](/coolingtea.pure.png)|-1600691369|Pure Cooling Tea|Food|
 |[corn](/corn.png)|1367190888|Corn|Food|
+|[craftingtea_quality](/craftingtea_quality.png)|368008432|Crafting Quality Tea|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
 |[crankshaft2](/crankshaft2.png)|1158340331|Medium Quality Crankshaft|Component|
 |[crankshaft3](/crankshaft3.png)|1158340332|High Quality Crankshaft|Component|

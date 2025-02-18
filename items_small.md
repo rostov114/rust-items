@@ -171,6 +171,11 @@
 |![](/clone.white.berry.128.webp)|clone.white.berry|1533551194|White Berry Clone|
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|
+|![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|
+|![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|
+|![](/clothing.mod.armorinsert_leather.128.webp)|clothing.mod.armorinsert_leather|-2103136326|Leather Armor Insert|
+|![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|
+|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|
 |![](/coal.128.webp)|coal|204391461|Coal :(|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
@@ -186,6 +191,7 @@
 |![](/coolingtea.128.webp)|coolingtea|-1260229965|Basic Cooling Tea|
 |![](/coolingtea.pure.128.webp)|coolingtea.pure|-1600691369|Pure Cooling Tea|
 |![](/corn.128.webp)|corn|1367190888|Corn|
+|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|
