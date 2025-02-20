@@ -472,6 +472,7 @@
 |[horsemeat.burned](/horsemeat.burned.png)|1917703890|Burnt Horse Meat|Food|
 |[horsemeat.cooked](/horsemeat.cooked.png)|-1162759543|Cooked Horse Meat|Food|
 |[horsemeat.raw](/horsemeat.raw.png)|-1130350864|Raw Horse Meat|Food|
+|[horsemeat.spoiled](/horsemeat.spoiled.png)|-724146494|Spoiled Horse meat|Food|
 |[hosetool](/hosetool.png)|363163265|Hose Tool|Electrical|
 |[hq.metal.ore](/hq.metal.ore.png)|-1982036270|High Quality Metal Ore|Resources|
 |[humanmeat.burned](/humanmeat.burned.png)|-682687162|Burnt Human Meat|Food|
@@ -620,6 +621,7 @@
 |[piano](/piano.png)|1272430949|Wheelbarrow Piano|Fun|
 |[pickaxe](/pickaxe.png)|-1302129395|Pickaxe|Tool|
 |[pie.apple](/pie.apple.png)|4384538|Apple Pie|Food|
+|[pie.bear](/pie.bear.png)|2039177180|Bear Pie|Food|
 |[pie.chicken](/pie.chicken.png)|120820987|Chicken Pie|Food|
 |[pie.fish](/pie.fish.png)|-1785248332|Fish Pie|Food|
 |[pie.hunters](/pie.hunters.png)|320438357|Hunters Pie|Food|

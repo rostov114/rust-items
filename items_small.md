@@ -472,6 +472,7 @@
 |![](/horsemeat.burned.128.webp)|horsemeat.burned|1917703890|Burnt Horse Meat|
 |![](/horsemeat.cooked.128.webp)|horsemeat.cooked|-1162759543|Cooked Horse Meat|
 |![](/horsemeat.raw.128.webp)|horsemeat.raw|-1130350864|Raw Horse Meat|
+|![](/horsemeat.spoiled.128.webp)|horsemeat.spoiled|-724146494|Spoiled Horse meat|
 |![](/hosetool.128.webp)|hosetool|363163265|Hose Tool|
 |![](/hq.metal.ore.128.webp)|hq.metal.ore|-1982036270|High Quality Metal Ore|
 |![](/humanmeat.burned.128.webp)|humanmeat.burned|-682687162|Burnt Human Meat|
@@ -620,6 +621,7 @@
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|
+|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|

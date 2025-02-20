@@ -472,6 +472,7 @@
 |![](/horsemeat.burned.128.webp)|horsemeat.burned|1917703890|Burnt Horse Meat|Food|Burned horse meat. Eating it will damage your health.|
 |![](/horsemeat.cooked.128.webp)|horsemeat.cooked|-1162759543|Cooked Horse Meat|Food|Cooked Horse Meat. Eating it will restore some health, hunger, and thirst.|
 |![](/horsemeat.raw.128.webp)|horsemeat.raw|-1130350864|Raw Horse Meat|Food|Raw Horse Meat. Eating it will damage your health, try cooking it first.|
+|![](/horsemeat.spoiled.128.webp)|horsemeat.spoiled|-724146494|Spoiled Horse meat|Food|Spoiled Horse Meat. Eating it will damage your health.|
 |![](/hosetool.128.webp)|hosetool|363163265|Hose Tool|Electrical|A tool used to make fluid connections between objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection.|
 |![](/hq.metal.ore.128.webp)|hq.metal.ore|-1982036270|High Quality Metal Ore|Resources|A rock containing High Quality Metal. Can be smelted in a furnace.|
 |![](/humanmeat.burned.128.webp)|humanmeat.burned|-682687162|Burnt Human Meat|Food|Burned Meat from a human being. Consuming will damage your health.|
@@ -620,12 +621,13 @@
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|Always too hot.|
+|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of Bear meat|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Chicken Pie|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Fishy|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Hunters Pie|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Oink oink|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky.|
-|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|Greetings, Survivors|
+|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|Greetings, Survivors. Grants a harvesting buff that increases resources gathered from harvesting corpses.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
