@@ -55,7 +55,6 @@
 |![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|
 |![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|
-|![](/ballista.128.webp)|ballista|-438281480|Ballista|
 |![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|
 |![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|

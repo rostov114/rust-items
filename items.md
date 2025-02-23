@@ -55,7 +55,6 @@
 |![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|Ammunition|A fire-tipped bolt for a ballista, wrapped in burning cloth, ignites upon impact.|
 |![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|Ammunition|A piercing bolt for a ballista, capable of penetrating armored vehicles.|
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt for a ballista, covering a large area while dealing moderate damage.|
-|![](/ballista.128.webp)|ballista|-438281480|Ballista|Weapon|A Ballista|
 |![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|Weapon|A ballista mounted on wheels, designed for mobility and capable of firing bolts at distant targets. Can be towed by horses.|
 |![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|Weapon|A stationary ballista, perfect for defence. Can fire deadly bolts at distant targets.|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
