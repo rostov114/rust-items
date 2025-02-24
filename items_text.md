@@ -471,7 +471,7 @@
 |[horsemeat.burned](/horsemeat.burned.png)|1917703890|Burnt Horse Meat|Food|
 |[horsemeat.cooked](/horsemeat.cooked.png)|-1162759543|Cooked Horse Meat|Food|
 |[horsemeat.raw](/horsemeat.raw.png)|-1130350864|Raw Horse Meat|Food|
-|[horsemeat.spoiled](/horsemeat.spoiled.png)|-724146494|Spoiled Horse meat|Food|
+|[horsemeat.spoiled](/horsemeat.spoiled.png)|-724146494|Spoiled Horse Meat|Food|
 |[hosetool](/hosetool.png)|363163265|Hose Tool|Electrical|
 |[hq.metal.ore](/hq.metal.ore.png)|-1982036270|High Quality Metal Ore|Resources|
 |[humanmeat.burned](/humanmeat.burned.png)|-682687162|Burnt Human Meat|Food|

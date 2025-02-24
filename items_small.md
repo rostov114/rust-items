@@ -471,7 +471,7 @@
 |![](/horsemeat.burned.128.webp)|horsemeat.burned|1917703890|Burnt Horse Meat|
 |![](/horsemeat.cooked.128.webp)|horsemeat.cooked|-1162759543|Cooked Horse Meat|
 |![](/horsemeat.raw.128.webp)|horsemeat.raw|-1130350864|Raw Horse Meat|
-|![](/horsemeat.spoiled.128.webp)|horsemeat.spoiled|-724146494|Spoiled Horse meat|
+|![](/horsemeat.spoiled.128.webp)|horsemeat.spoiled|-724146494|Spoiled Horse Meat|
 |![](/hosetool.128.webp)|hosetool|363163265|Hose Tool|
 |![](/hq.metal.ore.128.webp)|hq.metal.ore|-1982036270|High Quality Metal Ore|
 |![](/humanmeat.burned.128.webp)|humanmeat.burned|-682687162|Burnt Human Meat|

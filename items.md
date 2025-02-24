@@ -471,7 +471,7 @@
 |![](/horsemeat.burned.128.webp)|horsemeat.burned|1917703890|Burnt Horse Meat|Food|Burned horse meat. Eating it will damage your health.|
 |![](/horsemeat.cooked.128.webp)|horsemeat.cooked|-1162759543|Cooked Horse Meat|Food|Cooked Horse Meat. Eating it will restore some health, hunger, and thirst.|
 |![](/horsemeat.raw.128.webp)|horsemeat.raw|-1130350864|Raw Horse Meat|Food|Raw Horse Meat. Eating it will damage your health, try cooking it first.|
-|![](/horsemeat.spoiled.128.webp)|horsemeat.spoiled|-724146494|Spoiled Horse meat|Food|Spoiled Horse Meat. Eating it will damage your health.|
+|![](/horsemeat.spoiled.128.webp)|horsemeat.spoiled|-724146494|Spoiled Horse Meat|Food|Spoiled Horse Meat. Consuming will damage your health.|
 |![](/hosetool.128.webp)|hosetool|363163265|Hose Tool|Electrical|A tool used to make fluid connections between objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection.|
 |![](/hq.metal.ore.128.webp)|hq.metal.ore|-1982036270|High Quality Metal Ore|Resources|A rock containing High Quality Metal. Can be smelted in a furnace.|
 |![](/humanmeat.burned.128.webp)|humanmeat.burned|-682687162|Burnt Human Meat|Food|Burned Meat from a human being. Consuming will damage your health.|
