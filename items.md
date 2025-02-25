@@ -619,13 +619,13 @@
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
-|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|Always too hot.|
-|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of Bear meat|
+|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|Always too hot. Applies "Vision Care" effect, increasing vision at night and allowing the eater to see tree markings and ore hotspots.|
+|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of Bear meat. Applies "Digestion Boost" effect, doubles effect of harvesting Teas but halves their duration.|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Chicken Pie|
-|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Fishy|
-|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Hunters Pie|
-|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Oink oink|
-|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky.|
+|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Fishy. Adds the "Comfort" modifier, increases the base comfort level by 25%.|
+|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Applies the "Harvesting" boost, increases resources harvested from corpses.|
+|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Oink oink. Applies "Metabolism Booster" effect, increases heal over time effect from healing sources like other food.|
+|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky. Increases Max Health by 10%.|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|Greetings, Survivors. Grants a harvesting buff that increases resources gathered from harvesting corpses.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
