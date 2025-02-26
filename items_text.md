@@ -413,6 +413,7 @@
 |[hammer](/hammer.png)|200773292|Hammer|Tool|
 |[hammer.salvaged](/hammer.salvaged.png)|-1506397857|Salvaged Hammer|Tool|
 |[handcuffs](/handcuffs.png)|-839576748|Handcuffs|Tool|
+|[harvestingtea](/harvestingtea.png)|1516531815|Harvesting Tea|Food|
 |[hat.beenie](/hat.beenie.png)|1675639563|Beenie Hat|Attire|
 |[hat.boonie](/hat.boonie.png)|-23994173|Boonie Hat|Attire|
 |[hat.bunnyhat](/hat.bunnyhat.png)|23391694|Bunny Hat|Attire|

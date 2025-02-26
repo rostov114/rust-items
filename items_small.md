@@ -413,6 +413,7 @@
 |![](/hammer.128.webp)|hammer|200773292|Hammer|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|

@@ -413,6 +413,7 @@
 |![](/hammer.128.webp)|hammer|200773292|Hammer|Tool|A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|Tool|A Hammer made from a bunch of other crap.|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|Tool|Handcuffs|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|Food|A tea that increases the amount of resources you receive from harvesting corpses by 50%.|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat.|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat.|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
