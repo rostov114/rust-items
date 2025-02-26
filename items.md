@@ -386,7 +386,7 @@
 |![](/green.berry.128.webp)|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/greenidtag.128.webp)|greenidtag|1762167092|Green ID Tag|Resources|Green ID Tag|
 |![](/grenade.beancan.128.webp)|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
-|![](/grenade.bee.128.webp)|grenade.bee|1168916338|Bee Grenade|Weapon||
+|![](/grenade.bee.128.webp)|grenade.bee|1168916338|Bee Grenade|Weapon|A glass jar full of bee's|
 |![](/grenade.f1.128.webp)|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
 |![](/grenade.flashbang.128.webp)|grenade.flashbang|-936921910|Flashbang|Weapon|A bright explosive device which blinds and disorients anyone near it upon detonation|
 |![](/grenade.molotov.128.webp)|grenade.molotov|1556365900|Molotov Cocktail|Weapon|An incendiary device|
