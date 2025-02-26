@@ -456,7 +456,7 @@
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
-|![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A Jar of Honey. Great in tea.|
+|![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A Jar of Honey. Great in pies.|
 |![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Resources|These building blocks of a beehive can turn into honey or nuclei. Cooking them in a furnace guarantees honey.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
