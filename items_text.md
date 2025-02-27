@@ -79,7 +79,9 @@
 |[bearmeat.burned](/bearmeat.burned.png)|-989755543|Burnt Bear Meat|Food|
 |[bearmeat.cooked](/bearmeat.cooked.png)|1873897110|Cooked Bear Meat|Food|
 |[bearmeat](/bearmeat.png)|-1520560807|Raw Bear Meat|Food|
+|[bearmeat.spoiled](/bearmeat.spoiled.png)|1348294923|Spoiled Bear Meat|Food|
 |[bed](/bed.png)|-1273339005|Bed|Items|
+|[beehive](/beehive.png)|184516676|Beehive|Construction|
 |[bicycle](/bicycle.png)|821588319|Bicycle|Misc|
 |[black.berry](/black.berry.png)|1771755747|Black Berry|Food|
 |[black.raspberries](/black.raspberries.png)|1931713481|Black Raspberries|Food|
@@ -104,6 +106,7 @@
 |[box.repair.bench](/box.repair.bench.png)|803222026|Repair Bench|Items|
 |[box.wooden](/box.wooden.png)|-180129657|Wood Storage Box|Items|
 |[box.wooden.large](/box.wooden.large.png)|833533164|Large Wood Box|Items|
+|[bread.loaf](/bread.loaf.png)|281099360|Bread Loaf|Food|
 |[bucket.helmet](/bucket.helmet.png)|850280505|Bucket Helmet|Attire|
 |[bucket.water](/bucket.water.png)|1424075905|Water Bucket|Tool|
 |[building.planner](/building.planner.png)|1525520776|Building Plan|Construction|
@@ -146,6 +149,7 @@
 |[chicken.costume](/chicken.costume.png)|-152332823|Chicken Costume|Attire|
 |[chicken.raw](/chicken.raw.png)|-1440987069|Raw Chicken Breast|Food|
 |[chicken.spoiled](/chicken.spoiled.png)|-751151717|Spoiled Chicken|Food|
+|[chickencoop](/chickencoop.png)|-2018158920|Chicken Coop|Items|
 |[chineselantern](/chineselantern.png)|-1916473915|Chinese Lantern|Items|
 |[chineselanternwhite](/chineselanternwhite.png)|-770304148|Chinese Lantern White|Items|
 |[chocolate](/chocolate.png)|-965336208|Chocolate Bar|Food|
@@ -156,22 +160,36 @@
 |[clone.corn](/clone.corn.png)|-778875547|Corn Clone|Food|
 |[clone.green.berry](/clone.green.berry.png)|-1305326964|Green Berry Clone|Food|
 |[clone.hemp](/clone.hemp.png)|-886280491|Hemp Clone|Food|
+|[clone.orchid](/clone.orchid.png)|-798662404|Orchid Clone|Food|
 |[clone.potato](/clone.potato.png)|1512054436|Potato Clone|Food|
 |[clone.pumpkin](/clone.pumpkin.png)|1898094925|Pumpkin Plant Clone|Food|
 |[clone.red.berry](/clone.red.berry.png)|2133269020|Red Berry Clone|Food|
+|[clone.rose](/clone.rose.png)|-19360132|Rose Clone|Food|
+|[clone.sunflower](/clone.sunflower.png)|912235912|Sunflower Clone|Food|
+|[clone.wheat](/clone.wheat.png)|924598634|Wheat Clone|Food|
 |[clone.white.berry](/clone.white.berry.png)|1533551194|White Berry Clone|Food|
 |[clone.yellow.berry](/clone.yellow.berry.png)|390728933|Yellow Berry Clone|Food|
 |[cloth](/cloth.png)|-858312878|Cloth|Resources|
+|[clothing.mod.armorinsert_asbestos](/clothing.mod.armorinsert_asbestos.png)|-903796529|Asbestos Armor Insert|Items|
+|[clothing.mod.armorinsert_lead](/clothing.mod.armorinsert_lead.png)|2047789913|Lead Armor Insert|Items|
+|[clothing.mod.armorinsert_metal](/clothing.mod.armorinsert_metal.png)|1099611828|Metal Armor Insert|Items|
+|[clothing.mod.armorinsert_wood](/clothing.mod.armorinsert_wood.png)|-593892112|Wooden Armor Insert|Items|
 |[coal](/coal.png)|204391461|Coal :(|Resources|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
+|[combinedcoolingptea](/combinedcoolingptea.png)|1431167058|Combined Cooling Tea|Food|
 |[composter](/composter.png)|-1488398114|Composter|Items|
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
 |[concretepickaxe](/concretepickaxe.png)|-1360171080|Concrete Pickaxe|Tool|
 |[confetticannon](/confetticannon.png)|1603174987|Confetti Cannon|Fun|
 |[connected.speaker](/connected.speaker.png)|968421290|Connected Speaker|Fun|
+|[cookingworkbench](/cookingworkbench.png)|1456143403|Cooking Workbench|Items|
+|[coolingtea.advanced](/coolingtea.advanced.png)|2077323731|Advanced Cooling Tea|Food|
+|[coolingtea](/coolingtea.png)|-1260229965|Basic Cooling Tea|Food|
+|[coolingtea.pure](/coolingtea.pure.png)|-1600691369|Pure Cooling Tea|Food|
 |[corn](/corn.png)|1367190888|Corn|Food|
+|[craftingtea_quality](/craftingtea_quality.png)|368008432|Crafting Quality Tea|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
 |[crankshaft2](/crankshaft2.png)|1158340331|Medium Quality Crankshaft|Component|
 |[crankshaft3](/crankshaft3.png)|1158340332|High Quality Crankshaft|Component|
@@ -187,6 +205,7 @@
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
 |[deermeat.cooked](/deermeat.cooked.png)|-1509851560|Cooked Deer Meat|Food|
 |[deermeat.raw](/deermeat.raw.png)|1422530437|Raw Deer Meat|Food|
+|[deermeat.spoiled](/deermeat.spoiled.png)|-2035449523|Spoiled Deer Meat|Food|
 |[diesel_barrel](/diesel_barrel.png)|1568388703|Diesel Fuel|Resources|
 |[discoball](/discoball.png)|1895235349|Disco Ball|Fun|
 |[discofloor](/discofloor.png)|286648290|Disco Floor|Fun|
@@ -222,6 +241,7 @@
 |[easter.silveregg](/easter.silveregg.png)|1757265204|Silver Egg|Misc|
 |[easterbasket](/easterbasket.png)|1856217390|Egg Basket|Misc|
 |[easterdoorwreath](/easterdoorwreath.png)|-979302481|Easter Door Wreath|Items|
+|[egg](/egg.png)|1858828593|Egg|Food|
 |[electric.andswitch](/electric.andswitch.png)|1171735914|AND Switch|Electrical|
 |[electric.audioalarm](/electric.audioalarm.png)|2100007442|Audio Alarm|Electrical|
 |[electric.battery.rechargable.large](/electric.battery.rechargable.large.png)|553270375|Large Rechargeable Battery|Electrical|
@@ -291,6 +311,7 @@
 |[fish.salmon](/fish.salmon.png)|-851988960|Salmon|Food|
 |[fish.sardine](/fish.sardine.png)|-1654233406|Sardine|Food|
 |[fish.smallshark](/fish.smallshark.png)|-1768880890|Small Shark|Food|
+|[fish.spoiled](/fish.spoiled.png)|1130729138|Spoiled Fish Meat|Food|
 |[fish.troutsmall](/fish.troutsmall.png)|-1878764039|Small Trout|Food|
 |[fish.yellowperch](/fish.yellowperch.png)|680234026|Yellow Perch|Food|
 |[fishing.tackle](/fishing.tackle.png)|-1707425764|Fishing Tackle|Tool|
@@ -364,6 +385,7 @@
 |[green.berry](/green.berry.png)|858486327|Green Berry|Food|
 |[greenidtag](/greenidtag.png)|1762167092|Green ID Tag|Resources|
 |[grenade.beancan](/grenade.beancan.png)|1840822026|Beancan Grenade|Weapon|
+|[grenade.bee](/grenade.bee.png)|1168916338|Bee Grenade|Weapon|
 |[grenade.f1](/grenade.f1.png)|143803535|F1 Grenade|Weapon|
 |[grenade.flashbang](/grenade.flashbang.png)|-936921910|Flashbang|Weapon|
 |[grenade.molotov](/grenade.molotov.png)|1556365900|Molotov Cocktail|Weapon|
@@ -390,6 +412,7 @@
 |[hammer](/hammer.png)|200773292|Hammer|Tool|
 |[hammer.salvaged](/hammer.salvaged.png)|-1506397857|Salvaged Hammer|Tool|
 |[handcuffs](/handcuffs.png)|-839576748|Handcuffs|Tool|
+|[harvestingtea](/harvestingtea.png)|1516531815|Harvesting Tea|Food|
 |[hat.beenie](/hat.beenie.png)|1675639563|Beenie Hat|Attire|
 |[hat.boonie](/hat.boonie.png)|-23994173|Boonie Hat|Attire|
 |[hat.bunnyhat](/hat.bunnyhat.png)|23391694|Bunny Hat|Attire|
@@ -432,7 +455,10 @@
 |[hmlmg](/hmlmg.png)|-1214542497|HMLMG|Weapon|
 |[hobobarrel](/hobobarrel.png)|-1442559428|Hobo Barrel|Items|
 |[homingmissile.launcher](/homingmissile.launcher.png)|-218009552|Homing Missile Launcher|Weapon|
+|[honey](/honey.png)|1601800933|Jar of Honey|Food|
+|[honeycomb](/honeycomb.png)|-1513203236|Honeycomb|Resources|
 |[hoodie](/hoodie.png)|1751045826|Hoodie|Attire|
+|[hopper](/hopper.png)|1428574144|Hopper|Electrical|
 |[horse.armor.roadsign](/horse.armor.roadsign.png)|60528587|Roadsign Horse Armor|Attire|
 |[horse.armor.wood](/horse.armor.wood.png)|1659447559|Wooden Horse Armor|Attire|
 |[horse.saddle.double](/horse.saddle.double.png)|-1323101799|Double Horse Saddle|Attire|
@@ -445,6 +471,7 @@
 |[horsemeat.burned](/horsemeat.burned.png)|1917703890|Burnt Horse Meat|Food|
 |[horsemeat.cooked](/horsemeat.cooked.png)|-1162759543|Cooked Horse Meat|Food|
 |[horsemeat.raw](/horsemeat.raw.png)|-1130350864|Raw Horse Meat|Food|
+|[horsemeat.spoiled](/horsemeat.spoiled.png)|-724146494|Spoiled Horse Meat|Food|
 |[hosetool](/hosetool.png)|363163265|Hose Tool|Electrical|
 |[hq.metal.ore](/hq.metal.ore.png)|-1982036270|High Quality Metal Ore|Resources|
 |[humanmeat.burned](/humanmeat.burned.png)|-682687162|Burnt Human Meat|Food|
@@ -465,6 +492,7 @@
 |[innertube.horse](/innertube.horse.png)|185586769|Inner Tube|Fun|
 |[innertube](/innertube.png)|-697981032|Inner Tube|Fun|
 |[innertube.unicorn](/innertube.unicorn.png)|2052270186|Inner Tube|Fun|
+|[iotable](/iotable.png)|210787554|Engineering Workbench|Items|
 |[jacket](/jacket.png)|-1163532624|Jacket|Attire|
 |[jacket.snow](/jacket.snow.png)|-48090175|Snow Jacket|Attire|
 |[jackhammer](/jackhammer.png)|1488979457|Jackhammer|Tool|
@@ -525,6 +553,7 @@
 |[maxhealthtea.advanced](/maxhealthtea.advanced.png)|603811464|Advanced Max Health Tea|Food|
 |[maxhealthtea](/maxhealthtea.png)|-1184406448|Basic Max Health Tea|Food|
 |[maxhealthtea.pure](/maxhealthtea.pure.png)|1712261904|Pure Max Health Tea|Food|
+|[maxtemptea](/maxtemptea.png)|-284748120|Basic Max Temp Tea|Food|
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
@@ -554,6 +583,7 @@
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
+|[mintemptea](/mintemptea.png)|-1296203562|Basic Min Temp Tea|Food|
 |[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
 |[mixingtable](/mixingtable.png)|1259919256|Mixing Table|Items|
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
@@ -569,7 +599,9 @@
 |[newyeargong](/newyeargong.png)|-961457160|New Year Gong|Fun|
 |[nightvisiongoggles](/nightvisiongoggles.png)|-1518883088|Night Vision Goggles|Attire|
 |[note](/note.png)|1414245162|Note|Misc|
+|[nucleus](/nucleus.png)|-1811234677|Beehive Nucleus|Resources|
 |[orangeidtag](/orangeidtag.png)|-282193997|Orange ID Tag|Resources|
+|[orchid](/orchid.png)|734320711|Orchid|Food|
 |[oretea.advanced](/oretea.advanced.png)|2063916636|Advanced Ore Tea|Food|
 |[oretea](/oretea.png)|1480022580|Basic Ore Tea|Food|
 |[oretea.pure](/oretea.pure.png)|1729374708|Pure Ore Tea|Food|
@@ -587,6 +619,14 @@
 |[photoframe.portrait](/photoframe.portrait.png)|1729712564|Portrait Photo Frame|Items|
 |[piano](/piano.png)|1272430949|Wheelbarrow Piano|Fun|
 |[pickaxe](/pickaxe.png)|-1302129395|Pickaxe|Tool|
+|[pie.apple](/pie.apple.png)|4384538|Apple Pie|Food|
+|[pie.bear](/pie.bear.png)|2039177180|Bear Pie|Food|
+|[pie.chicken](/pie.chicken.png)|120820987|Chicken Pie|Food|
+|[pie.fish](/pie.fish.png)|-1785248332|Fish Pie|Food|
+|[pie.hunters](/pie.hunters.png)|320438357|Hunters Pie|Food|
+|[pie.pork](/pie.pork.png)|1467878256|Pork Pie|Food|
+|[pie.pumpkin](/pie.pumpkin.png)|-1488408786|Pumpkin Pie|Food|
+|[pie.survivors](/pie.survivors.png)|-963820355|Survivor's Pie|Food|
 |[pinata](/pinata.png)|-1442496789|Pinata|Fun|
 |[pinkidtag](/pinkidtag.png)|180752235|Pink ID Tag|Resources|
 |[pipetool](/pipetool.png)|-144513264|Pipe Tool|Electrical|
@@ -604,8 +644,11 @@
 |[pitchfork](/pitchfork.png)|1090916276|Pitchfork|Weapon|
 |[planter.large](/planter.large.png)|1581210395|Large Planter Box|Items|
 |[planter.small](/planter.small.png)|1903654061|Small Planter Box|Items|
+|[planter.triangle](/planter.triangle.png)|-280812482|Triangle Planter Box|Items|
 |[plantfiber](/plantfiber.png)|-804769727|Plant Fiber|Resources|
+|[plantpot.single](/plantpot.single.png)|-430416124|Single Plant Pot|Items|
 |[pookie.bear](/pookie.bear.png)|-1651220691|Pookie Bear|Items|
+|[porkmeat.spoiled](/porkmeat.spoiled.png)|1925646349|Spoiled Pork Meat|Food|
 |[potato](/potato.png)|-2086926071|Potato|Food|
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
 |[prisonerhood](/prisonerhood.png)|-892718768|Prisoner Hood|Attire|
@@ -654,6 +697,7 @@
 |[rockingchair.rockingchair2](/rockingchair.rockingchair2.png)|1758333838|Teal|Items|
 |[rockingchair.rockingchair3](/rockingchair.rockingchair3.png)|192249897|Green|Items|
 |[rope](/rope.png)|1414245522|Rope|Component|
+|[rose](/rose.png)|1414245519|Rose|Food|
 |[rowboat](/rowboat.png)|1878053256|Rowboat|Items|
 |[rug.bear](/rug.bear.png)|-1104881824|Rug Bear Skin|Items|
 |[rug](/rug.png)|-1985799200|Rug|Items|
@@ -693,9 +737,13 @@
 |[seed.corn](/seed.corn.png)|998894949|Corn Seed|Food|
 |[seed.green.berry](/seed.green.berry.png)|-1776128552|Green Berry Seed|Food|
 |[seed.hemp](/seed.hemp.png)|-237809779|Hemp Seed|Food|
+|[seed.orchid](/seed.orchid.png)|1004843240|Orchid Seed|Food|
 |[seed.potato](/seed.potato.png)|-2084071424|Potato Seed|Food|
 |[seed.pumpkin](/seed.pumpkin.png)|-1511285251|Pumpkin Seed|Food|
 |[seed.red.berry](/seed.red.berry.png)|830839496|Red Berry Seed|Food|
+|[seed.rose](/seed.rose.png)|-1037472336|Rose Seed|Food|
+|[seed.sunflower](/seed.sunflower.png)|1412103380|Sunflower Seed|Food|
+|[seed.wheat](/seed.wheat.png)|-1790885730|Wheat Seed|Food|
 |[seed.white.berry](/seed.white.berry.png)|-992286106|White Berry Seed|Food|
 |[seed.yellow.berry](/seed.yellow.berry.png)|-520133715|Yellow Berry Seed|Food|
 |[semibody](/semibody.png)|573926264|Semi Automatic Body|Component|
@@ -810,6 +858,7 @@
 |[submarinesolo](/submarinesolo.png)|-187031121|Solo Submarine|Misc|
 |[sulfur](/sulfur.png)|-1581843485|Sulfur|Resources|
 |[sulfur.ore](/sulfur.ore.png)|-1157596551|Sulfur Ore|Resources|
+|[sunflower](/sunflower.png)|-611118083|Sunflower|Food|
 |[sunglasses](/sunglasses.png)|352321488|Sunglasses|Attire|
 |[sunglasses02black](/sunglasses02black.png)|1258768145|Sunglasses|Attire|
 |[sunglasses02camo](/sunglasses02camo.png)|-2103694546|Sunglasses|Attire|
@@ -839,6 +888,7 @@
 |[torchholder](/torchholder.png)|446206234|Torch Holder|Items|
 |[trap.bear](/trap.bear.png)|-582782051|Snap Trap|Traps|
 |[trap.landmine](/trap.landmine.png)|-1663759755|Homemade Landmine|Traps|
+|[triangle.rail.road.planter](/triangle.rail.road.planter.png)|647240052|Triangle Rail Road Planter|Items|
 |[trike](/trike.png)|1991794121|Trike|Misc|
 |[trophy](/trophy.png)|975983052|Twitch Rivals Trophy|Items|
 |[trophy2023](/trophy2023.png)|-901370585|Twitch Rivals Trophy 2023|Items|
@@ -902,6 +952,10 @@
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
 |[wantedposter.wantedposter4](/wantedposter.wantedposter4.png)|1463862472|Wanted Poster 4|Items|
+|[warmingcombinedtea](/warmingcombinedtea.png)|-403606116|Combined Warming Tea|Food|
+|[warmingtea.advanced](/warmingtea.advanced.png)|-351630003|Advanced Warming Tea|Food|
+|[warmingtea](/warmingtea.png)|-1142222427|Basic Warming Tea|Food|
+|[warmingtea.pure](/warmingtea.pure.png)|-1742339835|Pure Warming Tea|Food|
 |[watchtower.wood](/watchtower.wood.png)|-463122489|Watch Tower|Construction|
 |[water.barrel](/water.barrel.png)|-1863559151|Water Barrel|Items|
 |[water.catcher.large](/water.catcher.large.png)|-1100168350|Large Water Catcher|Construction|
@@ -926,6 +980,7 @@
 |[weapon.mod.small.scope](/weapon.mod.small.scope.png)|567235583|8x Zoom Scope|Weapon|
 |[weaponrack.doublelight](/weaponrack.doublelight.png)|1277159544|Weapon Rack Double Light|Electrical|
 |[weaponrack.light](/weaponrack.light.png)|-1163943815|Weapon Rack Light|Electrical|
+|[wheat](/wheat.png)|1178325727|Wheat|Food|
 |[white.berry](/white.berry.png)|854447607|White Berry|Food|
 |[whiteidtag](/whiteidtag.png)|22947882|White ID Tag|Resources|
 |[wiretool](/wiretool.png)|-144417939|Wire Tool|Electrical|
