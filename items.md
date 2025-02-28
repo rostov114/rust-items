@@ -620,7 +620,7 @@
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|Always too hot. Applies "Vision Care" effect, increasing vision at night and allowing the eater to see tree markings and ore hotspots.|
-|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of Bear meat. Applies "Digestion Boost" effect, doubles effect of harvesting Teas but halves their duration.|
+|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of Bear meat. Applies "Digestion Boost" effect, increases effect of harvesting Teas but reduces their duration.|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Chicken Pie|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Fishy. Adds the "Comfort" modifier, increases the base comfort level by 25%.|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Applies the "Harvesting" boost, increases resources harvested from corpses.|
