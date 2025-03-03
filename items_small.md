@@ -553,7 +553,7 @@
 |![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|
 |![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|
 |![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|
-|![](/maxtemptea.128.webp)|maxtemptea|-284748120|Basic Max Temp Tea|
+|![](/maxtemptea.128.webp)|maxtemptea|-284748120|Max Temperature Tea|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
@@ -583,7 +583,7 @@
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|
-|![](/mintemptea.128.webp)|mintemptea|-1296203562|Basic Min Temp Tea|
+|![](/mintemptea.128.webp)|mintemptea|-1296203562|Minimum Temperature Tea|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|
@@ -660,8 +660,8 @@
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|
 |![](/radiationremovetea.pure.128.webp)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|
-|![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea|
-|![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Anti-Rad Tea|
+|![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Advanced Anti-Rad Tea|
+|![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Basic Anti-Rad Tea|
 |![](/radiationresisttea.pure.128.webp)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|
 |![](/rail.road.planter.128.webp)|rail.road.planter|615112838|Rail Road Planter|
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|

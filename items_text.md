@@ -553,7 +553,7 @@
 |[maxhealthtea.advanced](/maxhealthtea.advanced.png)|603811464|Advanced Max Health Tea|Food|
 |[maxhealthtea](/maxhealthtea.png)|-1184406448|Basic Max Health Tea|Food|
 |[maxhealthtea.pure](/maxhealthtea.pure.png)|1712261904|Pure Max Health Tea|Food|
-|[maxtemptea](/maxtemptea.png)|-284748120|Basic Max Temp Tea|Food|
+|[maxtemptea](/maxtemptea.png)|-284748120|Max Temperature Tea|Food|
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
@@ -583,7 +583,7 @@
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
-|[mintemptea](/mintemptea.png)|-1296203562|Basic Min Temp Tea|Food|
+|[mintemptea](/mintemptea.png)|-1296203562|Minimum Temperature Tea|Food|
 |[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
 |[mixingtable](/mixingtable.png)|1259919256|Mixing Table|Items|
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
@@ -660,8 +660,8 @@
 |[radiationremovetea.advanced](/radiationremovetea.advanced.png)|2021351233|Advanced Rad. Removal Tea|Food|
 |[radiationremovetea](/radiationremovetea.png)|-496584751|Rad. Removal Tea|Food|
 |[radiationremovetea.pure](/radiationremovetea.pure.png)|1905387657|Pure Rad. Removal Tea|Food|
-|[radiationresisttea.advanced](/radiationresisttea.advanced.png)|-1729415579|Adv. Anti-Rad Tea|Food|
-|[radiationresisttea](/radiationresisttea.png)|-487356515|Anti-Rad Tea|Food|
+|[radiationresisttea.advanced](/radiationresisttea.advanced.png)|-1729415579|Advanced Anti-Rad Tea|Food|
+|[radiationresisttea](/radiationresisttea.png)|-487356515|Basic Anti-Rad Tea|Food|
 |[radiationresisttea.pure](/radiationresisttea.pure.png)|-33009419|Pure Anti-Rad Tea|Food|
 |[rail.road.planter](/rail.road.planter.png)|615112838|Rail Road Planter|Items|
 |[red.berry](/red.berry.png)|1272194103|Red Berry|Food|
