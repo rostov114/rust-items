@@ -170,11 +170,11 @@
 |![](/clone.white.berry.128.webp)|clone.white.berry|1533551194|White Berry Clone|Food|A clipping of a White Berry Plant.|
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|Food|A clipping of a Yellow Berry Plant.|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|Resources|Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more.|
-|![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|Items|Armor insert that adds heat protection.|
-|![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Armor insert that adds radiation protection.|
+|![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|Items|Asbestos insert providing extra protection from heat for crafted clothes and armor.|
+|![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor at the cost of reduced movement speed.|
 |![](/clothing.mod.armorinsert_leather.128.webp)|clothing.mod.armorinsert_leather|-2103136326|Leather Armor Insert|Items|Additional protection that can be inserted into clothing slots.|
-|![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Additional protection that can be inserted into clothing slots.|
-|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Additional protection that can be inserted into clothing slots.|
+|![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from bullets at the cost of reduced movement speed.|
+|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee. |
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
@@ -187,7 +187,7 @@
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced dishes|
 |![](/coolingtea.advanced.128.webp)|coolingtea.advanced|2077323731|Advanced Cooling Tea|Food|A tea that decreases your core temperature.|
-|![](/coolingtea.128.webp)|coolingtea|-1260229965|Basic Cooling Tea|Food|A tea that decreasesyour core temperature.|
+|![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|Food|A cooling tea that temporarily decreases your max and core temperature.|
 |![](/coolingtea.pure.128.webp)|coolingtea.pure|-1600691369|Pure Cooling Tea|Food|A tea that decreases your core temperature.|
 |![](/corn.128.webp)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|Food|A tea that increases the chances of a higher quality crafting outcome.|
@@ -413,7 +413,7 @@
 |![](/hammer.128.webp)|hammer|200773292|Hammer|Tool|A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|Tool|A Hammer made from a bunch of other crap.|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|Tool|Handcuffs|
-|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|Food|A tea that increases the amount of resources you receive from harvesting corpses by 50%.|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|Food|A basic tea that temporarily increases the amount of resources you receive from harvesting corpses a small amount.|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat.|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat.|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
@@ -445,9 +445,9 @@
 |![](/hazmatsuittwitch.128.webp)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|Attire|A purple hazmat suit made from radiation resistant rubber.|
 |![](/hazmatyoutooz.128.webp)|hazmatyoutooz|-1696379844|Hazmat Youtooz|Items|Hazmat Youtooz|
 |![](/head.bag.128.webp)|head.bag|209218760|Head Bag|Misc|A sack containing the head of a defeated foe. Can be added to trophies.|
-|![](/healingtea.advanced.128.webp)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|A tea that restores health over time.|
-|![](/healingtea.128.webp)|healingtea|-929092070|Basic Healing Tea|Food|A tea that restores health over time.|
-|![](/healingtea.pure.128.webp)|healingtea.pure|-1677315902|Pure Healing Tea|Food|A tea that restores health over time.|
+|![](/healingtea.advanced.128.webp)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|An advanced healing tea, provides hydration and heals you a moderate amount over time.|
+|![](/healingtea.128.webp)|healingtea|-929092070|Basic Healing Tea|Food|A basic healing tea, provides hydration and heals you a small amount over time.|
+|![](/healingtea.pure.128.webp)|healingtea.pure|-1677315902|Pure Healing Tea|Food|A pure healing tea, provides hydration and heals you a large amount over time.|
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
@@ -551,9 +551,9 @@
 |![](/map.128.webp)|map|696029452|Paper Map|Items|Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.Drag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default).|
 |![](/mask.balaclava.128.webp)|mask.balaclava|-2012470695|Improvised Balaclava|Attire|A home made balaclava.|
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
-|![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|A tea that increases your maximum health.|
-|![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A tea that increases your maximum health.|
-|![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|A tea that increases your maximum health.|
+|![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a moderate amount.|
+|![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A basic health tea, provides hydration and temporarily boosts maximum health a small amount.|
+|![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a large amount.|
 |![](/maxtemptea.128.webp)|maxtemptea|-284748120|Basic Max Temp Tea|Food|A tea that decreases your max temperature.|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
@@ -600,12 +600,12 @@
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.128.webp)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
-|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|Required for an artifical Beehive to generate honey and bees.|
+|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|Required for an artifical Beehive to generate honey and bees. Lower grades give more Honeycomb.|
 |![](/orangeidtag.128.webp)|orangeidtag|-282193997|Orange ID Tag|Resources|Orange ID Tag|
 |![](/orchid.128.webp)|orchid|734320711|Orchid|Food|Smells nice.|
-|![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|Food|A tea that increases the amount of ore you receive.|
-|![](/oretea.128.webp)|oretea|1480022580|Basic Ore Tea|Food|A tea that increases the amount of ore you receive.|
-|![](/oretea.pure.128.webp)|oretea.pure|1729374708|Pure Ore Tea|Food|A tea that increases the amount of ore you receive.|
+|![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|Food|An advanced ore tea, provides hydration and temporarily increases your yield from ores a moderate amount.|
+|![](/oretea.128.webp)|oretea|1480022580|Basic Ore Tea|Food|A basic ore tea, provides hydration and temporarily increases your yield from harvesting ores a small amount.|
+|![](/oretea.pure.128.webp)|oretea.pure|1729374708|Pure Ore Tea|Food|A pure ore tea, provides hydration and temporarily increases your yield when harvesting ores a large amount.|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
 |![](/pants.128.webp)|pants|237239288|Pants|Attire|Pants.|
@@ -620,14 +620,14 @@
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
-|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|Always too hot. Applies "Vision Care" effect, increasing vision at night and allowing the eater to see tree markings and ore hotspots.|
-|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of Bear meat. Applies "Digestion Boost" effect, doubles effect of harvesting Teas but halves their duration.|
-|![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Chicken Pie|
-|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Fishy. Adds the "Comfort" modifier, increases the base comfort level by 25%.|
-|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Applies the "Harvesting" boost, increases resources harvested from corpses.|
-|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Oink oink. Applies "Metabolism Booster" effect, increases heal over time effect from healing sources like other food.|
-|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky. Increases Max Health by 10%.|
-|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|Greetings, Survivors. Grants a harvesting buff that increases resources gathered from harvesting corpses.|
+|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision and lets you to see tree markings and ore hotspots for a short time.|
+|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration, and increases effect of harvesting teas but reduces their duration.|
+|![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Just like mom used to make. Provides a boost to hunger, health and hydration, and increases the chance of better genes from crops for short time.|
+|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration and increases base comfort level for a short time.|
+|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration, and reduces bleeding for a short time.|
+|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration, and improves healing rate from other sources for a short time.|
+|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, Provides a boost to health, hunger and hydration, and increases maximum health for a short time.|
+|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration, and increases yield when harvesting corpses for a short time.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
@@ -661,9 +661,9 @@
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.pure.128.webp)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|Food|A tea that removes some radiation.|
-|![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
-|![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
-|![](/radiationresisttea.pure.128.webp)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A tea that reduces the amount of health lost due to radiation.|
+|![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Advanced Anti-Rad Tea|Food|An advanced tea that provides some hydration and temporarily increases your resistance to radiation a moderate amount.|
+|![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Basic Anti-Rad Tea|Food|A basic tea that provides hydration and temporarily increases your resistance to radiation a small amount.|
+|![](/radiationresisttea.pure.128.webp)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A pure tea that provides hydration and temporarily increases your resistance to radiation a large amount.|
 |![](/rail.road.planter.128.webp)|rail.road.planter|615112838|Rail Road Planter|Items|A large planter with enough room to plant 9 seeds.|
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
@@ -726,9 +726,9 @@
 |![](/scrapmirror.medium.128.webp)|scrapmirror.medium|839738457|Scrap Mirror Medium|Items|A medium scrap mirror|
 |![](/scrapmirror.small.128.webp)|scrapmirror.small|-1050697733|Scrap Mirror Small|Items|A small scrap mirror|
 |![](/scrapmirror.standing.128.webp)|scrapmirror.standing|-1380144986|Scrap Mirror Standing|Items|A standing scrap mirror|
-|![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
-|![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
-|![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A tea that increases the amount of scrap you receive from barrels.|
+|![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|An advanced scrap tea, temporarily increases the amount of scrap you recieve from barrels a moderate amount.|
+|![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A basic scrap tea, temporarily increases the amount of scrap you recieve from barrels a small amount.|
+|![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you recieve from barrels a large amount.|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|An block of ice you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
@@ -955,7 +955,7 @@
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can display a given player's face as wanted.|
 |![](/warmingcombinedtea.128.webp)|warmingcombinedtea|-403606116|Combined Warming Tea|Food|A tea that increases your minimum and core temperature.|
 |![](/warmingtea.advanced.128.webp)|warmingtea.advanced|-351630003|Advanced Warming Tea|Food|A tea that increases your core temperature.|
-|![](/warmingtea.128.webp)|warmingtea|-1142222427|Basic Warming Tea|Food|A tea that increases your core temperature.|
+|![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|Food|A warming tea that temporarily increases both your core and minimum temperature.|
 |![](/warmingtea.pure.128.webp)|warmingtea.pure|-1742339835|Pure Warming Tea|Food|A tea that increases your core temperature.|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
@@ -1003,9 +1003,9 @@
 |![](/woodmirror.medium.128.webp)|woodmirror.medium|756125481|Wood Mirror Medium|Items|A medium wood mirror|
 |![](/woodmirror.small.128.webp)|woodmirror.small|-1497205569|Wood Mirror Small|Items|A small wooden mirror|
 |![](/woodmirror.standing.128.webp)|woodmirror.standing|723407026|Wood Mirror Standing|Items|A standing wooden mirror|
-|![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
-|![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
-|![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|Food|A tea that increases the amount of wood you receive from trees.|
+|![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|An advanced wood tea, temporarily increases the yield from cutting trees a moderate amount.|
+|![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|Food|A basic wood tea, temporarily increases the yield from cutting trees a small amount.|
+|![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount.|
 |![](/workbench1.128.webp)|workbench1|1524187186|Workbench Level 1|Items|This allows you to craft and unlock items requiring workbench level 1|
 |![](/workbench2.128.webp)|workbench2|-41896755|Workbench Level 2|Items|This allows you to craft and unlock items requiring workbench level 2|
 |![](/workbench3.128.webp)|workbench3|-1607980696|Workbench Level 3|Items|This allows you to craft and unlock items requiring workbench level 3|

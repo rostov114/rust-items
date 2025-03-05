@@ -187,7 +187,7 @@
 |[connected.speaker](/connected.speaker.png)|968421290|Connected Speaker|Fun|
 |[cookingworkbench](/cookingworkbench.png)|1456143403|Cooking Workbench|Items|
 |[coolingtea.advanced](/coolingtea.advanced.png)|2077323731|Advanced Cooling Tea|Food|
-|[coolingtea](/coolingtea.png)|-1260229965|Basic Cooling Tea|Food|
+|[coolingtea](/coolingtea.png)|-1260229965|Cooling Tea|Food|
 |[coolingtea.pure](/coolingtea.pure.png)|-1600691369|Pure Cooling Tea|Food|
 |[corn](/corn.png)|1367190888|Corn|Food|
 |[craftingtea_quality](/craftingtea_quality.png)|368008432|Crafting Quality Tea|Food|
@@ -661,8 +661,8 @@
 |[radiationremovetea.advanced](/radiationremovetea.advanced.png)|2021351233|Advanced Rad. Removal Tea|Food|
 |[radiationremovetea](/radiationremovetea.png)|-496584751|Rad. Removal Tea|Food|
 |[radiationremovetea.pure](/radiationremovetea.pure.png)|1905387657|Pure Rad. Removal Tea|Food|
-|[radiationresisttea.advanced](/radiationresisttea.advanced.png)|-1729415579|Adv. Anti-Rad Tea|Food|
-|[radiationresisttea](/radiationresisttea.png)|-487356515|Anti-Rad Tea|Food|
+|[radiationresisttea.advanced](/radiationresisttea.advanced.png)|-1729415579|Advanced Anti-Rad Tea|Food|
+|[radiationresisttea](/radiationresisttea.png)|-487356515|Basic Anti-Rad Tea|Food|
 |[radiationresisttea.pure](/radiationresisttea.pure.png)|-33009419|Pure Anti-Rad Tea|Food|
 |[rail.road.planter](/rail.road.planter.png)|615112838|Rail Road Planter|Items|
 |[red.berry](/red.berry.png)|1272194103|Red Berry|Food|
@@ -955,7 +955,7 @@
 |[wantedposter.wantedposter4](/wantedposter.wantedposter4.png)|1463862472|Wanted Poster 4|Items|
 |[warmingcombinedtea](/warmingcombinedtea.png)|-403606116|Combined Warming Tea|Food|
 |[warmingtea.advanced](/warmingtea.advanced.png)|-351630003|Advanced Warming Tea|Food|
-|[warmingtea](/warmingtea.png)|-1142222427|Basic Warming Tea|Food|
+|[warmingtea](/warmingtea.png)|-1142222427|Warming Tea|Food|
 |[warmingtea.pure](/warmingtea.pure.png)|-1742339835|Pure Warming Tea|Food|
 |[watchtower.wood](/watchtower.wood.png)|-463122489|Watch Tower|Construction|
 |[water.barrel](/water.barrel.png)|-1863559151|Water Barrel|Items|
