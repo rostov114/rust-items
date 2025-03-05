@@ -173,7 +173,7 @@
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|Items|Asbestos insert providing extra protection from heat for crafted clothes and armor.|
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor at the cost of reduced movement speed.|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from bullets at the cost of reduced movement speed.|
-|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee.|
+|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee. |
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
@@ -186,7 +186,7 @@
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced dishes|
 |![](/coolingtea.advanced.128.webp)|coolingtea.advanced|2077323731|Advanced Cooling Tea|Food|An advanced cooling tea, temporarily decreases your core temperature a moderate amount.|
-|![](/coolingtea.128.webp)|coolingtea|-1260229965|Basic Cooling Tea|Food|A basic cooling tea, temporarily decreases your core temperature a small amount.|
+|![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|Food|A cooling tea that temporarily decreases your max and core temperature.|
 |![](/coolingtea.pure.128.webp)|coolingtea.pure|-1600691369|Pure Cooling Tea|Food|A pure cooling tea, temporarily decreases your core temperature a large amount.|
 |![](/corn.128.webp)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|Food|A tea that increases the chances of a higher quality crafting outcome.|
@@ -599,7 +599,7 @@
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.128.webp)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
-|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|Required for an artifical Beehive to generate honey and bees.|
+|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|Required for an artifical Beehive to generate honey and bees. Lower grades give more Honeycomb.|
 |![](/orangeidtag.128.webp)|orangeidtag|-282193997|Orange ID Tag|Resources|Orange ID Tag|
 |![](/orchid.128.webp)|orchid|734320711|Orchid|Food|Smells nice.|
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|Food|An advanced ore tea, provides hydration and temporarily increases your yield from ores a moderate amount.|
@@ -954,7 +954,7 @@
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can display a given player's face as wanted.|
 |![](/warmingcombinedtea.128.webp)|warmingcombinedtea|-403606116|Combined Warming Tea|Food|A combined warming tea that temporarily increases both your core and minimum temperature.|
 |![](/warmingtea.advanced.128.webp)|warmingtea.advanced|-351630003|Advanced Warming Tea|Food|An advanced warming tea, temporarily raises your core temperature a moderate amount.|
-|![](/warmingtea.128.webp)|warmingtea|-1142222427|Basic Warming Tea|Food|A basic warming tea, temporarily increases your core temperature a small amount.|
+|![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|Food|A warming tea that temporarily increases both your core and minimum temperature.|
 |![](/warmingtea.pure.128.webp)|warmingtea.pure|-1742339835|Pure Warming Tea|Food|A pure warming tea, temporarily increases your core temperature a large amount.|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
