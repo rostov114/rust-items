@@ -81,7 +81,7 @@
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
 |![](/bearmeat.spoiled.128.webp)|bearmeat.spoiled|1348294923|Spoiled Bear Meat|Food|Spoiled Bear Meat. Consuming will damage your health.|
 |![](/bed.128.webp)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
-|![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Stores bees and lets them make honey.|
+|![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Artificial beehive, place a nucleus inside to raise your own bees and produce honeycomb. Happy bees will make honeycomb more quickly.|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|Misc|A pedal bike.|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|Food|A black berry.|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|Food|Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
@@ -171,7 +171,7 @@
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|Food|A clipping of a Yellow Berry Plant.|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|Resources|Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more.|
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|Items|Asbestos insert providing extra protection from heat for crafted clothes and armor.|
-|![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor at the cost of reduced movement speed.|
+|![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor, at the cost of reduced movement speed.|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from bullets at the cost of reduced movement speed.|
 |![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee. |
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
@@ -184,7 +184,7 @@
 |![](/concretepickaxe.128.webp)|concretepickaxe|-1360171080|Concrete Pickaxe|Tool|A salvaged piece of concrete and rebar with a sharp edge. Can be used to harvest Stone, Metal ore and Sulfur ore.|
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|Fun|Blast a cloud of birthday themed confetti cheer.|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
-|![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced dishes|
+|![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced recipes for food, fuel, ammunition and explosives.|
 |![](/coolingtea.advanced.128.webp)|coolingtea.advanced|2077323731|Advanced Cooling Tea|Food|An advanced cooling tea, temporarily decreases your core temperature a moderate amount.|
 |![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|Food|A cooling tea that temporarily decreases your max and core temperature.|
 |![](/coolingtea.pure.128.webp)|coolingtea.pure|-1600691369|Pure Cooling Tea|Food|A pure cooling tea, temporarily decreases your core temperature a large amount.|
@@ -385,7 +385,7 @@
 |![](/green.berry.128.webp)|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/greenidtag.128.webp)|greenidtag|1762167092|Green ID Tag|Resources|Green ID Tag|
 |![](/grenade.beancan.128.webp)|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
-|![](/grenade.bee.128.webp)|grenade.bee|1168916338|Bee Grenade|Weapon|A glass jar full of bee's|
+|![](/grenade.bee.128.webp)|grenade.bee|1168916338|Bee Grenade|Weapon|A fragile glass jar, throw it to unleash a swarm of bees on the nearest target. The bees will deal damage quickly but they don't like fire or water.|
 |![](/grenade.f1.128.webp)|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
 |![](/grenade.flashbang.128.webp)|grenade.flashbang|-936921910|Flashbang|Weapon|A bright explosive device which blinds and disorients anyone near it upon detonation|
 |![](/grenade.molotov.128.webp)|grenade.molotov|1556365900|Molotov Cocktail|Weapon|An incendiary device|
@@ -455,7 +455,7 @@
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
-|![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A Jar of Honey. Great in pies.|
+|![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A jar of honey, good for reducing hunger or radiation. Can also be saved for recipes. The source of the glass jar is a mystery.|
 |![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Resources|These building blocks of a beehive can turn into honey or nuclei. Cooking them in a furnace guarantees honey.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
@@ -599,7 +599,7 @@
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.128.webp)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
-|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|Required for an artifical Beehive to generate honey and bees. Lower grades give more Honeycomb.|
+|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|The heart of any hive, needed for raising bees. Produce honeycomb to earn XP and increase its grade. Higher grades will produce more honeycomb at once.|
 |![](/orangeidtag.128.webp)|orangeidtag|-282193997|Orange ID Tag|Resources|Orange ID Tag|
 |![](/orchid.128.webp)|orchid|734320711|Orchid|Food|Smells nice.|
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|Food|An advanced ore tea, provides hydration and temporarily increases your yield from ores a moderate amount.|
