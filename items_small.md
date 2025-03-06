@@ -79,7 +79,9 @@
 |![](/bearmeat.burned.128.webp)|bearmeat.burned|-989755543|Burnt Bear Meat|
 |![](/bearmeat.cooked.128.webp)|bearmeat.cooked|1873897110|Cooked Bear Meat|
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|
+|![](/bearmeat.spoiled.128.webp)|bearmeat.spoiled|1348294923|Spoiled Bear Meat|
 |![](/bed.128.webp)|bed|-1273339005|Bed|
+|![](/beehive.128.webp)|beehive|184516676|Beehive|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|
@@ -104,6 +106,7 @@
 |![](/box.repair.bench.128.webp)|box.repair.bench|803222026|Repair Bench|
 |![](/box.wooden.128.webp)|box.wooden|-180129657|Wood Storage Box|
 |![](/box.wooden.large.128.webp)|box.wooden.large|833533164|Large Wood Box|
+|![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|
 |![](/building.planner.128.webp)|building.planner|1525520776|Building Plan|
@@ -146,6 +149,7 @@
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|
 |![](/chicken.raw.128.webp)|chicken.raw|-1440987069|Raw Chicken Breast|
 |![](/chicken.spoiled.128.webp)|chicken.spoiled|-751151717|Spoiled Chicken|
+|![](/chickencoop.128.webp)|chickencoop|-2018158920|Chicken Coop|
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|
 |![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|
@@ -156,12 +160,20 @@
 |![](/clone.corn.128.webp)|clone.corn|-778875547|Corn Clone|
 |![](/clone.green.berry.128.webp)|clone.green.berry|-1305326964|Green Berry Clone|
 |![](/clone.hemp.128.webp)|clone.hemp|-886280491|Hemp Clone|
+|![](/clone.orchid.128.webp)|clone.orchid|-798662404|Orchid Clone|
 |![](/clone.potato.128.webp)|clone.potato|1512054436|Potato Clone|
 |![](/clone.pumpkin.128.webp)|clone.pumpkin|1898094925|Pumpkin Plant Clone|
 |![](/clone.red.berry.128.webp)|clone.red.berry|2133269020|Red Berry Clone|
+|![](/clone.rose.128.webp)|clone.rose|-19360132|Rose Clone|
+|![](/clone.sunflower.128.webp)|clone.sunflower|912235912|Sunflower Clone|
+|![](/clone.wheat.128.webp)|clone.wheat|924598634|Wheat Clone|
 |![](/clone.white.berry.128.webp)|clone.white.berry|1533551194|White Berry Clone|
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|
+|![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|
+|![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|
+|![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|
+|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|
 |![](/coal.128.webp)|coal|204391461|Coal :(|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
@@ -171,7 +183,10 @@
 |![](/concretepickaxe.128.webp)|concretepickaxe|-1360171080|Concrete Pickaxe|
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|
+|![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|
+|![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|
 |![](/corn.128.webp)|corn|1367190888|Corn|
+|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|
@@ -187,6 +202,7 @@
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|
 |![](/deermeat.raw.128.webp)|deermeat.raw|1422530437|Raw Deer Meat|
+|![](/deermeat.spoiled.128.webp)|deermeat.spoiled|-2035449523|Spoiled Deer Meat|
 |![](/diesel_barrel.128.webp)|diesel_barrel|1568388703|Diesel Fuel|
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|
@@ -222,6 +238,7 @@
 |![](/easter.silveregg.128.webp)|easter.silveregg|1757265204|Silver Egg|
 |![](/easterbasket.128.webp)|easterbasket|1856217390|Egg Basket|
 |![](/easterdoorwreath.128.webp)|easterdoorwreath|-979302481|Easter Door Wreath|
+|![](/egg.128.webp)|egg|1858828593|Egg|
 |![](/electric.andswitch.128.webp)|electric.andswitch|1171735914|AND Switch|
 |![](/electric.audioalarm.128.webp)|electric.audioalarm|2100007442|Audio Alarm|
 |![](/electric.battery.rechargable.large.128.webp)|electric.battery.rechargable.large|553270375|Large Rechargeable Battery|
@@ -291,6 +308,7 @@
 |![](/fish.salmon.128.webp)|fish.salmon|-851988960|Salmon|
 |![](/fish.sardine.128.webp)|fish.sardine|-1654233406|Sardine|
 |![](/fish.smallshark.128.webp)|fish.smallshark|-1768880890|Small Shark|
+|![](/fish.spoiled.128.webp)|fish.spoiled|1130729138|Spoiled Fish Meat|
 |![](/fish.troutsmall.128.webp)|fish.troutsmall|-1878764039|Small Trout|
 |![](/fish.yellowperch.128.webp)|fish.yellowperch|680234026|Yellow Perch|
 |![](/fishing.tackle.128.webp)|fishing.tackle|-1707425764|Fishing Tackle|
@@ -364,6 +382,7 @@
 |![](/green.berry.128.webp)|green.berry|858486327|Green Berry|
 |![](/greenidtag.128.webp)|greenidtag|1762167092|Green ID Tag|
 |![](/grenade.beancan.128.webp)|grenade.beancan|1840822026|Beancan Grenade|
+|![](/grenade.bee.128.webp)|grenade.bee|1168916338|Bee Grenade|
 |![](/grenade.f1.128.webp)|grenade.f1|143803535|F1 Grenade|
 |![](/grenade.flashbang.128.webp)|grenade.flashbang|-936921910|Flashbang|
 |![](/grenade.molotov.128.webp)|grenade.molotov|1556365900|Molotov Cocktail|
@@ -390,6 +409,7 @@
 |![](/hammer.128.webp)|hammer|200773292|Hammer|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|
@@ -432,7 +452,10 @@
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|
+|![](/honey.128.webp)|honey|1601800933|Jar of Honey|
+|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|
+|![](/hopper.128.webp)|hopper|1428574144|Hopper|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|
 |![](/horse.saddle.double.128.webp)|horse.saddle.double|-1323101799|Double Horse Saddle|
@@ -445,6 +468,7 @@
 |![](/horsemeat.burned.128.webp)|horsemeat.burned|1917703890|Burnt Horse Meat|
 |![](/horsemeat.cooked.128.webp)|horsemeat.cooked|-1162759543|Cooked Horse Meat|
 |![](/horsemeat.raw.128.webp)|horsemeat.raw|-1130350864|Raw Horse Meat|
+|![](/horsemeat.spoiled.128.webp)|horsemeat.spoiled|-724146494|Spoiled Horse Meat|
 |![](/hosetool.128.webp)|hosetool|363163265|Hose Tool|
 |![](/hq.metal.ore.128.webp)|hq.metal.ore|-1982036270|High Quality Metal Ore|
 |![](/humanmeat.burned.128.webp)|humanmeat.burned|-682687162|Burnt Human Meat|
@@ -465,6 +489,7 @@
 |![](/innertube.horse.128.webp)|innertube.horse|185586769|Inner Tube|
 |![](/innertube.128.webp)|innertube|-697981032|Inner Tube|
 |![](/innertube.unicorn.128.webp)|innertube.unicorn|2052270186|Inner Tube|
+|![](/iotable.128.webp)|iotable|210787554|Engineering Workbench|
 |![](/jacket.128.webp)|jacket|-1163532624|Jacket|
 |![](/jacket.snow.128.webp)|jacket.snow|-48090175|Snow Jacket|
 |![](/jackhammer.128.webp)|jackhammer|1488979457|Jackhammer|
@@ -569,7 +594,9 @@
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|
 |![](/note.128.webp)|note|1414245162|Note|
+|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|
 |![](/orangeidtag.128.webp)|orangeidtag|-282193997|Orange ID Tag|
+|![](/orchid.128.webp)|orchid|734320711|Orchid|
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|
 |![](/oretea.128.webp)|oretea|1480022580|Basic Ore Tea|
 |![](/oretea.pure.128.webp)|oretea.pure|1729374708|Pure Ore Tea|
@@ -587,6 +614,14 @@
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|
+|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|
+|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|
+|![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|
+|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|
+|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|
+|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|
+|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|
+|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|
@@ -604,8 +639,11 @@
 |![](/pitchfork.128.webp)|pitchfork|1090916276|Pitchfork|
 |![](/planter.large.128.webp)|planter.large|1581210395|Large Planter Box|
 |![](/planter.small.128.webp)|planter.small|1903654061|Small Planter Box|
+|![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|
+|![](/plantpot.single.128.webp)|plantpot.single|-430416124|Single Plant Pot|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|
+|![](/porkmeat.spoiled.128.webp)|porkmeat.spoiled|1925646349|Spoiled Pork Meat|
 |![](/potato.128.webp)|potato|-2086926071|Potato|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|
 |![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|
@@ -617,8 +655,8 @@
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|
 |![](/radiationremovetea.pure.128.webp)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|
-|![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Adv. Anti-Rad Tea|
-|![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Anti-Rad Tea|
+|![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Advanced Anti-Rad Tea|
+|![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Basic Anti-Rad Tea|
 |![](/radiationresisttea.pure.128.webp)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|
 |![](/rail.road.planter.128.webp)|rail.road.planter|615112838|Rail Road Planter|
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|
@@ -654,6 +692,7 @@
 |![](/rockingchair.rockingchair2.128.webp)|rockingchair.rockingchair2|1758333838|Teal|
 |![](/rockingchair.rockingchair3.128.webp)|rockingchair.rockingchair3|192249897|Green|
 |![](/rope.128.webp)|rope|1414245522|Rope|
+|![](/rose.128.webp)|rose|1414245519|Rose|
 |![](/rowboat.128.webp)|rowboat|1878053256|Rowboat|
 |![](/rug.bear.128.webp)|rug.bear|-1104881824|Rug Bear Skin|
 |![](/rug.128.webp)|rug|-1985799200|Rug|
@@ -693,9 +732,13 @@
 |![](/seed.corn.128.webp)|seed.corn|998894949|Corn Seed|
 |![](/seed.green.berry.128.webp)|seed.green.berry|-1776128552|Green Berry Seed|
 |![](/seed.hemp.128.webp)|seed.hemp|-237809779|Hemp Seed|
+|![](/seed.orchid.128.webp)|seed.orchid|1004843240|Orchid Seed|
 |![](/seed.potato.128.webp)|seed.potato|-2084071424|Potato Seed|
 |![](/seed.pumpkin.128.webp)|seed.pumpkin|-1511285251|Pumpkin Seed|
 |![](/seed.red.berry.128.webp)|seed.red.berry|830839496|Red Berry Seed|
+|![](/seed.rose.128.webp)|seed.rose|-1037472336|Rose Seed|
+|![](/seed.sunflower.128.webp)|seed.sunflower|1412103380|Sunflower Seed|
+|![](/seed.wheat.128.webp)|seed.wheat|-1790885730|Wheat Seed|
 |![](/seed.white.berry.128.webp)|seed.white.berry|-992286106|White Berry Seed|
 |![](/seed.yellow.berry.128.webp)|seed.yellow.berry|-520133715|Yellow Berry Seed|
 |![](/semibody.128.webp)|semibody|573926264|Semi Automatic Body|
@@ -810,6 +853,7 @@
 |![](/submarinesolo.128.webp)|submarinesolo|-187031121|Solo Submarine|
 |![](/sulfur.128.webp)|sulfur|-1581843485|Sulfur|
 |![](/sulfur.ore.128.webp)|sulfur.ore|-1157596551|Sulfur Ore|
+|![](/sunflower.128.webp)|sunflower|-611118083|Sunflower|
 |![](/sunglasses.128.webp)|sunglasses|352321488|Sunglasses|
 |![](/sunglasses02black.128.webp)|sunglasses02black|1258768145|Sunglasses|
 |![](/sunglasses02camo.128.webp)|sunglasses02camo|-2103694546|Sunglasses|
@@ -839,6 +883,7 @@
 |![](/torchholder.128.webp)|torchholder|446206234|Torch Holder|
 |![](/trap.bear.128.webp)|trap.bear|-582782051|Snap Trap|
 |![](/trap.landmine.128.webp)|trap.landmine|-1663759755|Homemade Landmine|
+|![](/triangle.rail.road.planter.128.webp)|triangle.rail.road.planter|647240052|Triangle Rail Road Planter|
 |![](/trike.128.webp)|trike|1991794121|Trike|
 |![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|
 |![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|
@@ -902,6 +947,7 @@
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|
+|![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|
@@ -926,6 +972,7 @@
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|
 |![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|
+|![](/wheat.128.webp)|wheat|1178325727|Wheat|
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|
 |![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|
