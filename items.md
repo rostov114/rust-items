@@ -81,7 +81,7 @@
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
 |![](/bearmeat.spoiled.128.webp)|bearmeat.spoiled|1348294923|Spoiled Bear Meat|Food|Spoiled Bear Meat. Consuming will damage your health.|
 |![](/bed.128.webp)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
-|![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Artificial beehive, place a nucleus inside to raise your own bees and produce honeycomb. Happy bees will make honeycomb more quickly.|
+|![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Hand made beehive, place a nucleus inside to raise your own bees and produce honeycomb. Happy bees will make honeycomb more quickly.|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|Misc|A pedal bike.|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|Food|A black berry.|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|Food|Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
@@ -106,7 +106,7 @@
 |![](/box.repair.bench.128.webp)|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
 |![](/box.wooden.128.webp)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 18 items.|
 |![](/box.wooden.large.128.webp)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
-|![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|Food|A Loaf of Bread. Eating it provides a small boost to health, hunger|
+|![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|Food|A loaf of bread, eating it provides a boost to health, hunger and hydration. Feeding to a horse will provide a boost t o its digestion and dung production for a short time.|
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
 |![](/building.planner.128.webp)|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
@@ -149,7 +149,7 @@
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|Attire|An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
 |![](/chicken.raw.128.webp)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.128.webp)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
-|![](/chickencoop.128.webp)|chickencoop|-2018158920|Chicken Coop|Items|An enclosure to keep some chickens around.|
+|![](/chickencoop.128.webp)|chickencoop|-2018158920|Chicken Coop|Items|An enclosure to keep some chickens around. Chickens with plenty of food, water and sunlight produce more eggs.|
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
 |![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|Items|A decorative White Paper lantern|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
@@ -177,7 +177,6 @@
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
-|![](/combinedcoolingptea.128.webp)|combinedcoolingptea|1431167058|Combined Cooling Tea|Food|A combined tea that temporarily decreases your max and core temperature.|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
@@ -185,9 +184,7 @@
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|Fun|Blast a cloud of birthday themed confetti cheer.|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced recipes for food, fuel, ammunition and explosives.|
-|![](/coolingtea.advanced.128.webp)|coolingtea.advanced|2077323731|Advanced Cooling Tea|Food|An advanced cooling tea, temporarily decreases your core temperature a moderate amount.|
 |![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|Food|A cooling tea that temporarily decreases your max and core temperature.|
-|![](/coolingtea.pure.128.webp)|coolingtea.pure|-1600691369|Pure Cooling Tea|Food|A pure cooling tea, temporarily decreases your core temperature a large amount.|
 |![](/corn.128.webp)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|Food|A tea that increases the chances of a higher quality crafting outcome.|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
@@ -241,7 +238,7 @@
 |![](/easter.silveregg.128.webp)|easter.silveregg|1757265204|Silver Egg|Misc|A Silver Egg. Contains medium level loot, Collect 10 to upgrade to a gold Egg|
 |![](/easterbasket.128.webp)|easterbasket|1856217390|Egg Basket|Misc|An easter egg basket. Equip to pick up eggs during an easter egg hunt with left click. Use right click to throw|
 |![](/easterdoorwreath.128.webp)|easterdoorwreath|-979302481|Easter Door Wreath|Items|A beautiful, hand crafted Easter themed door wreath.|
-|![](/egg.128.webp)|egg|1858828593|Egg|Food|An egg, laid by a chicken. Can be eaten or hatched in a chicken coop.|
+|![](/egg.128.webp)|egg|1858828593|Egg|Food|An egg laid by a chicken, will hatch in a coop. Can be eaten raw for a small boost to health, hydration and hydration, or added to some recipes at a cooking workbench for greater benefits.|
 |![](/electric.andswitch.128.webp)|electric.andswitch|1171735914|AND Switch|Electrical|A logic gate that allows electrical passthrough if BOTH inputs receives power, passthrough amount is the greater of either power source|
 |![](/electric.audioalarm.128.webp)|electric.audioalarm|2100007442|Audio Alarm|Electrical|A speaker which will emit a loud warning alarm when powered|
 |![](/electric.battery.rechargable.large.128.webp)|electric.battery.rechargable.large|553270375|Large Rechargeable Battery|Electrical|A Large Rechargeable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
@@ -456,7 +453,7 @@
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
 |![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A jar of honey, good for reducing hunger or radiation. Can also be saved for recipes. The source of the glass jar is a mystery.|
-|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Resources|These building blocks of a beehive can turn into honey or nuclei. Cooking them in a furnace guarantees honey.|
+|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Resources|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
@@ -553,7 +550,6 @@
 |![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a moderate amount.|
 |![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A basic health tea, provides hydration and temporarily boosts maximum health a small amount.|
 |![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a large amount.|
-|![](/maxtemptea.128.webp)|maxtemptea|-284748120|Max Temperature Tea|Food|A temperature tea that provides some hydration and temporarily increases your maximum temperature.|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
@@ -583,7 +579,6 @@
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|Misc||
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
-|![](/mintemptea.128.webp)|mintemptea|-1296203562|Minimum Temperature Tea|Food|A temperature tea that provides some hydration and temporarily increases your minimum temperature.|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|Resources|Mint ID Tag|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|Items|Used for mixing recipes.|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
@@ -619,14 +614,14 @@
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
-|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision and lets you to see tree markings and ore hotspots for a short time.|
-|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration, and increases effect of harvesting teas but reduces their duration.|
-|![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Just like mom used to make. Provides a boost to hunger, health and hydration, and increases the chance of better genes from crops for short time.|
-|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration and increases base comfort level for a short time.|
-|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration, and reduces bleeding for a short time.|
-|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration, and improves healing rate from other sources for a short time.|
-|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, Provides a boost to health, hunger and hydration, and increases maximum health for a short time.|
-|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration, and increases yield when harvesting corpses for a short time.|
+|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
+|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration. Increases effect of harvesting teas but reduces their duration.|
+|![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Just like mom used to make. Provides a boost to hunger, health and hydration. Increases the chance of better genes from crops for short time.|
+|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration. Increases base comfort level for a short time.|
+|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration. Reduces bleeding for a short time.|
+|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
+|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration.Increases maximum health for a short time.|
+|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration. Increases yield when harvesting corpses for a short time.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
@@ -952,10 +947,7 @@
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can display a given player's face as wanted.|
-|![](/warmingcombinedtea.128.webp)|warmingcombinedtea|-403606116|Combined Warming Tea|Food|A combined warming tea that temporarily increases both your core and minimum temperature.|
-|![](/warmingtea.advanced.128.webp)|warmingtea.advanced|-351630003|Advanced Warming Tea|Food|An advanced warming tea, temporarily raises your core temperature a moderate amount.|
 |![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|Food|A warming tea that temporarily increases both your core and minimum temperature.|
-|![](/warmingtea.pure.128.webp)|warmingtea.pure|-1742339835|Pure Warming Tea|Food|A pure warming tea, temporarily increases your core temperature a large amount.|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
@@ -988,9 +980,9 @@
 |![](/wolfmeat.cooked.128.webp)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
 |![](/wolfmeat.raw.128.webp)|wolfmeat.raw|-395377963|Raw Wolf Meat|Food|Raw Wolf Meat. Eating it will damage your health, try cooking it first.|
 |![](/wolfmeat.spoiled.128.webp)|wolfmeat.spoiled|-1167031859|Spoiled Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
-|![](/wood.armor.helmet.128.webp)|wood.armor.helmet|-2094954543|Wood Armor Helmet|Attire|A shoddy helmet made from Wood and Cloth.|
-|![](/wood.armor.jacket.128.webp)|wood.armor.jacket|418081930|Wood Chestplate|Attire|A shoddy piece of body armor made from Wood and rope.|
-|![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
+|![](/wood.armor.helmet.128.webp)|wood.armor.helmet|-2094954543|Wood Armor Helmet|Attire|A shoddy helmet made from simple materials, provides some basic protection from melee and ranged attacks.|
+|![](/wood.armor.jacket.128.webp)|wood.armor.jacket|418081930|Wood Chestplate|Attire|A shoddy piece of body armor made from simple materials, provides some basic protection from melee and ranged attacks.|
+|![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from simple materials, provides some basic protection from melee and ranged attacks.|
 |![](/wood.128.webp)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
 |![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|A basic wooden shield, won't last very long. Usable with single handed weapons and tools.|
