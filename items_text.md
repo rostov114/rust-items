@@ -177,7 +177,6 @@
 |[coal](/coal.png)|204391461|Coal :(|Resources|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
-|[combinedcoolingptea](/combinedcoolingptea.png)|1431167058|Combined Cooling Tea|Food|
 |[composter](/composter.png)|-1488398114|Composter|Items|
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
@@ -185,9 +184,7 @@
 |[confetticannon](/confetticannon.png)|1603174987|Confetti Cannon|Fun|
 |[connected.speaker](/connected.speaker.png)|968421290|Connected Speaker|Fun|
 |[cookingworkbench](/cookingworkbench.png)|1456143403|Cooking Workbench|Items|
-|[coolingtea.advanced](/coolingtea.advanced.png)|2077323731|Advanced Cooling Tea|Food|
 |[coolingtea](/coolingtea.png)|-1260229965|Cooling Tea|Food|
-|[coolingtea.pure](/coolingtea.pure.png)|-1600691369|Pure Cooling Tea|Food|
 |[corn](/corn.png)|1367190888|Corn|Food|
 |[craftingtea_quality](/craftingtea_quality.png)|368008432|Crafting Quality Tea|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
@@ -553,7 +550,6 @@
 |[maxhealthtea.advanced](/maxhealthtea.advanced.png)|603811464|Advanced Max Health Tea|Food|
 |[maxhealthtea](/maxhealthtea.png)|-1184406448|Basic Max Health Tea|Food|
 |[maxhealthtea.pure](/maxhealthtea.pure.png)|1712261904|Pure Max Health Tea|Food|
-|[maxtemptea](/maxtemptea.png)|-284748120|Max Temperature Tea|Food|
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
@@ -583,7 +579,6 @@
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
-|[mintemptea](/mintemptea.png)|-1296203562|Minimum Temperature Tea|Food|
 |[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
 |[mixingtable](/mixingtable.png)|1259919256|Mixing Table|Items|
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
@@ -952,10 +947,7 @@
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
 |[wantedposter.wantedposter4](/wantedposter.wantedposter4.png)|1463862472|Wanted Poster 4|Items|
-|[warmingcombinedtea](/warmingcombinedtea.png)|-403606116|Combined Warming Tea|Food|
-|[warmingtea.advanced](/warmingtea.advanced.png)|-351630003|Advanced Warming Tea|Food|
 |[warmingtea](/warmingtea.png)|-1142222427|Warming Tea|Food|
-|[warmingtea.pure](/warmingtea.pure.png)|-1742339835|Pure Warming Tea|Food|
 |[watchtower.wood](/watchtower.wood.png)|-463122489|Watch Tower|Construction|
 |[water.barrel](/water.barrel.png)|-1863559151|Water Barrel|Items|
 |[water.catcher.large](/water.catcher.large.png)|-1100168350|Large Water Catcher|Construction|
