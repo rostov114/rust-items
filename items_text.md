@@ -357,6 +357,8 @@
 |[furnace](/furnace.png)|-1999722522|Furnace|Items|
 |[furnace.large](/furnace.large.png)|-1992717673|Large Furnace|Items|
 |[fuse](/fuse.png)|-629028935|Electric Fuse|Component|
+|[gates.external.high.adobe](/gates.external.high.adobe.png)|-401905610|High External Adobe Gate|Construction|
+|[gates.external.high.frontier](/gates.external.high.frontier.png)|2137338174|High External Frontier Gate|Construction|
 |[gates.external.high.stone](/gates.external.high.stone.png)|-691113464|High External Stone Gate|Construction|
 |[gates.external.high.wood](/gates.external.high.wood.png)|-335089230|High External Wooden Gate|Construction|
 |[gears](/gears.png)|479143914|Gears|Component|
@@ -702,6 +704,7 @@
 |[rustige_egg_d](/rustige_egg_d.png)|-173268126|Rustigé Egg - Ivory|Misc|
 |[rustige_egg_e](/rustige_egg_e.png)|-173268125|Rustigé Egg - Green|Misc|
 |[rustige_egg_f](/rustige_egg_f.png)|-173268128|Rustigé Egg - White|Misc|
+|[rustige_egg_g](/rustige_egg_g.png)|-173268127|Rustigé Egg - Cerulean|Misc|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
 |[salvaged.sword](/salvaged.sword.png)|1326180354|Salvaged Sword|Weapon|
 |[samsite](/samsite.png)|-1009359066|SAM Site|Traps|
@@ -922,6 +925,8 @@
 |[vending.machine](/vending.machine.png)|198438816|Vending Machine|Items|
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
 |[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
+|[wall.external.high.adobe](/wall.external.high.adobe.png)|756890702|High External Adobe Wall|Construction|
+|[wall.external.high.frontier](/wall.external.high.frontier.png)|63265850|High External Frontier Wall|Construction|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
 |[wall.external.high.stone](/wall.external.high.stone.png)|-967648160|High External Stone Wall|Construction|
