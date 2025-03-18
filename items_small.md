@@ -172,13 +172,11 @@
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|
-|![](/clothing.mod.armorinsert_leather.128.webp)|clothing.mod.armorinsert_leather|-2103136326|Leather Armor Insert|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|
 |![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|
 |![](/coal.128.webp)|coal|204391461|Coal :(|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
-|![](/combinedcoolingptea.128.webp)|combinedcoolingptea|1431167058|Combined Cooling Tea|
 |![](/composter.128.webp)|composter|-1488398114|Composter|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|
@@ -186,9 +184,7 @@
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|
-|![](/coolingtea.advanced.128.webp)|coolingtea.advanced|2077323731|Advanced Cooling Tea|
 |![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|
-|![](/coolingtea.pure.128.webp)|coolingtea.pure|-1600691369|Pure Cooling Tea|
 |![](/corn.128.webp)|corn|1367190888|Corn|
 |![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|
@@ -361,6 +357,8 @@
 |![](/furnace.128.webp)|furnace|-1999722522|Furnace|
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|
+|![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|
+|![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|
 |![](/gears.128.webp)|gears|479143914|Gears|
@@ -554,7 +552,6 @@
 |![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|
 |![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|
 |![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|
-|![](/maxtemptea.128.webp)|maxtemptea|-284748120|Basic Max Temp Tea|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
@@ -584,7 +581,6 @@
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|
-|![](/mintemptea.128.webp)|mintemptea|-1296203562|Basic Min Temp Tea|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|
@@ -708,6 +704,7 @@
 |![](/rustige_egg_d.128.webp)|rustige_egg_d|-173268126|Rustigé Egg - Ivory|
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|
+|![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|
 |![](/samsite.128.webp)|samsite|-1009359066|SAM Site|
@@ -928,6 +925,8 @@
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
+|![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|
+|![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|
@@ -953,10 +952,7 @@
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|
-|![](/warmingcombinedtea.128.webp)|warmingcombinedtea|-403606116|Combined Warming Tea|
-|![](/warmingtea.advanced.128.webp)|warmingtea.advanced|-351630003|Advanced Warming Tea|
 |![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|
-|![](/warmingtea.pure.128.webp)|warmingtea.pure|-1742339835|Pure Warming Tea|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|

@@ -172,13 +172,11 @@
 |[cloth](/cloth.png)|-858312878|Cloth|Resources|
 |[clothing.mod.armorinsert_asbestos](/clothing.mod.armorinsert_asbestos.png)|-903796529|Asbestos Armor Insert|Items|
 |[clothing.mod.armorinsert_lead](/clothing.mod.armorinsert_lead.png)|2047789913|Lead Armor Insert|Items|
-|[clothing.mod.armorinsert_leather](/clothing.mod.armorinsert_leather.png)|-2103136326|Leather Armor Insert|Items|
 |[clothing.mod.armorinsert_metal](/clothing.mod.armorinsert_metal.png)|1099611828|Metal Armor Insert|Items|
 |[clothing.mod.armorinsert_wood](/clothing.mod.armorinsert_wood.png)|-593892112|Wooden Armor Insert|Items|
 |[coal](/coal.png)|204391461|Coal :(|Resources|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
-|[combinedcoolingptea](/combinedcoolingptea.png)|1431167058|Combined Cooling Tea|Food|
 |[composter](/composter.png)|-1488398114|Composter|Items|
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
@@ -186,9 +184,7 @@
 |[confetticannon](/confetticannon.png)|1603174987|Confetti Cannon|Fun|
 |[connected.speaker](/connected.speaker.png)|968421290|Connected Speaker|Fun|
 |[cookingworkbench](/cookingworkbench.png)|1456143403|Cooking Workbench|Items|
-|[coolingtea.advanced](/coolingtea.advanced.png)|2077323731|Advanced Cooling Tea|Food|
 |[coolingtea](/coolingtea.png)|-1260229965|Cooling Tea|Food|
-|[coolingtea.pure](/coolingtea.pure.png)|-1600691369|Pure Cooling Tea|Food|
 |[corn](/corn.png)|1367190888|Corn|Food|
 |[craftingtea_quality](/craftingtea_quality.png)|368008432|Crafting Quality Tea|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
@@ -361,6 +357,8 @@
 |[furnace](/furnace.png)|-1999722522|Furnace|Items|
 |[furnace.large](/furnace.large.png)|-1992717673|Large Furnace|Items|
 |[fuse](/fuse.png)|-629028935|Electric Fuse|Component|
+|[gates.external.high.adobe](/gates.external.high.adobe.png)|-401905610|High External Adobe Gate|Construction|
+|[gates.external.high.frontier](/gates.external.high.frontier.png)|2137338174|High External Frontier Gate|Construction|
 |[gates.external.high.stone](/gates.external.high.stone.png)|-691113464|High External Stone Gate|Construction|
 |[gates.external.high.wood](/gates.external.high.wood.png)|-335089230|High External Wooden Gate|Construction|
 |[gears](/gears.png)|479143914|Gears|Component|
@@ -554,7 +552,6 @@
 |[maxhealthtea.advanced](/maxhealthtea.advanced.png)|603811464|Advanced Max Health Tea|Food|
 |[maxhealthtea](/maxhealthtea.png)|-1184406448|Basic Max Health Tea|Food|
 |[maxhealthtea.pure](/maxhealthtea.pure.png)|1712261904|Pure Max Health Tea|Food|
-|[maxtemptea](/maxtemptea.png)|-284748120|Basic Max Temp Tea|Food|
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
@@ -584,7 +581,6 @@
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
-|[mintemptea](/mintemptea.png)|-1296203562|Basic Min Temp Tea|Food|
 |[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
 |[mixingtable](/mixingtable.png)|1259919256|Mixing Table|Items|
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
@@ -708,6 +704,7 @@
 |[rustige_egg_d](/rustige_egg_d.png)|-173268126|Rustigé Egg - Ivory|Misc|
 |[rustige_egg_e](/rustige_egg_e.png)|-173268125|Rustigé Egg - Green|Misc|
 |[rustige_egg_f](/rustige_egg_f.png)|-173268128|Rustigé Egg - White|Misc|
+|[rustige_egg_g](/rustige_egg_g.png)|-173268127|Rustigé Egg - Cerulean|Misc|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
 |[salvaged.sword](/salvaged.sword.png)|1326180354|Salvaged Sword|Weapon|
 |[samsite](/samsite.png)|-1009359066|SAM Site|Traps|
@@ -928,6 +925,8 @@
 |[vending.machine](/vending.machine.png)|198438816|Vending Machine|Items|
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
 |[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
+|[wall.external.high.adobe](/wall.external.high.adobe.png)|756890702|High External Adobe Wall|Construction|
+|[wall.external.high.frontier](/wall.external.high.frontier.png)|63265850|High External Frontier Wall|Construction|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
 |[wall.external.high.stone](/wall.external.high.stone.png)|-967648160|High External Stone Wall|Construction|
@@ -953,10 +952,7 @@
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
 |[wantedposter.wantedposter4](/wantedposter.wantedposter4.png)|1463862472|Wanted Poster 4|Items|
-|[warmingcombinedtea](/warmingcombinedtea.png)|-403606116|Combined Warming Tea|Food|
-|[warmingtea.advanced](/warmingtea.advanced.png)|-351630003|Advanced Warming Tea|Food|
 |[warmingtea](/warmingtea.png)|-1142222427|Warming Tea|Food|
-|[warmingtea.pure](/warmingtea.pure.png)|-1742339835|Pure Warming Tea|Food|
 |[watchtower.wood](/watchtower.wood.png)|-463122489|Watch Tower|Construction|
 |[water.barrel](/water.barrel.png)|-1863559151|Water Barrel|Items|
 |[water.catcher.large](/water.catcher.large.png)|-1100168350|Large Water Catcher|Construction|
