@@ -99,7 +99,7 @@
 |![](/boogieboard.128.webp)|boogieboard|-1478094705|Boogie Board|Fun|Use the boogie board to catch some sick waves.|
 |![](/boombox.128.webp)|boombox|-1113501606|Boom Box|Fun|A large speaker to play recorded cassette tapes which can also stream audio from the internet. Open the settings to change audio options.|
 |![](/boots.frog.128.webp)|boots.frog|-1000573653|Frog Boots|Attire|Thank you for playing the game through its early access run. Enjoy these boots made from radiation resistant frog rubber.|
-|![](/botabag.128.webp)|botabag|613961768|Bota Bag|Items|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
+|![](/botabag.128.webp)|botabag|613961768|Bota Bag|Food|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/bottle.vodka.128.webp)|bottle.vodka|755224797|Vodka Bottle|Food|A bottle of Russian Vodka.|
 |![](/bow.compound.128.webp)|bow.compound|884424049|Compound Bow|Weapon|A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed.|
 |![](/bow.hunting.128.webp)|bow.hunting|1443579727|Hunting Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
@@ -455,7 +455,7 @@
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
 |![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A jar of honey, good for reducing hunger or radiation. Can also be saved for recipes. The source of the glass jar is a mystery.|
-|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Resources|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
+|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Food|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|

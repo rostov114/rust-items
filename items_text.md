@@ -99,7 +99,7 @@
 |[boogieboard](/boogieboard.png)|-1478094705|Boogie Board|Fun|
 |[boombox](/boombox.png)|-1113501606|Boom Box|Fun|
 |[boots.frog](/boots.frog.png)|-1000573653|Frog Boots|Attire|
-|[botabag](/botabag.png)|613961768|Bota Bag|Items|
+|[botabag](/botabag.png)|613961768|Bota Bag|Food|
 |[bottle.vodka](/bottle.vodka.png)|755224797|Vodka Bottle|Food|
 |[bow.compound](/bow.compound.png)|884424049|Compound Bow|Weapon|
 |[bow.hunting](/bow.hunting.png)|1443579727|Hunting Bow|Weapon|
@@ -455,7 +455,7 @@
 |[hobobarrel](/hobobarrel.png)|-1442559428|Hobo Barrel|Items|
 |[homingmissile.launcher](/homingmissile.launcher.png)|-218009552|Homing Missile Launcher|Weapon|
 |[honey](/honey.png)|1601800933|Jar of Honey|Food|
-|[honeycomb](/honeycomb.png)|-1513203236|Honeycomb|Resources|
+|[honeycomb](/honeycomb.png)|-1513203236|Honeycomb|Food|
 |[hoodie](/hoodie.png)|1751045826|Hoodie|Attire|
 |[hopper](/hopper.png)|1428574144|Hopper|Electrical|
 |[horse.armor.roadsign](/horse.armor.roadsign.png)|60528587|Roadsign Horse Armor|Attire|
