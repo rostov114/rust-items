@@ -99,7 +99,7 @@
 |![](/boogieboard.128.webp)|boogieboard|-1478094705|Boogie Board|Fun|Use the boogie board to catch some sick waves.|
 |![](/boombox.128.webp)|boombox|-1113501606|Boom Box|Fun|A large speaker to play recorded cassette tapes which can also stream audio from the internet. Open the settings to change audio options.|
 |![](/boots.frog.128.webp)|boots.frog|-1000573653|Frog Boots|Attire|Thank you for playing the game through its early access run. Enjoy these boots made from radiation resistant frog rubber.|
-|![](/botabag.128.webp)|botabag|613961768|Bota Bag|Items|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
+|![](/botabag.128.webp)|botabag|613961768|Bota Bag|Food|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/bottle.vodka.128.webp)|bottle.vodka|755224797|Vodka Bottle|Food|A bottle of Russian Vodka.|
 |![](/bow.compound.128.webp)|bow.compound|884424049|Compound Bow|Weapon|A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed.|
 |![](/bow.hunting.128.webp)|bow.hunting|1443579727|Hunting Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
@@ -173,7 +173,7 @@
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|Items|Asbestos insert providing extra protection from heat for crafted clothes and armor.|
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor.|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from projectiles.|
-|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee. |
+|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee.|
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
@@ -455,7 +455,7 @@
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
 |![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A jar of honey, good for reducing hunger or radiation. Can also be saved for recipes. The source of the glass jar is a mystery.|
-|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Resources|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
+|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Food|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
