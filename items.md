@@ -99,7 +99,7 @@
 |![](/boogieboard.128.webp)|boogieboard|-1478094705|Boogie Board|Fun|Use the boogie board to catch some sick waves.|
 |![](/boombox.128.webp)|boombox|-1113501606|Boom Box|Fun|A large speaker to play recorded cassette tapes which can also stream audio from the internet. Open the settings to change audio options.|
 |![](/boots.frog.128.webp)|boots.frog|-1000573653|Frog Boots|Attire|Thank you for playing the game through its early access run. Enjoy these boots made from radiation resistant frog rubber.|
-|![](/botabag.128.webp)|botabag|613961768|Bota Bag|Food|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
+|![](/botabag.128.webp)|botabag|613961768|Bota Bag|Items|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/bottle.vodka.128.webp)|bottle.vodka|755224797|Vodka Bottle|Food|A bottle of Russian Vodka.|
 |![](/bow.compound.128.webp)|bow.compound|884424049|Compound Bow|Weapon|A very powerful bow. Can only be fully drawn while stationary. Keep still for bonus damage and speed.|
 |![](/bow.hunting.128.webp)|bow.hunting|1443579727|Hunting Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
