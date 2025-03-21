@@ -99,7 +99,7 @@
 |[boogieboard](/boogieboard.png)|-1478094705|Boogie Board|Fun|
 |[boombox](/boombox.png)|-1113501606|Boom Box|Fun|
 |[boots.frog](/boots.frog.png)|-1000573653|Frog Boots|Attire|
-|[botabag](/botabag.png)|613961768|Bota Bag|Food|
+|[botabag](/botabag.png)|613961768|Bota Bag|Items|
 |[bottle.vodka](/bottle.vodka.png)|755224797|Vodka Bottle|Food|
 |[bow.compound](/bow.compound.png)|884424049|Compound Bow|Weapon|
 |[bow.hunting](/bow.hunting.png)|1443579727|Hunting Bow|Weapon|
