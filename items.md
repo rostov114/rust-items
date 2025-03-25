@@ -460,6 +460,7 @@
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
+|![](/horse.costume.128.webp)|horse.costume|1420547167|Horse Costume|Attire|An inflatable horse costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
 |![](/horse.saddle.double.128.webp)|horse.saddle.double|-1323101799|Double Horse Saddle|Attire|A horse saddle with two seats. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.128.webp)|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.single.128.webp)|horse.saddle.single|1559915778|Single Horse Saddle|Attire|A horse saddle with one seat. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
@@ -864,6 +865,7 @@
 |![](/sunglasses03black.128.webp)|sunglasses03black|-176608084|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03chrome.128.webp)|sunglasses03chrome|-1997698639|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03gold.128.webp)|sunglasses03gold|-1408336705|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](/sunken.knife.128.webp)|sunken.knife|789333045|Sunken Combat Knife|Weapon|A corroded sunken knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
 |![](/supertea.128.webp)|supertea|-1003665711|Super Serum|Food|Super Serum,  more ore, more wood, more scrap|
 |![](/supply.signal.128.webp)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
 |![](/surveycharge.128.webp)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|

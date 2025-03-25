@@ -460,6 +460,7 @@
 |[hopper](/hopper.png)|1428574144|Hopper|Electrical|
 |[horse.armor.roadsign](/horse.armor.roadsign.png)|60528587|Roadsign Horse Armor|Attire|
 |[horse.armor.wood](/horse.armor.wood.png)|1659447559|Wooden Horse Armor|Attire|
+|[horse.costume](/horse.costume.png)|1420547167|Horse Costume|Attire|
 |[horse.saddle.double](/horse.saddle.double.png)|-1323101799|Double Horse Saddle|Attire|
 |[horse.saddle](/horse.saddle.png)|-1997543660|Horse Saddle|Attire|
 |[horse.saddle.single](/horse.saddle.single.png)|1559915778|Single Horse Saddle|Attire|
@@ -864,6 +865,7 @@
 |[sunglasses03black](/sunglasses03black.png)|-176608084|Sunglasses|Attire|
 |[sunglasses03chrome](/sunglasses03chrome.png)|-1997698639|Sunglasses|Attire|
 |[sunglasses03gold](/sunglasses03gold.png)|-1408336705|Sunglasses|Attire|
+|[sunken.knife](/sunken.knife.png)|789333045|Sunken Combat Knife|Weapon|
 |[supertea](/supertea.png)|-1003665711|Super Serum|Food|
 |[supply.signal](/supply.signal.png)|1397052267|Supply Signal|Tool|
 |[surveycharge](/surveycharge.png)|1975934948|Survey Charge|Tool|
