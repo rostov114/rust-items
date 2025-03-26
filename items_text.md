@@ -865,7 +865,7 @@
 |[sunglasses03black](/sunglasses03black.png)|-176608084|Sunglasses|Attire|
 |[sunglasses03chrome](/sunglasses03chrome.png)|-1997698639|Sunglasses|Attire|
 |[sunglasses03gold](/sunglasses03gold.png)|-1408336705|Sunglasses|Attire|
-|[sunken.knife](/sunken.knife.png)|789333045|sunken knife|Weapon|
+|[sunken.knife](/sunken.knife.png)|789333045|Sunken Combat Knife|Weapon|
 |[supertea](/supertea.png)|-1003665711|Super Serum|Food|
 |[supply.signal](/supply.signal.png)|1397052267|Supply Signal|Tool|
 |[surveycharge](/surveycharge.png)|1975934948|Survey Charge|Tool|

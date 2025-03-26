@@ -865,7 +865,7 @@
 |![](/sunglasses03black.128.webp)|sunglasses03black|-176608084|Sunglasses|
 |![](/sunglasses03chrome.128.webp)|sunglasses03chrome|-1997698639|Sunglasses|
 |![](/sunglasses03gold.128.webp)|sunglasses03gold|-1408336705|Sunglasses|
-|![](/sunken.knife.128.webp)|sunken.knife|789333045|sunken knife|
+|![](/sunken.knife.128.webp)|sunken.knife|789333045|Sunken Combat Knife|
 |![](/supertea.128.webp)|supertea|-1003665711|Super Serum|
 |![](/supply.signal.128.webp)|supply.signal|1397052267|Supply Signal|
 |![](/surveycharge.128.webp)|surveycharge|1975934948|Survey Charge|

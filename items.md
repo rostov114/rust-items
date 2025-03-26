@@ -865,7 +865,7 @@
 |![](/sunglasses03black.128.webp)|sunglasses03black|-176608084|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03chrome.128.webp)|sunglasses03chrome|-1997698639|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03gold.128.webp)|sunglasses03gold|-1408336705|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
-|![](/sunken.knife.128.webp)|sunken.knife|789333045|sunken knife|Weapon|A corroded sunken knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
+|![](/sunken.knife.128.webp)|sunken.knife|789333045|Sunken Combat Knife|Weapon|A corroded sunken knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
 |![](/supertea.128.webp)|supertea|-1003665711|Super Serum|Food|Super Serum,  more ore, more wood, more scrap|
 |![](/supply.signal.128.webp)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
 |![](/surveycharge.128.webp)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
