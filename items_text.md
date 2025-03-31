@@ -207,6 +207,7 @@
 |[discoball](/discoball.png)|1895235349|Disco Ball|Fun|
 |[discofloor](/discofloor.png)|286648290|Disco Floor|Fun|
 |[discofloor.largetiles](/discofloor.largetiles.png)|1735402444|Disco Floor|Fun|
+|[discord.trophy](/discord.trophy.png)|1494014226|Discord Trophy|Items|
 |[diverhatchet](/diverhatchet.png)|1046904719|Abyss Metal Hatchet|Tool|
 |[diverpickaxe](/diverpickaxe.png)|1561022037|Abyss Metal Pickaxe|Tool|
 |[divertorch](/divertorch.png)|1846605708|Abyss Torch|Tool|

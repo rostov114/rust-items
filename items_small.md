@@ -207,6 +207,7 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|
+|![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|
