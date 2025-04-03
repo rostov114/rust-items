@@ -207,6 +207,7 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|
+|![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|
@@ -357,6 +358,8 @@
 |![](/furnace.128.webp)|furnace|-1999722522|Furnace|
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|
+|![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|
+|![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|
 |![](/gears.128.webp)|gears|479143914|Gears|
@@ -458,6 +461,7 @@
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|
+|![](/horse.costume.128.webp)|horse.costume|1420547167|Horse Costume|
 |![](/horse.saddle.double.128.webp)|horse.saddle.double|-1323101799|Double Horse Saddle|
 |![](/horse.saddle.128.webp)|horse.saddle|-1997543660|Horse Saddle|
 |![](/horse.saddle.single.128.webp)|horse.saddle.single|1559915778|Single Horse Saddle|
@@ -702,6 +706,7 @@
 |![](/rustige_egg_d.128.webp)|rustige_egg_d|-173268126|Rustigé Egg - Ivory|
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|
+|![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|
 |![](/samsite.128.webp)|samsite|-1009359066|SAM Site|
@@ -861,6 +866,7 @@
 |![](/sunglasses03black.128.webp)|sunglasses03black|-176608084|Sunglasses|
 |![](/sunglasses03chrome.128.webp)|sunglasses03chrome|-1997698639|Sunglasses|
 |![](/sunglasses03gold.128.webp)|sunglasses03gold|-1408336705|Sunglasses|
+|![](/sunken.knife.128.webp)|sunken.knife|789333045|Sunken Combat Knife|
 |![](/supertea.128.webp)|supertea|-1003665711|Super Serum|
 |![](/supply.signal.128.webp)|supply.signal|1397052267|Supply Signal|
 |![](/surveycharge.128.webp)|surveycharge|1975934948|Survey Charge|
@@ -922,6 +928,8 @@
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
+|![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|
+|![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|

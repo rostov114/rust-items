@@ -81,7 +81,7 @@
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
 |![](/bearmeat.spoiled.128.webp)|bearmeat.spoiled|1348294923|Spoiled Bear Meat|Food|Spoiled Bear Meat. Consuming will damage your health.|
 |![](/bed.128.webp)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
-|![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Artificial beehive, place a nucleus inside to raise your own bees and produce honeycomb. Happy bees will make honeycomb more quickly.|
+|![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Hand made beehive, place a nucleus inside to raise your own bees and produce honeycomb. Happy bees will make honeycomb more quickly.|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|Misc|A pedal bike.|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|Food|A black berry.|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|Food|Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
@@ -106,7 +106,7 @@
 |![](/box.repair.bench.128.webp)|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
 |![](/box.wooden.128.webp)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 18 items.|
 |![](/box.wooden.large.128.webp)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
-|![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|Food|A Loaf of Bread. Eating it provides a small boost to health, hunger|
+|![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|Food|A loaf of bread, eating it provides a boost to health, hunger and hydration. Feeding to a horse will provide a boost t o its digestion and dung production for a short time.|
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
 |![](/building.planner.128.webp)|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
@@ -149,7 +149,7 @@
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|Attire|An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
 |![](/chicken.raw.128.webp)|chicken.raw|-1440987069|Raw Chicken Breast|Food|Raw chicken breast. Eating it will damage your health, try cooking it first.|
 |![](/chicken.spoiled.128.webp)|chicken.spoiled|-751151717|Spoiled Chicken|Food|Spoiled Chicken. Eating it will damage your health.|
-|![](/chickencoop.128.webp)|chickencoop|-2018158920|Chicken Coop|Items|An enclosure to keep some chickens around.|
+|![](/chickencoop.128.webp)|chickencoop|-2018158920|Chicken Coop|Items|An enclosure to keep some chickens around. Chickens with plenty of food, water and sunlight produce more eggs.|
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
 |![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|Items|A decorative White Paper lantern|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
@@ -171,8 +171,8 @@
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|Food|A clipping of a Yellow Berry Plant.|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|Resources|Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more.|
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|Items|Asbestos insert providing extra protection from heat for crafted clothes and armor.|
-|![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor, at the cost of reduced movement speed.|
-|![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from bullets at the cost of reduced movement speed.|
+|![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor.|
+|![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from projectiles.|
 |![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee.|
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
@@ -207,6 +207,7 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
+|![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|Items|A companion that reminds you of your youth.|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|Tool|Metal hatchet, reclaimed from the abyss, perfect for survival and crafting|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|Tool|Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor|
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|Tool|Illuminate the underwater depths with this durable and waterproof diving torch|
@@ -238,7 +239,7 @@
 |![](/easter.silveregg.128.webp)|easter.silveregg|1757265204|Silver Egg|Misc|A Silver Egg. Contains medium level loot, Collect 10 to upgrade to a gold Egg|
 |![](/easterbasket.128.webp)|easterbasket|1856217390|Egg Basket|Misc|An easter egg basket. Equip to pick up eggs during an easter egg hunt with left click. Use right click to throw|
 |![](/easterdoorwreath.128.webp)|easterdoorwreath|-979302481|Easter Door Wreath|Items|A beautiful, hand crafted Easter themed door wreath.|
-|![](/egg.128.webp)|egg|1858828593|Egg|Food|An egg, laid by a chicken. Can be eaten or hatched in a chicken coop.|
+|![](/egg.128.webp)|egg|1858828593|Egg|Food|An egg laid by a chicken, will hatch in a coop. Can be eaten raw for a small boost to health, hydration and hydration, or added to some recipes at a cooking workbench for greater benefits.|
 |![](/electric.andswitch.128.webp)|electric.andswitch|1171735914|AND Switch|Electrical|A logic gate that allows electrical passthrough if BOTH inputs receives power, passthrough amount is the greater of either power source|
 |![](/electric.audioalarm.128.webp)|electric.audioalarm|2100007442|Audio Alarm|Electrical|A speaker which will emit a loud warning alarm when powered|
 |![](/electric.battery.rechargable.large.128.webp)|electric.battery.rechargable.large|553270375|Large Rechargeable Battery|Electrical|A Large Rechargeable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
@@ -357,6 +358,8 @@
 |![](/furnace.128.webp)|furnace|-1999722522|Furnace|Items|A Furnace. Use it to smelt mined ore.|
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|Items|Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
+|![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|Construction|A high stone gate, allowing access in and out of your compound.|
+|![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|Construction|A high stone gate, allowing access in and out of your compound.|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
 |![](/gears.128.webp)|gears|479143914|Gears|Component|A selection of gears. Some functional, some not.|
@@ -453,11 +456,12 @@
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
 |![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A jar of honey, good for reducing hunger or radiation. Can also be saved for recipes. The source of the glass jar is a mystery.|
-|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Resources|These building blocks of a beehive can turn into honey or nuclei. Cooking them in a furnace guarantees honey.|
+|![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Food|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
+|![](/horse.costume.128.webp)|horse.costume|1420547167|Horse Costume|Attire|An inflatable horse costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
 |![](/horse.saddle.double.128.webp)|horse.saddle.double|-1323101799|Double Horse Saddle|Attire|A horse saddle with two seats. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.128.webp)|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.single.128.webp)|horse.saddle.single|1559915778|Single Horse Saddle|Attire|A horse saddle with one seat. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
@@ -614,14 +618,14 @@
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
-|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision and lets you to see tree markings and ore hotspots for a short time.|
-|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration, and increases effect of harvesting teas but reduces their duration.|
-|![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Just like mom used to make. Provides a boost to hunger, health and hydration, and increases the chance of better genes from crops for short time.|
-|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration and increases base comfort level for a short time.|
-|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration, and reduces bleeding for a short time.|
-|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration, and improves healing rate from other sources for a short time.|
-|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, Provides a boost to health, hunger and hydration, and increases maximum health for a short time.|
-|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration, and increases yield when harvesting corpses for a short time.|
+|![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
+|![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration. Increases effect of harvesting teas but reduces their duration.|
+|![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Just like mom used to make. Provides a boost to hunger, health and hydration. Increases the chance of better genes from crops for short time.|
+|![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration. Increases base comfort level for a short time.|
+|![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration. Reduces bleeding for a short time.|
+|![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
+|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration.Increases maximum health for a short time.|
+|![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration. Increases yield when harvesting corpses for a short time.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
@@ -702,6 +706,7 @@
 |![](/rustige_egg_d.128.webp)|rustige_egg_d|-173268126|Rustigé Egg - Ivory|Misc|A beautiful hand crafted Ivory and gold egg, with a miniature monument contained inside.|
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|Misc|A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.|
+|![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|Misc|A beautiful hand crafted cerulean and gold egg, with a miniature cargo ship scene contained inside.|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
 |![](/samsite.128.webp)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
@@ -738,7 +743,7 @@
 |![](/seed.red.berry.128.webp)|seed.red.berry|830839496|Red Berry Seed|Food|These red berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/seed.rose.128.webp)|seed.rose|-1037472336|Rose Seed|Food|Rose seeds can be found when picking wild Roses.|
 |![](/seed.sunflower.128.webp)|seed.sunflower|1412103380|Sunflower Seed|Food|Sunflower seeds can be found when picking wild Sunflowers.|
-|![](/seed.wheat.128.webp)|seed.wheat|-1790885730|Wheat Seed|Food|Wheat seeds can be found when picking wild Wheat plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more corn and faster growth.|
+|![](/seed.wheat.128.webp)|seed.wheat|-1790885730|Wheat Seed|Food|Wheat seeds, found when eating wheat or harvesting wild crops. Plant in the ground or a planter to grow more.  Seeds grown in good conditions will have higher yields and grow faster.|
 |![](/seed.white.berry.128.webp)|seed.white.berry|-992286106|White Berry Seed|Food|These white berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/seed.yellow.berry.128.webp)|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/semibody.128.webp)|semibody|573926264|Semi Automatic Body|Component|The firing mechanism of a semi automatic weapon.|
@@ -861,6 +866,7 @@
 |![](/sunglasses03black.128.webp)|sunglasses03black|-176608084|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03chrome.128.webp)|sunglasses03chrome|-1997698639|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
 |![](/sunglasses03gold.128.webp)|sunglasses03gold|-1408336705|Sunglasses|Attire|A pair of sunglasses. Functional and stylish!|
+|![](/sunken.knife.128.webp)|sunken.knife|789333045|Sunken Combat Knife|Weapon|A corroded sunken knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
 |![](/supertea.128.webp)|supertea|-1003665711|Super Serum|Food|Super Serum,  more ore, more wood, more scrap|
 |![](/supply.signal.128.webp)|supply.signal|1397052267|Supply Signal|Tool|Purple signal smoke. Use to mark a location for an airdrop.|
 |![](/surveycharge.128.webp)|surveycharge|1975934948|Survey Charge|Tool|Use this on the terrain to see which resources are available for mining.|
@@ -922,6 +928,8 @@
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|Items|A walkie talkie set to an unknown channel|
+|![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|Construction|A high stone wall used to keep people off your property.|
+|![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|Construction|A high stone wall used to keep people off your property.|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
@@ -980,9 +988,9 @@
 |![](/wolfmeat.cooked.128.webp)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
 |![](/wolfmeat.raw.128.webp)|wolfmeat.raw|-395377963|Raw Wolf Meat|Food|Raw Wolf Meat. Eating it will damage your health, try cooking it first.|
 |![](/wolfmeat.spoiled.128.webp)|wolfmeat.spoiled|-1167031859|Spoiled Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
-|![](/wood.armor.helmet.128.webp)|wood.armor.helmet|-2094954543|Wood Armor Helmet|Attire|A shoddy helmet made from Wood and Cloth.|
-|![](/wood.armor.jacket.128.webp)|wood.armor.jacket|418081930|Wood Chestplate|Attire|A shoddy piece of body armor made from Wood and rope.|
-|![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from Wood and rope.|
+|![](/wood.armor.helmet.128.webp)|wood.armor.helmet|-2094954543|Wood Armor Helmet|Attire|A shoddy helmet made from simple materials, provides some basic protection from melee and ranged attacks.|
+|![](/wood.armor.jacket.128.webp)|wood.armor.jacket|418081930|Wood Chestplate|Attire|A shoddy piece of body armor made from simple materials, provides some basic protection from melee and ranged attacks.|
+|![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from simple materials, provides some basic protection from melee and ranged attacks.|
 |![](/wood.128.webp)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
 |![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|A basic wooden shield, won't last very long. Usable with single handed weapons and tools.|

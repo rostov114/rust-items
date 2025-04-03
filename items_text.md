@@ -207,6 +207,7 @@
 |[discoball](/discoball.png)|1895235349|Disco Ball|Fun|
 |[discofloor](/discofloor.png)|286648290|Disco Floor|Fun|
 |[discofloor.largetiles](/discofloor.largetiles.png)|1735402444|Disco Floor|Fun|
+|[discord.trophy](/discord.trophy.png)|1494014226|Discord Trophy|Items|
 |[diverhatchet](/diverhatchet.png)|1046904719|Abyss Metal Hatchet|Tool|
 |[diverpickaxe](/diverpickaxe.png)|1561022037|Abyss Metal Pickaxe|Tool|
 |[divertorch](/divertorch.png)|1846605708|Abyss Torch|Tool|
@@ -357,6 +358,8 @@
 |[furnace](/furnace.png)|-1999722522|Furnace|Items|
 |[furnace.large](/furnace.large.png)|-1992717673|Large Furnace|Items|
 |[fuse](/fuse.png)|-629028935|Electric Fuse|Component|
+|[gates.external.high.adobe](/gates.external.high.adobe.png)|-401905610|High External Adobe Gate|Construction|
+|[gates.external.high.frontier](/gates.external.high.frontier.png)|2137338174|High External Frontier Gate|Construction|
 |[gates.external.high.stone](/gates.external.high.stone.png)|-691113464|High External Stone Gate|Construction|
 |[gates.external.high.wood](/gates.external.high.wood.png)|-335089230|High External Wooden Gate|Construction|
 |[gears](/gears.png)|479143914|Gears|Component|
@@ -453,11 +456,12 @@
 |[hobobarrel](/hobobarrel.png)|-1442559428|Hobo Barrel|Items|
 |[homingmissile.launcher](/homingmissile.launcher.png)|-218009552|Homing Missile Launcher|Weapon|
 |[honey](/honey.png)|1601800933|Jar of Honey|Food|
-|[honeycomb](/honeycomb.png)|-1513203236|Honeycomb|Resources|
+|[honeycomb](/honeycomb.png)|-1513203236|Honeycomb|Food|
 |[hoodie](/hoodie.png)|1751045826|Hoodie|Attire|
 |[hopper](/hopper.png)|1428574144|Hopper|Electrical|
 |[horse.armor.roadsign](/horse.armor.roadsign.png)|60528587|Roadsign Horse Armor|Attire|
 |[horse.armor.wood](/horse.armor.wood.png)|1659447559|Wooden Horse Armor|Attire|
+|[horse.costume](/horse.costume.png)|1420547167|Horse Costume|Attire|
 |[horse.saddle.double](/horse.saddle.double.png)|-1323101799|Double Horse Saddle|Attire|
 |[horse.saddle](/horse.saddle.png)|-1997543660|Horse Saddle|Attire|
 |[horse.saddle.single](/horse.saddle.single.png)|1559915778|Single Horse Saddle|Attire|
@@ -702,6 +706,7 @@
 |[rustige_egg_d](/rustige_egg_d.png)|-173268126|Rustigé Egg - Ivory|Misc|
 |[rustige_egg_e](/rustige_egg_e.png)|-173268125|Rustigé Egg - Green|Misc|
 |[rustige_egg_f](/rustige_egg_f.png)|-173268128|Rustigé Egg - White|Misc|
+|[rustige_egg_g](/rustige_egg_g.png)|-173268127|Rustigé Egg - Cerulean|Misc|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
 |[salvaged.sword](/salvaged.sword.png)|1326180354|Salvaged Sword|Weapon|
 |[samsite](/samsite.png)|-1009359066|SAM Site|Traps|
@@ -861,6 +866,7 @@
 |[sunglasses03black](/sunglasses03black.png)|-176608084|Sunglasses|Attire|
 |[sunglasses03chrome](/sunglasses03chrome.png)|-1997698639|Sunglasses|Attire|
 |[sunglasses03gold](/sunglasses03gold.png)|-1408336705|Sunglasses|Attire|
+|[sunken.knife](/sunken.knife.png)|789333045|Sunken Combat Knife|Weapon|
 |[supertea](/supertea.png)|-1003665711|Super Serum|Food|
 |[supply.signal](/supply.signal.png)|1397052267|Supply Signal|Tool|
 |[surveycharge](/surveycharge.png)|1975934948|Survey Charge|Tool|
@@ -922,6 +928,8 @@
 |[vending.machine](/vending.machine.png)|198438816|Vending Machine|Items|
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
 |[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
+|[wall.external.high.adobe](/wall.external.high.adobe.png)|756890702|High External Adobe Wall|Construction|
+|[wall.external.high.frontier](/wall.external.high.frontier.png)|63265850|High External Frontier Wall|Construction|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
 |[wall.external.high.stone](/wall.external.high.stone.png)|-967648160|High External Stone Wall|Construction|
