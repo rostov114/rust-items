@@ -57,6 +57,7 @@
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|
 |![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|
 |![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|
+|![](/bamboo.barrel.128.webp)|bamboo.barrel|-1652561344|Bamboo Barrel|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|
@@ -83,10 +84,14 @@
 |![](/bed.128.webp)|bed|-1273339005|Bed|
 |![](/beehive.128.webp)|beehive|184516676|Beehive|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|
+|![](/bigcatmeat.cooked.128.webp)|bigcatmeat.cooked|-1318837358|Cooked Big Cat Meat|
+|![](/bigcatmeat.128.webp)|bigcatmeat|-2095813057|Raw Big Cat Meat|
+|![](/bigcatmeat.spoiled.128.webp)|bigcatmeat.spoiled|248643189|Spoiled Big Cat Meat|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|
 |![](/bleach.128.webp)|bleach|1553078977|Bleach|
 |![](/blood.128.webp)|blood|1776460938|Blood|
+|![](/blowpipe.128.webp)|blowpipe|-851288382|Blow Pipe|
 |![](/blue.berry.128.webp)|blue.berry|1112162468|Blue Berry|
 |![](/blueberries.128.webp)|blueberries|-586342290|Blueberries|
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|
@@ -98,6 +103,7 @@
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|
 |![](/boogieboard.128.webp)|boogieboard|-1478094705|Boogie Board|
 |![](/boombox.128.webp)|boombox|-1113501606|Boom Box|
+|![](/boomerang.128.webp)|boomerang|1680793490|Boomerang|
 |![](/boots.frog.128.webp)|boots.frog|-1000573653|Frog Boots|
 |![](/botabag.128.webp)|botabag|613961768|Bota Bag|
 |![](/bottle.vodka.128.webp)|bottle.vodka|755224797|Vodka Bottle|
@@ -175,6 +181,10 @@
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|
 |![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|
 |![](/coal.128.webp)|coal|204391461|Coal :(|
+|![](/cocoknight.armor.gloves.128.webp)|cocoknight.armor.gloves|1873004466|Coconut Armor Gloves|
+|![](/cocoknight.armor.helmet.128.webp)|cocoknight.armor.helmet|-582467439|Coconut Armor Helmet|
+|![](/cocoknight.armor.pants.128.webp)|cocoknight.armor.pants|507284030|Coconut Armor Pants|
+|![](/cocoknight.armor.torso.128.webp)|cocoknight.armor.torso|1426097945|Coconut Armor Chestplate|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
 |![](/composter.128.webp)|composter|-1488398114|Composter|
@@ -191,6 +201,9 @@
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|
 |![](/cratecostume.128.webp)|cratecostume|1189981699|Crate Costume|
+|![](/crocodilemeat.cooked.128.webp)|crocodilemeat.cooked|392828520|Cooked Crocodile Meat|
+|![](/crocodilemeat.128.webp)|crocodilemeat|-1081599445|Raw Crocodile Meat|
+|![](/crocodilemeat.spoiled.128.webp)|crocodilemeat.spoiled|-1796837031|Spoiled Crocodile Meat|
 |![](/crossbow.128.webp)|crossbow|1965232394|Crossbow|
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|
@@ -198,6 +211,10 @@
 |![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|
 |![](/dart.bone.128.webp)|dart.bone|-361911645|Bone Dart|
+|![](/dart.incapacitate.128.webp)|dart.incapacitate|-963819285|Incapacitate Dart|
+|![](/dart.radiation.128.webp)|dart.radiation|-594596146|Radiation Dart|
+|![](/dart.scatter.128.webp)|dart.scatter|2036395619|Scatter Dart|
+|![](/dart.wood.128.webp)|dart.wood|-274709858|Wood Dart|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|
@@ -403,6 +420,7 @@
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|
 |![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|
+|![](/half.bamboo.shelves.128.webp)|half.bamboo.shelves|-1923843855|Half Height Bamboo Shelves|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|
@@ -503,11 +521,13 @@
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|
 |![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|
+|![](/jungle.rock.128.webp)|jungle.rock|1350707894|Jungle Rock|
 |![](/kayak.128.webp)|kayak|190184021|Kayak|
 |![](/keycard_blue.128.webp)|keycard_blue|-484206264|Blue Keycard|
 |![](/keycard_green.128.webp)|keycard_green|37122747|Green Keycard|
 |![](/keycard_red.128.webp)|keycard_red|-1880870149|Red Keycard|
 |![](/knife.bone.128.webp)|knife.bone|1814288539|Bone Knife|
+|![](/knife.bone.obsidian.128.webp)|knife.bone.obsidian|158303804|Obsidian Bone Knife|
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|
 |![](/knife.combat.128.webp)|knife.combat|2040726127|Combat Knife|
 |![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|
@@ -604,6 +624,8 @@
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|
 |![](/oretea.128.webp)|oretea|1480022580|Basic Ore Tea|
 |![](/oretea.pure.128.webp)|oretea.pure|1729374708|Pure Ore Tea|
+|![](/oubreak_scientist.128.webp)|oubreak_scientist|-2133781216|Outbreak Scientist Suit|
+|![](/outbreak.sprayer.128.webp)|outbreak.sprayer|1621942085|Outbreak Sprayer|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|
 |![](/pants.128.webp)|pants|237239288|Pants|
@@ -620,7 +642,9 @@
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|
 |![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|
+|![](/pie.bigcat.128.webp)|pie.bigcat|309017792|Big Cat Pie|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|
+|![](/pie.crocodile.128.webp)|pie.crocodile|54265286|Crocodile Pie|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|
@@ -676,6 +700,7 @@
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|
+|![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Assault Rifle|
 |![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|
@@ -707,6 +732,7 @@
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|
 |![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|
+|![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|
 |![](/samsite.128.webp)|samsite|-1009359066|SAM Site|
@@ -786,6 +812,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|
+|![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Single Shallow Wall Shelves|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|
 |![](/skull.128.webp)|skull|1312843609|Skull|
@@ -817,6 +844,9 @@
 |![](/smg.mp5.128.webp)|smg.mp5|1318558775|MP5A4|
 |![](/smg.thompson.128.webp)|smg.thompson|-1758372725|Thompson|
 |![](/smgbody.128.webp)|smgbody|1230323789|SMG Body|
+|![](/snakemeat.cooked.128.webp)|snakemeat.cooked|-170436364|Cooked Snake Meat|
+|![](/snakemeat.128.webp)|snakemeat|-2100458529|Raw Snake Meat|
+|![](/snakemeat.spoiled.128.webp)|snakemeat.spoiled|-1616704051|Spoiled Snake Meat|
 |![](/snowball.128.webp)|snowball|-363689972|Snowball|
 |![](/snowballgun.128.webp)|snowballgun|1103488722|Snowball Gun|
 |![](/snowmachine.128.webp)|snowmachine|1358643074|Snow Machine|
@@ -926,6 +956,7 @@
 |![](/vehicle.chassis.128.webp)|vehicle.chassis|1770744540|Generic vehicle chassis|
 |![](/vehicle.module.128.webp)|vehicle.module|878301596|Generic vehicle module|
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|
+|![](/venom.snake.128.webp)|venom.snake|-870140677|Snake Venom|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|
@@ -983,6 +1014,7 @@
 |![](/wheat.128.webp)|wheat|1178325727|Wheat|
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|
+|![](/wicker.barrel.128.webp)|wicker.barrel|-526026171|Wicker Barrel|
 |![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|
 |![](/wolfmeat.burned.128.webp)|wolfmeat.burned|1827479659|Burnt Wolf Meat|
 |![](/wolfmeat.cooked.128.webp)|wolfmeat.cooked|813023040|Cooked Wolf Meat|
@@ -992,6 +1024,7 @@
 |![](/wood.armor.jacket.128.webp)|wood.armor.jacket|418081930|Wood Chestplate|
 |![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|
 |![](/wood.128.webp)|wood|-151838493|Wood|
+|![](/woodarmor.gloves.128.webp)|woodarmor.gloves|-459159118|Wood Armor Gloves|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|
 |![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|
 |![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|
