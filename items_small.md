@@ -700,7 +700,7 @@
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|
-|![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Assault Rifle|
+|![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|
 |![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|

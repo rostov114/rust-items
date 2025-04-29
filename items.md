@@ -700,7 +700,7 @@
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|Weapon|A waterlogged assault rifle from the abyss|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
-|![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Assault Rifle|Weapon|Jungle relic themed high damage machine rifle.|
+|![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|Weapon|Jungle Relic themed high damage machine rifle.|
 |![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|Weapon|Medieval themed high damage machine rifle.|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
