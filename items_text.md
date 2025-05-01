@@ -57,6 +57,7 @@
 |[ballista.bolt.pitchfork](/ballista.bolt.pitchfork.png)|-357442017|Pitchfork Bolt|Ammunition|
 |[ballista.mounted](/ballista.mounted.png)|-759279626|Mounted Ballista|Weapon|
 |[ballista.static](/ballista.static.png)|1714509152|Ballista|Weapon|
+|[bamboo.barrel](/bamboo.barrel.png)|-1652561344|Bamboo Barrel|Items|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
@@ -83,10 +84,14 @@
 |[bed](/bed.png)|-1273339005|Bed|Items|
 |[beehive](/beehive.png)|184516676|Beehive|Construction|
 |[bicycle](/bicycle.png)|821588319|Bicycle|Misc|
+|[bigcatmeat.cooked](/bigcatmeat.cooked.png)|-1318837358|Cooked Big Cat Meat|Food|
+|[bigcatmeat](/bigcatmeat.png)|-2095813057|Raw Big Cat Meat|Food|
+|[bigcatmeat.spoiled](/bigcatmeat.spoiled.png)|248643189|Spoiled Big Cat Meat|Food|
 |[black.berry](/black.berry.png)|1771755747|Black Berry|Food|
 |[black.raspberries](/black.raspberries.png)|1931713481|Black Raspberries|Food|
 |[bleach](/bleach.png)|1553078977|Bleach|Component|
 |[blood](/blood.png)|1776460938|Blood|Medical|
+|[blowpipe](/blowpipe.png)|-851288382|Blow Pipe|Weapon|
 |[blue.berry](/blue.berry.png)|1112162468|Blue Berry|Food|
 |[blueberries](/blueberries.png)|-586342290|Blueberries|Food|
 |[bluedogtags](/bluedogtags.png)|1036321299|Blue Dog Tags|Resources|
@@ -98,6 +103,7 @@
 |[bone.fragments](/bone.fragments.png)|1719978075|Bone Fragments|Resources|
 |[boogieboard](/boogieboard.png)|-1478094705|Boogie Board|Fun|
 |[boombox](/boombox.png)|-1113501606|Boom Box|Fun|
+|[boomerang](/boomerang.png)|1680793490|Boomerang|Weapon|
 |[boots.frog](/boots.frog.png)|-1000573653|Frog Boots|Attire|
 |[botabag](/botabag.png)|613961768|Bota Bag|Items|
 |[bottle.vodka](/bottle.vodka.png)|755224797|Vodka Bottle|Food|
@@ -175,6 +181,10 @@
 |[clothing.mod.armorinsert_metal](/clothing.mod.armorinsert_metal.png)|1099611828|Metal Armor Insert|Items|
 |[clothing.mod.armorinsert_wood](/clothing.mod.armorinsert_wood.png)|-593892112|Wooden Armor Insert|Items|
 |[coal](/coal.png)|204391461|Coal :(|Resources|
+|[cocoknight.armor.gloves](/cocoknight.armor.gloves.png)|1873004466|Coconut Armor Gloves|Attire|
+|[cocoknight.armor.helmet](/cocoknight.armor.helmet.png)|-582467439|Coconut Armor Helmet|Attire|
+|[cocoknight.armor.pants](/cocoknight.armor.pants.png)|507284030|Coconut Armor Pants|Attire|
+|[cocoknight.armor.torso](/cocoknight.armor.torso.png)|1426097945|Coconut Armor Chestplate|Attire|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
 |[composter](/composter.png)|-1488398114|Composter|Items|
@@ -191,6 +201,9 @@
 |[crankshaft2](/crankshaft2.png)|1158340331|Medium Quality Crankshaft|Component|
 |[crankshaft3](/crankshaft3.png)|1158340332|High Quality Crankshaft|Component|
 |[cratecostume](/cratecostume.png)|1189981699|Crate Costume|Attire|
+|[crocodilemeat.cooked](/crocodilemeat.cooked.png)|392828520|Cooked Crocodile Meat|Food|
+|[crocodilemeat](/crocodilemeat.png)|-1081599445|Raw Crocodile Meat|Food|
+|[crocodilemeat.spoiled](/crocodilemeat.spoiled.png)|-1796837031|Spoiled Crocodile Meat|Food|
 |[crossbow](/crossbow.png)|1965232394|Crossbow|Weapon|
 |[crude.oil](/crude.oil.png)|-321733511|Crude Oil|Resources|
 |[cupboard.tool](/cupboard.tool.png)|-97956382|Tool Cupboard|Construction|
@@ -198,6 +211,10 @@
 |[cupboard.tool.shockbyte](/cupboard.tool.shockbyte.png)|1174957864|Shockbyte Tool Cupboard|Construction|
 |[cursedcauldron](/cursedcauldron.png)|1242522330|Cursed Cauldron|Misc|
 |[dart.bone](/dart.bone.png)|-361911645|Bone Dart|Ammunition|
+|[dart.incapacitate](/dart.incapacitate.png)|-963819285|Incapacitate Dart|Ammunition|
+|[dart.radiation](/dart.radiation.png)|-594596146|Radiation Dart|Ammunition|
+|[dart.scatter](/dart.scatter.png)|2036395619|Scatter Dart|Ammunition|
+|[dart.wood](/dart.wood.png)|-274709858|Wood Dart|Ammunition|
 |[deer.skull.mask](/deer.skull.mask.png)|-1903165497|Bone Helmet|Attire|
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
 |[deermeat.cooked](/deermeat.cooked.png)|-1509851560|Cooked Deer Meat|Food|
@@ -403,6 +420,7 @@
 |[guntrap](/guntrap.png)|352499047|Shotgun Trap|Traps|
 |[hab.armor](/hab.armor.png)|-1989600732|Hot Air Balloon Armor|Attire|
 |[habrepair](/habrepair.png)|-1759188988|Hot Air Balloon|Misc|
+|[half.bamboo.shelves](/half.bamboo.shelves.png)|-1923843855|Half Height Bamboo Shelves|Items|
 |[halloween.candy](/halloween.candy.png)|-888153050|Halloween Candy|Misc|
 |[halloween.lootbag.large](/halloween.lootbag.large.png)|479292118|Large Loot Bag|Misc|
 |[halloween.lootbag.medium](/halloween.lootbag.medium.png)|1899610628|Medium Loot Bag|Misc|
@@ -503,11 +521,13 @@
 |[jumpsuit.suit.blue](/jumpsuit.suit.blue.png)|1601468620|Blue Jumpsuit|Attire|
 |[jumpsuit.suit](/jumpsuit.suit.png)|-97459906|Jumpsuit|Attire|
 |[jumpsuit.waterwellnpc](/jumpsuit.waterwellnpc.png)|-874908751|Waterwell NPC Jumpsuit|Attire|
+|[jungle.rock](/jungle.rock.png)|1350707894|Jungle Rock|Tool|
 |[kayak](/kayak.png)|190184021|Kayak|Items|
 |[keycard_blue](/keycard_blue.png)|-484206264|Blue Keycard|Misc|
 |[keycard_green](/keycard_green.png)|37122747|Green Keycard|Misc|
 |[keycard_red](/keycard_red.png)|-1880870149|Red Keycard|Misc|
 |[knife.bone](/knife.bone.png)|1814288539|Bone Knife|Weapon|
+|[knife.bone.obsidian](/knife.bone.obsidian.png)|158303804|Obsidian Bone Knife|Weapon|
 |[knife.butcher](/knife.butcher.png)|-194509282|Butcher Knife|Weapon|
 |[knife.combat](/knife.combat.png)|2040726127|Combat Knife|Weapon|
 |[knife.skinning](/knife.skinning.png)|-2073432256|Skinning Knife|Weapon|
@@ -604,6 +624,8 @@
 |[oretea.advanced](/oretea.advanced.png)|2063916636|Advanced Ore Tea|Food|
 |[oretea](/oretea.png)|1480022580|Basic Ore Tea|Food|
 |[oretea.pure](/oretea.pure.png)|1729374708|Pure Ore Tea|Food|
+|[oubreak_scientist](/oubreak_scientist.png)|-2133781216|Outbreak Scientist Suit|Attire|
+|[outbreak.sprayer](/outbreak.sprayer.png)|1621942085|Outbreak Sprayer|Tool|
 |[paddle](/paddle.png)|1491189398|Paddle|Weapon|
 |[paddlingpool](/paddlingpool.png)|-733625651|Paddling Pool|Fun|
 |[pants](/pants.png)|237239288|Pants|Attire|
@@ -620,7 +642,9 @@
 |[pickaxe](/pickaxe.png)|-1302129395|Pickaxe|Tool|
 |[pie.apple](/pie.apple.png)|4384538|Apple Pie|Food|
 |[pie.bear](/pie.bear.png)|2039177180|Bear Pie|Food|
+|[pie.bigcat](/pie.bigcat.png)|309017792|Big Cat Pie|Food|
 |[pie.chicken](/pie.chicken.png)|120820987|Chicken Pie|Food|
+|[pie.crocodile](/pie.crocodile.png)|54265286|Crocodile Pie|Food|
 |[pie.fish](/pie.fish.png)|-1785248332|Fish Pie|Food|
 |[pie.hunters](/pie.hunters.png)|320438357|Hunters Pie|Food|
 |[pie.pork](/pie.pork.png)|1467878256|Pork Pie|Food|
@@ -676,6 +700,7 @@
 |[rifle.ak.diver](/rifle.ak.diver.png)|-139037392|Abyss Assault Rifle|Weapon|
 |[rifle.ak.ice](/rifle.ak.ice.png)|-1335497659|Ice Assault Rifle|Weapon|
 |[rifle.ak](/rifle.ak.png)|1545779598|Assault Rifle|Weapon|
+|[rifle.ak.jungle](/rifle.ak.jungle.png)|2054929933|Jungle Relic Assault Rifle|Weapon|
 |[rifle.ak.med](/rifle.ak.med.png)|472505338|Medieval Assault Rifle|Weapon|
 |[rifle.bolt](/rifle.bolt.png)|1588298435|Bolt Action Rifle|Weapon|
 |[rifle.l96](/rifle.l96.png)|-778367295|L96 Rifle|Weapon|
@@ -707,6 +732,7 @@
 |[rustige_egg_e](/rustige_egg_e.png)|-173268125|Rustigé Egg - Green|Misc|
 |[rustige_egg_f](/rustige_egg_f.png)|-173268128|Rustigé Egg - White|Misc|
 |[rustige_egg_g](/rustige_egg_g.png)|-173268127|Rustigé Egg - Cerulean|Misc|
+|[salvaged.bamboo.shelves](/salvaged.bamboo.shelves.png)|-2110553371|Bamboo Salvaged Shelves|Items|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
 |[salvaged.sword](/salvaged.sword.png)|1326180354|Salvaged Sword|Weapon|
 |[samsite](/samsite.png)|-1009359066|SAM Site|Traps|
@@ -786,6 +812,7 @@
 |[sign.wooden.large](/sign.wooden.large.png)|1153652756|Large Wooden Sign|Items|
 |[sign.wooden.medium](/sign.wooden.medium.png)|-1819233322|Medium Wooden Sign|Items|
 |[sign.wooden.small](/sign.wooden.small.png)|-1138208076|Small Wooden Sign|Items|
+|[single.shallow.wall.shelves](/single.shallow.wall.shelves.png)|-193519904|Single Shallow Wall Shelves|Items|
 |[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
 |[skull](/skull.png)|1312843609|Skull|Tool|
@@ -817,6 +844,9 @@
 |[smg.mp5](/smg.mp5.png)|1318558775|MP5A4|Weapon|
 |[smg.thompson](/smg.thompson.png)|-1758372725|Thompson|Weapon|
 |[smgbody](/smgbody.png)|1230323789|SMG Body|Component|
+|[snakemeat.cooked](/snakemeat.cooked.png)|-170436364|Cooked Snake Meat|Food|
+|[snakemeat](/snakemeat.png)|-2100458529|Raw Snake Meat|Food|
+|[snakemeat.spoiled](/snakemeat.spoiled.png)|-1616704051|Spoiled Snake Meat|Food|
 |[snowball](/snowball.png)|-363689972|Snowball|Weapon|
 |[snowballgun](/snowballgun.png)|1103488722|Snowball Gun|Weapon|
 |[snowmachine](/snowmachine.png)|1358643074|Snow Machine|Misc|
@@ -926,6 +956,7 @@
 |[vehicle.chassis](/vehicle.chassis.png)|1770744540|Generic vehicle chassis|Component|
 |[vehicle.module](/vehicle.module.png)|878301596|Generic vehicle module|Component|
 |[vending.machine](/vending.machine.png)|198438816|Vending Machine|Items|
+|[venom.snake](/venom.snake.png)|-870140677|Snake Venom|Items|
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
 |[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
 |[wall.external.high.adobe](/wall.external.high.adobe.png)|756890702|High External Adobe Wall|Construction|
@@ -983,6 +1014,7 @@
 |[wheat](/wheat.png)|1178325727|Wheat|Food|
 |[white.berry](/white.berry.png)|854447607|White Berry|Food|
 |[whiteidtag](/whiteidtag.png)|22947882|White ID Tag|Resources|
+|[wicker.barrel](/wicker.barrel.png)|-526026171|Wicker Barrel|Items|
 |[wiretool](/wiretool.png)|-144417939|Wire Tool|Electrical|
 |[wolfmeat.burned](/wolfmeat.burned.png)|1827479659|Burnt Wolf Meat|Food|
 |[wolfmeat.cooked](/wolfmeat.cooked.png)|813023040|Cooked Wolf Meat|Food|
@@ -992,6 +1024,7 @@
 |[wood.armor.jacket](/wood.armor.jacket.png)|418081930|Wood Chestplate|Attire|
 |[wood.armor.pants](/wood.armor.pants.png)|832133926|Wood Armor Pants|Attire|
 |[wood](/wood.png)|-151838493|Wood|Resources|
+|[woodarmor.gloves](/woodarmor.gloves.png)|-459159118|Wood Armor Gloves|Attire|
 |[woodcross](/woodcross.png)|699075597|Wooden Cross|Misc|
 |[wooden.shield](/wooden.shield.png)|1604837581|Wooden Shield|Attire|
 |[woodframe.large](/woodframe.large.png)|-635951327|Wood Frame Large|Items|
