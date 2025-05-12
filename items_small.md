@@ -2,6 +2,10 @@
 |Image|Shortname|ID|Name|
 |:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|
+|![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|
+|![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|
+|![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|
+|![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|
@@ -196,7 +200,7 @@
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|
 |![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|
 |![](/corn.128.webp)|corn|1367190888|Corn|
-|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|
+|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Basic Crafting Quality Tea|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|
@@ -430,7 +434,7 @@
 |![](/hammer.128.webp)|hammer|200773292|Hammer|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|
-|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Basic Harvesting Tea|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|
@@ -679,6 +683,10 @@
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|
+|![](/purecoolingtea.128.webp)|purecoolingtea|1121416193|Pure Cooling Tea|
+|![](/purecraftingtea_quality.128.webp)|purecraftingtea_quality|97903330|Pure Crafting Quality Tea|
+|![](/pureharvestingtea.128.webp)|pureharvestingtea|377750553|Pure Harvesting Tea|
+|![](/purewarmingtea.128.webp)|purewarmingtea|-1476814093|Pure Warming Tea|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|
@@ -986,7 +994,7 @@
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|
-|![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|
+|![](/warmingtea.128.webp)|warmingtea|-1142222427|Basic Warming Tea|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|

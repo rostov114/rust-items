@@ -2,6 +2,10 @@
 |Shortname|ID|Name|Category|
 |:-:|:-:|:-:|:-:|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
+|[advancedcoolingtea](/advancedcoolingtea.png)|-1498613415|Advanced Cooling Tea|Food|
+|[advancedcraftingtea_quality](/advancedcraftingtea_quality.png)|-652889722|Advanced Crafting Quality Tea|Food|
+|[advancedwarmingtea](/advancedwarmingtea.png)|-334418777|Advanced Warming Tea|Food|
+|[advanceharvestingtea](/advanceharvestingtea.png)|-1385721419|Advanced Harvesting Tea|Food|
 |[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|MLRS Aiming Module|Component|
 |[ammo.grenadelauncher.buckshot](/ammo.grenadelauncher.buckshot.png)|1055319033|40mm Shotgun Round|Ammunition|
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
@@ -196,7 +200,7 @@
 |[cookingworkbench](/cookingworkbench.png)|1456143403|Cooking Workbench|Items|
 |[coolingtea](/coolingtea.png)|-1260229965|Cooling Tea|Food|
 |[corn](/corn.png)|1367190888|Corn|Food|
-|[craftingtea_quality](/craftingtea_quality.png)|368008432|Crafting Quality Tea|Food|
+|[craftingtea_quality](/craftingtea_quality.png)|368008432|Basic Crafting Quality Tea|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
 |[crankshaft2](/crankshaft2.png)|1158340331|Medium Quality Crankshaft|Component|
 |[crankshaft3](/crankshaft3.png)|1158340332|High Quality Crankshaft|Component|
@@ -430,7 +434,7 @@
 |[hammer](/hammer.png)|200773292|Hammer|Tool|
 |[hammer.salvaged](/hammer.salvaged.png)|-1506397857|Salvaged Hammer|Tool|
 |[handcuffs](/handcuffs.png)|-839576748|Handcuffs|Tool|
-|[harvestingtea](/harvestingtea.png)|1516531815|Harvesting Tea|Food|
+|[harvestingtea](/harvestingtea.png)|1516531815|Basic Harvesting Tea|Food|
 |[hat.beenie](/hat.beenie.png)|1675639563|Beenie Hat|Attire|
 |[hat.boonie](/hat.boonie.png)|-23994173|Boonie Hat|Attire|
 |[hat.bunnyhat](/hat.bunnyhat.png)|23391694|Bunny Hat|Attire|
@@ -679,6 +683,10 @@
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
 |[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
+|[purecoolingtea](/purecoolingtea.png)|1121416193|Pure Cooling Tea|Food|
+|[purecraftingtea_quality](/purecraftingtea_quality.png)|97903330|Pure Crafting Quality Tea|Food|
+|[pureharvestingtea](/pureharvestingtea.png)|377750553|Pure Harvesting Tea|Food|
+|[purewarmingtea](/purewarmingtea.png)|-1476814093|Pure Warming Tea|Food|
 |[purpleidtag](/purpleidtag.png)|-1386082991|Purple ID Tag|Resources|
 |[radiationremovetea.advanced](/radiationremovetea.advanced.png)|2021351233|Advanced Rad. Removal Tea|Food|
 |[radiationremovetea](/radiationremovetea.png)|-496584751|Rad. Removal Tea|Food|
@@ -986,7 +994,7 @@
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
 |[wantedposter.wantedposter4](/wantedposter.wantedposter4.png)|1463862472|Wanted Poster 4|Items|
-|[warmingtea](/warmingtea.png)|-1142222427|Warming Tea|Food|
+|[warmingtea](/warmingtea.png)|-1142222427|Basic Warming Tea|Food|
 |[watchtower.wood](/watchtower.wood.png)|-463122489|Watch Tower|Construction|
 |[water.barrel](/water.barrel.png)|-1863559151|Water Barrel|Items|
 |[water.catcher.large](/water.catcher.large.png)|-1100168350|Large Water Catcher|Construction|

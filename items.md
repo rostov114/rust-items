@@ -2,6 +2,10 @@
 |Image|Shortname|ID|Name|Category|Description|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
+|![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|Food|A advanced cooling tea that temporarily decreases your max and core temperature.|
+|![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|A advanced crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
+|![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|A advanced warming tea that temporarily increases both your core and minimum temperature.|
+|![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|Food|A advance tea that temporarily increases the amount of resources you receive from harvesting corpses a moderate amount.|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
@@ -196,7 +200,7 @@
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced recipes for food, fuel, ammunition and explosives.|
 |![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|Food|A cooling tea that temporarily decreases your max and core temperature.|
 |![](/corn.128.webp)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
-|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|Food|A crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
+|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Basic Crafting Quality Tea|Food|A basic crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|Component|A medium quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|Component|A high quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
@@ -430,7 +434,7 @@
 |![](/hammer.128.webp)|hammer|200773292|Hammer|Tool|A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|Tool|A Hammer made from a bunch of other crap.|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|Tool|You're under arrest! Use on a surrendering or wounded player to keep them restrained. The wearer is blocked from using or holding items and can be pushed around.|
-|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|Food|A basic tea that temporarily increases the amount of resources you receive from harvesting corpses a small amount.|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Basic Harvesting Tea|Food|A basic tea that temporarily increases the amount of resources you receive from harvesting corpses a small amount.|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat, offering some basic protection from damage and cold for your head.|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat, offering minor protection from damage and cold for your head.|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
@@ -679,6 +683,10 @@
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
+|![](/purecoolingtea.128.webp)|purecoolingtea|1121416193|Pure Cooling Tea|Food|A pure cooling tea that temporarily decreases your max and core temperature.|
+|![](/purecraftingtea_quality.128.webp)|purecraftingtea_quality|97903330|Pure Crafting Quality Tea|Food|A pure crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
+|![](/pureharvestingtea.128.webp)|pureharvestingtea|377750553|Pure Harvesting Tea|Food|A pure tea that temporarily increases the amount of resources you receive from harvesting corpses a large amount.|
+|![](/purewarmingtea.128.webp)|purewarmingtea|-1476814093|Pure Warming Tea|Food|A pure warming tea that temporarily increases both your core and minimum temperature.|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|Resources|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
@@ -986,7 +994,7 @@
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can display a given player's face as wanted.|
-|![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|Food|A warming tea that temporarily increases both your core and minimum temperature.|
+|![](/warmingtea.128.webp)|warmingtea|-1142222427|Basic Warming Tea|Food|A basic warming tea that temporarily increases both your core and minimum temperature.|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
