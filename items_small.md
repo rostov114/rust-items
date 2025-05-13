@@ -214,7 +214,6 @@
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|
 |![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|
-|![](/dart.bone.128.webp)|dart.bone|-361911645|Bone Dart|
 |![](/dart.incapacitate.128.webp)|dart.incapacitate|-963819285|Incapacitate Dart|
 |![](/dart.radiation.128.webp)|dart.radiation|-594596146|Radiation Dart|
 |![](/dart.scatter.128.webp)|dart.scatter|2036395619|Scatter Dart|
