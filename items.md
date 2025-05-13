@@ -214,7 +214,6 @@
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|Construction|Transform your tool cupboard experience with this modified Hi-Fi cabinet. Complete with retro displays indicating vital base data as well as frosted glass doors allowing you to view its contents of tools and resources!|
 |![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|Construction|Ensure 100% Tool Cupboard uptime with this Tool Cupboard skin.|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|Misc|A spooky cast iron cauldron with a green goo.|
-|![](/dart.bone.128.webp)|dart.bone|-361911645|Bone Dart|Ammunition|A basic damage dart.|
 |![](/dart.incapacitate.128.webp)|dart.incapacitate|-963819285|Incapacitate Dart|Ammunition|A dart that slows your target and blocks their vision briefly.|
 |![](/dart.radiation.128.webp)|dart.radiation|-594596146|Radiation Dart|Ammunition|A dart that applies stackable radiation.|
 |![](/dart.scatter.128.webp)|dart.scatter|2036395619|Scatter Dart|Ammunition|A spread shot dart that fires multiple smaller darts.|

@@ -214,7 +214,6 @@
 |[cupboard.tool.retro](/cupboard.tool.retro.png)|1488606552|Retro Tool Cupboard|Construction|
 |[cupboard.tool.shockbyte](/cupboard.tool.shockbyte.png)|1174957864|Shockbyte Tool Cupboard|Construction|
 |[cursedcauldron](/cursedcauldron.png)|1242522330|Cursed Cauldron|Misc|
-|[dart.bone](/dart.bone.png)|-361911645|Bone Dart|Ammunition|
 |[dart.incapacitate](/dart.incapacitate.png)|-963819285|Incapacitate Dart|Ammunition|
 |[dart.radiation](/dart.radiation.png)|-594596146|Radiation Dart|Ammunition|
 |[dart.scatter](/dart.scatter.png)|2036395619|Scatter Dart|Ammunition|
