@@ -1013,9 +1013,11 @@
 |[weapon.mod.lasersight](/weapon.mod.lasersight.png)|-132516482|Weapon Lasersight|Weapon|
 |[weapon.mod.muzzleboost](/weapon.mod.muzzleboost.png)|-1405508498|Muzzle Boost|Weapon|
 |[weapon.mod.muzzlebrake](/weapon.mod.muzzlebrake.png)|1478091698|Muzzle Brake|Weapon|
-|[weapon.mod.silencer](/weapon.mod.silencer.png)|-1850571427|Silencer|Weapon|
+|[weapon.mod.oilfiltersilencer](/weapon.mod.oilfiltersilencer.png)|-781866273|Oil Filter Silencer|Weapon|
+|[weapon.mod.silencer](/weapon.mod.silencer.png)|-1850571427|Military Silencer|Weapon|
 |[weapon.mod.simplesight](/weapon.mod.simplesight.png)|-855748505|Simple Handmade Sight|Weapon|
 |[weapon.mod.small.scope](/weapon.mod.small.scope.png)|567235583|8x Zoom Scope|Weapon|
+|[weapon.mod.sodacansilencer](/weapon.mod.sodacansilencer.png)|-1659598760|Soda Can Silencer|Weapon|
 |[weaponrack.doublelight](/weaponrack.doublelight.png)|1277159544|Weapon Rack Double Light|Electrical|
 |[weaponrack.light](/weaponrack.light.png)|-1163943815|Weapon Rack Light|Electrical|
 |[wheat](/wheat.png)|1178325727|Wheat|Food|
