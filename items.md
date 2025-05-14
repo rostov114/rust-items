@@ -576,7 +576,7 @@
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
 |![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a moderate amount.|
 |![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A basic health tea, provides hydration and temporarily boosts maximum health a small amount.|
-|![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a large amount.|
+|![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|A pure health tea, provides hydration and temporarily boosts maximum health a large amount.|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
@@ -645,9 +645,9 @@
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
 |![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration. Increases effect of harvesting teas but reduces their duration.|
-|![](/pie.bigcat.128.webp)|pie.bigcat|309017792|Big Cat Pie|Food|A delicious Big Cat Pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
+|![](/pie.bigcat.128.webp)|pie.bigcat|309017792|Big Cat Pie|Food|A pie made from jungle cat meat, purrfect temperature. Boosts hunger, health and hydration. Shows nearby animal tracks for a short time.|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Just like mom used to make. Provides a boost to hunger, health and hydration. Increases the chance of better genes from crops for short time.|
-|![](/pie.crocodile.128.webp)|pie.crocodile|54265286|Crocodile Pie|Food|A delicious Crocodile Pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
+|![](/pie.crocodile.128.webp)|pie.crocodile|54265286|Crocodile Pie|Food|A pie made from crocodile meat, may cause a reptile dysfunction. Boosts hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration. Increases base comfort level for a short time.|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration. Reduces bleeding for a short time.|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
@@ -1013,9 +1013,11 @@
 |![](/weapon.mod.lasersight.128.webp)|weapon.mod.lasersight|-132516482|Weapon Lasersight|Weapon|Attaches to a weapon. Provides user with a guiding laser and reduces weapon sway.|
 |![](/weapon.mod.muzzleboost.128.webp)|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|Weapon|Increases weapon fire rate by channeling gasses back into the weapon cycling it faster, at the cost of bullet accuracy.|
 |![](/weapon.mod.muzzlebrake.128.webp)|weapon.mod.muzzlebrake|1478091698|Muzzle Brake|Weapon|Lowers recoil felt by the operator but can make bullet path more unpredictable and dealing slightly less damage to your foes.|
-|![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.|
+|![](/weapon.mod.oilfiltersilencer.128.webp)|weapon.mod.oilfiltersilencer|-781866273|Oil Filter Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash. Fashioned out of an old oil filter, this won't last long.|
+|![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Military Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.|
 |![](/weapon.mod.simplesight.128.webp)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
+|![](/weapon.mod.sodacansilencer.128.webp)|weapon.mod.sodacansilencer|-1659598760|Soda Can Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash. Crudely made out of a soda can, this will only survive a few shots.|
 |![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|Electrical|A weapon rack light.|
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|Electrical|A weapon rack light.|
 |![](/wheat.128.webp)|wheat|1178325727|Wheat|Food|A bundle of wheat. Edible, but better off in a cooking recipe.|

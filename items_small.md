@@ -1013,9 +1013,11 @@
 |![](/weapon.mod.lasersight.128.webp)|weapon.mod.lasersight|-132516482|Weapon Lasersight|
 |![](/weapon.mod.muzzleboost.128.webp)|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|
 |![](/weapon.mod.muzzlebrake.128.webp)|weapon.mod.muzzlebrake|1478091698|Muzzle Brake|
-|![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Silencer|
+|![](/weapon.mod.oilfiltersilencer.128.webp)|weapon.mod.oilfiltersilencer|-781866273|Oil Filter Silencer|
+|![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Military Silencer|
 |![](/weapon.mod.simplesight.128.webp)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|
+|![](/weapon.mod.sodacansilencer.128.webp)|weapon.mod.sodacansilencer|-1659598760|Soda Can Silencer|
 |![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|
 |![](/wheat.128.webp)|wheat|1178325727|Wheat|
