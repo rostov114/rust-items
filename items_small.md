@@ -1018,6 +1018,7 @@
 |![](/weapon.mod.simplesight.128.webp)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|
 |![](/weapon.mod.sodacansilencer.128.webp)|weapon.mod.sodacansilencer|-1659598760|Soda Can Silencer|
+|![](/weapon.mod.targetingattachment.128.webp)|weapon.mod.targetingattachment|1719587208|Targeting Attachment|
 |![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|
 |![](/wheat.128.webp)|wheat|1178325727|Wheat|
