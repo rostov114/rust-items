@@ -1018,6 +1018,7 @@
 |![](/weapon.mod.simplesight.128.webp)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
 |![](/weapon.mod.sodacansilencer.128.webp)|weapon.mod.sodacansilencer|-1659598760|Soda Can Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash. Crudely made out of a soda can, this will only survive a few shots.|
+|![](/weapon.mod.targetingattachment.128.webp)|weapon.mod.targetingattachment|1719587208|Targeting Attachment|Weapon|An internal weapon mod that allows the user to send pings to their team while the weapon is equipped.|
 |![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|Electrical|A weapon rack light.|
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|Electrical|A weapon rack light.|
 |![](/wheat.128.webp)|wheat|1178325727|Wheat|Food|A bundle of wheat. Edible, but better off in a cooking recipe.|
