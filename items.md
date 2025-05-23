@@ -2,10 +2,10 @@
 |Image|Shortname|ID|Name|Category|Description|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
-|![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|Food|A advanced cooling tea that temporarily decreases your max and core temperature.|
-|![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|A advanced crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
-|![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|A advanced warming tea that temporarily increases both your core and minimum temperature.|
-|![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|Food|A advance tea that temporarily increases the amount of resources you receive from harvesting corpses a moderate amount.|
+|![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|Food|An advanced cooling tea, provides hydration and temporarily decreases your max and core temperature.|
+|![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|An advanced crafting tea, provides hydration and temporarily increases the chances of a higher quality crafting outcome.|
+|![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|An advanced warming tea that temporarily increases both your core and minimum temperature.|
+|![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|Food|An advanced harvesting tea, provides hydration and temporarily boosts the amount of resources you receive from harvesting corpses a moderate amount.|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
@@ -144,6 +144,7 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
+|![](/catapult.ammo.bee.128.webp)|catapult.ammo.bee|1954597876|Bee Catapult Bomb|Ammunition|A bunch of Bee Grenades in a single catapult projectile. Creates swarms of Bees on impact.|
 |![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Scattershot|Ammunition|A cluster of heavy rock projectiles for a catapult. Wide spread, pure kinetic damage on impact.|
 |![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|Ammunition|An explosive propane-filled keg, devastating to structures. Can be placed or used as a projectile in a catapult.|
 |![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|Ammunition|A crude firebomb made of fuel-filled jugs wrapped in a net. Can be placed or used as a projectile in a catapult.|
@@ -198,7 +199,7 @@
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|Fun|Blast a cloud of birthday themed confetti cheer.|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced recipes for food, fuel, ammunition and explosives.|
-|![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|Food|A cooling tea that temporarily decreases your max and core temperature.|
+|![](/coolingtea.128.webp)|coolingtea|-1260229965|Basic Cooling Tea|Food|A basic cooling tea that temporarily decreases your max and core temperature.|
 |![](/corn.128.webp)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Basic Crafting Quality Tea|Food|A basic crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
@@ -359,7 +360,7 @@
 |![](/frankensteins.monster.03.legs.128.webp)|frankensteins.monster.03.legs|-2024549027|Heavy Frankenstein Legs|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteins.monster.03.torso.128.webp)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteintable.128.webp)|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
-|![](/fridge.128.webp)|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
+|![](/fridge.128.webp)|fridge|1413014235|Fridge|Electrical|A fridge you can store food into!|
 |![](/frontier_hatchet.128.webp)|frontier_hatchet|1937380239|Frontier Hatchet|Tool|A Frontier Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/frontiermirror.large.128.webp)|frontiermirror.large|242933621|Frontier Mirror Large|Items|A large wooden frontier themed mirror|
 |![](/frontiermirror.medium.128.webp)|frontiermirror.medium|2055695285|Frontier Mirror Medium|Items|A medium wood frontier themed mirror|
@@ -433,7 +434,7 @@
 |![](/hammer.128.webp)|hammer|200773292|Hammer|Tool|A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|Tool|A Hammer made from a bunch of other crap.|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|Tool|You're under arrest! Use on a surrendering or wounded player to keep them restrained. The wearer is blocked from using or holding items and can be pushed around.|
-|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Basic Harvesting Tea|Food|A basic tea that temporarily increases the amount of resources you receive from harvesting corpses a small amount.|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Basic Harvesting Tea|Food|A basic harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a small amount.|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat, offering some basic protection from damage and cold for your head.|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat, offering minor protection from damage and cold for your head.|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
@@ -508,6 +509,7 @@
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
 |![](/industrial.splitter.128.webp)|industrial.splitter|742745918|Industrial Splitter|Electrical|Splits an industrial connection into three separate connections.|
+|![](/industrial.wall.light.blue.128.webp)|industrial.wall.light.blue|920930831|Blue Industrial Wall Light|Electrical|A small blue light source.|
 |![](/industrial.wall.light.green.128.webp)|industrial.wall.light.green|1268178466|Green Industrial Wall Light|Electrical|A small green light source.|
 |![](/industrial.wall.light.128.webp)|industrial.wall.light|1623701499|Industrial Wall Light|Electrical|A small light source.|
 |![](/industrial.wall.light.red.128.webp)|industrial.wall.light.red|-1160621614|Red Industrial Wall Light|Electrical|A small red light source.|
@@ -684,7 +686,7 @@
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
 |![](/purecoolingtea.128.webp)|purecoolingtea|1121416193|Pure Cooling Tea|Food|A pure cooling tea that temporarily decreases your max and core temperature.|
 |![](/purecraftingtea_quality.128.webp)|purecraftingtea_quality|97903330|Pure Crafting Quality Tea|Food|A pure crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
-|![](/pureharvestingtea.128.webp)|pureharvestingtea|377750553|Pure Harvesting Tea|Food|A pure tea that temporarily increases the amount of resources you receive from harvesting corpses a large amount.|
+|![](/pureharvestingtea.128.webp)|pureharvestingtea|377750553|Pure Harvesting Tea|Food|A pure harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a large amount.|
 |![](/purewarmingtea.128.webp)|purewarmingtea|-1476814093|Pure Warming Tea|Food|A pure warming tea that temporarily increases both your core and minimum temperature.|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|Resources|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
@@ -988,7 +990,11 @@
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
+|![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|Items||
+|![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|Items||
 |![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|Items|Transform your base from a rusty shack to a cozy hideout with this sleek wallpaper. A nice touch of style - until the next raid, at least.|
+|![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|Items|Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.Press [+attack2] to select your skin.|
+|![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|Tool||
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|

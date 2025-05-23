@@ -144,6 +144,7 @@
 |[cassette](/cassette.png)|476066818|Cassette - Long|Fun|
 |[cassette.medium](/cassette.medium.png)|-912398867|Cassette - Medium|Fun|
 |[cassette.short](/cassette.short.png)|1523403414|Cassette - Short|Fun|
+|[catapult.ammo.bee](/catapult.ammo.bee.png)|1954597876|Bee Catapult Bomb|Ammunition|
 |[catapult.ammo.boulder](/catapult.ammo.boulder.png)|1831249347|Scattershot|Ammunition|
 |[catapult.ammo.explosive](/catapult.ammo.explosive.png)|-1827561369|Propane Explosive Bomb|Ammunition|
 |[catapult.ammo.incendiary](/catapult.ammo.incendiary.png)|-484006286|Firebomb|Ammunition|
@@ -198,7 +199,7 @@
 |[confetticannon](/confetticannon.png)|1603174987|Confetti Cannon|Fun|
 |[connected.speaker](/connected.speaker.png)|968421290|Connected Speaker|Fun|
 |[cookingworkbench](/cookingworkbench.png)|1456143403|Cooking Workbench|Items|
-|[coolingtea](/coolingtea.png)|-1260229965|Cooling Tea|Food|
+|[coolingtea](/coolingtea.png)|-1260229965|Basic Cooling Tea|Food|
 |[corn](/corn.png)|1367190888|Corn|Food|
 |[craftingtea_quality](/craftingtea_quality.png)|368008432|Basic Crafting Quality Tea|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
@@ -359,7 +360,7 @@
 |[frankensteins.monster.03.legs](/frankensteins.monster.03.legs.png)|-2024549027|Heavy Frankenstein Legs|Attire|
 |[frankensteins.monster.03.torso](/frankensteins.monster.03.torso.png)|1614528785|Heavy Frankenstein Torso|Attire|
 |[frankensteintable](/frankensteintable.png)|1575635062|Frankenstein Table|Items|
-|[fridge](/fridge.png)|1413014235|Fridge|Items|
+|[fridge](/fridge.png)|1413014235|Fridge|Electrical|
 |[frontier_hatchet](/frontier_hatchet.png)|1937380239|Frontier Hatchet|Tool|
 |[frontiermirror.large](/frontiermirror.large.png)|242933621|Frontier Mirror Large|Items|
 |[frontiermirror.medium](/frontiermirror.medium.png)|2055695285|Frontier Mirror Medium|Items|
@@ -508,6 +509,7 @@
 |[industrial.conveyor](/industrial.conveyor.png)|610102428|Industrial Conveyor|Electrical|
 |[industrial.crafter](/industrial.crafter.png)|1430085198|Industrial Crafter|Electrical|
 |[industrial.splitter](/industrial.splitter.png)|742745918|Industrial Splitter|Electrical|
+|[industrial.wall.light.blue](/industrial.wall.light.blue.png)|920930831|Blue Industrial Wall Light|Electrical|
 |[industrial.wall.light.green](/industrial.wall.light.green.png)|1268178466|Green Industrial Wall Light|Electrical|
 |[industrial.wall.light](/industrial.wall.light.png)|1623701499|Industrial Wall Light|Electrical|
 |[industrial.wall.light.red](/industrial.wall.light.red.png)|-1160621614|Red Industrial Wall Light|Electrical|
@@ -988,7 +990,11 @@
 |[wall.window.bars.toptier](/wall.window.bars.toptier.png)|671706427|Reinforced Glass Window|Construction|
 |[wall.window.bars.wood](/wall.window.bars.wood.png)|-1183726687|Wooden Window Bars|Construction|
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
+|[wallpaper.ceiling](/wallpaper.ceiling.png)|1730664641|Wallpaper Ceiling|Items|
+|[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Wallpaper Flooring|Items|
 |[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
+|[wallpaper.tool](/wallpaper.tool.png)|1629564540|Wallpaper Tool|Items|
+|[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper Wall|Tool|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
