@@ -144,6 +144,7 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|
+|![](/catapult.ammo.bee.128.webp)|catapult.ammo.bee|1954597876|Bee Catapult Bomb|
 |![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Scattershot|
 |![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|
 |![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|
@@ -198,7 +199,7 @@
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|
-|![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|
+|![](/coolingtea.128.webp)|coolingtea|-1260229965|Basic Cooling Tea|
 |![](/corn.128.webp)|corn|1367190888|Corn|
 |![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Basic Crafting Quality Tea|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|
@@ -508,6 +509,7 @@
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|
 |![](/industrial.splitter.128.webp)|industrial.splitter|742745918|Industrial Splitter|
+|![](/industrial.wall.light.blue.128.webp)|industrial.wall.light.blue|920930831|Blue Industrial Wall Light|
 |![](/industrial.wall.light.green.128.webp)|industrial.wall.light.green|1268178466|Green Industrial Wall Light|
 |![](/industrial.wall.light.128.webp)|industrial.wall.light|1623701499|Industrial Wall Light|
 |![](/industrial.wall.light.red.128.webp)|industrial.wall.light.red|-1160621614|Red Industrial Wall Light|
@@ -988,7 +990,11 @@
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|
+|![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|
+|![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|
 |![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|
+|![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|
+|![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|
