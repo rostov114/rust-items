@@ -653,7 +653,7 @@
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration. Increases base comfort level for a short time.|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration. Reduces bleeding for a short time.|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
-|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration.Increases maximum health for a short time.|
+|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration. Increases maximum health for a short time.|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration. Increases yield when harvesting corpses for a short time.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
@@ -993,7 +993,7 @@
 |![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|Items||
 |![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|Items||
 |![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|Items|Transform your base from a rusty shack to a cozy hideout with this sleek wallpaper. A nice touch of style - until the next raid, at least.|
-|![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|Items|Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.Press [+attack2] to select your skin.|
+|![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|Tool|Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.Press [+attack2] to select your skin.|
 |![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|Tool||
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
