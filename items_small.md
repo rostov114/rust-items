@@ -876,6 +876,7 @@
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|
 |![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning wheel|
+|![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|
