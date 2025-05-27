@@ -876,6 +876,7 @@
 |[spiderweb](/spiderweb.png)|882559853|Spider Webs|Misc|
 |[spikes.floor](/spikes.floor.png)|-92759291|Wooden Floor Spikes|Traps|
 |[spinner.wheel](/spinner.wheel.png)|-1100422738|Spinning wheel|Items|
+|[spoiled.produce](/spoiled.produce.png)|1184215560|Spoiled Produce|Food|
 |[spookyspeaker](/spookyspeaker.png)|1885488976|Spooky Speaker|Misc|
 |[spraycan](/spraycan.png)|-596876839|Spray Can|Tool|
 |[spraycandecal](/spraycandecal.png)|-1366326648|Spray Can Decal|Tool|
