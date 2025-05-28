@@ -192,6 +192,7 @@
 |![](/cocoknight.armor.torso.128.webp)|cocoknight.armor.torso|1426097945|Coconut Armor Chestplate|Attire|A shoddy piece of body armor made from coconut and plants, provides some basic protection from melee and ranged attacks.|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
+|![](/command.block.128.webp)|command.block|-1247485104|Command Block|Electrical|A block that runs commands|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|

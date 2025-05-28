@@ -192,6 +192,7 @@
 |[cocoknight.armor.torso](/cocoknight.armor.torso.png)|1426097945|Coconut Armor Chestplate|Attire|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
+|[command.block](/command.block.png)|-1247485104|Command Block|Electrical|
 |[composter](/composter.png)|-1488398114|Composter|Items|
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
