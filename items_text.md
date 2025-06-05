@@ -2,6 +2,10 @@
 |Shortname|ID|Name|Category|
 |:-:|:-:|:-:|:-:|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
+|[advancedcoolingtea](/advancedcoolingtea.png)|-1498613415|Advanced Cooling Tea|Food|
+|[advancedcraftingtea_quality](/advancedcraftingtea_quality.png)|-652889722|Advanced Crafting Quality Tea|Food|
+|[advancedwarmingtea](/advancedwarmingtea.png)|-334418777|Advanced Warming Tea|Food|
+|[advanceharvestingtea](/advanceharvestingtea.png)|-1385721419|Advanced Harvesting Tea|Food|
 |[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|MLRS Aiming Module|Component|
 |[ammo.grenadelauncher.buckshot](/ammo.grenadelauncher.buckshot.png)|1055319033|40mm Shotgun Round|Ammunition|
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
@@ -140,6 +144,7 @@
 |[cassette](/cassette.png)|476066818|Cassette - Long|Fun|
 |[cassette.medium](/cassette.medium.png)|-912398867|Cassette - Medium|Fun|
 |[cassette.short](/cassette.short.png)|1523403414|Cassette - Short|Fun|
+|[catapult.ammo.bee](/catapult.ammo.bee.png)|1954597876|Bee Catapult Bomb|Ammunition|
 |[catapult.ammo.boulder](/catapult.ammo.boulder.png)|1831249347|Scattershot|Ammunition|
 |[catapult.ammo.explosive](/catapult.ammo.explosive.png)|-1827561369|Propane Explosive Bomb|Ammunition|
 |[catapult.ammo.incendiary](/catapult.ammo.incendiary.png)|-484006286|Firebomb|Ammunition|
@@ -187,6 +192,7 @@
 |[cocoknight.armor.torso](/cocoknight.armor.torso.png)|1426097945|Coconut Armor Chestplate|Attire|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
+|[command.block](/command.block.png)|-1247485104|Command Block|Electrical|
 |[composter](/composter.png)|-1488398114|Composter|Items|
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
@@ -194,9 +200,9 @@
 |[confetticannon](/confetticannon.png)|1603174987|Confetti Cannon|Fun|
 |[connected.speaker](/connected.speaker.png)|968421290|Connected Speaker|Fun|
 |[cookingworkbench](/cookingworkbench.png)|1456143403|Cooking Workbench|Items|
-|[coolingtea](/coolingtea.png)|-1260229965|Cooling Tea|Food|
+|[coolingtea](/coolingtea.png)|-1260229965|Basic Cooling Tea|Food|
 |[corn](/corn.png)|1367190888|Corn|Food|
-|[craftingtea_quality](/craftingtea_quality.png)|368008432|Crafting Quality Tea|Food|
+|[craftingtea_quality](/craftingtea_quality.png)|368008432|Basic Crafting Quality Tea|Food|
 |[crankshaft1](/crankshaft1.png)|1158340334|Low Quality Crankshaft|Component|
 |[crankshaft2](/crankshaft2.png)|1158340331|Medium Quality Crankshaft|Component|
 |[crankshaft3](/crankshaft3.png)|1158340332|High Quality Crankshaft|Component|
@@ -356,7 +362,7 @@
 |[frankensteins.monster.03.legs](/frankensteins.monster.03.legs.png)|-2024549027|Heavy Frankenstein Legs|Attire|
 |[frankensteins.monster.03.torso](/frankensteins.monster.03.torso.png)|1614528785|Heavy Frankenstein Torso|Attire|
 |[frankensteintable](/frankensteintable.png)|1575635062|Frankenstein Table|Items|
-|[fridge](/fridge.png)|1413014235|Fridge|Items|
+|[fridge](/fridge.png)|1413014235|Fridge|Electrical|
 |[frontier_hatchet](/frontier_hatchet.png)|1937380239|Frontier Hatchet|Tool|
 |[frontiermirror.large](/frontiermirror.large.png)|242933621|Frontier Mirror Large|Items|
 |[frontiermirror.medium](/frontiermirror.medium.png)|2055695285|Frontier Mirror Medium|Items|
@@ -430,7 +436,7 @@
 |[hammer](/hammer.png)|200773292|Hammer|Tool|
 |[hammer.salvaged](/hammer.salvaged.png)|-1506397857|Salvaged Hammer|Tool|
 |[handcuffs](/handcuffs.png)|-839576748|Handcuffs|Tool|
-|[harvestingtea](/harvestingtea.png)|1516531815|Harvesting Tea|Food|
+|[harvestingtea](/harvestingtea.png)|1516531815|Basic Harvesting Tea|Food|
 |[hat.beenie](/hat.beenie.png)|1675639563|Beenie Hat|Attire|
 |[hat.boonie](/hat.boonie.png)|-23994173|Boonie Hat|Attire|
 |[hat.bunnyhat](/hat.bunnyhat.png)|23391694|Bunny Hat|Attire|
@@ -505,6 +511,7 @@
 |[industrial.conveyor](/industrial.conveyor.png)|610102428|Industrial Conveyor|Electrical|
 |[industrial.crafter](/industrial.crafter.png)|1430085198|Industrial Crafter|Electrical|
 |[industrial.splitter](/industrial.splitter.png)|742745918|Industrial Splitter|Electrical|
+|[industrial.wall.light.blue](/industrial.wall.light.blue.png)|920930831|Blue Industrial Wall Light|Electrical|
 |[industrial.wall.light.green](/industrial.wall.light.green.png)|1268178466|Green Industrial Wall Light|Electrical|
 |[industrial.wall.light](/industrial.wall.light.png)|1623701499|Industrial Wall Light|Electrical|
 |[industrial.wall.light.red](/industrial.wall.light.red.png)|-1160621614|Red Industrial Wall Light|Electrical|
@@ -679,6 +686,10 @@
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
 |[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
+|[purecoolingtea](/purecoolingtea.png)|1121416193|Pure Cooling Tea|Food|
+|[purecraftingtea_quality](/purecraftingtea_quality.png)|97903330|Pure Crafting Quality Tea|Food|
+|[pureharvestingtea](/pureharvestingtea.png)|377750553|Pure Harvesting Tea|Food|
+|[purewarmingtea](/purewarmingtea.png)|-1476814093|Pure Warming Tea|Food|
 |[purpleidtag](/purpleidtag.png)|-1386082991|Purple ID Tag|Resources|
 |[radiationremovetea.advanced](/radiationremovetea.advanced.png)|2021351233|Advanced Rad. Removal Tea|Food|
 |[radiationremovetea](/radiationremovetea.png)|-496584751|Rad. Removal Tea|Food|
@@ -867,6 +878,7 @@
 |[spiderweb](/spiderweb.png)|882559853|Spider Webs|Misc|
 |[spikes.floor](/spikes.floor.png)|-92759291|Wooden Floor Spikes|Traps|
 |[spinner.wheel](/spinner.wheel.png)|-1100422738|Spinning wheel|Items|
+|[spoiled.produce](/spoiled.produce.png)|1184215560|Spoiled Produce|Food|
 |[spookyspeaker](/spookyspeaker.png)|1885488976|Spooky Speaker|Misc|
 |[spraycan](/spraycan.png)|-596876839|Spray Can|Tool|
 |[spraycandecal](/spraycandecal.png)|-1366326648|Spray Can Decal|Tool|
@@ -981,12 +993,16 @@
 |[wall.window.bars.toptier](/wall.window.bars.toptier.png)|671706427|Reinforced Glass Window|Construction|
 |[wall.window.bars.wood](/wall.window.bars.wood.png)|-1183726687|Wooden Window Bars|Construction|
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
+|[wallpaper.ceiling](/wallpaper.ceiling.png)|1730664641|Wallpaper Ceiling|Items|
+|[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Wallpaper Flooring|Items|
 |[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
+|[wallpaper.tool](/wallpaper.tool.png)|1629564540|Wallpaper Tool|Tool|
+|[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper Wall|Tool|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
 |[wantedposter.wantedposter4](/wantedposter.wantedposter4.png)|1463862472|Wanted Poster 4|Items|
-|[warmingtea](/warmingtea.png)|-1142222427|Warming Tea|Food|
+|[warmingtea](/warmingtea.png)|-1142222427|Basic Warming Tea|Food|
 |[watchtower.wood](/watchtower.wood.png)|-463122489|Watch Tower|Construction|
 |[water.barrel](/water.barrel.png)|-1863559151|Water Barrel|Items|
 |[water.catcher.large](/water.catcher.large.png)|-1100168350|Large Water Catcher|Construction|
@@ -1006,9 +1022,12 @@
 |[weapon.mod.lasersight](/weapon.mod.lasersight.png)|-132516482|Weapon Lasersight|Weapon|
 |[weapon.mod.muzzleboost](/weapon.mod.muzzleboost.png)|-1405508498|Muzzle Boost|Weapon|
 |[weapon.mod.muzzlebrake](/weapon.mod.muzzlebrake.png)|1478091698|Muzzle Brake|Weapon|
-|[weapon.mod.silencer](/weapon.mod.silencer.png)|-1850571427|Silencer|Weapon|
+|[weapon.mod.oilfiltersilencer](/weapon.mod.oilfiltersilencer.png)|-781866273|Oil Filter Silencer|Weapon|
+|[weapon.mod.silencer](/weapon.mod.silencer.png)|-1850571427|Military Silencer|Weapon|
 |[weapon.mod.simplesight](/weapon.mod.simplesight.png)|-855748505|Simple Handmade Sight|Weapon|
 |[weapon.mod.small.scope](/weapon.mod.small.scope.png)|567235583|8x Zoom Scope|Weapon|
+|[weapon.mod.sodacansilencer](/weapon.mod.sodacansilencer.png)|-1659598760|Soda Can Silencer|Weapon|
+|[weapon.mod.targetingattachment](/weapon.mod.targetingattachment.png)|1719587208|Targeting Attachment|Weapon|
 |[weaponrack.doublelight](/weaponrack.doublelight.png)|1277159544|Weapon Rack Double Light|Electrical|
 |[weaponrack.light](/weaponrack.light.png)|-1163943815|Weapon Rack Light|Electrical|
 |[wheat](/wheat.png)|1178325727|Wheat|Food|

@@ -2,6 +2,10 @@
 |Image|Shortname|ID|Name|
 |:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|
+|![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|
+|![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|
+|![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|
+|![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|
@@ -140,6 +144,7 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|
+|![](/catapult.ammo.bee.128.webp)|catapult.ammo.bee|1954597876|Bee Catapult Bomb|
 |![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Scattershot|
 |![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|
 |![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|
@@ -187,6 +192,7 @@
 |![](/cocoknight.armor.torso.128.webp)|cocoknight.armor.torso|1426097945|Coconut Armor Chestplate|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
+|![](/command.block.128.webp)|command.block|-1247485104|Command Block|
 |![](/composter.128.webp)|composter|-1488398114|Composter|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|
@@ -194,9 +200,9 @@
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|
-|![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|
+|![](/coolingtea.128.webp)|coolingtea|-1260229965|Basic Cooling Tea|
 |![](/corn.128.webp)|corn|1367190888|Corn|
-|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|
+|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Basic Crafting Quality Tea|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|
@@ -430,7 +436,7 @@
 |![](/hammer.128.webp)|hammer|200773292|Hammer|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|
-|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Basic Harvesting Tea|
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|
@@ -505,6 +511,7 @@
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|
 |![](/industrial.splitter.128.webp)|industrial.splitter|742745918|Industrial Splitter|
+|![](/industrial.wall.light.blue.128.webp)|industrial.wall.light.blue|920930831|Blue Industrial Wall Light|
 |![](/industrial.wall.light.green.128.webp)|industrial.wall.light.green|1268178466|Green Industrial Wall Light|
 |![](/industrial.wall.light.128.webp)|industrial.wall.light|1623701499|Industrial Wall Light|
 |![](/industrial.wall.light.red.128.webp)|industrial.wall.light.red|-1160621614|Red Industrial Wall Light|
@@ -679,6 +686,10 @@
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|
+|![](/purecoolingtea.128.webp)|purecoolingtea|1121416193|Pure Cooling Tea|
+|![](/purecraftingtea_quality.128.webp)|purecraftingtea_quality|97903330|Pure Crafting Quality Tea|
+|![](/pureharvestingtea.128.webp)|pureharvestingtea|377750553|Pure Harvesting Tea|
+|![](/purewarmingtea.128.webp)|purewarmingtea|-1476814093|Pure Warming Tea|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|
@@ -867,6 +878,7 @@
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|
 |![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning wheel|
+|![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|
@@ -981,12 +993,16 @@
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|
+|![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|
+|![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|
 |![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|
+|![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|
+|![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|
-|![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|
+|![](/warmingtea.128.webp)|warmingtea|-1142222427|Basic Warming Tea|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|
@@ -1006,9 +1022,12 @@
 |![](/weapon.mod.lasersight.128.webp)|weapon.mod.lasersight|-132516482|Weapon Lasersight|
 |![](/weapon.mod.muzzleboost.128.webp)|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|
 |![](/weapon.mod.muzzlebrake.128.webp)|weapon.mod.muzzlebrake|1478091698|Muzzle Brake|
-|![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Silencer|
+|![](/weapon.mod.oilfiltersilencer.128.webp)|weapon.mod.oilfiltersilencer|-781866273|Oil Filter Silencer|
+|![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Military Silencer|
 |![](/weapon.mod.simplesight.128.webp)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|
+|![](/weapon.mod.sodacansilencer.128.webp)|weapon.mod.sodacansilencer|-1659598760|Soda Can Silencer|
+|![](/weapon.mod.targetingattachment.128.webp)|weapon.mod.targetingattachment|1719587208|Targeting Attachment|
 |![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|
 |![](/wheat.128.webp)|wheat|1178325727|Wheat|
