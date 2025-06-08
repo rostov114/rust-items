@@ -2,6 +2,10 @@
 |Image|Shortname|ID|Name|Category|Description|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
+|![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|Food|An advanced cooling tea, provides hydration and temporarily decreases your max and core temperature.|
+|![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|An advanced crafting tea, provides hydration and temporarily increases the chances of a higher quality crafting outcome.|
+|![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|An advanced warming tea that temporarily increases both your core and minimum temperature.|
+|![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|Food|An advanced harvesting tea, provides hydration and temporarily boosts the amount of resources you receive from harvesting corpses a moderate amount.|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
@@ -39,12 +43,12 @@
 |![](/attire.bunny.onesie.128.webp)|attire.bunny.onesie|-1266045928|Bunny Onesie|Attire|A Bunny Onesie. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
 |![](/attire.bunnyears.128.webp)|attire.bunnyears|-1004426654|Bunny Ears|Attire|Bunny Ears. Grants additional Egg Vision allowing you to detect more eggs during an Easter egg hunt.|
 |![](/attire.egg.suit.128.webp)|attire.egg.suit|-747743875|Egg Suit|Attire|An eggsquisite egg costume, can be painted when unequipped.|
-|![](/attire.hide.boots.128.webp)|attire.hide.boots|794356786|Hide Boots|Attire|Boots made from the hide of an animal.|
+|![](/attire.hide.boots.128.webp)|attire.hide.boots|794356786|Hide Boots|Attire|Simple hide boots, made with common materials. Basic all-round protection.|
 |![](/attire.hide.helterneck.128.webp)|attire.hide.helterneck|3222790|Hide Halterneck|Attire|A Halterneck made from the hide of an animal.|
-|![](/attire.hide.pants.128.webp)|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal.|
-|![](/attire.hide.poncho.128.webp)|attire.hide.poncho|980333378|Hide Poncho|Attire|A Poncho made from the hide of an animal.|
-|![](/attire.hide.skirt.128.webp)|attire.hide.skirt|-1773144852|Hide Skirt|Attire|A Skirt made from the hide of an animal.|
-|![](/attire.hide.vest.128.webp)|attire.hide.vest|196700171|Hide Vest|Attire|A Vest made from the hide of an animal.|
+|![](/attire.hide.pants.128.webp)|attire.hide.pants|1722154847|Hide Pants|Attire|Trousers made from the hide of an animal. Moderate protection against animal attacks.|
+|![](/attire.hide.poncho.128.webp)|attire.hide.poncho|980333378|Hide Poncho|Attire|Primitive armour for the chest made from animal skin. One size fits all. Offers some basic protection from damage and the elements.|
+|![](/attire.hide.skirt.128.webp)|attire.hide.skirt|-1773144852|Hide Skirt|Attire|Simple hide skirt, made with common materials. Basic all-round protection.|
+|![](/attire.hide.vest.128.webp)|attire.hide.vest|196700171|Hide Vest|Attire|Simple hide vest, made with common materials. Basic all-round protection.|
 |![](/attire.nesthat.128.webp)|attire.nesthat|1081315464|Nest Hat|Attire|An extremely silly easter nest hat with googly eyes.|
 |![](/attire.ninja.suit.128.webp)|attire.ninja.suit|-1506417026|Ninja Suit|Attire|BaboAbe Ninja Suit|
 |![](/attire.reindeer.headband.128.webp)|attire.reindeer.headband|-324675402|Reindeer Antlers|Attire|A festive reindeer antlers headband and nose.|
@@ -57,6 +61,7 @@
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt for a ballista, covering a large area while dealing moderate damage.|
 |![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|Weapon|A ballista mounted on wheels, designed for mobility and capable of firing bolts at distant targets. Can be towed by horses.|
 |![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|Weapon|A stationary ballista, perfect for defence. Can fire deadly bolts at distant targets.|
+|![](/bamboo.barrel.128.webp)|bamboo.barrel|-1652561344|Bamboo Barrel|Items|Keep your things in this bamboo barrel. Stores up to 48 items. Cannot be locked.|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
@@ -83,21 +88,26 @@
 |![](/bed.128.webp)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
 |![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Hand made beehive, place a nucleus inside to raise your own bees and produce honeycomb. Happy bees will make honeycomb more quickly.|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|Misc|A pedal bike.|
+|![](/bigcatmeat.cooked.128.webp)|bigcatmeat.cooked|-1318837358|Cooked Big Cat Meat|Food|Delicious Big Cat Meat, Eating it will restore some health, hunger, and thirst.|
+|![](/bigcatmeat.128.webp)|bigcatmeat|-2095813057|Raw Big Cat Meat|Food|Raw Big Cat Meat. Eating it will damage your health, try cooking it first.|
+|![](/bigcatmeat.spoiled.128.webp)|bigcatmeat.spoiled|248643189|Spoiled Big Cat Meat|Food|Spoiled Big Cat Meat. Consuming will damage your health.|
 |![](/black.berry.128.webp)|black.berry|1771755747|Black Berry|Food|A black berry.|
 |![](/black.raspberries.128.webp)|black.raspberries|1931713481|Black Raspberries|Food|Black Raspberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/bleach.128.webp)|bleach|1553078977|Bleach|Component|A powerful oxidizing agent. Can be used as a disinfectant.|
 |![](/blood.128.webp)|blood|1776460938|Blood|Medical|Used in creation of medkits.|
+|![](/blowpipe.128.webp)|blowpipe|-851288382|Blow Pipe|Weapon|A blown weapon that fires darts with different effects.|
 |![](/blue.berry.128.webp)|blue.berry|1112162468|Blue Berry|Food|A blue berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/blueberries.128.webp)|blueberries|-586342290|Blueberries|Food|Blueberries picked from berry bushes. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|Resources|Blue Dog Tags|
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|Resources|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
 |![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
-|![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|Attire|A suit of armor made of bones.|
+|![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|Attire|A primitive suit of armor made of bones, weak protection from damage and the elements but better than nothing.|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|Resources|Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.|
 |![](/boogieboard.128.webp)|boogieboard|-1478094705|Boogie Board|Fun|Use the boogie board to catch some sick waves.|
 |![](/boombox.128.webp)|boombox|-1113501606|Boom Box|Fun|A large speaker to play recorded cassette tapes which can also stream audio from the internet. Open the settings to change audio options.|
+|![](/boomerang.128.webp)|boomerang|1680793490|Boomerang|Weapon|Can be used a melee weapon or as a throwable. Once thrown (with right click) it travels in an arc before coming back to you.|
 |![](/boots.frog.128.webp)|boots.frog|-1000573653|Frog Boots|Attire|Thank you for playing the game through its early access run. Enjoy these boots made from radiation resistant frog rubber.|
 |![](/botabag.128.webp)|botabag|613961768|Bota Bag|Items|A canteen used to carry Water. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/bottle.vodka.128.webp)|bottle.vodka|755224797|Vodka Bottle|Food|A bottle of Russian Vodka.|
@@ -106,7 +116,7 @@
 |![](/box.repair.bench.128.webp)|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
 |![](/box.wooden.128.webp)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 18 items.|
 |![](/box.wooden.large.128.webp)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
-|![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|Food|A loaf of bread, eating it provides a boost to health, hunger and hydration. Feeding to a horse will provide a boost t o its digestion and dung production for a short time.|
+|![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|Food|A loaf of bread, eating it provides a boost to health, hunger and hydration. Feeding to a horse will provide a boost to its digestion and dung production for a short time.|
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
 |![](/building.planner.128.webp)|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
@@ -134,6 +144,7 @@
 |![](/cassette.128.webp)|cassette|476066818|Cassette - Long|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 30s of audio.|
 |![](/cassette.medium.128.webp)|cassette.medium|-912398867|Cassette - Medium|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 20s of audio.|
 |![](/cassette.short.128.webp)|cassette.short|1523403414|Cassette - Short|Fun|A tape that you can record audio on to using a Cassette Recorder. Stores up to 10s of audio.|
+|![](/catapult.ammo.bee.128.webp)|catapult.ammo.bee|1954597876|Bee Catapult Bomb|Ammunition|A bunch of Bee Grenades in a single catapult projectile. Creates swarms of Bees on impact.|
 |![](/catapult.ammo.boulder.128.webp)|catapult.ammo.boulder|1831249347|Scattershot|Ammunition|A cluster of heavy rock projectiles for a catapult. Wide spread, pure kinetic damage on impact.|
 |![](/catapult.ammo.explosive.128.webp)|catapult.ammo.explosive|-1827561369|Propane Explosive Bomb|Ammunition|An explosive propane-filled keg, devastating to structures. Can be placed or used as a projectile in a catapult.|
 |![](/catapult.ammo.incendiary.128.webp)|catapult.ammo.incendiary|-484006286|Firebomb|Ammunition|A crude firebomb made of fuel-filled jugs wrapped in a net. Can be placed or used as a projectile in a catapult.|
@@ -154,7 +165,7 @@
 |![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|Items|A decorative White Paper lantern|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/clantable.128.webp)|clantable|486661382|Clan Table|Items|A table for managing clans.|
-|![](/clatter.helmet.128.webp)|clatter.helmet|968019378|Clatter Helmet|Attire|A special item for those who own Clatter.|
+|![](/clatter.helmet.128.webp)|clatter.helmet|968019378|Clatter Helmet|Attire|Special helmet for players who own Clatter and have played for at least 30 minutes, replaces the bucket helmet.|
 |![](/clone.black.berry.128.webp)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
 |![](/clone.blue.berry.128.webp)|clone.blue.berry|838831151|Blue Berry Clone|Food|A clipping of a Blue Berry Plant.|
 |![](/clone.corn.128.webp)|clone.corn|-778875547|Corn Clone|Food|A Clipping of a Corn Plant.|
@@ -175,8 +186,13 @@
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from projectiles.|
 |![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee.|
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
+|![](/cocoknight.armor.gloves.128.webp)|cocoknight.armor.gloves|1873004466|Coconut Armor Gloves|Attire|Hand protection made of bark and plants, offers some protection to the upper body.|
+|![](/cocoknight.armor.helmet.128.webp)|cocoknight.armor.helmet|-582467439|Coconut Armor Helmet|Attire|A shoddy helmet made from coconut, provides some basic protection from melee and ranged attacks.|
+|![](/cocoknight.armor.pants.128.webp)|cocoknight.armor.pants|507284030|Coconut Armor Pants|Attire|A shoddy piece of leg armor made from coconut and plants, provides some basic protection from melee and ranged attacks.|
+|![](/cocoknight.armor.torso.128.webp)|cocoknight.armor.torso|1426097945|Coconut Armor Chestplate|Attire|A shoddy piece of body armor made from coconut and plants, provides some basic protection from melee and ranged attacks.|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
+|![](/command.block.128.webp)|command.block|-1247485104|Command Block|Electrical|A block that runs commands|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
@@ -184,26 +200,32 @@
 |![](/confetticannon.128.webp)|confetticannon|1603174987|Confetti Cannon|Fun|Blast a cloud of birthday themed confetti cheer.|
 |![](/connected.speaker.128.webp)|connected.speaker|968421290|Connected Speaker|Fun|A small speaker that will play any audio from a connected Boom Box.|
 |![](/cookingworkbench.128.webp)|cookingworkbench|1456143403|Cooking Workbench|Items|Used to cook advanced recipes for food, fuel, ammunition and explosives.|
-|![](/coolingtea.128.webp)|coolingtea|-1260229965|Cooling Tea|Food|A cooling tea that temporarily decreases your max and core temperature.|
+|![](/coolingtea.128.webp)|coolingtea|-1260229965|Basic Cooling Tea|Food|A basic cooling tea that temporarily decreases your max and core temperature.|
 |![](/corn.128.webp)|corn|1367190888|Corn|Food|An ear of corn. Eating it provides a small boost to health, hunger, and thirst.|
-|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Crafting Quality Tea|Food|A tea that increases the chances of a higher quality crafting outcome.|
+|![](/craftingtea_quality.128.webp)|craftingtea_quality|368008432|Basic Crafting Quality Tea|Food|A basic crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
 |![](/crankshaft1.128.webp)|crankshaft1|1158340334|Low Quality Crankshaft|Component|A low quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|Component|A medium quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|Component|A high quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
 |![](/cratecostume.128.webp)|cratecostume|1189981699|Crate Costume|Attire|A sneaky crate costume. Use with a friend to expertly troll other players|
+|![](/crocodilemeat.cooked.128.webp)|crocodilemeat.cooked|392828520|Cooked Crocodile Meat|Food|Delicious Crocodile Meat, Eating it will restore some health, hunger, and thirst.|
+|![](/crocodilemeat.128.webp)|crocodilemeat|-1081599445|Raw Crocodile Meat|Food|Raw Crocodile Meat. Eating it will damage your health, try cooking it first.|
+|![](/crocodilemeat.spoiled.128.webp)|crocodilemeat.spoiled|-1796837031|Spoiled Crocodile Meat|Food|Spoiled Crocodile Meat. Consuming will damage your health.|
 |![](/crossbow.128.webp)|crossbow|1965232394|Crossbow|Weapon|A very accurate ranged weapon.|
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|Resources|Raw Oil out of the ground, must be refined in a refinery to be used.|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|Construction|Placing and authorising with the cupboard will make it so only you can build in a 50 meter radius of it. If you want your friends to build, they'll need to auth too. You should protect this.|
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|Construction|Transform your tool cupboard experience with this modified Hi-Fi cabinet. Complete with retro displays indicating vital base data as well as frosted glass doors allowing you to view its contents of tools and resources!|
 |![](/cupboard.tool.shockbyte.128.webp)|cupboard.tool.shockbyte|1174957864|Shockbyte Tool Cupboard|Construction|Ensure 100% Tool Cupboard uptime with this Tool Cupboard skin.|
 |![](/cursedcauldron.128.webp)|cursedcauldron|1242522330|Cursed Cauldron|Misc|A spooky cast iron cauldron with a green goo.|
-|![](/dart.bone.128.webp)|dart.bone|-361911645|Bone Dart|Ammunition|A basic damage dart.|
-|![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A helmet made of bone.|
+|![](/dart.incapacitate.128.webp)|dart.incapacitate|-963819285|Incapacitate Dart|Ammunition|A dart that slows your target and blocks their vision briefly.|
+|![](/dart.radiation.128.webp)|dart.radiation|-594596146|Radiation Dart|Ammunition|A dart that applies stackable radiation.|
+|![](/dart.scatter.128.webp)|dart.scatter|2036395619|Scatter Dart|Ammunition|A spread shot dart that fires multiple smaller darts.|
+|![](/dart.wood.128.webp)|dart.wood|-274709858|Wood Dart|Ammunition|A basic damage dart.|
+|![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A primitive helmet made from bone. Moderate protection from projectiles and melee damage.|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|Food|Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.|
 |![](/deermeat.raw.128.webp)|deermeat.raw|1422530437|Raw Deer Meat|Food|Raw Deer Meat. Eating it will damage your health, try cooking it first.|
 |![](/deermeat.spoiled.128.webp)|deermeat.spoiled|-2035449523|Spoiled Deer Meat|Food|Spoiled Deer Meat. Consuming will damage your health.|
-|![](/diesel_barrel.128.webp)|diesel_barrel|1568388703|Diesel Fuel|Resources|Appropriate fuel for the excavator|
+|![](/diesel_barrel.128.webp)|diesel_barrel|1568388703|Diesel Fuel|Resources|Suitable fuel to power quarries and the giant excavator.|
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
@@ -211,8 +233,8 @@
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|Tool|Metal hatchet, reclaimed from the abyss, perfect for survival and crafting|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|Tool|Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor|
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|Tool|Illuminate the underwater depths with this durable and waterproof diving torch|
-|![](/diving.fins.128.webp)|diving.fins|296519935|Diving Fins|Attire|Diving Fins which greatly increase underwater movement|
-|![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|Attire|A Diving Mask. Provides clear vision under water.|
+|![](/diving.fins.128.webp)|diving.fins|296519935|Diving Fins|Attire|Diving Fins. Significantly boosts your speed underwater but greatly reduces mobility on land.|
+|![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|Attire|A diving mask that provides clear vision under water at the cost of reduced peripheral vision.|
 |![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
@@ -239,7 +261,7 @@
 |![](/easter.silveregg.128.webp)|easter.silveregg|1757265204|Silver Egg|Misc|A Silver Egg. Contains medium level loot, Collect 10 to upgrade to a gold Egg|
 |![](/easterbasket.128.webp)|easterbasket|1856217390|Egg Basket|Misc|An easter egg basket. Equip to pick up eggs during an easter egg hunt with left click. Use right click to throw|
 |![](/easterdoorwreath.128.webp)|easterdoorwreath|-979302481|Easter Door Wreath|Items|A beautiful, hand crafted Easter themed door wreath.|
-|![](/egg.128.webp)|egg|1858828593|Egg|Food|An egg laid by a chicken, will hatch in a coop. Can be eaten raw for a small boost to health, hydration and hydration, or added to some recipes at a cooking workbench for greater benefits.|
+|![](/egg.128.webp)|egg|1858828593|Egg|Food|An egg laid by a chicken, will hatch in a coop. Can be eaten raw but best saved for a recipe.|
 |![](/electric.andswitch.128.webp)|electric.andswitch|1171735914|AND Switch|Electrical|A logic gate that allows electrical passthrough if BOTH inputs receives power, passthrough amount is the greater of either power source|
 |![](/electric.audioalarm.128.webp)|electric.audioalarm|2100007442|Audio Alarm|Electrical|A speaker which will emit a loud warning alarm when powered|
 |![](/electric.battery.rechargable.large.128.webp)|electric.battery.rechargable.large|553270375|Large Rechargeable Battery|Electrical|A Large Rechargeable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
@@ -339,7 +361,7 @@
 |![](/frankensteins.monster.03.legs.128.webp)|frankensteins.monster.03.legs|-2024549027|Heavy Frankenstein Legs|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteins.monster.03.torso.128.webp)|frankensteins.monster.03.torso|1614528785|Heavy Frankenstein Torso|Attire|Slightly slower, slightly stronger.Combined at a Frankenstein Table to create your very own monster.|
 |![](/frankensteintable.128.webp)|frankensteintable|1575635062|Frankenstein Table|Items|Place a monsters head, torso and legs into the table to summon Frankensteins monster.|
-|![](/fridge.128.webp)|fridge|1413014235|Fridge|Items|A fridge you can store food into!|
+|![](/fridge.128.webp)|fridge|1413014235|Fridge|Electrical|A fridge you can store food into!|
 |![](/frontier_hatchet.128.webp)|frontier_hatchet|1937380239|Frontier Hatchet|Tool|A Frontier Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/frontiermirror.large.128.webp)|frontiermirror.large|242933621|Frontier Mirror Large|Items|A large wooden frontier themed mirror|
 |![](/frontiermirror.medium.128.webp)|frontiermirror.medium|2055695285|Frontier Mirror Medium|Items|A medium wood frontier themed mirror|
@@ -384,11 +406,11 @@
 |![](/grayidtag.128.webp)|grayidtag|-455286320|Gray ID Tag|Resources|Gray ID Tag|
 |![](/green.berry.128.webp)|green.berry|858486327|Green Berry|Food|A green berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/greenidtag.128.webp)|greenidtag|1762167092|Green ID Tag|Resources|Green ID Tag|
-|![](/grenade.beancan.128.webp)|grenade.beancan|1840822026|Beancan Grenade|Weapon|Unreliable explosive device.|
-|![](/grenade.bee.128.webp)|grenade.bee|1168916338|Bee Grenade|Weapon|A fragile glass jar, throw it to unleash a swarm of bees on the nearest target. The bees will deal damage quickly but they don't like fire or water.|
-|![](/grenade.f1.128.webp)|grenade.f1|143803535|F1 Grenade|Weapon|Reliable explosive device.|
+|![](/grenade.beancan.128.webp)|grenade.beancan|1840822026|Beancan Grenade|Weapon|An unreliable explosive grenade. Each one has a different length fuse, so you might lose some fingers. Can be used to make satchel charges.|
+|![](/grenade.bee.128.webp)|grenade.bee|1168916338|Bee Grenade|Weapon|A fragile glass jar full of bees. Breaking upon impact, the bees will find the nearest player to attack. Careful where you throw it!|
+|![](/grenade.f1.128.webp)|grenade.f1|143803535|F1 Grenade|Weapon|A reliable military grenade that can be thrown a short distance. Deadly at close range on detonation.|
 |![](/grenade.flashbang.128.webp)|grenade.flashbang|-936921910|Flashbang|Weapon|A bright explosive device which blinds and disorients anyone near it upon detonation|
-|![](/grenade.molotov.128.webp)|grenade.molotov|1556365900|Molotov Cocktail|Weapon|An incendiary device|
+|![](/grenade.molotov.128.webp)|grenade.molotov|1556365900|Molotov Cocktail|Weapon|A glass bottle filled with low grade fuel. Smashes and spreads fire when it lands, incredibly high damage to wood and players but innefective against stronger materials.|
 |![](/grenade.smoke.128.webp)|grenade.smoke|1263920163|Smoke Grenade|Tool|Produces a large cloud of opaque greyish white smoke.|
 |![](/grub.128.webp)|grub|-568419968|Grub|Food|A pale, fleshy insect that can be used for bait. Could also be eaten in desperate situations.|
 |![](/gun.water.128.webp)|gun.water|722955039|Water Gun|Weapon|A large water gun with pumpable pressure. Hold reload to pump!|
@@ -403,6 +425,7 @@
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
 |![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|Misc|A Hot Air Balloon.|
+|![](/half.bamboo.shelves.128.webp)|half.bamboo.shelves|-1923843855|Half Height Bamboo Shelves|Items|Half height salvaged bamboo shelves for stacking|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bag!|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|Misc|Contains medium level loot, Collect 10 to upgrade to a Large loot bag, containing the best loot|
@@ -411,13 +434,13 @@
 |![](/halloween.surgeonsuit.128.webp)|halloween.surgeonsuit|-1785231475|Surgeon Scrubs|Attire|A Surgeon Suit|
 |![](/hammer.128.webp)|hammer|200773292|Hammer|Tool|A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|Tool|A Hammer made from a bunch of other crap.|
-|![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|Tool|Handcuffs|
-|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Harvesting Tea|Food|A basic tea that temporarily increases the amount of resources you receive from harvesting corpses a small amount.|
-|![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat.|
-|![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat.|
+|![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|Tool|You're under arrest! Use on a surrendering or wounded player to keep them restrained. The wearer is blocked from using or holding items and can be pushed around.|
+|![](/harvestingtea.128.webp)|harvestingtea|1516531815|Basic Harvesting Tea|Food|A basic harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a small amount.|
+|![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat, offering some basic protection from damage and cold for your head.|
+|![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat, offering minor protection from damage and cold for your head.|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
 |![](/hat.candle.128.webp)|hat.candle|1714496074|Candle Hat|Attire|A hat with a candle on top. You can turn the candle on in your inventory.|
-|![](/hat.cap.128.webp)|hat.cap|-1022661119|Baseball Cap|Attire|A baseball cap.|
+|![](/hat.cap.128.webp)|hat.cap|-1022661119|Baseball Cap|Attire|Simple hat for your head. Offers basic protection from damage and the cold.|
 |![](/hat.dragonmask.128.webp)|hat.dragonmask|-22883916|Dragon Mask|Attire|A special dragon mask to celebrate Chinese New Year|
 |![](/hat.gas.mask.128.webp)|hat.gas.mask|1659114910|Gas Mask|Attire|A Gas Mask|
 |![](/hat.miner.128.webp)|hat.miner|-1539025626|Miners Hat|Attire|A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory.|
@@ -455,12 +478,12 @@
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
-|![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A jar of honey, good for reducing hunger or radiation. Can also be saved for recipes. The source of the glass jar is a mystery.|
+|![](/honey.128.webp)|honey|1601800933|Jar of Honey|Food|A jar of honey. Good for reducing hunger and radiation, or could be saved for recipes. The source of the glass jar is a mystery.|
 |![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Food|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
-|![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A set of roadsign armor for a horse|
-|![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A set of wooden horse armor|
+|![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A full body armor for a horse. Provides strong protection for you and your steed, at the cost of greatly reduced movement speed.|
+|![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A full body armor for a horse made of wood. Provides moderate protection for you and your steed, but with a reduction in movement speed.|
 |![](/horse.costume.128.webp)|horse.costume|1420547167|Horse Costume|Attire|An inflatable horse costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
 |![](/horse.saddle.double.128.webp)|horse.saddle.double|-1323101799|Double Horse Saddle|Attire|A horse saddle with two seats. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.128.webp)|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
@@ -487,6 +510,7 @@
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
 |![](/industrial.splitter.128.webp)|industrial.splitter|742745918|Industrial Splitter|Electrical|Splits an industrial connection into three separate connections.|
+|![](/industrial.wall.light.blue.128.webp)|industrial.wall.light.blue|920930831|Blue Industrial Wall Light|Electrical|A small blue light source.|
 |![](/industrial.wall.light.green.128.webp)|industrial.wall.light.green|1268178466|Green Industrial Wall Light|Electrical|A small green light source.|
 |![](/industrial.wall.light.128.webp)|industrial.wall.light|1623701499|Industrial Wall Light|Electrical|A small light source.|
 |![](/industrial.wall.light.red.128.webp)|industrial.wall.light.red|-1160621614|Red Industrial Wall Light|Electrical|A small red light source.|
@@ -494,7 +518,7 @@
 |![](/innertube.128.webp)|innertube|-697981032|Inner Tube|Fun|An inflated tube for aquatic activities.|
 |![](/innertube.unicorn.128.webp)|innertube.unicorn|2052270186|Inner Tube|Fun|An inflated tube for aquatic activities.|
 |![](/iotable.128.webp)|iotable|210787554|Engineering Workbench|Items|This allows you to craft and unlock electrical, water and industrial items|
-|![](/jacket.128.webp)|jacket|-1163532624|Jacket|Attire|A rugged jacket.|
+|![](/jacket.128.webp)|jacket|-1163532624|Jacket|Attire|A rugged jacket, will help keep you warm. High cold protection but incompatible with other chest attire.|
 |![](/jacket.snow.128.webp)|jacket.snow|-48090175|Snow Jacket|Attire|A thick, high visibility Jacket. It will help keep you warm in any climate.|
 |![](/jackhammer.128.webp)|jackhammer|1488979457|Jackhammer|Tool|A Pneumatic Jackhammer to blast through ore nodes. The sheer power of this device requires no aiming as all weak spots will be instantly destroyed. Works well on human flesh. Can be refilled at a Workbench.|
 |![](/jackolantern.angry.128.webp)|jackolantern.angry|1242482355|Jack O Lantern Angry|Items|A Lantern. Place it where you need light.|
@@ -503,11 +527,13 @@
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
 |![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|Attire|A green jumpsuit and gasmask worn by the waterwell NPC|
+|![](/jungle.rock.128.webp)|jungle.rock|1350707894|Jungle Rock|Tool|A Jungle Rock. The most basic melee weapon and gathering tool.|
 |![](/kayak.128.webp)|kayak|190184021|Kayak|Items|An improvised wooden kayak. Seats two and requires a Paddle to operate.|
 |![](/keycard_blue.128.webp)|keycard_blue|-484206264|Blue Keycard|Misc|A keycard with medium level clearance.|
 |![](/keycard_green.128.webp)|keycard_green|37122747|Green Keycard|Misc|A low level clearance card granting access to basic areas.|
 |![](/keycard_red.128.webp)|keycard_red|-1880870149|Red Keycard|Misc|A keycard with advanced clearance, grants access to top level areas|
 |![](/knife.bone.128.webp)|knife.bone|1814288539|Bone Knife|Weapon|Melee weapon crafted from bone fragments. Good for harvesting carcases.|
+|![](/knife.bone.obsidian.128.webp)|knife.bone.obsidian|158303804|Obsidian Bone Knife|Weapon|Melee weapon crafted from obsidian. Good for harvesting carcases.|
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|Weapon|A sharp butcher knife. Extremely good at harvesting flesh from both dead or alive bodies.|
 |![](/knife.combat.128.webp)|knife.combat|2040726127|Combat Knife|Weapon|Combat knife designed for close combat engagements, can attack while sprinting. Best in class at harvesting flesh.|
 |![](/knife.skinning.128.webp)|knife.skinning|-2073432256|Skinning Knife|Weapon|A sharp skinning knife. Extremely good at harvesting flesh and can produce trophies that can be mounted on Hunting Trophies.|
@@ -540,7 +566,7 @@
 |![](/locomotive.128.webp)|locomotive|-2027988285|Locomotive|Misc|A powerful locomotive.|
 |![](/longsword.128.webp)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
 |![](/lowgradefuel.128.webp)|lowgradefuel|-946369541|Low Grade Fuel|Resources|Low Grade Fuel, used to power light sources.|
-|![](/lumberjack hoodie.128.webp)|lumberjack hoodie|-763071910|Lumberjack Hoodie|Attire|A Lumberjack Hoodie|
+|![](/lumberjack hoodie.128.webp)|lumberjack hoodie|-763071910|Lumberjack Hoodie|Attire|A lumberjack themed hoodie, earned by helping the Lumberjack. Offers the same protection as the standard hoodie.|
 |![](/lumberjack.hatchet.128.webp)|lumberjack.hatchet|-399173933|Prototype Hatchet|Tool|A prototype field hatchet, useful for gathering wood|
 |![](/lumberjack.pickaxe.128.webp)|lumberjack.pickaxe|236677901|Prototype Pickaxe|Tool|A prototype field pickaxe. Useful for gathering ore from rocks.|
 |![](/lunar.firecrackers.128.webp)|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
@@ -549,11 +575,11 @@
 |![](/machete.128.webp)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
 |![](/mailbox.128.webp)|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
 |![](/map.128.webp)|map|696029452|Paper Map|Items|Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.Drag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default).|
-|![](/mask.balaclava.128.webp)|mask.balaclava|-2012470695|Improvised Balaclava|Attire|A home made balaclava.|
+|![](/mask.balaclava.128.webp)|mask.balaclava|-2012470695|Improvised Balaclava|Attire|A makeshift balaclava. Cost effective protection from the cold, but unremarkable at preventing melee and projectile damage.|
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
 |![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a moderate amount.|
 |![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A basic health tea, provides hydration and temporarily boosts maximum health a small amount.|
-|![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a large amount.|
+|![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|A pure health tea, provides hydration and temporarily boosts maximum health a large amount.|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
@@ -598,16 +624,18 @@
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.128.webp)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
-|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|The heart of any hive, needed for raising bees. Produce honeycomb to earn XP and increase its grade. Higher grades will produce more honeycomb at once.|
+|![](/nucleus.128.webp)|nucleus|-1811234677|Beehive Nucleus|Resources|The heart of any hive, needed for raising bees. Produce honeycomb from happy bees to grow the nucleus and increase yields.|
 |![](/orangeidtag.128.webp)|orangeidtag|-282193997|Orange ID Tag|Resources|Orange ID Tag|
 |![](/orchid.128.webp)|orchid|734320711|Orchid|Food|Smells nice.|
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|Food|An advanced ore tea, provides hydration and temporarily increases your yield from ores a moderate amount.|
 |![](/oretea.128.webp)|oretea|1480022580|Basic Ore Tea|Food|A basic ore tea, provides hydration and temporarily increases your yield from harvesting ores a small amount.|
 |![](/oretea.pure.128.webp)|oretea.pure|1729374708|Pure Ore Tea|Food|A pure ore tea, provides hydration and temporarily increases your yield when harvesting ores a large amount.|
+|![](/oubreak_scientist.128.webp)|oubreak_scientist|-2133781216|Outbreak Scientist Suit|Attire|A outbreak scientist suit|
+|![](/outbreak.sprayer.128.webp)|outbreak.sprayer|1621942085|Outbreak Sprayer|Tool|An outbreak sprayer used by scientists|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
-|![](/pants.128.webp)|pants|237239288|Pants|Attire|Pants.|
-|![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|Attire|Trousers without the bottom of the legs.|
+|![](/pants.128.webp)|pants|237239288|Pants|Attire|A pair of pants, highly capable undergarment for your legs. Great all round protection from damage and the elements.|
+|![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|Attire|Trusty pair of shorts, may provide a breeze in undesired places. Worse than their full length counterparts with only basic protection from damage and the elements.|
 |![](/paper.128.webp)|paper|-1779183908|Paper|Resources|Paper, a ingredient for Building plan and Note.|
 |![](/parachute.deployed.128.webp)|parachute.deployed|1784005657|Parachute (Deployed)|Attire|Deployed version of parachute. Hidden.|
 |![](/parachute.128.webp)|parachute|602628465|Parachute|Attire|Once equipped, press [+jump] while in mid-air to pull the cord. Must be repacked after use. Must be at least 15m above the ground in order to deploy.|
@@ -620,11 +648,13 @@
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
 |![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration. Increases effect of harvesting teas but reduces their duration.|
+|![](/pie.bigcat.128.webp)|pie.bigcat|309017792|Big Cat Pie|Food|A pie made from jungle cat meat, purrfect temperature. Boosts hunger, health and hydration. Shows nearby animal tracks for a short time.|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Just like mom used to make. Provides a boost to hunger, health and hydration. Increases the chance of better genes from crops for short time.|
+|![](/pie.crocodile.128.webp)|pie.crocodile|54265286|Crocodile Pie|Food|A pie made from crocodile meat, may cause a reptile dysfunction. Boosts hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration. Increases base comfort level for a short time.|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration. Reduces bleeding for a short time.|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
-|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration.Increases maximum health for a short time.|
+|![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration. Increases maximum health for a short time.|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration. Increases yield when harvesting corpses for a short time.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
@@ -632,7 +662,7 @@
 |![](/pistol.eoka.128.webp)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.128.webp)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
 |![](/pistol.nailgun.128.webp)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
-|![](/pistol.prototype17.128.webp)|pistol.prototype17|1914691295|Prototype 17|Weapon|A burst fire prototype pistol|
+|![](/pistol.prototype17.128.webp)|pistol.prototype17|1914691295|Prototype 17|Weapon|A protype pistol with a built-in 3 round burst fire mode. Strong in close quarters. Swap between single shot and burst with [+firemode]|
 |![](/pistol.python.128.webp)|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
 |![](/pistol.revolver.128.webp)|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
 |![](/pistol.semiauto.128.webp)|pistol.semiauto|818877484|Semi-Automatic Pistol|Weapon|A semi-automatic pistol, fires rapidly and with good accuracy.|
@@ -655,6 +685,10 @@
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
+|![](/purecoolingtea.128.webp)|purecoolingtea|1121416193|Pure Cooling Tea|Food|A pure cooling tea that temporarily decreases your max and core temperature.|
+|![](/purecraftingtea_quality.128.webp)|purecraftingtea_quality|97903330|Pure Crafting Quality Tea|Food|A pure crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
+|![](/pureharvestingtea.128.webp)|pureharvestingtea|377750553|Pure Harvesting Tea|Food|A pure harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a large amount.|
+|![](/purewarmingtea.128.webp)|purewarmingtea|-1476814093|Pure Warming Tea|Food|A pure warming tea that temporarily increases both your core and minimum temperature.|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|Resources|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
@@ -669,13 +703,14 @@
 |![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long. Usable with single handed weapons and tools.|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
-|![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|A High Caliber six-shooter.|
+|![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|A powerful six-shot revolver using 5.56 rounds. High damage and accuracy, but slow fire rate and even slower to reload.|
 |![](/rf.detonator.128.webp)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|Items||
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|Weapon|A waterlogged assault rifle from the abyss|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
+|![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|Weapon|Jungle Relic themed high damage machine rifle.|
 |![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|Weapon|Medieval themed high damage machine rifle.|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
@@ -687,7 +722,7 @@
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|Attire|A makeshift riot Helmet. Great at deflecting melee attacks.|
 |![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal, offer a good amount of protection to the upper body.|
 |![](/roadsign.jacket.128.webp)|roadsign.jacket|-2002277461|Road Sign Jacket|Attire|A shoddy piece of body armor made from roadsigns.|
-|![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns.|
+|![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns. Moderate protection from melee and projectiles.|
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
 |![](/rock.128.webp)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
 |![](/rocket.launcher.dragon.128.webp)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
@@ -707,6 +742,7 @@
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|Misc|A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.|
 |![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|Misc|A beautiful hand crafted cerulean and gold egg, with a miniature cargo ship scene contained inside.|
+|![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|Items|Bamboo shelves for item stacking|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
 |![](/samsite.128.webp)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
@@ -725,9 +761,9 @@
 |![](/scrapmirror.medium.128.webp)|scrapmirror.medium|839738457|Scrap Mirror Medium|Items|A medium scrap mirror|
 |![](/scrapmirror.small.128.webp)|scrapmirror.small|-1050697733|Scrap Mirror Small|Items|A small scrap mirror|
 |![](/scrapmirror.standing.128.webp)|scrapmirror.standing|-1380144986|Scrap Mirror Standing|Items|A standing scrap mirror|
-|![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|An advanced scrap tea, temporarily increases the amount of scrap you recieve from barrels a moderate amount.|
-|![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A basic scrap tea, temporarily increases the amount of scrap you recieve from barrels a small amount.|
-|![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you recieve from barrels a large amount.|
+|![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|An advanced scrap tea, temporarily increases the amount of scrap you receive from barrels a moderate amount.|
+|![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A basic scrap tea, temporarily increases the amount of scrap you receive from barrels a small amount.|
+|![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.|
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|An block of ice you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
@@ -750,9 +786,9 @@
 |![](/sewingkit.128.webp)|sewingkit|1234880403|Sewing Kit|Component|A Sewing kit. Used to make advanced clothing.|
 |![](/sheetmetal.128.webp)|sheetmetal|-1994909036|Sheet Metal|Component|Sheet metal scraps.|
 |![](/shelves.128.webp)|shelves|1950721418|Salvaged Shelves|Items|Shelves for item stacking|
-|![](/shirt.collared.128.webp)|shirt.collared|-2025184684|Shirt|Attire|A smart casual shirt|
-|![](/shirt.tanktop.128.webp)|shirt.tanktop|1608640313|Tank Top|Attire|A tshirt without sleeves|
-|![](/shoes.boots.128.webp)|shoes.boots|-1549739227|Boots|Attire|Work boots.|
+|![](/shirt.collared.128.webp)|shirt.collared|-2025184684|Shirt|Attire|A smart casual shirt. Might make you look more trustworthy. Moderate clothing for protection against damage and the elements.|
+|![](/shirt.tanktop.128.webp)|shirt.tanktop|1608640313|Tank Top|Attire|A tank top, comes with free stains. Basic protection, but better than nothing.|
+|![](/shoes.boots.128.webp)|shoes.boots|-1549739227|Boots|Attire|Sturdy work boots to keep your toes safe, you'd feel nothing if you kicked a table leg. Strong protection against the cold and incoming damage.|
 |![](/shotgun.double.128.webp)|shotgun.double|-765183617|Double Barrel Shotgun|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
 |![](/shotgun.m4.128.webp)|shotgun.m4|678698219|M4 Shotgun|Weapon|A semi automatic military issue shotgun|
 |![](/shotgun.pump.128.webp)|shotgun.pump|795371088|Pump Shotgun|Weapon|A Shotgun. Fires six rounds.|
@@ -786,6 +822,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
+|![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Single Shallow Wall Shelves|Items|Single Shallow Wall Shelves|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
 |![](/skull.128.webp)|skull|1312843609|Skull|Tool|A spooky skull|
@@ -806,7 +843,7 @@
 |![](/skylantern.skylantern.red.128.webp)|skylantern.skylantern.red|-1433390281|Sky Lantern - Red|Fun||
 |![](/sled.128.webp)|sled|-333406828|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sled.xmas.128.webp)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
-|![](/sleepingbag.128.webp)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you a location to respawn.|
+|![](/sleepingbag.128.webp)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you or an assigned player a place to respawn, with a long cooldown.|
 |![](/small.oil.refinery.128.webp)|small.oil.refinery|-1293296287|Small Oil Refinery|Items|A small refinery which can produce Low Grade Fuel from Crude Oil.|
 |![](/smallbackpack.128.webp)|smallbackpack|2068884361|Small Backpack|Attire|A small, makeshift backpack|
 |![](/smallcandles.128.webp)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
@@ -817,6 +854,9 @@
 |![](/smg.mp5.128.webp)|smg.mp5|1318558775|MP5A4|Weapon|A medium damage machine gun.|
 |![](/smg.thompson.128.webp)|smg.thompson|-1758372725|Thompson|Weapon|A medium damage machine gun.|
 |![](/smgbody.128.webp)|smgbody|1230323789|SMG Body|Component|The firing mechanism of a submachinegun. Used in construction of a weapon that can fire pistol ammo fully automatic.|
+|![](/snakemeat.cooked.128.webp)|snakemeat.cooked|-170436364|Cooked Snake Meat|Food|Delicious Snake Meat, Eating it will restore some health, hunger, and thirst.|
+|![](/snakemeat.128.webp)|snakemeat|-2100458529|Raw Snake Meat|Food|Raw Snake Meat. Eating it will damage your health, try cooking it first.|
+|![](/snakemeat.spoiled.128.webp)|snakemeat.spoiled|-1616704051|Spoiled Snake Meat|Food|Spoiled Snake Meat. Consuming will damage your health.|
 |![](/snowball.128.webp)|snowball|-363689972|Snowball|Weapon|A snowball, throw it!|
 |![](/snowballgun.128.webp)|snowballgun|1103488722|Snowball Gun|Weapon|Load snowballs and lay waste to your foes with Christmas cheer.|
 |![](/snowmachine.128.webp)|snowmachine|1358643074|Snow Machine|Misc|A machine which will blanket the surrounding terrain in snow.|
@@ -837,6 +877,7 @@
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
+|![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|Food|A spoiled fruit or vegetable. It's so far gone it's hard to tell what it originally was.|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|Tool||
@@ -893,10 +934,10 @@
 |![](/trike.128.webp)|trike|1991794121|Trike|Misc|A three-wheeled bicycle.|
 |![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
 |![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|Items|A trophy dedicated to the survivors of Rust Twitch Rivals 2023|
-|![](/tshirt.128.webp)|tshirt|223891266|T-Shirt|Attire|A t-shirt with very short sleeves.|
-|![](/tshirt.long.128.webp)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|A t-shirt with long sleeves.|
+|![](/tshirt.128.webp)|tshirt|223891266|T-Shirt|Attire|A tshirt, simple undergarment. Good protection from damage and the elements.|
+|![](/tshirt.long.128.webp)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|Long sleeve tshirt, versatile clothing for protection against damage and the elements.|
 |![](/tugboat.128.webp)|tugboat|-561148628|Tugboat|Items||
-|![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|Items|A Makeshift wall light.|
+|![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|Items|A makeshift wall light. Still smells faintly of fish.|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|Electrical|Twitch Rivals Desk|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|Attire|A wearable flag for Twitch Rivals|
@@ -926,6 +967,7 @@
 |![](/vehicle.chassis.128.webp)|vehicle.chassis|1770744540|Generic vehicle chassis|Component|Generic vehicle chassis|
 |![](/vehicle.module.128.webp)|vehicle.module|878301596|Generic vehicle module|Component|Generic vehicle module|
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
+|![](/venom.snake.128.webp)|venom.snake|-870140677|Snake Venom|Items|The venom of a snake. Used to create Incapacitate darts.|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|Items|A walkie talkie set to an unknown channel|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|Construction|A high stone wall used to keep people off your property.|
@@ -950,12 +992,15 @@
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
-|![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|Items|Transform your base from a rusty shack to a cozy hideout with this sleek wallpaper. A nice touch of style - until the next raid, at least.|
+|![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|Items||
+|![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|Items||
+|![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|Tool|Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.Press [+attack2] to select your skin.|
+|![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|Tool||
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can display a given player's face as wanted.|
-|![](/warmingtea.128.webp)|warmingtea|-1142222427|Warming Tea|Food|A warming tea that temporarily increases both your core and minimum temperature.|
+|![](/warmingtea.128.webp)|warmingtea|-1142222427|Basic Warming Tea|Food|A basic warming tea that temporarily increases both your core and minimum temperature.|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
 |![](/water.catcher.large.128.webp)|water.catcher.large|-1100168350|Large Water Catcher|Construction|Collects drinkable water from the air via rain and dew. Can be connected to other entities to provide water, 20ml a second.|
@@ -964,10 +1009,10 @@
 |![](/water.purifier.128.webp)|water.purifier|2114754781|Water Purifier|Items|A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.|
 |![](/water.radioactive.128.webp)|water.radioactive|1811780502|Radioactive Water|Resources|Glowing water. Consuming will damage your health and irradiate you.|
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
-|![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|Food|A large jerry can for water.|
+|![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|Food|A large jerry can for all kinds of water. Holds up to 5000ml. Careful not to throw it all away!|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.128.webp)|weapon.mod.8x.scope|174866732|Variable Zoom Scope|Weapon|A large military-grade scope that can be configured from 4x zoom to 16x zoom.|
-|![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|Component|Forces the weapon to fire in 3 round bursts.|
+|![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|Component|A weapon attachment that modifies recoil and rate of fire. Allows weapon to fire in 3 round bursts when turned on. Use [+firemode] to toggle on or off.|
 |![](/weapon.mod.extendedmags.128.webp)|weapon.mod.extendedmags|2005491391|Extended Magazine|Weapon|Larger magazine size|
 |![](/weapon.mod.flashlight.128.webp)|weapon.mod.flashlight|952603248|Weapon flashlight|Weapon|Attaches to a weapon. Provides user with a beam of light. Pressing F (default) to toggle light.|
 |![](/weapon.mod.gascompressionovedrive.128.webp)|weapon.mod.gascompressionovedrive|-1767794021|Gas Compression Overdrive|Weapon|An internal weapon mod which compresses and directs gasses used for cycling the weapon to the barrel, effectively increasing projectile velocity and damage at the expense of cycle rate.|
@@ -975,14 +1020,18 @@
 |![](/weapon.mod.lasersight.128.webp)|weapon.mod.lasersight|-132516482|Weapon Lasersight|Weapon|Attaches to a weapon. Provides user with a guiding laser and reduces weapon sway.|
 |![](/weapon.mod.muzzleboost.128.webp)|weapon.mod.muzzleboost|-1405508498|Muzzle Boost|Weapon|Increases weapon fire rate by channeling gasses back into the weapon cycling it faster, at the cost of bullet accuracy.|
 |![](/weapon.mod.muzzlebrake.128.webp)|weapon.mod.muzzlebrake|1478091698|Muzzle Brake|Weapon|Lowers recoil felt by the operator but can make bullet path more unpredictable and dealing slightly less damage to your foes.|
-|![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.|
+|![](/weapon.mod.oilfiltersilencer.128.webp)|weapon.mod.oilfiltersilencer|-781866273|Oil Filter Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash. Fashioned out of an old oil filter, this won't last long.|
+|![](/weapon.mod.silencer.128.webp)|weapon.mod.silencer|-1850571427|Military Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash.|
 |![](/weapon.mod.simplesight.128.webp)|weapon.mod.simplesight|-855748505|Simple Handmade Sight|Weapon|A poorly made sight, slightly better than iron sights.|
 |![](/weapon.mod.small.scope.128.webp)|weapon.mod.small.scope|567235583|8x Zoom Scope|Weapon|A small 8x zoom scope.|
+|![](/weapon.mod.sodacansilencer.128.webp)|weapon.mod.sodacansilencer|-1659598760|Soda Can Silencer|Weapon|Significantly reduces the sound of gunfire, and completely removes any visible muzzle flash. Crudely made out of a soda can, this will only survive a few shots.|
+|![](/weapon.mod.targetingattachment.128.webp)|weapon.mod.targetingattachment|1719587208|Targeting Attachment|Weapon|An internal weapon mod that allows the user to send pings to their team while the weapon is equipped.|
 |![](/weaponrack.doublelight.128.webp)|weaponrack.doublelight|1277159544|Weapon Rack Double Light|Electrical|A weapon rack light.|
 |![](/weaponrack.light.128.webp)|weaponrack.light|-1163943815|Weapon Rack Light|Electrical|A weapon rack light.|
-|![](/wheat.128.webp)|wheat|1178325727|Wheat|Food|Wheaty|
+|![](/wheat.128.webp)|wheat|1178325727|Wheat|Food|A bundle of wheat. Edible, but better off in a cooking recipe.|
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
+|![](/wicker.barrel.128.webp)|wicker.barrel|-526026171|Wicker Barrel|Items|Keep your things in this wicker barrel. Stores up to 48 items. Cannot be locked.|
 |![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
 |![](/wolfmeat.burned.128.webp)|wolfmeat.burned|1827479659|Burnt Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
 |![](/wolfmeat.cooked.128.webp)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
@@ -992,6 +1041,7 @@
 |![](/wood.armor.jacket.128.webp)|wood.armor.jacket|418081930|Wood Chestplate|Attire|A shoddy piece of body armor made from simple materials, provides some basic protection from melee and ranged attacks.|
 |![](/wood.armor.pants.128.webp)|wood.armor.pants|832133926|Wood Armor Pants|Attire|A shoddy piece of leg armor made from simple materials, provides some basic protection from melee and ranged attacks.|
 |![](/wood.128.webp)|wood|-151838493|Wood|Resources|Wood. Collected from trees and used in many crafting recipes. It's also needed to cook in camp-fires.|
+|![](/woodarmor.gloves.128.webp)|woodarmor.gloves|-459159118|Wood Armor Gloves|Attire|Gloves made out of wood and leather, offers some protection to the upper body.|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
 |![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|A basic wooden shield, won't last very long. Usable with single handed weapons and tools.|
 |![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|Items|A large wooden frame|
