@@ -2,6 +2,8 @@
 |Image|Shortname|ID|Name|
 |:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|
+|![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|
+|![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|
 |![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|
