@@ -239,6 +239,7 @@
 |![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|Attire|A diving mask that provides clear vision under water at the cost of reduced peripheral vision.|
 |![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
+|![](/documents.128.webp)|documents|-451310088|Documents|Tool|A stack of techincal looking documents.|
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
 |![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|Construction|Automatically closes your doors when left open.|
 |![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|Construction|Hand-carved, rugged bar doors embody the spirit of the frontier. A must-have for any survivor.|
@@ -383,7 +384,7 @@
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|Items|Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|Construction|A high stone gate, allowing access in and out of your compound.|
-|![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
+|![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|Construction|A Frontier themed wooden gate to keep the untamed wilderness away from your property, it's seen better days. Replaces the High External Wooden Wall.|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|Construction|A high stone gate, allowing access in and out of your compound.|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
 |![](/gears.128.webp)|gears|479143914|Gears|Component|A selection of gears. Some functional, some not.|
@@ -973,7 +974,7 @@
 |![](/wagon.128.webp)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|Items|A walkie talkie set to an unknown channel|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|Construction|A high stone wall used to keep people off your property.|
-|![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|Construction|A high stone wall used to keep people off your property.|
+|![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|Construction|A Frontier themed wooden wall to keep the untamed wilderness away from your property, made with questionable carpentry. Replaces the High External Wooden Wall.|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|

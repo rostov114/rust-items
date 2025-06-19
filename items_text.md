@@ -239,6 +239,7 @@
 |[diving.mask](/diving.mask.png)|-113413047|Diving Mask|Attire|
 |[diving.tank](/diving.tank.png)|-2022172587|Diving Tank|Attire|
 |[diving.wetsuit](/diving.wetsuit.png)|-1101924344|Wetsuit|Attire|
+|[documents](/documents.png)|-451310088|Documents|Tool|
 |[dogtagneutral](/dogtagneutral.png)|1223900335|Dog Tag|Resources|
 |[door.closer](/door.closer.png)|1409529282|Door Closer|Construction|
 |[door.double.hinged.bardoors](/door.double.hinged.bardoors.png)|-1151332840|Wooden Frontier Bar Doors|Construction|
