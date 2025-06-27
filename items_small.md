@@ -239,7 +239,6 @@
 |![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|
 |![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|
-|![](/documents.128.webp)|documents|-451310088|Documents|
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|
 |![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|
 |![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|
@@ -385,7 +384,6 @@
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|
 |![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|
-|![](/gates.external.high.legacy.128.webp)|gates.external.high.legacy|-1442339204|High External Legacy Gate|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|
 |![](/gears.128.webp)|gears|479143914|Gears|
@@ -978,7 +976,6 @@
 |![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
-|![](/wall.external.high.legacy.128.webp)|wall.external.high.legacy|-1993883724|High External Legacy Wall|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|
 |![](/wall.frame.cell.gate.128.webp)|wall.frame.cell.gate|-956706906|Prison Cell Gate|
 |![](/wall.frame.cell.128.webp)|wall.frame.cell|-1429456799|Prison Cell Wall|
@@ -999,7 +996,6 @@
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|
 |![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|
 |![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|
-|![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|
 |![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|
 |![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|
