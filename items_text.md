@@ -239,7 +239,6 @@
 |[diving.mask](/diving.mask.png)|-113413047|Diving Mask|Attire|
 |[diving.tank](/diving.tank.png)|-2022172587|Diving Tank|Attire|
 |[diving.wetsuit](/diving.wetsuit.png)|-1101924344|Wetsuit|Attire|
-|[documents](/documents.png)|-451310088|Documents|Tool|
 |[dogtagneutral](/dogtagneutral.png)|1223900335|Dog Tag|Resources|
 |[door.closer](/door.closer.png)|1409529282|Door Closer|Construction|
 |[door.double.hinged.bardoors](/door.double.hinged.bardoors.png)|-1151332840|Wooden Frontier Bar Doors|Construction|
@@ -385,7 +384,6 @@
 |[fuse](/fuse.png)|-629028935|Electric Fuse|Component|
 |[gates.external.high.adobe](/gates.external.high.adobe.png)|-401905610|High External Adobe Gate|Construction|
 |[gates.external.high.frontier](/gates.external.high.frontier.png)|2137338174|High External Frontier Gate|Construction|
-|[gates.external.high.legacy](/gates.external.high.legacy.png)|-1442339204|High External Legacy Gate|Construction|
 |[gates.external.high.stone](/gates.external.high.stone.png)|-691113464|High External Stone Gate|Construction|
 |[gates.external.high.wood](/gates.external.high.wood.png)|-335089230|High External Wooden Gate|Construction|
 |[gears](/gears.png)|479143914|Gears|Component|
@@ -978,7 +976,6 @@
 |[wall.external.high.frontier](/wall.external.high.frontier.png)|63265850|High External Frontier Wall|Construction|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
-|[wall.external.high.legacy](/wall.external.high.legacy.png)|-1993883724|High External Legacy Wall|Construction|
 |[wall.external.high.stone](/wall.external.high.stone.png)|-967648160|High External Stone Wall|Construction|
 |[wall.frame.cell.gate](/wall.frame.cell.gate.png)|-956706906|Prison Cell Gate|Construction|
 |[wall.frame.cell](/wall.frame.cell.png)|-1429456799|Prison Cell Wall|Construction|
@@ -999,7 +996,6 @@
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
 |[wallpaper.ceiling](/wallpaper.ceiling.png)|1730664641|Wallpaper Ceiling|Items|
 |[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Wallpaper Flooring|Items|
-|[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
 |[wallpaper.tool](/wallpaper.tool.png)|1629564540|Wallpaper Tool|Tool|
 |[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper Wall|Tool|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
