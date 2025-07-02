@@ -385,6 +385,7 @@
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|Construction|A high stone gate, allowing access in and out of your compound.|
 |![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|Construction|A Frontier themed wooden gate to keep the untamed wilderness away from your property, it's seen better days. Replaces the High External Wooden Wall.|
+|![](/gates.external.high.legacy.128.webp)|gates.external.high.legacy|-1442339204|High External Legacy Gate|Construction|A legacy themed wooden gate to keep the untamed wilderness away from your property, it's seen better days. Replaces the High External Wooden Wall.|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|Construction|A high stone gate, allowing access in and out of your compound.|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
 |![](/gears.128.webp)|gears|479143914|Gears|Component|A selection of gears. Some functional, some not.|
@@ -977,6 +978,7 @@
 |![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|Construction|A Frontier themed wooden wall to keep the untamed wilderness away from your property, made with questionable carpentry. Replaces the High External Wooden Wall.|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
+|![](/wall.external.high.legacy.128.webp)|wall.external.high.legacy|-1993883724|High External Legacy Wall|Construction|A legacy themed wooden wall to keep the untamed wilderness away from your property, made with questionable carpentry. Replaces the High External Wooden Wall.|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
 |![](/wall.frame.cell.gate.128.webp)|wall.frame.cell.gate|-956706906|Prison Cell Gate|Construction|A prison cell gate to lock things behind bars|
 |![](/wall.frame.cell.128.webp)|wall.frame.cell|-1429456799|Prison Cell Wall|Construction|A prison cell wall.|
