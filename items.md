@@ -2,6 +2,8 @@
 |Image|Shortname|ID|Name|Category|Description|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
+|![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|Items|Horizontal Abyss container taken from the depths of the ocean|
+|![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|Items|Vertical Abyss container taken from the depths of the ocean|
 |![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|Food|An advanced cooling tea, provides hydration and temporarily decreases your max and core temperature.|
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|An advanced crafting tea, provides hydration and temporarily increases the chances of a higher quality crafting outcome.|
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|An advanced warming tea that temporarily increases both your core and minimum temperature.|
@@ -238,6 +240,7 @@
 |![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|Attire|A diving mask that provides clear vision under water at the cost of reduced peripheral vision.|
 |![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
+|![](/documents.128.webp)|documents|-451310088|Documents|Tool|A stack of technical looking documents.|
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
 |![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|Construction|Automatically closes your doors when left open.|
 |![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|Construction|Hand-carved, rugged bar doors embody the spirit of the frontier. A must-have for any survivor.|
@@ -383,6 +386,7 @@
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|Construction|A high stone gate, allowing access in and out of your compound.|
 |![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
+|![](/gates.external.high.legacy.128.webp)|gates.external.high.legacy|-1442339204|High External Legacy Gate|Construction|A legacy themed wooden gate to keep the untamed wilderness away from your property, it's seen better days. Replaces the High External Wooden Wall.|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|Construction|A high stone gate, allowing access in and out of your compound.|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
 |![](/gears.128.webp)|gears|479143914|Gears|Component|A selection of gears. Some functional, some not.|
@@ -975,6 +979,7 @@
 |![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|Construction|A high stone wall used to keep people off your property.|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
+|![](/wall.external.high.legacy.128.webp)|wall.external.high.legacy|-1993883724|High External Legacy Wall|Construction|A legacy themed wooden wall to keep the untamed wilderness away from your property, made with questionable carpentry. Replaces the High External Wooden Wall.|
 |![](/wall.external.high.stone.128.webp)|wall.external.high.stone|-967648160|High External Stone Wall|Construction|A high stone wall used to keep people off your property.|
 |![](/wall.frame.cell.gate.128.webp)|wall.frame.cell.gate|-956706906|Prison Cell Gate|Construction|A prison cell gate to lock things behind bars|
 |![](/wall.frame.cell.128.webp)|wall.frame.cell|-1429456799|Prison Cell Wall|Construction|A prison cell wall.|
