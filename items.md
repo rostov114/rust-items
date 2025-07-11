@@ -195,6 +195,7 @@
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|Electrical|A block that runs commands|
+|![](/compass.128.webp)|compass|594041190|Compass|Tool|A handy tool which indicates which direction you're facing.|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
@@ -565,7 +566,7 @@
 |![](/lightupmirror.standing.128.webp)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|Items|A standing light-up mirror|
 |![](/lmg.m249.128.webp)|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
 |![](/lock.code.128.webp)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
-|![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
+|![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|Construction|Place on a door to prevent unwelcome guests. You can create a key to share with your friends, don't let it fall in the wrong hands!|
 |![](/locker.128.webp)|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
 |![](/locomotive.128.webp)|locomotive|-2027988285|Locomotive|Misc|A powerful locomotive.|
 |![](/longsword.128.webp)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
@@ -665,7 +666,7 @@
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
 |![](/pistol.eoka.128.webp)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.128.webp)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
-|![](/pistol.nailgun.128.webp)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
+|![](/pistol.nailgun.128.webp)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly.|
 |![](/pistol.prototype17.128.webp)|pistol.prototype17|1914691295|Prototype 17|Weapon|A protype pistol with a built-in 3 round burst fire mode. Strong in close quarters. Swap between single shot and burst with [+firemode]|
 |![](/pistol.python.128.webp)|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
 |![](/pistol.revolver.128.webp)|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
