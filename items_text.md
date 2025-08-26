@@ -31,7 +31,7 @@
 |[ammo.shotgun.fire](/ammo.shotgun.fire.png)|-1036635990|12 Gauge Incendiary Shell|Ammunition|
 |[ammo.shotgun](/ammo.shotgun.png)|-1685290200|12 Gauge Buckshot|Ammunition|
 |[ammo.shotgun.slug](/ammo.shotgun.slug.png)|-727717969|12 Gauge Slug|Ammunition|
-|[ammo.snowballgun](/ammo.snowballgun.png)|550753330||Ammunition|
+|[ammo.snowballgun](/ammo.snowballgun.png)|550753330|null|Ammunition|
 |[antiradpills](/antiradpills.png)|-1432674913|Anti-Radiation Pills|Medical|
 |[apple](/apple.png)|1548091822|Apple|Food|
 |[apple.spoiled](/apple.spoiled.png)|352130972|Rotten Apple|Food|
@@ -83,6 +83,8 @@
 |[beachparasol](/beachparasol.png)|-1621539785|Beach Parasol|Fun|
 |[beachtable](/beachtable.png)|657352755|Beach Table|Fun|
 |[beachtowel](/beachtowel.png)|-8312704|Beach Towel|Fun|
+|[beanbagseatfabric](/beanbagseatfabric.png)|-576866254|Fabric Beanbag Seat|Items|
+|[beanbagseatleather](/beanbagseatleather.png)|-1220928936|Leather Beanbag Seat|Items|
 |[bearmeat.burned](/bearmeat.burned.png)|-989755543|Burnt Bear Meat|Food|
 |[bearmeat.cooked](/bearmeat.cooked.png)|1873897110|Cooked Bear Meat|Food|
 |[bearmeat](/bearmeat.png)|-1520560807|Raw Bear Meat|Food|
@@ -154,6 +156,7 @@
 |[cctv.camera](/cctv.camera.png)|634478325|CCTV Camera|Resources|
 |[ceilinglight](/ceilinglight.png)|1142993169|Ceiling Light|Electrical|
 |[chainsaw](/chainsaw.png)|1104520648|Chainsaw|Tool|
+|[chair.ejector.seat](/chair.ejector.seat.png)|-463012608|Salvaged Ejector Seat|Items|
 |[chair.icethrone](/chair.icethrone.png)|-1944704288|Ice Throne|Items|
 |[chair](/chair.png)|1534542921|Chair|Items|
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
@@ -183,6 +186,7 @@
 |[clone.white.berry](/clone.white.berry.png)|1533551194|White Berry Clone|Food|
 |[clone.yellow.berry](/clone.yellow.berry.png)|390728933|Yellow Berry Clone|Food|
 |[cloth](/cloth.png)|-858312878|Cloth|Resources|
+|[clothing.mannequin](/clothing.mannequin.png)|-606898372|#clothingmannequin|Attire|
 |[clothing.mod.armorinsert_asbestos](/clothing.mod.armorinsert_asbestos.png)|-903796529|Asbestos Armor Insert|Items|
 |[clothing.mod.armorinsert_lead](/clothing.mod.armorinsert_lead.png)|2047789913|Lead Armor Insert|Items|
 |[clothing.mod.armorinsert_metal](/clothing.mod.armorinsert_metal.png)|1099611828|Metal Armor Insert|Items|
@@ -195,6 +199,7 @@
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
 |[command.block](/command.block.png)|-1247485104|Command Block|Electrical|
+|[compass](/compass.png)|594041190|Compass|Tool|
 |[composter](/composter.png)|-1488398114|Composter|Items|
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
@@ -239,6 +244,7 @@
 |[diving.mask](/diving.mask.png)|-113413047|Diving Mask|Attire|
 |[diving.tank](/diving.tank.png)|-2022172587|Diving Tank|Attire|
 |[diving.wetsuit](/diving.wetsuit.png)|-1101924344|Wetsuit|Attire|
+|[documents](/documents.png)|-451310088|Documents|Tool|
 |[dogtagneutral](/dogtagneutral.png)|1223900335|Dog Tag|Resources|
 |[door.closer](/door.closer.png)|1409529282|Door Closer|Construction|
 |[door.double.hinged.bardoors](/door.double.hinged.bardoors.png)|-1151332840|Wooden Frontier Bar Doors|Construction|
@@ -270,12 +276,17 @@
 |[electric.battery.rechargable.medium](/electric.battery.rechargable.medium.png)|2023888403|Medium Rechargeable Battery|Electrical|
 |[electric.battery.rechargable.small](/electric.battery.rechargable.small.png)|-692338819|Small Rechargeable Battery|Electrical|
 |[electric.blocker](/electric.blocker.png)|-690968985|Blocker|Electrical|
+|[electric.bulbstringlights](/electric.bulbstringlights.png)|104856514|Bulb String Lights|Electrical|
 |[electric.button](/electric.button.png)|-1778897469|Button|Electrical|
 |[electric.cabletunnel](/electric.cabletunnel.png)|1835946060|Cable Tunnel|Electrical|
+|[electric.chandelier](/electric.chandelier.png)|-1510616686|Chandelier|Electrical|
 |[electric.counter](/electric.counter.png)|-216999575|Counter|Electrical|
 |[electric.digitalclock](/electric.digitalclock.png)|1619039771|Digital Clock|Electrical|
 |[electric.doorcontroller](/electric.doorcontroller.png)|-502177121|Door Controller|Electrical|
+|[electric.fairylights](/electric.fairylights.png)|54436981|Fairy Lights|Electrical|
 |[electric.flasherlight](/electric.flasherlight.png)|-939424778|Flasher Light|Electrical|
+|[electric.fluorescentlight.ceiling](/electric.fluorescentlight.ceiling.png)|640470230|Ceiling Fluorescent Light|Electrical|
+|[electric.fluorescentlight](/electric.fluorescentlight.png)|1892536031|Fluorescent Light|Electrical|
 |[electric.fuelgenerator.small](/electric.fuelgenerator.small.png)|1849887541|Small Generator|Electrical|
 |[electric.furnace](/electric.furnace.png)|-1196547867|Electric Furnace|Electrical|
 |[electric.generator.small](/electric.generator.small.png)|-295829489|Test Generator|Electrical|
@@ -293,10 +304,14 @@
 |[electric.sirenlight](/electric.sirenlight.png)|762289806|Siren Light|Electrical|
 |[electric.solarpanel.large](/electric.solarpanel.large.png)|2090395347|Large Solar Panel|Electrical|
 |[electric.splitter](/electric.splitter.png)|-563624462|Splitter|Electrical|
+|[electric.spotlight](/electric.spotlight.png)|-1258821205|Spot Light|Electrical|
+|[electric.spotlight.tripod](/electric.spotlight.tripod.png)|-2134097299|Tripod Spot Light|Electrical|
 |[electric.sprinkler](/electric.sprinkler.png)|-781014061|Sprinkler|Electrical|
 |[electric.switch](/electric.switch.png)|1951603367|Switch|Electrical|
+|[electric.tablelight](/electric.tablelight.png)|1717250161|Electric Table Lamp|Electrical|
 |[electric.teslacoil](/electric.teslacoil.png)|1371909803|Tesla Coil|Electrical|
 |[electric.timer](/electric.timer.png)|665332906|Timer|Electrical|
+|[electric.wallcabinet](/electric.wallcabinet.png)|656829501|Wall Cabinet|Items|
 |[electric.xorswitch](/electric.xorswitch.png)|1293102274|XOR Switch|Electrical|
 |[electrical.branch](/electrical.branch.png)|-1448252298|Electrical Branch|Electrical|
 |[electrical.combiner](/electrical.combiner.png)|-458565393|Root Combiner|Electrical|
@@ -384,6 +399,7 @@
 |[fuse](/fuse.png)|-629028935|Electric Fuse|Component|
 |[gates.external.high.adobe](/gates.external.high.adobe.png)|-401905610|High External Adobe Gate|Construction|
 |[gates.external.high.frontier](/gates.external.high.frontier.png)|2137338174|High External Frontier Gate|Construction|
+|[gates.external.high.legacy](/gates.external.high.legacy.png)|-1442339204|High External Legacy Gate|Construction|
 |[gates.external.high.stone](/gates.external.high.stone.png)|-691113464|High External Stone Gate|Construction|
 |[gates.external.high.wood](/gates.external.high.wood.png)|-335089230|High External Wooden Gate|Construction|
 |[gears](/gears.png)|479143914|Gears|Component|
@@ -461,6 +477,7 @@
 |[hazmatsuit](/hazmatsuit.png)|1266491000|Hazmat Suit|Attire|
 |[hazmatsuit.lumberjack](/hazmatsuit.lumberjack.png)|861513346|Lumberjack Suit|Attire|
 |[hazmatsuit.nomadsuit](/hazmatsuit.nomadsuit.png)|491263800|Nomad Suit|Attire|
+|[hazmatsuit.pilot](/hazmatsuit.pilot.png)|1065594600|Pilot Hazmat|Attire|
 |[hazmatsuit.spacesuit](/hazmatsuit.spacesuit.png)|-560304835|Space Suit|Attire|
 |[hazmatsuit_scientist](/hazmatsuit_scientist.png)|-253079493|Scientist Suit|Attire|
 |[hazmatsuit_scientist_arctic](/hazmatsuit_scientist_arctic.png)|1107575710|Arctic Scientist Suit|Attire|
@@ -562,6 +579,7 @@
 |[lightupmirror.small](/lightupmirror.small.png)|-389796733|Light-Up Mirror Small|Items|
 |[lightupmirror.standing](/lightupmirror.standing.png)|1916016738|Light-Up Mirror Standing|Items|
 |[lmg.m249](/lmg.m249.png)|-2069578888|M249|Weapon|
+|[lock.code.a.pilot](/lock.code.a.pilot.png)|1586884551|Flight Control Codelock|Construction|
 |[lock.code](/lock.code.png)|1159991980|Code Lock|Construction|
 |[lock.key](/lock.key.png)|-850982208|Key Lock|Construction|
 |[locker](/locker.png)|-110921842|Locker|Items|
@@ -576,6 +594,7 @@
 |[mace](/mace.png)|-1966748496|Mace|Weapon|
 |[machete](/machete.png)|-1137865085|Machete|Weapon|
 |[mailbox](/mailbox.png)|-586784898|Mail Box|Items|
+|[mannequin](/mannequin.png)|-1035206446|Clothing Mannequin|Items|
 |[map](/map.png)|696029452|Paper Map|Items|
 |[mask.balaclava](/mask.balaclava.png)|-2012470695|Improvised Balaclava|Attire|
 |[mask.bandana](/mask.bandana.png)|-702051347|Bandana Mask|Attire|
@@ -658,6 +677,7 @@
 |[pie.pork](/pie.pork.png)|1467878256|Pork Pie|Food|
 |[pie.pumpkin](/pie.pumpkin.png)|-1488408786|Pumpkin Pie|Food|
 |[pie.survivors](/pie.survivors.png)|-963820355|Survivor's Pie|Food|
+|[pilot.hazmat.box.wooden](/pilot.hazmat.box.wooden.png)|537946062|Black Box|Items|
 |[pinata](/pinata.png)|-1442496789|Pinata|Fun|
 |[pinkidtag](/pinkidtag.png)|180752235|Pink ID Tag|Resources|
 |[pipetool](/pipetool.png)|-144513264|Pipe Tool|Electrical|
@@ -667,6 +687,7 @@
 |[pistol.prototype17](/pistol.prototype17.png)|1914691295|Prototype 17|Weapon|
 |[pistol.python](/pistol.python.png)|1373971859|Python Revolver|Weapon|
 |[pistol.revolver](/pistol.revolver.png)|649912614|Revolver|Weapon|
+|[pistol.semiauto.a.m15](/pistol.semiauto.a.m15.png)|1673224590|M15 Semi-Automatic Pistol|Weapon|
 |[pistol.semiauto](/pistol.semiauto.png)|818877484|Semi-Automatic Pistol|Weapon|
 |[pistol.water](/pistol.water.png)|-1815301988|Water Pistol|Weapon|
 |[piston1](/piston1.png)|1883981798|Low Quality Pistons|Component|
@@ -722,7 +743,7 @@
 |[rifle.sks](/rifle.sks.png)|-348232115|SKS|Weapon|
 |[riflebody](/riflebody.png)|176787552|Rifle Body|Component|
 |[riot.helmet](/riot.helmet.png)|671063303|Riot Helmet|Attire|
-|[roadsign.gloves](/roadsign.gloves.png)|-699558439|Roadsign Gloves|Attire|
+|[roadsign.gloves](/roadsign.gloves.png)|-699558439|Road Sign Gloves|Attire|
 |[roadsign.jacket](/roadsign.jacket.png)|-2002277461|Road Sign Jacket|Attire|
 |[roadsign.kilt](/roadsign.kilt.png)|1850456855|Road Sign Kilt|Attire|
 |[roadsigns](/roadsigns.png)|1199391518|Road Signs|Component|
@@ -878,7 +899,7 @@
 |[speargun.spear](/speargun.spear.png)|-1800345240|Speargun Spear|Ammunition|
 |[spiderweb](/spiderweb.png)|882559853|Spider Webs|Misc|
 |[spikes.floor](/spikes.floor.png)|-92759291|Wooden Floor Spikes|Traps|
-|[spinner.wheel](/spinner.wheel.png)|-1100422738|Spinning wheel|Items|
+|[spinner.wheel](/spinner.wheel.png)|-1100422738|Spinning Wheel|Items|
 |[spoiled.produce](/spoiled.produce.png)|1184215560|Spoiled Produce|Food|
 |[spookyspeaker](/spookyspeaker.png)|1885488976|Spooky Speaker|Misc|
 |[spraycan](/spraycan.png)|-596876839|Spray Can|Tool|
@@ -976,6 +997,7 @@
 |[wall.external.high.frontier](/wall.external.high.frontier.png)|63265850|High External Frontier Wall|Construction|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
+|[wall.external.high.legacy](/wall.external.high.legacy.png)|-1993883724|High External Legacy Wall|Construction|
 |[wall.external.high.stone](/wall.external.high.stone.png)|-967648160|High External Stone Wall|Construction|
 |[wall.frame.cell.gate](/wall.frame.cell.gate.png)|-956706906|Prison Cell Gate|Construction|
 |[wall.frame.cell](/wall.frame.cell.png)|-1429456799|Prison Cell Wall|Construction|
@@ -983,8 +1005,8 @@
 |[wall.frame.fence](/wall.frame.fence.png)|-1117626326|Chainlink Fence|Construction|
 |[wall.frame.garagedoor](/wall.frame.garagedoor.png)|-148794216|Garage Door|Construction|
 |[wall.frame.lunar2025_a](/wall.frame.lunar2025_a.png)|1115193056|Lunar Wall Frame Inlay|Construction|
-|[wall.frame.lunar2025_b](/wall.frame.lunar2025_b.png)|-450890885|Lunar Wall Frame Swirling|Construction|
-|[wall.frame.lunar2025_c](/wall.frame.lunar2025_c.png)|-2016974826|Lunar Wall Frame Floral|Construction|
+|[wall.frame.lunar2025_b](/wall.frame.lunar2025_b.png)|-450890885|Lunar Wall Frame Inlay|Construction|
+|[wall.frame.lunar2025_c](/wall.frame.lunar2025_c.png)|-2016974826|Lunar Wall Frame Inlay|Construction|
 |[wall.frame.netting](/wall.frame.netting.png)|1516985844|Netting|Construction|
 |[wall.frame.shopfront](/wall.frame.shopfront.png)|-796583652|Shop Front|Construction|
 |[wall.frame.shopfront.metal](/wall.frame.shopfront.metal.png)|-148229307|Metal Shop Front|Construction|
@@ -996,6 +1018,7 @@
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
 |[wallpaper.ceiling](/wallpaper.ceiling.png)|1730664641|Wallpaper Ceiling|Items|
 |[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Wallpaper Flooring|Items|
+|[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
 |[wallpaper.tool](/wallpaper.tool.png)|1629564540|Wallpaper Tool|Tool|
 |[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper Wall|Tool|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
