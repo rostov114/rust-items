@@ -154,6 +154,7 @@
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|
+|![](/chair.ejector.seat.128.webp)|chair.ejector.seat|-463012608|Salvaged Ejector Seat|
 |![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|
 |![](/chair.128.webp)|chair|1534542921|Chair|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|
@@ -195,6 +196,7 @@
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|
+|![](/compass.128.webp)|compass|594041190|Compass|
 |![](/composter.128.webp)|composter|-1488398114|Composter|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|
@@ -464,6 +466,7 @@
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|
+|![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|
@@ -565,6 +568,7 @@
 |![](/lightupmirror.small.128.webp)|lightupmirror.small|-389796733|Light-Up Mirror Small|
 |![](/lightupmirror.standing.128.webp)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|
 |![](/lmg.m249.128.webp)|lmg.m249|-2069578888|M249|
+|![](/lock.code.a.pilot.128.webp)|lock.code.a.pilot|1586884551|Flight Control Codelock|
 |![](/lock.code.128.webp)|lock.code|1159991980|Code Lock|
 |![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|
 |![](/locker.128.webp)|locker|-110921842|Locker|
@@ -661,6 +665,7 @@
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|
+|![](/pilot.hazmat.box.wooden.128.webp)|pilot.hazmat.box.wooden|537946062|Black Box|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|
@@ -670,6 +675,7 @@
 |![](/pistol.prototype17.128.webp)|pistol.prototype17|1914691295|Prototype 17|
 |![](/pistol.python.128.webp)|pistol.python|1373971859|Python Revolver|
 |![](/pistol.revolver.128.webp)|pistol.revolver|649912614|Revolver|
+|![](/pistol.semiauto.a.m15.128.webp)|pistol.semiauto.a.m15|1673224590|M15 Semi-Automatic Pistol|
 |![](/pistol.semiauto.128.webp)|pistol.semiauto|818877484|Semi-Automatic Pistol|
 |![](/pistol.water.128.webp)|pistol.water|-1815301988|Water Pistol|
 |![](/piston1.128.webp)|piston1|1883981798|Low Quality Pistons|
@@ -725,7 +731,7 @@
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|
 |![](/riflebody.128.webp)|riflebody|176787552|Rifle Body|
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|
-|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|
+|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Road Sign Gloves|
 |![](/roadsign.jacket.128.webp)|roadsign.jacket|-2002277461|Road Sign Jacket|
 |![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|
@@ -881,7 +887,7 @@
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|
-|![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning wheel|
+|![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning Wheel|
 |![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|

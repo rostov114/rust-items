@@ -154,6 +154,7 @@
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
+|![](/chair.ejector.seat.128.webp)|chair.ejector.seat|-463012608|Salvaged Ejector Seat|Items|A chair made from an ejector seat. A decorative item which provides comfort while seated. Stays put.|
 |![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/chair.128.webp)|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
@@ -186,7 +187,7 @@
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|Items|Asbestos insert providing extra protection from heat for crafted clothes and armor.|
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor.|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from projectiles.|
-|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee. |
+|![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee.|
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
 |![](/cocoknight.armor.gloves.128.webp)|cocoknight.armor.gloves|1873004466|Coconut Armor Gloves|Attire|Hand protection made of bark and plants, offers some protection to the upper body.|
 |![](/cocoknight.armor.helmet.128.webp)|cocoknight.armor.helmet|-582467439|Coconut Armor Helmet|Attire|A shoddy helmet made from coconut, provides some basic protection from melee and ranged attacks.|
@@ -195,6 +196,7 @@
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|Electrical|A block that runs commands|
+|![](/compass.128.webp)|compass|594041190|Compass|Tool|A handy tool which indicates which direction you're facing. Will reveal your location on the map in Hardcore mode if equipped on your belt.|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
@@ -255,7 +257,7 @@
 |![](/draculacape.128.webp)|draculacape|-258574361|Dracula Cape|Attire|A robustly thick outer garment providing ample protection to the wearer.|
 |![](/draculamask.128.webp)|draculamask|1865253052|Dracula Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/dragondoorknocker.128.webp)|dragondoorknocker|-854270928|Dragon Door Knocker|Items|A heavy brass door knocker|
-|![](/drone.128.webp)|drone|1588492232|Drone|Items|A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts. |
+|![](/drone.128.webp)|drone|1588492232|Drone|Items|A remote controlled drone operated from the Computer station with a limited range. Easily damaged from impacts.|
 |![](/dropbox.128.webp)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
 |![](/drumkit.128.webp)|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
 |![](/ducttape.128.webp)|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
@@ -464,6 +466,7 @@
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
+|![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|Attire|A hazmat suit made from a fighter pilot's flight suit.|
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
@@ -510,7 +513,7 @@
 |![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|Items|A large trophy stand to mount the head of killed animals or enemies.|
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
-|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area. Usable with single handed weapons and tools. |
+|![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area. Usable with single handed weapons and tools.|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
@@ -565,8 +568,9 @@
 |![](/lightupmirror.small.128.webp)|lightupmirror.small|-389796733|Light-Up Mirror Small|Items|A small light-up mirror|
 |![](/lightupmirror.standing.128.webp)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|Items|A standing light-up mirror|
 |![](/lmg.m249.128.webp)|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
+|![](/lock.code.a.pilot.128.webp)|lock.code.a.pilot|1586884551|Flight Control Codelock|Construction|An electronic lock made of airplane parts. Locked and unlocked with four-digit code.|
 |![](/lock.code.128.webp)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
-|![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|Construction|Place on a door to avoid any unwelcome guests. To craft your key first place the lock on a door and hold E while looking at the Key lock and select 'Create Key', a key will now be added to your crafting queue.If the key is lost, you cannot make another, so don't forget to make extras and put them in a safe place!|
+|![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|Construction|Place on a door to prevent unwelcome guests. You can create a key to share with your friends, don't let it fall in the wrong hands!|
 |![](/locker.128.webp)|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
 |![](/locomotive.128.webp)|locomotive|-2027988285|Locomotive|Misc|A powerful locomotive.|
 |![](/longsword.128.webp)|longsword|-1469578201|Longsword|Weapon|A powerful 2-handed melee weapon with good range and high damage.|
@@ -649,7 +653,7 @@
 |![](/photoframe.landscape.128.webp)|photoframe.landscape|1697996440|Landscape Photo Frame|Items|A landscape oriented canvas for artists paintings.|
 |![](/photoframe.large.128.webp)|photoframe.large|1205084994|Large Photo Frame|Items|A large frame for your photos.|
 |![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
-|![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes. |
+|![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
 |![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration. Increases effect of harvesting teas but reduces their duration.|
@@ -661,15 +665,17 @@
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration. Increases maximum health for a short time.|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration. Increases yield when harvesting corpses for a short time.|
+|![](/pilot.hazmat.box.wooden.128.webp)|pilot.hazmat.box.wooden|537946062|Black Box|Items|Keep your things in this Black Box. Stores up to 18 items.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
 |![](/pistol.eoka.128.webp)|pistol.eoka|-75944661|Eoka Pistol|Weapon|A very cheap, very ineffective, and very unreliable pistol that fires shells.|
 |![](/pistol.m92.128.webp)|pistol.m92|-852563019|M92 Pistol|Weapon|A semi-automatic Pistol. Fires rapidly and with good accuracy. Military Grade|
-|![](/pistol.nailgun.128.webp)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly|
+|![](/pistol.nailgun.128.webp)|pistol.nailgun|1953903201|Nailgun|Weapon|A construction tool turned deadly.|
 |![](/pistol.prototype17.128.webp)|pistol.prototype17|1914691295|Prototype 17|Weapon|A protype pistol with a built-in 3 round burst fire mode. Strong in close quarters. Swap between single shot and burst with [+firemode]|
 |![](/pistol.python.128.webp)|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
 |![](/pistol.revolver.128.webp)|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
+|![](/pistol.semiauto.a.m15.128.webp)|pistol.semiauto.a.m15|1673224590|M15 Semi-Automatic Pistol|Weapon|A special issue Air Force semi-automatic pistol, fires rapidly and with good accuracy.|
 |![](/pistol.semiauto.128.webp)|pistol.semiauto|818877484|Semi-Automatic Pistol|Weapon|A semi-automatic pistol, fires rapidly and with good accuracy.|
 |![](/pistol.water.128.webp)|pistol.water|-1815301988|Water Pistol|Weapon|A small water gun that doesn't require pumping, but has a lower range and output.|
 |![](/piston1.128.webp)|piston1|1883981798|Low Quality Pistons|Component|Low quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
@@ -725,7 +731,7 @@
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Military-Grade Semi Automatic Rifle.|
 |![](/riflebody.128.webp)|riflebody|176787552|Rifle Body|Component|The firing mechanism of a rifle. Used in construction of a weapon that can fire 5.56 ammo fully automatic.|
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|Attire|A makeshift riot Helmet. Great at deflecting melee attacks.|
-|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal, offer a good amount of protection to the upper body.|
+|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Road Sign Gloves|Attire|Gloves made out of metal, offer a good amount of protection to the upper body.|
 |![](/roadsign.jacket.128.webp)|roadsign.jacket|-2002277461|Road Sign Jacket|Attire|A shoddy piece of body armor made from roadsigns.|
 |![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns. Moderate protection from melee and projectiles.|
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
@@ -881,7 +887,7 @@
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|Ammunition|Ammunition for a speargun.|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
-|![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
+|![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning Wheel|Items|An interactive spinning wheel.|
 |![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|Food|A spoiled fruit or vegetable. It's so far gone it's hard to tell what it originally was.|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
