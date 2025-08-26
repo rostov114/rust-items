@@ -154,6 +154,7 @@
 |[cctv.camera](/cctv.camera.png)|634478325|CCTV Camera|Resources|
 |[ceilinglight](/ceilinglight.png)|1142993169|Ceiling Light|Electrical|
 |[chainsaw](/chainsaw.png)|1104520648|Chainsaw|Tool|
+|[chair.ejector.seat](/chair.ejector.seat.png)|-463012608|Salvaged Ejector Seat|Items|
 |[chair.icethrone](/chair.icethrone.png)|-1944704288|Ice Throne|Items|
 |[chair](/chair.png)|1534542921|Chair|Items|
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
@@ -464,6 +465,7 @@
 |[hazmatsuit](/hazmatsuit.png)|1266491000|Hazmat Suit|Attire|
 |[hazmatsuit.lumberjack](/hazmatsuit.lumberjack.png)|861513346|Lumberjack Suit|Attire|
 |[hazmatsuit.nomadsuit](/hazmatsuit.nomadsuit.png)|491263800|Nomad Suit|Attire|
+|[hazmatsuit.pilot](/hazmatsuit.pilot.png)|1065594600|Pilot Hazmat Suit|Attire|
 |[hazmatsuit.spacesuit](/hazmatsuit.spacesuit.png)|-560304835|Space Suit|Attire|
 |[hazmatsuit_scientist](/hazmatsuit_scientist.png)|-253079493|Scientist Suit|Attire|
 |[hazmatsuit_scientist_arctic](/hazmatsuit_scientist_arctic.png)|1107575710|Arctic Scientist Suit|Attire|
@@ -565,6 +567,7 @@
 |[lightupmirror.small](/lightupmirror.small.png)|-389796733|Light-Up Mirror Small|Items|
 |[lightupmirror.standing](/lightupmirror.standing.png)|1916016738|Light-Up Mirror Standing|Items|
 |[lmg.m249](/lmg.m249.png)|-2069578888|M249|Weapon|
+|[lock.code.a.pilot](/lock.code.a.pilot.png)|1586884551|Flight Control Codelock|Construction|
 |[lock.code](/lock.code.png)|1159991980|Code Lock|Construction|
 |[lock.key](/lock.key.png)|-850982208|Key Lock|Construction|
 |[locker](/locker.png)|-110921842|Locker|Items|
@@ -661,6 +664,7 @@
 |[pie.pork](/pie.pork.png)|1467878256|Pork Pie|Food|
 |[pie.pumpkin](/pie.pumpkin.png)|-1488408786|Pumpkin Pie|Food|
 |[pie.survivors](/pie.survivors.png)|-963820355|Survivor's Pie|Food|
+|[pilot.hazmat.box.wooden](/pilot.hazmat.box.wooden.png)|537946062|Black Box|Items|
 |[pinata](/pinata.png)|-1442496789|Pinata|Fun|
 |[pinkidtag](/pinkidtag.png)|180752235|Pink ID Tag|Resources|
 |[pipetool](/pipetool.png)|-144513264|Pipe Tool|Electrical|
@@ -670,6 +674,7 @@
 |[pistol.prototype17](/pistol.prototype17.png)|1914691295|Prototype 17|Weapon|
 |[pistol.python](/pistol.python.png)|1373971859|Python Revolver|Weapon|
 |[pistol.revolver](/pistol.revolver.png)|649912614|Revolver|Weapon|
+|[pistol.semiauto.a.m15](/pistol.semiauto.a.m15.png)|1673224590|M15 Semi-Automatic Pistol|Weapon|
 |[pistol.semiauto](/pistol.semiauto.png)|818877484|Semi-Automatic Pistol|Weapon|
 |[pistol.water](/pistol.water.png)|-1815301988|Water Pistol|Weapon|
 |[piston1](/piston1.png)|1883981798|Low Quality Pistons|Component|
@@ -725,7 +730,7 @@
 |[rifle.sks](/rifle.sks.png)|-348232115|SKS|Weapon|
 |[riflebody](/riflebody.png)|176787552|Rifle Body|Component|
 |[riot.helmet](/riot.helmet.png)|671063303|Riot Helmet|Attire|
-|[roadsign.gloves](/roadsign.gloves.png)|-699558439|Roadsign Gloves|Attire|
+|[roadsign.gloves](/roadsign.gloves.png)|-699558439|Road Sign Gloves|Attire|
 |[roadsign.jacket](/roadsign.jacket.png)|-2002277461|Road Sign Jacket|Attire|
 |[roadsign.kilt](/roadsign.kilt.png)|1850456855|Road Sign Kilt|Attire|
 |[roadsigns](/roadsigns.png)|1199391518|Road Signs|Component|
@@ -881,7 +886,7 @@
 |[speargun.spear](/speargun.spear.png)|-1800345240|Speargun Spear|Ammunition|
 |[spiderweb](/spiderweb.png)|882559853|Spider Webs|Misc|
 |[spikes.floor](/spikes.floor.png)|-92759291|Wooden Floor Spikes|Traps|
-|[spinner.wheel](/spinner.wheel.png)|-1100422738|Spinning wheel|Items|
+|[spinner.wheel](/spinner.wheel.png)|-1100422738|Spinning Wheel|Items|
 |[spoiled.produce](/spoiled.produce.png)|1184215560|Spoiled Produce|Food|
 |[spookyspeaker](/spookyspeaker.png)|1885488976|Spooky Speaker|Misc|
 |[spraycan](/spraycan.png)|-596876839|Spray Can|Tool|

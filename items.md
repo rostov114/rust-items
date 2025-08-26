@@ -154,6 +154,7 @@
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|Resources|A CCTV Camera system can be used for realtime surveillance and security around your base when powered and paired with the Computer Station.|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
+|![](/chair.ejector.seat.128.webp)|chair.ejector.seat|-463012608|Salvaged Ejector Seat|Items|A chair made from an ejector seat. A decorative item which provides comfort while seated. Stays put.|
 |![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/chair.128.webp)|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
@@ -464,6 +465,7 @@
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
+|![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat Suit|Attire|A hazmat suit made from a fighter pilot flight suit.|
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
@@ -565,6 +567,7 @@
 |![](/lightupmirror.small.128.webp)|lightupmirror.small|-389796733|Light-Up Mirror Small|Items|A small light-up mirror|
 |![](/lightupmirror.standing.128.webp)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|Items|A standing light-up mirror|
 |![](/lmg.m249.128.webp)|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
+|![](/lock.code.a.pilot.128.webp)|lock.code.a.pilot|1586884551|Flight Control Codelock|Construction|An electronic lock made of airplane parts. Locked and unlocked with four-digit code.|
 |![](/lock.code.128.webp)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
 |![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|Construction|Place on a door to prevent unwelcome guests. You can create a key to share with your friends, don't let it fall in the wrong hands!|
 |![](/locker.128.webp)|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
@@ -661,6 +664,7 @@
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration. Increases maximum health for a short time.|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration. Increases yield when harvesting corpses for a short time.|
+|![](/pilot.hazmat.box.wooden.128.webp)|pilot.hazmat.box.wooden|537946062|Black Box|Items|Keep your things in this Black Box. Stores up to 18 items.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|Resources|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|Electrical|A tool used to make connections between industrial objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
@@ -670,6 +674,7 @@
 |![](/pistol.prototype17.128.webp)|pistol.prototype17|1914691295|Prototype 17|Weapon|A protype pistol with a built-in 3 round burst fire mode. Strong in close quarters. Swap between single shot and burst with [+firemode]|
 |![](/pistol.python.128.webp)|pistol.python|1373971859|Python Revolver|Weapon|A High Powered six-shooter.|
 |![](/pistol.revolver.128.webp)|pistol.revolver|649912614|Revolver|Weapon|A standard eight shot revolver.|
+|![](/pistol.semiauto.a.m15.128.webp)|pistol.semiauto.a.m15|1673224590|M15 Semi-Automatic Pistol|Weapon|A special issue Air Force semi-automatic pistol, fires rapidly and with good accuracy.|
 |![](/pistol.semiauto.128.webp)|pistol.semiauto|818877484|Semi-Automatic Pistol|Weapon|A semi-automatic pistol, fires rapidly and with good accuracy.|
 |![](/pistol.water.128.webp)|pistol.water|-1815301988|Water Pistol|Weapon|A small water gun that doesn't require pumping, but has a lower range and output.|
 |![](/piston1.128.webp)|piston1|1883981798|Low Quality Pistons|Component|Low quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
@@ -725,7 +730,7 @@
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Military-Grade Semi Automatic Rifle.|
 |![](/riflebody.128.webp)|riflebody|176787552|Rifle Body|Component|The firing mechanism of a rifle. Used in construction of a weapon that can fire 5.56 ammo fully automatic.|
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|Attire|A makeshift riot Helmet. Great at deflecting melee attacks.|
-|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|Attire|Gloves made out of metal, offer a good amount of protection to the upper body.|
+|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Road Sign Gloves|Attire|Gloves made out of metal, offer a good amount of protection to the upper body.|
 |![](/roadsign.jacket.128.webp)|roadsign.jacket|-2002277461|Road Sign Jacket|Attire|A shoddy piece of body armor made from roadsigns.|
 |![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|Attire|A shoddy piece of leg armor made from roadsigns. Moderate protection from melee and projectiles.|
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
@@ -881,7 +886,7 @@
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|Ammunition|Ammunition for a speargun.|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
-|![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning wheel|Items|An interactive spinning wheel.|
+|![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning Wheel|Items|An interactive spinning wheel.|
 |![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|Food|A spoiled fruit or vegetable. It's so far gone it's hard to tell what it originally was.|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
