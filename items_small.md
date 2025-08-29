@@ -31,7 +31,7 @@
 |![](/ammo.shotgun.fire.128.webp)|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|
 |![](/ammo.shotgun.128.webp)|ammo.shotgun|-1685290200|12 Gauge Buckshot|
 |![](/ammo.shotgun.slug.128.webp)|ammo.shotgun.slug|-727717969|12 Gauge Slug|
-|![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330||
+|![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|null|
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|
 |![](/apple.128.webp)|apple|1548091822|Apple|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|
@@ -83,6 +83,8 @@
 |![](/beachparasol.128.webp)|beachparasol|-1621539785|Beach Parasol|
 |![](/beachtable.128.webp)|beachtable|657352755|Beach Table|
 |![](/beachtowel.128.webp)|beachtowel|-8312704|Beach Towel|
+|![](/beanbagseatfabric.128.webp)|beanbagseatfabric|-576866254|Fabric Beanbag Seat|
+|![](/beanbagseatleather.128.webp)|beanbagseatleather|-1220928936|Leather Beanbag Seat|
 |![](/bearmeat.burned.128.webp)|bearmeat.burned|-989755543|Burnt Bear Meat|
 |![](/bearmeat.cooked.128.webp)|bearmeat.cooked|1873897110|Cooked Bear Meat|
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|
@@ -154,6 +156,7 @@
 |![](/cctv.camera.128.webp)|cctv.camera|634478325|CCTV Camera|
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|
+|![](/chair.ejector.seat.128.webp)|chair.ejector.seat|-463012608|Salvaged Ejector Seat|
 |![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|
 |![](/chair.128.webp)|chair|1534542921|Chair|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|
@@ -183,6 +186,7 @@
 |![](/clone.white.berry.128.webp)|clone.white.berry|1533551194|White Berry Clone|
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|
+|![](/clothing.mannequin.128.webp)|clothing.mannequin|-606898372|#clothingmannequin|
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|
@@ -272,12 +276,17 @@
 |![](/electric.battery.rechargable.medium.128.webp)|electric.battery.rechargable.medium|2023888403|Medium Rechargeable Battery|
 |![](/electric.battery.rechargable.small.128.webp)|electric.battery.rechargable.small|-692338819|Small Rechargeable Battery|
 |![](/electric.blocker.128.webp)|electric.blocker|-690968985|Blocker|
+|![](/electric.bulbstringlights.128.webp)|electric.bulbstringlights|104856514|Bulb String Lights|
 |![](/electric.button.128.webp)|electric.button|-1778897469|Button|
 |![](/electric.cabletunnel.128.webp)|electric.cabletunnel|1835946060|Cable Tunnel|
+|![](/electric.chandelier.128.webp)|electric.chandelier|-1510616686|Chandelier|
 |![](/electric.counter.128.webp)|electric.counter|-216999575|Counter|
 |![](/electric.digitalclock.128.webp)|electric.digitalclock|1619039771|Digital Clock|
 |![](/electric.doorcontroller.128.webp)|electric.doorcontroller|-502177121|Door Controller|
+|![](/electric.fairylights.128.webp)|electric.fairylights|54436981|Fairy Lights|
 |![](/electric.flasherlight.128.webp)|electric.flasherlight|-939424778|Flasher Light|
+|![](/electric.fluorescentlight.ceiling.128.webp)|electric.fluorescentlight.ceiling|640470230|Ceiling Fluorescent Light|
+|![](/electric.fluorescentlight.128.webp)|electric.fluorescentlight|1892536031|Fluorescent Light|
 |![](/electric.fuelgenerator.small.128.webp)|electric.fuelgenerator.small|1849887541|Small Generator|
 |![](/electric.furnace.128.webp)|electric.furnace|-1196547867|Electric Furnace|
 |![](/electric.generator.small.128.webp)|electric.generator.small|-295829489|Test Generator|
@@ -295,10 +304,14 @@
 |![](/electric.sirenlight.128.webp)|electric.sirenlight|762289806|Siren Light|
 |![](/electric.solarpanel.large.128.webp)|electric.solarpanel.large|2090395347|Large Solar Panel|
 |![](/electric.splitter.128.webp)|electric.splitter|-563624462|Splitter|
+|![](/electric.spotlight.128.webp)|electric.spotlight|-1258821205|Spot Light|
+|![](/electric.spotlight.tripod.128.webp)|electric.spotlight.tripod|-2134097299|Tripod Spot Light|
 |![](/electric.sprinkler.128.webp)|electric.sprinkler|-781014061|Sprinkler|
 |![](/electric.switch.128.webp)|electric.switch|1951603367|Switch|
+|![](/electric.tablelight.128.webp)|electric.tablelight|1717250161|Electric Table Lamp|
 |![](/electric.teslacoil.128.webp)|electric.teslacoil|1371909803|Tesla Coil|
 |![](/electric.timer.128.webp)|electric.timer|665332906|Timer|
+|![](/electric.wallcabinet.128.webp)|electric.wallcabinet|656829501|Wall Cabinet|
 |![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|
 |![](/electrical.branch.128.webp)|electrical.branch|-1448252298|Electrical Branch|
 |![](/electrical.combiner.128.webp)|electrical.combiner|-458565393|Root Combiner|
@@ -464,6 +477,7 @@
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|
+|![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|
@@ -565,6 +579,7 @@
 |![](/lightupmirror.small.128.webp)|lightupmirror.small|-389796733|Light-Up Mirror Small|
 |![](/lightupmirror.standing.128.webp)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|
 |![](/lmg.m249.128.webp)|lmg.m249|-2069578888|M249|
+|![](/lock.code.a.pilot.128.webp)|lock.code.a.pilot|1586884551|Flight Control Codelock|
 |![](/lock.code.128.webp)|lock.code|1159991980|Code Lock|
 |![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|
 |![](/locker.128.webp)|locker|-110921842|Locker|
@@ -579,6 +594,7 @@
 |![](/mace.128.webp)|mace|-1966748496|Mace|
 |![](/machete.128.webp)|machete|-1137865085|Machete|
 |![](/mailbox.128.webp)|mailbox|-586784898|Mail Box|
+|![](/mannequin.128.webp)|mannequin|-1035206446|Clothing Mannequin|
 |![](/map.128.webp)|map|696029452|Paper Map|
 |![](/mask.balaclava.128.webp)|mask.balaclava|-2012470695|Improvised Balaclava|
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|
@@ -661,6 +677,7 @@
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|
+|![](/pilot.hazmat.box.wooden.128.webp)|pilot.hazmat.box.wooden|537946062|Black Box|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|
@@ -670,6 +687,7 @@
 |![](/pistol.prototype17.128.webp)|pistol.prototype17|1914691295|Prototype 17|
 |![](/pistol.python.128.webp)|pistol.python|1373971859|Python Revolver|
 |![](/pistol.revolver.128.webp)|pistol.revolver|649912614|Revolver|
+|![](/pistol.semiauto.a.m15.128.webp)|pistol.semiauto.a.m15|1673224590|M15 Semi-Automatic Pistol|
 |![](/pistol.semiauto.128.webp)|pistol.semiauto|818877484|Semi-Automatic Pistol|
 |![](/pistol.water.128.webp)|pistol.water|-1815301988|Water Pistol|
 |![](/piston1.128.webp)|piston1|1883981798|Low Quality Pistons|
@@ -725,7 +743,7 @@
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|
 |![](/riflebody.128.webp)|riflebody|176787552|Rifle Body|
 |![](/riot.helmet.128.webp)|riot.helmet|671063303|Riot Helmet|
-|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Roadsign Gloves|
+|![](/roadsign.gloves.128.webp)|roadsign.gloves|-699558439|Road Sign Gloves|
 |![](/roadsign.jacket.128.webp)|roadsign.jacket|-2002277461|Road Sign Jacket|
 |![](/roadsign.kilt.128.webp)|roadsign.kilt|1850456855|Road Sign Kilt|
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|
@@ -881,7 +899,7 @@
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|
-|![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning wheel|
+|![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning Wheel|
 |![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|
@@ -987,8 +1005,8 @@
 |![](/wall.frame.fence.128.webp)|wall.frame.fence|-1117626326|Chainlink Fence|
 |![](/wall.frame.garagedoor.128.webp)|wall.frame.garagedoor|-148794216|Garage Door|
 |![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Lunar Wall Frame Inlay|
-|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Swirling|
-|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Floral|
+|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Inlay|
+|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Inlay|
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|
