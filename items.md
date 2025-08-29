@@ -594,7 +594,7 @@
 |![](/mace.128.webp)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](/machete.128.webp)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
 |![](/mailbox.128.webp)|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
-|![](/mannequin.128.webp)|mannequin|-1035206446|Clothing Mannequin|Items|Displays a set of clothing, goes by Manny.|
+|![](/mannequin.128.webp)|mannequin|-1035206446|Clothing Mannequin|Items|Displays a set of clothing, quickly remove items off your player onto the Mannequin. Goes by Manny.|
 |![](/map.128.webp)|map|696029452|Paper Map|Items|Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.Drag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default).|
 |![](/mask.balaclava.128.webp)|mask.balaclava|-2012470695|Improvised Balaclava|Attire|A makeshift balaclava. Cost effective protection from the cold, but unremarkable at preventing melee and projectile damage.|
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
