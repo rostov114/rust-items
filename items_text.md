@@ -31,7 +31,7 @@
 |[ammo.shotgun.fire](/ammo.shotgun.fire.png)|-1036635990|12 Gauge Incendiary Shell|Ammunition|
 |[ammo.shotgun](/ammo.shotgun.png)|-1685290200|12 Gauge Buckshot|Ammunition|
 |[ammo.shotgun.slug](/ammo.shotgun.slug.png)|-727717969|12 Gauge Slug|Ammunition|
-|[ammo.snowballgun](/ammo.snowballgun.png)|550753330|null|Ammunition|
+|[ammo.snowballgun](/ammo.snowballgun.png)|550753330|Snowball Gun Ammo|Ammunition|
 |[antiradpills](/antiradpills.png)|-1432674913|Anti-Radiation Pills|Medical|
 |[apple](/apple.png)|1548091822|Apple|Food|
 |[apple.spoiled](/apple.spoiled.png)|352130972|Rotten Apple|Food|
