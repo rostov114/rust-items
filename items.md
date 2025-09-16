@@ -31,7 +31,7 @@
 |![](/ammo.shotgun.fire.128.webp)|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|Ammunition|Incendiary Shotgun Ammunition|
 |![](/ammo.shotgun.128.webp)|ammo.shotgun|-1685290200|12 Gauge Buckshot|Ammunition|Ammunition for a Shotgun.|
 |![](/ammo.shotgun.slug.128.webp)|ammo.shotgun.slug|-727717969|12 Gauge Slug|Ammunition|Single large projectile for a Shotgun.|
-|![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330||Ammunition||
+|![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|Snowball Gun Ammo|Ammunition||
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|Medical|Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration.|
 |![](/apple.128.webp)|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
@@ -83,6 +83,8 @@
 |![](/beachparasol.128.webp)|beachparasol|-1621539785|Beach Parasol|Fun|A large umbrella that will shield you from the sun.|
 |![](/beachtable.128.webp)|beachtable|657352755|Beach Table|Fun|A small table to hold your drinks while relaxing.|
 |![](/beachtowel.128.webp)|beachtowel|-8312704|Beach Towel|Fun|A colourful beach towel. Placing this will give you a location to respawn.|
+|![](/beanbagseatfabric.128.webp)|beanbagseatfabric|-576866254|Fabric Beanbag Seat|Items|A cozy fabric beanbag seat to sink in to.|
+|![](/beanbagseatleather.128.webp)|beanbagseatleather|-1220928936|Leather Beanbag Seat|Items|A cozy leather beanbag seat to sink in to.|
 |![](/bearmeat.burned.128.webp)|bearmeat.burned|-989755543|Burnt Bear Meat|Food|Bear Meat that has been overcooked.|
 |![](/bearmeat.cooked.128.webp)|bearmeat.cooked|1873897110|Cooked Bear Meat|Food|Delicious Bear Meat, Eating it will restore some health, hunger, and thirst.|
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
@@ -184,6 +186,7 @@
 |![](/clone.white.berry.128.webp)|clone.white.berry|1533551194|White Berry Clone|Food|A clipping of a White Berry Plant.|
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|Food|A clipping of a Yellow Berry Plant.|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|Resources|Cloth from an animal or a Hemp Bush. Used in many clothing items, weapons, and more.|
+|![](/clothing.mannequin.128.webp)|clothing.mannequin|-606898372|#clothingmannequin|Attire|#clothing.mannequin.desc|
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|Items|Asbestos insert providing extra protection from heat for crafted clothes and armor.|
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor.|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from projectiles.|
@@ -196,7 +199,7 @@
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|Electrical|A block that runs commands|
-|![](/compass.128.webp)|compass|594041190|Compass|Tool|A handy tool which indicates which direction you're facing.|
+|![](/compass.128.webp)|compass|594041190|Compass|Tool|A handy tool which indicates which direction you're facing. Will reveal your location on the map in Hardcore mode if equipped on your belt.|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
@@ -244,7 +247,7 @@
 |![](/documents.128.webp)|documents|-451310088|Documents|Tool|A stack of technical looking documents.|
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
 |![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|Construction|Automatically closes your doors when left open.|
-|![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|Construction|Hand-carved, rugged bar doors embody the spirit of the frontier. A must-have for any survivor.|
+|![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](/door.double.hinged.metal.128.webp)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.double.hinged.toptier.128.webp)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.double.hinged.wood.128.webp)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
@@ -273,12 +276,17 @@
 |![](/electric.battery.rechargable.medium.128.webp)|electric.battery.rechargable.medium|2023888403|Medium Rechargeable Battery|Electrical|A Medium Rechargable Battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
 |![](/electric.battery.rechargable.small.128.webp)|electric.battery.rechargable.small|-692338819|Small Rechargeable Battery|Electrical|A small rechargable battery. Must have a minimum charge of 5 seconds to discharge. Can be wired in series. Charging rate is dependant on power in, with a maximum of 80% efficiency.|
 |![](/electric.blocker.128.webp)|electric.blocker|-690968985|Blocker|Electrical|This object prevents passthrough while power is received through its second input.|
+|![](/electric.bulbstringlights.128.webp)|electric.bulbstringlights|104856514|Bulb String Lights|Electrical|A string of glowing bulbs, can be deployed point by point to light up your base.|
 |![](/electric.button.128.webp)|electric.button|-1778897469|Button|Electrical|A simple electric button.|
 |![](/electric.cabletunnel.128.webp)|electric.cabletunnel|1835946060|Cable Tunnel|Electrical|Allows you to pass a cable through a wall. Each input will forward the amount it receives to the corresponding output on the other side.|
+|![](/electric.chandelier.128.webp)|electric.chandelier|-1510616686|Chandelier|Electrical|A large adjustable electric chandelier. Very fancy.|
 |![](/electric.counter.128.webp)|electric.counter|-216999575|Counter|Electrical|A basic cathode ray tube screen combined with an incremental counter. Can display power received, or can count upwards and allow passthrough when a target is reached.|
 |![](/electric.digitalclock.128.webp)|electric.digitalclock|1619039771|Digital Clock|Electrical|A digital clock that displays the server time and lets you set alarms to pass power through when ringing. Ideal for synchronizing traps or timed events.|
 |![](/electric.doorcontroller.128.webp)|electric.doorcontroller|-502177121|Door Controller|Electrical|A Door Controller. Will manipulate the state of the closest door when it receives power|
+|![](/electric.fairylights.128.webp)|electric.fairylights|54436981|Fairy Lights|Electrical|A wire of small fairy bulbs, can be deployed point by point to light up your base.|
 |![](/electric.flasherlight.128.webp)|electric.flasherlight|-939424778|Flasher Light|Electrical|A flashing blue light|
+|![](/electric.fluorescentlight.ceiling.128.webp)|electric.fluorescentlight.ceiling|640470230|Ceiling Fluorescent Light|Electrical|A flicker-free fluorescent light.|
+|![](/electric.fluorescentlight.128.webp)|electric.fluorescentlight|1892536031|Fluorescent Light|Electrical|Bright enough to see what you’re doing.|
 |![](/electric.fuelgenerator.small.128.webp)|electric.fuelgenerator.small|1849887541|Small Generator|Electrical|A small electric generator powered by Low Grade Fuel that outputs 40 power.|
 |![](/electric.furnace.128.webp)|electric.furnace|-1196547867|Electric Furnace|Electrical|An electrical version of a furnace that uses electricity instead of a fuel source.|
 |![](/electric.generator.small.128.webp)|electric.generator.small|-295829489|Test Generator|Electrical|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
@@ -296,10 +304,14 @@
 |![](/electric.sirenlight.128.webp)|electric.sirenlight|762289806|Siren Light|Electrical|A spinning siren light|
 |![](/electric.solarpanel.large.128.webp)|electric.solarpanel.large|2090395347|Large Solar Panel|Electrical|A solar panel which converts sunlight into energy. The amount of energy generated is dependent on the sun's intensity and angle to the panel.|
 |![](/electric.splitter.128.webp)|electric.splitter|-563624462|Splitter|Electrical|Splits an electrical signal into 3 multiple signals. the amount passed through is equal to the input amount divided by the number of used output slots.|
+|![](/electric.spotlight.128.webp)|electric.spotlight|-1258821205|Spot Light|Electrical|A spotlight you can orient with a hammer.|
+|![](/electric.spotlight.tripod.128.webp)|electric.spotlight.tripod|-2134097299|Tripod Spot Light|Electrical|A spotlight you can orient with a hammer.|
 |![](/electric.sprinkler.128.webp)|electric.sprinkler|-781014061|Sprinkler|Electrical|A small sprinkler that sprays water around it. Requires a hose connection to supply it with water.|
 |![](/electric.switch.128.webp)|electric.switch|1951603367|Switch|Electrical|A simple electric switch.|
+|![](/electric.tablelight.128.webp)|electric.tablelight|1717250161|Electric Table Lamp|Electrical|A small light source made out of an old oil can.|
 |![](/electric.teslacoil.128.webp)|electric.teslacoil|1371909803|Tesla Coil|Electrical|An electrical trap that zaps nearby players when powered. More power supplied will result in higher damage. Loses durability with use.|
 |![](/electric.timer.128.webp)|electric.timer|665332906|Timer|Electrical|A Timer switch, will pass power through for duration.|
+|![](/electric.wallcabinet.128.webp)|electric.wallcabinet|656829501|Wall Cabinet|Items|A cabinet with a shelf for small items.|
 |![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. If BOTH inputs recieve power, passthrough will be zero.|
 |![](/electrical.branch.128.webp)|electrical.branch|-1448252298|Electrical Branch|Electrical|This object allows you to branch power off from a main line by a set amount.|
 |![](/electrical.combiner.128.webp)|electrical.combiner|-458565393|Root Combiner|Electrical|This object combines two root electrical sources into a single signal. Helpful for stringing together low energy batteries or solar panels to produce higher power output. Can be wired in series, can not be used with any non energy producing electrical components.|
@@ -386,7 +398,6 @@
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|Items|Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|Construction|A high stone gate, allowing access in and out of your compound.|
-|![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|Construction|A Frontier themed wooden gate to keep the untamed wilderness away from your property, it's seen better days. Replaces the High External Wooden Wall.|
 |![](/gates.external.high.legacy.128.webp)|gates.external.high.legacy|-1442339204|High External Legacy Gate|Construction|A legacy themed wooden gate to keep the untamed wilderness away from your property, it's seen better days. Replaces the High External Wooden Wall.|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|Construction|A high stone gate, allowing access in and out of your compound.|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
@@ -465,7 +476,7 @@
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
-|![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat Suit|Attire|A hazmat suit made from a fighter pilot flight suit.|
+|![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|Attire|A hazmat suit made from a fighter pilot's flight suit.|
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
@@ -555,7 +566,7 @@
 |![](/laserlight.128.webp)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
 |![](/lavenderidtag.128.webp)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.128.webp)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
-|![](/legacy bow.128.webp)|legacy bow|-73195037|Legacy bow|Weapon|Legacy Bow, useful for short to medium range combat and hunting.|
+|![](/legacy bow.128.webp)|legacy bow|-73195037|Legacy bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
 |![](/legacy.shelter.wood.128.webp)|legacy.shelter.wood|607400343|Legacy Wood Shelter|Construction|The classic s*** shack. A great starter base for any fresh spawn. You can only have one shelter deployed at anytime.|
 |![](/legacyfurnace.128.webp)|legacyfurnace|-1310391395|Legacy Furnace|Items|Legacy Furnace|
 |![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
@@ -582,6 +593,7 @@
 |![](/mace.128.webp)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](/machete.128.webp)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
 |![](/mailbox.128.webp)|mailbox|-586784898|Mail Box|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
+|![](/mannequin.128.webp)|mannequin|-1035206446|Clothing Mannequin|Items|Displays a set of clothing, quickly remove items off your player onto the Mannequin. Goes by Manny.|
 |![](/map.128.webp)|map|696029452|Paper Map|Items|Helps you figure out where you are. You can annotate the map by right-clicking and drawing on it.Drag the map into your belt bar to make it active. You will then be able to view the map by holding down the map button (G by default).|
 |![](/mask.balaclava.128.webp)|mask.balaclava|-2012470695|Improvised Balaclava|Attire|A makeshift balaclava. Cost effective protection from the cold, but unremarkable at preventing melee and projectile damage.|
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
@@ -713,7 +725,7 @@
 |![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long. Usable with single handed weapons and tools.|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
-|![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|A powerful six-shot revolver using 5.56 rounds. High damage and accuracy, but slow fire rate and even slower to reload.|
+|![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|High Caliber Revolver|
 |![](/rf.detonator.128.webp)|rf.detonator|596469572|RF Transmitter|Tool|A hand held RF signal broadcaster. Left click to broadcast. Configurable with right mouse.|
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|Items||
@@ -736,10 +748,10 @@
 |![](/roadsigns.128.webp)|roadsigns|1199391518|Road Signs|Component|Some road signs made of metal.|
 |![](/rock.128.webp)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
 |![](/rocket.launcher.dragon.128.webp)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
-|![](/rocket.launcher.128.webp)|rocket.launcher|442886268|Rocket Launcher|Weapon|Shoots rockets slightly farther than North Korea.|
+|![](/rocket.launcher.128.webp)|rocket.launcher|442886268|Rocket Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
 |![](/rockingchair.128.webp)|rockingchair|-1863063690|Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
-|![](/rockingchair.rockingchair2.128.webp)|rockingchair.rockingchair2|1758333838|Teal|Items||
-|![](/rockingchair.rockingchair3.128.webp)|rockingchair.rockingchair3|192249897|Green|Items||
+|![](/rockingchair.rockingchair2.128.webp)|rockingchair.rockingchair2|1758333838|Teal|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
+|![](/rockingchair.rockingchair3.128.webp)|rockingchair.rockingchair3|192249897|Green|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
 |![](/rope.128.webp)|rope|1414245522|Rope|Component|A Length of Rope.|
 |![](/rose.128.webp)|rose|1414245519|Rose|Food|Romantic AF.|
 |![](/rowboat.128.webp)|rowboat|1878053256|Rowboat|Items||
@@ -847,10 +859,10 @@
 |![](/skullspikes.128.webp)|skullspikes|-1073015016|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
 |![](/skullspikes.pumpkin.128.webp)|skullspikes.pumpkin|-1078639462|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
 |![](/skylantern.128.webp)|skylantern|1819863051|Sky Lantern|Fun|A beautiful sky lantern. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.|
-|![](/skylantern.skylantern.green.128.webp)|skylantern.skylantern.green|-1770889433|Sky Lantern - Green|Fun||
-|![](/skylantern.skylantern.orange.128.webp)|skylantern.skylantern.orange|-1824770114|Sky Lantern - Orange|Fun||
-|![](/skylantern.skylantern.purple.128.webp)|skylantern.skylantern.purple|831955134|Sky Lantern - Purple|Fun||
-|![](/skylantern.skylantern.red.128.webp)|skylantern.skylantern.red|-1433390281|Sky Lantern - Red|Fun||
+|![](/skylantern.skylantern.green.128.webp)|skylantern.skylantern.green|-1770889433|Sky Lantern - Green|Fun|#skylantern.skylantern.green.desc|
+|![](/skylantern.skylantern.orange.128.webp)|skylantern.skylantern.orange|-1824770114|Sky Lantern - Orange|Fun|#skylantern.skylantern.orange.desc|
+|![](/skylantern.skylantern.purple.128.webp)|skylantern.skylantern.purple|831955134|Sky Lantern - Purple|Fun|#skylantern.skylantern.purple.desc|
+|![](/skylantern.skylantern.red.128.webp)|skylantern.skylantern.red|-1433390281|Sky Lantern - Red|Fun|#skylantern.skylantern.red.desc|
 |![](/sled.128.webp)|sled|-333406828|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sled.xmas.128.webp)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sleepingbag.128.webp)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you or an assigned player a place to respawn, with a long cooldown.|
@@ -886,6 +898,7 @@
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|Ammunition|Ammunition for a speargun.|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
+|![](/spikes.trap.128.webp)|spikes.trap|-1850297170|Small Spike Trap|Traps|Small improvided trap which hurts and slows|
 |![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning Wheel|Items|An interactive spinning wheel.|
 |![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|Food|A spoiled fruit or vegetable. It's so far gone it's hard to tell what it originally was.|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
@@ -981,7 +994,6 @@
 |![](/wagon.128.webp)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|Items|A walkie talkie set to an unknown channel|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|Construction|A high stone wall used to keep people off your property.|
-|![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|Construction|A Frontier themed wooden wall to keep the untamed wilderness away from your property, made with questionable carpentry. Replaces the High External Wooden Wall.|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
 |![](/wall.external.high.legacy.128.webp)|wall.external.high.legacy|-1993883724|High External Legacy Wall|Construction|A legacy themed wooden wall to keep the untamed wilderness away from your property, made with questionable carpentry. Replaces the High External Wooden Wall.|
@@ -992,8 +1004,8 @@
 |![](/wall.frame.fence.128.webp)|wall.frame.fence|-1117626326|Chainlink Fence|Construction|A Chainlink Fence.|
 |![](/wall.frame.garagedoor.128.webp)|wall.frame.garagedoor|-148794216|Garage Door|Construction|A garage door that rolls up and down.|
 |![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Lunar Wall Frame Inlay|Construction|A Lunar New Year themed decorative wall divider with geometric inlay|
-|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Swirling|Construction|A Lunar New Year themed decorative wall divider with swirling inlay|
-|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Floral|Construction|A Lunar New Year themed decorative wall divider with floral inlay|
+|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Inlay|Construction|A Lunar New Year themed decorative wall divider with swirling inlay|
+|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Inlay|Construction|A Lunar New Year themed decorative wall divider with floral inlay|
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|Construction|Netting you can climb.|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|Construction|A shop front to do commerce.|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
@@ -1002,7 +1014,7 @@
 |![](/wall.window.bars.metal.128.webp)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
-|![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Bulletproof glass insert|
+|![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Strengthened Glass Window|
 |![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|Items||
 |![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|Items||
 |![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|Tool|Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.Press [+attack2] to select your skin.|
@@ -1061,8 +1073,8 @@
 |![](/woodframe.standing.128.webp)|woodframe.standing|1769475390|Wood Frame Standing|Items|A standing wooden frame|
 |![](/woodmirror.large.128.webp)|woodmirror.large|1312679249|Wood Mirror Large|Items|A large wooden mirror|
 |![](/woodmirror.medium.128.webp)|woodmirror.medium|756125481|Wood Mirror Medium|Items|A medium wood mirror|
-|![](/woodmirror.small.128.webp)|woodmirror.small|-1497205569|Wood Mirror Small|Items|A small wooden mirror|
-|![](/woodmirror.standing.128.webp)|woodmirror.standing|723407026|Wood Mirror Standing|Items|A standing wooden mirror|
+|![](/woodmirror.small.128.webp)|woodmirror.small|-1497205569|Wood Mirror Small|Items|A small wooden frame|
+|![](/woodmirror.standing.128.webp)|woodmirror.standing|723407026|Wood Mirror Standing|Items|A standing wooden frontier themed mirror|
 |![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|An advanced wood tea, temporarily increases the yield from cutting trees a moderate amount.|
 |![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|Food|A basic wood tea, temporarily increases the yield from cutting trees a small amount.|
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount.|
@@ -1083,7 +1095,7 @@
 |![](/xmas.decoration.tinsel.128.webp)|xmas.decoration.tinsel|2106561762|Decorative Tinsel|Misc|Decorative Tinsel you can hang on your Christmas tree|
 |![](/xmas.door.garland.128.webp)|xmas.door.garland|674734128|Festive Doorway Garland|Items|A Festive decoration to spruce up your  doorway during the holdiays!|
 |![](/xmas.double.door.garland.128.webp)|xmas.double.door.garland|-1230433643|Festive Double Doorway Garland|Items|A Festive decoration to spruce up your double doorway during the holidays!|
-|![](/xmas.lightstring.advanced.128.webp)|xmas.lightstring.advanced|-151387974|Deluxe Christmas Lights|Electrical|Colored, Animated, Powered Lights. Requires 5 electricity. Click to start placement, right click to end. Each unit is 0.5m long.|
+|![](/xmas.lightstring.advanced.128.webp)|xmas.lightstring.advanced|-151387974|Deluxe Christmas Lights|Electrical|Colored, animated, powered Lights that can be deployed point by point to light up your base.|
 |![](/xmas.lightstring.128.webp)|xmas.lightstring|1058261682|Christmas Lights|Items|A string of colored lights to decorate your home|
 |![](/xmas.present.large.128.webp)|xmas.present.large|-1622660759|Large Present|Misc|A Large Present, the best there is. Unwrap it now!|
 |![](/xmas.present.medium.128.webp)|xmas.present.medium|756517185|Medium Present|Misc|A medium present, might be good! Collect 5 to upgrade to a larger present.|

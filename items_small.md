@@ -31,7 +31,7 @@
 |![](/ammo.shotgun.fire.128.webp)|ammo.shotgun.fire|-1036635990|12 Gauge Incendiary Shell|
 |![](/ammo.shotgun.128.webp)|ammo.shotgun|-1685290200|12 Gauge Buckshot|
 |![](/ammo.shotgun.slug.128.webp)|ammo.shotgun.slug|-727717969|12 Gauge Slug|
-|![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330||
+|![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|Snowball Gun Ammo|
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|
 |![](/apple.128.webp)|apple|1548091822|Apple|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|
@@ -83,6 +83,8 @@
 |![](/beachparasol.128.webp)|beachparasol|-1621539785|Beach Parasol|
 |![](/beachtable.128.webp)|beachtable|657352755|Beach Table|
 |![](/beachtowel.128.webp)|beachtowel|-8312704|Beach Towel|
+|![](/beanbagseatfabric.128.webp)|beanbagseatfabric|-576866254|Fabric Beanbag Seat|
+|![](/beanbagseatleather.128.webp)|beanbagseatleather|-1220928936|Leather Beanbag Seat|
 |![](/bearmeat.burned.128.webp)|bearmeat.burned|-989755543|Burnt Bear Meat|
 |![](/bearmeat.cooked.128.webp)|bearmeat.cooked|1873897110|Cooked Bear Meat|
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|
@@ -184,6 +186,7 @@
 |![](/clone.white.berry.128.webp)|clone.white.berry|1533551194|White Berry Clone|
 |![](/clone.yellow.berry.128.webp)|clone.yellow.berry|390728933|Yellow Berry Clone|
 |![](/cloth.128.webp)|cloth|-858312878|Cloth|
+|![](/clothing.mannequin.128.webp)|clothing.mannequin|-606898372|#clothingmannequin|
 |![](/clothing.mod.armorinsert_asbestos.128.webp)|clothing.mod.armorinsert_asbestos|-903796529|Asbestos Armor Insert|
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|
@@ -273,12 +276,17 @@
 |![](/electric.battery.rechargable.medium.128.webp)|electric.battery.rechargable.medium|2023888403|Medium Rechargeable Battery|
 |![](/electric.battery.rechargable.small.128.webp)|electric.battery.rechargable.small|-692338819|Small Rechargeable Battery|
 |![](/electric.blocker.128.webp)|electric.blocker|-690968985|Blocker|
+|![](/electric.bulbstringlights.128.webp)|electric.bulbstringlights|104856514|Bulb String Lights|
 |![](/electric.button.128.webp)|electric.button|-1778897469|Button|
 |![](/electric.cabletunnel.128.webp)|electric.cabletunnel|1835946060|Cable Tunnel|
+|![](/electric.chandelier.128.webp)|electric.chandelier|-1510616686|Chandelier|
 |![](/electric.counter.128.webp)|electric.counter|-216999575|Counter|
 |![](/electric.digitalclock.128.webp)|electric.digitalclock|1619039771|Digital Clock|
 |![](/electric.doorcontroller.128.webp)|electric.doorcontroller|-502177121|Door Controller|
+|![](/electric.fairylights.128.webp)|electric.fairylights|54436981|Fairy Lights|
 |![](/electric.flasherlight.128.webp)|electric.flasherlight|-939424778|Flasher Light|
+|![](/electric.fluorescentlight.ceiling.128.webp)|electric.fluorescentlight.ceiling|640470230|Ceiling Fluorescent Light|
+|![](/electric.fluorescentlight.128.webp)|electric.fluorescentlight|1892536031|Fluorescent Light|
 |![](/electric.fuelgenerator.small.128.webp)|electric.fuelgenerator.small|1849887541|Small Generator|
 |![](/electric.furnace.128.webp)|electric.furnace|-1196547867|Electric Furnace|
 |![](/electric.generator.small.128.webp)|electric.generator.small|-295829489|Test Generator|
@@ -296,10 +304,14 @@
 |![](/electric.sirenlight.128.webp)|electric.sirenlight|762289806|Siren Light|
 |![](/electric.solarpanel.large.128.webp)|electric.solarpanel.large|2090395347|Large Solar Panel|
 |![](/electric.splitter.128.webp)|electric.splitter|-563624462|Splitter|
+|![](/electric.spotlight.128.webp)|electric.spotlight|-1258821205|Spot Light|
+|![](/electric.spotlight.tripod.128.webp)|electric.spotlight.tripod|-2134097299|Tripod Spot Light|
 |![](/electric.sprinkler.128.webp)|electric.sprinkler|-781014061|Sprinkler|
 |![](/electric.switch.128.webp)|electric.switch|1951603367|Switch|
+|![](/electric.tablelight.128.webp)|electric.tablelight|1717250161|Electric Table Lamp|
 |![](/electric.teslacoil.128.webp)|electric.teslacoil|1371909803|Tesla Coil|
 |![](/electric.timer.128.webp)|electric.timer|665332906|Timer|
+|![](/electric.wallcabinet.128.webp)|electric.wallcabinet|656829501|Wall Cabinet|
 |![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|
 |![](/electrical.branch.128.webp)|electrical.branch|-1448252298|Electrical Branch|
 |![](/electrical.combiner.128.webp)|electrical.combiner|-458565393|Root Combiner|
@@ -386,7 +398,6 @@
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|
-|![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|
 |![](/gates.external.high.legacy.128.webp)|gates.external.high.legacy|-1442339204|High External Legacy Gate|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|
@@ -465,7 +476,7 @@
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|
-|![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat Suit|
+|![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|
@@ -582,6 +593,7 @@
 |![](/mace.128.webp)|mace|-1966748496|Mace|
 |![](/machete.128.webp)|machete|-1137865085|Machete|
 |![](/mailbox.128.webp)|mailbox|-586784898|Mail Box|
+|![](/mannequin.128.webp)|mannequin|-1035206446|Clothing Mannequin|
 |![](/map.128.webp)|map|696029452|Paper Map|
 |![](/mask.balaclava.128.webp)|mask.balaclava|-2012470695|Improvised Balaclava|
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|
@@ -886,6 +898,7 @@
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|
+|![](/spikes.trap.128.webp)|spikes.trap|-1850297170|Small Spike Trap|
 |![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning Wheel|
 |![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|
@@ -981,7 +994,6 @@
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|
-|![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
 |![](/wall.external.high.legacy.128.webp)|wall.external.high.legacy|-1993883724|High External Legacy Wall|
@@ -992,8 +1004,8 @@
 |![](/wall.frame.fence.128.webp)|wall.frame.fence|-1117626326|Chainlink Fence|
 |![](/wall.frame.garagedoor.128.webp)|wall.frame.garagedoor|-148794216|Garage Door|
 |![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Lunar Wall Frame Inlay|
-|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Swirling|
-|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Floral|
+|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Inlay|
+|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Inlay|
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|
