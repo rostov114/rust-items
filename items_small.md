@@ -4,6 +4,7 @@
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|
+|![](/advanceblueprintfragment.128.webp)|advanceblueprintfragment|-1896395719|Advance Blueprint Fragment|
 |![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|
@@ -74,6 +75,7 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|
+|![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|
 |![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|
@@ -157,7 +159,7 @@
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|
 |![](/chair.ejector.seat.128.webp)|chair.ejector.seat|-463012608|Salvaged Ejector Seat|
-|![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|
+|![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice King Pack|
 |![](/chair.128.webp)|chair|1534542921|Chair|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|
@@ -472,7 +474,7 @@
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|
-|![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Divers Suit|
+|![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Pack|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
@@ -567,7 +569,7 @@
 |![](/laserlight.128.webp)|laserlight|853471967|Laser Light|
 |![](/lavenderidtag.128.webp)|lavenderidtag|1223729384|Lavender ID Tag|
 |![](/leather.128.webp)|leather|1381010055|Leather|
-|![](/legacy bow.128.webp)|legacy bow|-73195037|Legacy bow|
+|![](/legacy bow.128.webp)|legacy bow|-73195037|Legacy Bow|
 |![](/legacy.shelter.wood.128.webp)|legacy.shelter.wood|607400343|Legacy Wood Shelter|
 |![](/legacyfurnace.128.webp)|legacyfurnace|-1310391395|Legacy Furnace|
 |![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|
@@ -677,7 +679,7 @@
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|
-|![](/pilot.hazmat.box.wooden.128.webp)|pilot.hazmat.box.wooden|537946062|Black Box|
+|![](/pilot.hazmat.box.wooden.128.webp)|pilot.hazmat.box.wooden|537946062|Flight Recorder Box|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|
 |![](/pinkidtag.128.webp)|pinkidtag|180752235|Pink ID Tag|
 |![](/pipetool.128.webp)|pipetool|-144513264|Pipe Tool|
@@ -734,7 +736,7 @@
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|
 |![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|
-|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|
+|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval AR|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|
@@ -1005,9 +1007,9 @@
 |![](/wall.frame.fence.gate.128.webp)|wall.frame.fence.gate|1451568081|Chainlink Fence Gate|
 |![](/wall.frame.fence.128.webp)|wall.frame.fence|-1117626326|Chainlink Fence|
 |![](/wall.frame.garagedoor.128.webp)|wall.frame.garagedoor|-148794216|Garage Door|
-|![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Lunar Wall Frame Inlay|
-|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Inlay|
-|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Inlay|
+|![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Wall Divider Pack|
+|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Wall Divider Pack|
+|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Wall Divider Pack|
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|
