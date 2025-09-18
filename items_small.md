@@ -159,7 +159,7 @@
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|
 |![](/chair.ejector.seat.128.webp)|chair.ejector.seat|-463012608|Salvaged Ejector Seat|
-|![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice King Pack|
+|![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|
 |![](/chair.128.webp)|chair|1534542921|Chair|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|

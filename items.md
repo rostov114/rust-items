@@ -159,7 +159,7 @@
 |![](/ceilinglight.128.webp)|ceilinglight|1142993169|Ceiling Light|Electrical|A small ceiling mounted light source.|
 |![](/chainsaw.128.webp)|chainsaw|1104520648|Chainsaw|Tool|A Chainsaw. Very effective at cutting trees in addition to soft fleshy objects. Requires Low Grade Fuel to run.|
 |![](/chair.ejector.seat.128.webp)|chair.ejector.seat|-463012608|Salvaged Ejector Seat|Items|A chair made from an ejector seat. A decorative item which provides comfort while seated. Stays put.|
-|![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice King Pack|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
+|![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|Items|An Ice Throne. Fit for the one true arctic warlord.|
 |![](/chair.128.webp)|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
