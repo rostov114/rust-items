@@ -159,7 +159,7 @@
 |[ceilinglight](/ceilinglight.png)|1142993169|Ceiling Light|Electrical|
 |[chainsaw](/chainsaw.png)|1104520648|Chainsaw|Tool|
 |[chair.ejector.seat](/chair.ejector.seat.png)|-463012608|Salvaged Ejector Seat|Items|
-|[chair.icethrone](/chair.icethrone.png)|-1944704288|Ice King Pack|Items|
+|[chair.icethrone](/chair.icethrone.png)|-1944704288|Ice Throne|Items|
 |[chair](/chair.png)|1534542921|Chair|Items|
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
 |[chicken.burned](/chicken.burned.png)|1973684065|Burnt Chicken|Food|
