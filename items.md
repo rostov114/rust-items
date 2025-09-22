@@ -5,6 +5,7 @@
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|Items|Horizontal Abyss container taken from the depths of the ocean|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|Items|Vertical Abyss container taken from the depths of the ocean|
 |![](/advanceblueprintfragment.128.webp)|advanceblueprintfragment|-1896395719|Advance Blueprint Fragment|Resources|Precision schematics with complex information, multiple fragments are necessary for crafting a Tier 3 Workbench.|
+|![](/advancedblueprintfragment.128.webp)|advancedblueprintfragment|-477757067|Advanced Blueprint Fragment|Resources|Precision schematics with complex information, multiple fragments are necessary for crafting a Tier 3 Workbench.|
 |![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|Food|An advanced cooling tea, provides hydration and temporarily decreases your max and core temperature.|
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|An advanced crafting tea, provides hydration and temporarily increases the chances of a higher quality crafting outcome.|
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|An advanced warming tea that temporarily increases both your core and minimum temperature.|
@@ -75,7 +76,7 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
-|![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|Resources|Damaged diagrams containing partial information to constuct a Tier 2 Workbench for advanced crafting. Several fragments are needed.|
+|![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|Resources|Damaged diagrams containing partial information to constuct a Tier 2 Workbench for advanced crafting. Several fragments are needed.20 Basic Fragments can be pieced together to make an Advanced Fragment.|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|Items|A small planter with enough room to plant 3 seeds.|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|Weapon||
 |![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|Weapon|A reinforced siege weapon built for smashing through wooden and stone constructions with brute force. Must be repaired with high quality metal to keep functioning.|
@@ -900,7 +901,7 @@
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|Ammunition|Ammunition for a speargun.|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
-|![](/spikes.trap.128.webp)|spikes.trap|-1850297170|Small Spike Trap|Traps|Small improvided trap which hurts and slows|
+|![](/spikes.trap.128.webp)|spikes.trap|-1850297170|Small Spike Trap|Traps|A small improvised trap that injures and slows anyone who steps on it.|
 |![](/spinner.wheel.128.webp)|spinner.wheel|-1100422738|Spinning Wheel|Items|An interactive spinning wheel.|
 |![](/spoiled.produce.128.webp)|spoiled.produce|1184215560|Spoiled Produce|Food|A spoiled fruit or vegetable. It's so far gone it's hard to tell what it originally was.|
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
