@@ -5,7 +5,7 @@
 |[abyss.barrel.horizontal](/abyss.barrel.horizontal.png)|-880494890|Abyss Horizontal Storage Tank|Items|
 |[abyss.barrel.vertical](/abyss.barrel.vertical.png)|-919882824|Abyss Vertical Storage Tank|Items|
 |[advanceblueprintfragment](/advanceblueprintfragment.png)|-1896395719|Advance Blueprint Fragment|Resources|
-|[advancedblueprintfragment](/advancedblueprintfragment.png)|-1896395719|Advanced Blueprint Fragment|Resources|
+|[advancedblueprintfragment](/advancedblueprintfragment.png)|-1896395719|Advanced Blueprint Fragment|Component|
 |[advancedcoolingtea](/advancedcoolingtea.png)|-1498613415|Advanced Cooling Tea|Food|
 |[advancedcraftingtea_quality](/advancedcraftingtea_quality.png)|-652889722|Advanced Crafting Quality Tea|Food|
 |[advancedwarmingtea](/advancedwarmingtea.png)|-334418777|Advanced Warming Tea|Food|
@@ -76,7 +76,7 @@
 |[barricade.wood.cover](/barricade.wood.cover.png)|1373240771|Wooden Barricade Cover|Construction|
 |[barricade.wood](/barricade.wood.png)|866889860|Wooden Barricade|Construction|
 |[barricade.woodwire](/barricade.woodwire.png)|1382263453|Barbed Wooden Barricade|Construction|
-|[basicblueprintfragment](/basicblueprintfragment.png)|-143481979|Basic Blueprint Fragment|Resources|
+|[basicblueprintfragment](/basicblueprintfragment.png)|-143481979|Basic Blueprint Fragment|Component|
 |[bathtub.planter](/bathtub.planter.png)|-1274093662|Bath Tub Planter|Items|
 |[batteringram.head.repair](/batteringram.head.repair.png)|-479314201|Battering Ram Head|Weapon|
 |[batteringram](/batteringram.png)|-187304968|Battering Ram|Weapon|
