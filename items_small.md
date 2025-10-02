@@ -5,7 +5,7 @@
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|
 |![](/advanceblueprintfragment.128.webp)|advanceblueprintfragment|-1896395719|Advance Blueprint Fragment|
-|![](/advancedblueprintfragment.128.webp)|advancedblueprintfragment|-477757067|Advanced Blueprint Fragment|
+|![](/advancedblueprintfragment.128.webp)|advancedblueprintfragment|-1896395719|Advanced Blueprint Fragment|
 |![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|
@@ -163,6 +163,8 @@
 |![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|
 |![](/chair.128.webp)|chair|1534542921|Chair|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|
+|![](/charity.plushy.01.128.webp)|charity.plushy.01|2130820932|Cancer Research UK Plushie|
+|![](/charity.plushy.02.128.webp)|charity.plushy.02|2130820933|Ronald McDonald House Plushie|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|
@@ -401,6 +403,7 @@
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|
+|![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|
 |![](/gates.external.high.legacy.128.webp)|gates.external.high.legacy|-1442339204|High External Legacy Gate|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|
@@ -997,6 +1000,7 @@
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|
+|![](/wall.external.high.frontier.128.webp)|wall.external.high.frontier|63265850|High External Frontier Wall|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
 |![](/wall.external.high.legacy.128.webp)|wall.external.high.legacy|-1993883724|High External Legacy Wall|
@@ -1020,6 +1024,7 @@
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|
 |![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|
 |![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|
+|![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|
 |![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|
 |![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|
