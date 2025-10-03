@@ -4,6 +4,7 @@
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[abyss.barrel.horizontal](/abyss.barrel.horizontal.png)|-880494890|Abyss Horizontal Storage Tank|Items|
 |[abyss.barrel.vertical](/abyss.barrel.vertical.png)|-919882824|Abyss Vertical Storage Tank|Items|
+|[advancedblueprintfragment](/advancedblueprintfragment.png)|-1896395719|Advanced Blueprint Fragment|Component|
 |[advancedcoolingtea](/advancedcoolingtea.png)|-1498613415|Advanced Cooling Tea|Food|
 |[advancedcraftingtea_quality](/advancedcraftingtea_quality.png)|-652889722|Advanced Crafting Quality Tea|Food|
 |[advancedwarmingtea](/advancedwarmingtea.png)|-334418777|Advanced Warming Tea|Food|
@@ -31,7 +32,7 @@
 |[ammo.shotgun.fire](/ammo.shotgun.fire.png)|-1036635990|12 Gauge Incendiary Shell|Ammunition|
 |[ammo.shotgun](/ammo.shotgun.png)|-1685290200|12 Gauge Buckshot|Ammunition|
 |[ammo.shotgun.slug](/ammo.shotgun.slug.png)|-727717969|12 Gauge Slug|Ammunition|
-|[ammo.snowballgun](/ammo.snowballgun.png)|550753330||Ammunition|
+|[ammo.snowballgun](/ammo.snowballgun.png)|550753330|Snowball Gun Ammo|Ammunition|
 |[antiradpills](/antiradpills.png)|-1432674913|Anti-Radiation Pills|Medical|
 |[apple](/apple.png)|1548091822|Apple|Food|
 |[apple.spoiled](/apple.spoiled.png)|352130972|Rotten Apple|Food|
@@ -74,6 +75,7 @@
 |[barricade.wood.cover](/barricade.wood.cover.png)|1373240771|Wooden Barricade Cover|Construction|
 |[barricade.wood](/barricade.wood.png)|866889860|Wooden Barricade|Construction|
 |[barricade.woodwire](/barricade.woodwire.png)|1382263453|Barbed Wooden Barricade|Construction|
+|[basicblueprintfragment](/basicblueprintfragment.png)|-143481979|Basic Blueprint Fragment|Component|
 |[bathtub.planter](/bathtub.planter.png)|-1274093662|Bath Tub Planter|Items|
 |[batteringram.head.repair](/batteringram.head.repair.png)|-479314201|Battering Ram Head|Weapon|
 |[batteringram](/batteringram.png)|-187304968|Battering Ram|Weapon|
@@ -83,6 +85,8 @@
 |[beachparasol](/beachparasol.png)|-1621539785|Beach Parasol|Fun|
 |[beachtable](/beachtable.png)|657352755|Beach Table|Fun|
 |[beachtowel](/beachtowel.png)|-8312704|Beach Towel|Fun|
+|[beanbagseatfabric](/beanbagseatfabric.png)|-576866254|Fabric Beanbag Seat|Items|
+|[beanbagseatleather](/beanbagseatleather.png)|-1220928936|Leather Beanbag Seat|Items|
 |[bearmeat.burned](/bearmeat.burned.png)|-989755543|Burnt Bear Meat|Food|
 |[bearmeat.cooked](/bearmeat.cooked.png)|1873897110|Cooked Bear Meat|Food|
 |[bearmeat](/bearmeat.png)|-1520560807|Raw Bear Meat|Food|
@@ -158,6 +162,8 @@
 |[chair.icethrone](/chair.icethrone.png)|-1944704288|Ice Throne|Items|
 |[chair](/chair.png)|1534542921|Chair|Items|
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
+|[charity.plushy.01](/charity.plushy.01.png)|2130820932|Cancer Research UK Plushie|Items|
+|[charity.plushy.02](/charity.plushy.02.png)|2130820933|Ronald McDonald House Plushie|Items|
 |[chicken.burned](/chicken.burned.png)|1973684065|Burnt Chicken|Food|
 |[chicken.cooked](/chicken.cooked.png)|-1848736516|Cooked Chicken|Food|
 |[chicken.costume](/chicken.costume.png)|-152332823|Chicken Costume|Attire|
@@ -184,6 +190,7 @@
 |[clone.white.berry](/clone.white.berry.png)|1533551194|White Berry Clone|Food|
 |[clone.yellow.berry](/clone.yellow.berry.png)|390728933|Yellow Berry Clone|Food|
 |[cloth](/cloth.png)|-858312878|Cloth|Resources|
+|[clothing.mannequin](/clothing.mannequin.png)|-606898372|#clothingmannequin|Attire|
 |[clothing.mod.armorinsert_asbestos](/clothing.mod.armorinsert_asbestos.png)|-903796529|Asbestos Armor Insert|Items|
 |[clothing.mod.armorinsert_lead](/clothing.mod.armorinsert_lead.png)|2047789913|Lead Armor Insert|Items|
 |[clothing.mod.armorinsert_metal](/clothing.mod.armorinsert_metal.png)|1099611828|Metal Armor Insert|Items|
@@ -274,12 +281,17 @@
 |[electric.battery.rechargable.medium](/electric.battery.rechargable.medium.png)|2023888403|Medium Rechargeable Battery|Electrical|
 |[electric.battery.rechargable.small](/electric.battery.rechargable.small.png)|-692338819|Small Rechargeable Battery|Electrical|
 |[electric.blocker](/electric.blocker.png)|-690968985|Blocker|Electrical|
+|[electric.bulbstringlights](/electric.bulbstringlights.png)|104856514|Bulb String Lights|Electrical|
 |[electric.button](/electric.button.png)|-1778897469|Button|Electrical|
 |[electric.cabletunnel](/electric.cabletunnel.png)|1835946060|Cable Tunnel|Electrical|
+|[electric.chandelier](/electric.chandelier.png)|-1510616686|Chandelier|Electrical|
 |[electric.counter](/electric.counter.png)|-216999575|Counter|Electrical|
 |[electric.digitalclock](/electric.digitalclock.png)|1619039771|Digital Clock|Electrical|
 |[electric.doorcontroller](/electric.doorcontroller.png)|-502177121|Door Controller|Electrical|
+|[electric.fairylights](/electric.fairylights.png)|54436981|Fairy Lights|Electrical|
 |[electric.flasherlight](/electric.flasherlight.png)|-939424778|Flasher Light|Electrical|
+|[electric.fluorescentlight.ceiling](/electric.fluorescentlight.ceiling.png)|640470230|Ceiling Fluorescent Light|Electrical|
+|[electric.fluorescentlight](/electric.fluorescentlight.png)|1892536031|Fluorescent Light|Electrical|
 |[electric.fuelgenerator.small](/electric.fuelgenerator.small.png)|1849887541|Small Generator|Electrical|
 |[electric.furnace](/electric.furnace.png)|-1196547867|Electric Furnace|Electrical|
 |[electric.generator.small](/electric.generator.small.png)|-295829489|Test Generator|Electrical|
@@ -297,10 +309,14 @@
 |[electric.sirenlight](/electric.sirenlight.png)|762289806|Siren Light|Electrical|
 |[electric.solarpanel.large](/electric.solarpanel.large.png)|2090395347|Large Solar Panel|Electrical|
 |[electric.splitter](/electric.splitter.png)|-563624462|Splitter|Electrical|
+|[electric.spotlight](/electric.spotlight.png)|-1258821205|Spot Light|Electrical|
+|[electric.spotlight.tripod](/electric.spotlight.tripod.png)|-2134097299|Tripod Spot Light|Electrical|
 |[electric.sprinkler](/electric.sprinkler.png)|-781014061|Sprinkler|Electrical|
 |[electric.switch](/electric.switch.png)|1951603367|Switch|Electrical|
+|[electric.tablelight](/electric.tablelight.png)|1717250161|Electric Table Lamp|Electrical|
 |[electric.teslacoil](/electric.teslacoil.png)|1371909803|Tesla Coil|Electrical|
 |[electric.timer](/electric.timer.png)|665332906|Timer|Electrical|
+|[electric.wallcabinet](/electric.wallcabinet.png)|656829501|Wall Cabinet|Items|
 |[electric.xorswitch](/electric.xorswitch.png)|1293102274|XOR Switch|Electrical|
 |[electrical.branch](/electrical.branch.png)|-1448252298|Electrical Branch|Electrical|
 |[electrical.combiner](/electrical.combiner.png)|-458565393|Root Combiner|Electrical|
@@ -461,7 +477,7 @@
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
 |[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Items|
 |[hazmatsuit.arcticsuit](/hazmatsuit.arcticsuit.png)|-470439097|Arctic Suit|Attire|
-|[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Divers Suit|Attire|
+|[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Pack|Attire|
 |[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
 |[hazmatsuit](/hazmatsuit.png)|1266491000|Hazmat Suit|Attire|
 |[hazmatsuit.lumberjack](/hazmatsuit.lumberjack.png)|861513346|Lumberjack Suit|Attire|
@@ -556,7 +572,7 @@
 |[laserlight](/laserlight.png)|853471967|Laser Light|Fun|
 |[lavenderidtag](/lavenderidtag.png)|1223729384|Lavender ID Tag|Resources|
 |[leather](/leather.png)|1381010055|Leather|Resources|
-|[legacy bow](/legacy bow.png)|-73195037|Legacy bow|Weapon|
+|[legacy bow](/legacy bow.png)|-73195037|Legacy Bow|Weapon|
 |[legacy.shelter.wood](/legacy.shelter.wood.png)|607400343|Legacy Wood Shelter|Construction|
 |[legacyfurnace](/legacyfurnace.png)|-1310391395|Legacy Furnace|Items|
 |[lightup.large](/lightup.large.png)|242421166|Light-Up Frame Large|Items|
@@ -583,6 +599,7 @@
 |[mace](/mace.png)|-1966748496|Mace|Weapon|
 |[machete](/machete.png)|-1137865085|Machete|Weapon|
 |[mailbox](/mailbox.png)|-586784898|Mail Box|Items|
+|[mannequin](/mannequin.png)|-1035206446|Clothing Mannequin|Items|
 |[map](/map.png)|696029452|Paper Map|Items|
 |[mask.balaclava](/mask.balaclava.png)|-2012470695|Improvised Balaclava|Attire|
 |[mask.bandana](/mask.bandana.png)|-702051347|Bandana Mask|Attire|
@@ -665,7 +682,7 @@
 |[pie.pork](/pie.pork.png)|1467878256|Pork Pie|Food|
 |[pie.pumpkin](/pie.pumpkin.png)|-1488408786|Pumpkin Pie|Food|
 |[pie.survivors](/pie.survivors.png)|-963820355|Survivor's Pie|Food|
-|[pilot.hazmat.box.wooden](/pilot.hazmat.box.wooden.png)|537946062|Black Box|Items|
+|[pilot.hazmat.box.wooden](/pilot.hazmat.box.wooden.png)|537946062|Flight Recorder Box|Items|
 |[pinata](/pinata.png)|-1442496789|Pinata|Fun|
 |[pinkidtag](/pinkidtag.png)|180752235|Pink ID Tag|Resources|
 |[pipetool](/pipetool.png)|-144513264|Pipe Tool|Electrical|
@@ -722,7 +739,7 @@
 |[rifle.ak.ice](/rifle.ak.ice.png)|-1335497659|Ice Assault Rifle|Weapon|
 |[rifle.ak](/rifle.ak.png)|1545779598|Assault Rifle|Weapon|
 |[rifle.ak.jungle](/rifle.ak.jungle.png)|2054929933|Jungle Relic Assault Rifle|Weapon|
-|[rifle.ak.med](/rifle.ak.med.png)|472505338|Medieval Assault Rifle|Weapon|
+|[rifle.ak.med](/rifle.ak.med.png)|472505338|Medieval AR|Weapon|
 |[rifle.bolt](/rifle.bolt.png)|1588298435|Bolt Action Rifle|Weapon|
 |[rifle.l96](/rifle.l96.png)|-778367295|L96 Rifle|Weapon|
 |[rifle.lr300](/rifle.lr300.png)|-1812555177|LR-300 Assault Rifle|Weapon|
@@ -887,6 +904,7 @@
 |[speargun.spear](/speargun.spear.png)|-1800345240|Speargun Spear|Ammunition|
 |[spiderweb](/spiderweb.png)|882559853|Spider Webs|Misc|
 |[spikes.floor](/spikes.floor.png)|-92759291|Wooden Floor Spikes|Traps|
+|[spikes.trap](/spikes.trap.png)|-1850297170|Small Spike Trap|Traps|
 |[spinner.wheel](/spinner.wheel.png)|-1100422738|Spinning Wheel|Items|
 |[spoiled.produce](/spoiled.produce.png)|1184215560|Spoiled Produce|Food|
 |[spookyspeaker](/spookyspeaker.png)|1885488976|Spooky Speaker|Misc|
@@ -992,9 +1010,9 @@
 |[wall.frame.fence.gate](/wall.frame.fence.gate.png)|1451568081|Chainlink Fence Gate|Construction|
 |[wall.frame.fence](/wall.frame.fence.png)|-1117626326|Chainlink Fence|Construction|
 |[wall.frame.garagedoor](/wall.frame.garagedoor.png)|-148794216|Garage Door|Construction|
-|[wall.frame.lunar2025_a](/wall.frame.lunar2025_a.png)|1115193056|Lunar Wall Frame Inlay|Construction|
-|[wall.frame.lunar2025_b](/wall.frame.lunar2025_b.png)|-450890885|Lunar Wall Frame Swirling|Construction|
-|[wall.frame.lunar2025_c](/wall.frame.lunar2025_c.png)|-2016974826|Lunar Wall Frame Floral|Construction|
+|[wall.frame.lunar2025_a](/wall.frame.lunar2025_a.png)|1115193056|Wall Divider Pack|Construction|
+|[wall.frame.lunar2025_b](/wall.frame.lunar2025_b.png)|-450890885|Wall Divider Pack|Construction|
+|[wall.frame.lunar2025_c](/wall.frame.lunar2025_c.png)|-2016974826|Wall Divider Pack|Construction|
 |[wall.frame.netting](/wall.frame.netting.png)|1516985844|Netting|Construction|
 |[wall.frame.shopfront](/wall.frame.shopfront.png)|-796583652|Shop Front|Construction|
 |[wall.frame.shopfront.metal](/wall.frame.shopfront.metal.png)|-148229307|Metal Shop Front|Construction|
