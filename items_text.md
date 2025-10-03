@@ -164,7 +164,7 @@
 |[chair](/chair.png)|1534542921|Chair|Items|
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
 |[charity.plushy.01](/charity.plushy.01.png)|2130820932|Cancer Research UK Plushie|Items|
-|[charity.plushy.02](/charity.plushy.02.png)|2130820933|Ronald McDonald House Plushie|Items|
+|[charity.plushy.02](/charity.plushy.02.png)|2130820933|Ronald McDonald House UK Plushie|Items|
 |[chicken.burned](/chicken.burned.png)|1973684065|Burnt Chicken|Food|
 |[chicken.cooked](/chicken.cooked.png)|-1848736516|Cooked Chicken|Food|
 |[chicken.costume](/chicken.costume.png)|-152332823|Chicken Costume|Attire|
