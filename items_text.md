@@ -1,11 +1,12 @@
 # Items
 |Shortname|ID|Name|Category|
 |:-:|:-:|:-:|:-:|
+|[50cal](/50cal.png)|458369891|#50cal|Weapon|
+|[50cal.right](/50cal.right.png)|-383658683|#50cal|Weapon|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[abyss.barrel.horizontal](/abyss.barrel.horizontal.png)|-880494890|Abyss Horizontal Storage Tank|Items|
 |[abyss.barrel.vertical](/abyss.barrel.vertical.png)|-919882824|Abyss Vertical Storage Tank|Items|
-|[advanceblueprintfragment](/advanceblueprintfragment.png)|-1896395719|Advance Blueprint Fragment|Resources|
-|[advancedblueprintfragment](/advancedblueprintfragment.png)|-1896395719|Advanced Blueprint Fragment|Component|
+|[advancedblueprintfragment](/advancedblueprintfragment.png)|-477757067|Advanced Blueprint Fragment|Component|
 |[advancedcoolingtea](/advancedcoolingtea.png)|-1498613415|Advanced Cooling Tea|Food|
 |[advancedcraftingtea_quality](/advancedcraftingtea_quality.png)|-652889722|Advanced Crafting Quality Tea|Food|
 |[advancedwarmingtea](/advancedwarmingtea.png)|-334418777|Advanced Warming Tea|Food|
@@ -34,6 +35,7 @@
 |[ammo.shotgun](/ammo.shotgun.png)|-1685290200|12 Gauge Buckshot|Ammunition|
 |[ammo.shotgun.slug](/ammo.shotgun.slug.png)|-727717969|12 Gauge Slug|Ammunition|
 |[ammo.snowballgun](/ammo.snowballgun.png)|550753330|Snowball Gun Ammo|Ammunition|
+|[anchor](/anchor.png)|829641693|Anchor|Items|
 |[antiradpills](/antiradpills.png)|-1432674913|Anti-Radiation Pills|Medical|
 |[apple](/apple.png)|1548091822|Apple|Food|
 |[apple.spoiled](/apple.spoiled.png)|352130972|Rotten Apple|Food|
@@ -109,6 +111,8 @@
 |[blueidtag](/blueidtag.png)|1364514421|Blue ID Tag|Resources|
 |[blueprintbase](/blueprintbase.png)|-996920608|Blueprint|Misc|
 |[blunderbuss](/blunderbuss.png)|-880412831|Blunderbuss|Weapon|
+|[boat.planner](/boat.planner.png)|-321247698|Boat Plan|Construction|
+|[boatbuildingstation](/boatbuildingstation.png)|1993693904|Boat Building Station|Items|
 |[bone.armor.suit](/bone.armor.suit.png)|1746956556|Bone Armor|Attire|
 |[bone.club](/bone.club.png)|1711033574|Bone Club|Weapon|
 |[bone.fragments](/bone.fragments.png)|1719978075|Bone Fragments|Resources|
@@ -142,6 +146,8 @@
 |[can.tuna](/can.tuna.png)|-1941646328|Can of Tuna|Food|
 |[candycane](/candycane.png)|1121925526|Candy Cane|Food|
 |[candycaneclub](/candycaneclub.png)|1789825282|Candy Cane Club|Weapon|
+|[cannon](/cannon.png)|-34498533|Cannon|Items|
+|[cannonball](/cannonball.png)|-411735114|Cannonball|Ammunition|
 |[captainslog](/captainslog.png)|1230691307|Captain's Log|Misc|
 |[carburetor1](/carburetor1.png)|656371028|Low Quality Carburetor|Component|
 |[carburetor2](/carburetor2.png)|656371027|Medium Quality Carburetor|Component|
@@ -256,7 +262,9 @@
 |[door.double.hinged.metal](/door.double.hinged.metal.png)|1390353317|Sheet Metal Double Door|Construction|
 |[door.double.hinged.toptier](/door.double.hinged.toptier.png)|1221063409|Armored Double Door|Construction|
 |[door.double.hinged.wood](/door.double.hinged.wood.png)|-1336109173|Wood Double Door|Construction|
+|[door.hinged.boat.wood](/door.hinged.boat.wood.png)|-1063073030|Wooden Boat Door|Construction|
 |[door.hinged.industrial.a](/door.hinged.industrial.a.png)|818733919|Industrial Door|Construction|
+|[door.hinged.mboat.wood](/door.hinged.mboat.wood.png)|-63531389|Wooden door for boats|Construction|
 |[door.hinged.metal](/door.hinged.metal.png)|-2067472972|Sheet Metal Door|Construction|
 |[door.hinged.toptier](/door.hinged.toptier.png)|1353298668|Armored Door|Construction|
 |[door.hinged.wood](/door.hinged.wood.png)|1729120840|Wooden Door|Construction|
@@ -564,6 +572,7 @@
 |[knightsarmour.helmet](/knightsarmour.helmet.png)|-427072335|Knights armour helmet|Attire|
 |[knightsarmour.skirt](/knightsarmour.skirt.png)|-945708533|Knights armour skirt plates|Attire|
 |[knighttorso.armour](/knighttorso.armour.png)|547862680|Knights armour cuirass|Attire|
+|[ladder.wooden.boat](/ladder.wooden.boat.png)|255305250|Wooden Boat Ladder|Construction|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
 |[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
@@ -644,6 +653,7 @@
 |[motorbike_sidecar](/motorbike_sidecar.png)|1869224826|Motorbike With Sidecar|Misc|
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
 |[movembermoustachecard](/movembermoustachecard.png)|3380160|Card Movember Moustache|Attire|
+|[mrsoda.can](/mrsoda.can.png)|1886820436|Mr Spice Can|Food|
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
 |[mummymask](/mummymask.png)|809689733|Mummy Mask|Attire|
 |[mushroom](/mushroom.png)|-1962971928|Mushroom|Food|
@@ -699,6 +709,7 @@
 |[piston2](/piston2.png)|1883981801|Medium Quality Pistons|Component|
 |[piston3](/piston3.png)|1883981800|High Quality Pistons|Component|
 |[pitchfork](/pitchfork.png)|1090916276|Pitchfork|Weapon|
+|[plank](/plank.png)|-952411326|Plank|Items|
 |[planter.large](/planter.large.png)|1581210395|Large Planter Box|Items|
 |[planter.small](/planter.small.png)|1903654061|Small Planter Box|Items|
 |[planter.triangle](/planter.triangle.png)|-280812482|Triangle Planter Box|Items|
@@ -710,6 +721,7 @@
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
 |[prisonerhood](/prisonerhood.png)|-892718768|Prisoner Hood|Attire|
 |[propanetank](/propanetank.png)|-1673693549|Empty Propane Tank|Component|
+|[ptboat](/ptboat.png)|1933140008|PTBoat|Items|
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
 |[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
@@ -770,6 +782,7 @@
 |[rustige_egg_e](/rustige_egg_e.png)|-173268125|Rustigé Egg - Green|Misc|
 |[rustige_egg_f](/rustige_egg_f.png)|-173268128|Rustigé Egg - White|Misc|
 |[rustige_egg_g](/rustige_egg_g.png)|-173268127|Rustigé Egg - Cerulean|Misc|
+|[sail](/sail.png)|405905095|Sail|Items|
 |[salvaged.bamboo.shelves](/salvaged.bamboo.shelves.png)|-2110553371|Bamboo Salvaged Shelves|Items|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
 |[salvaged.sword](/salvaged.sword.png)|1326180354|Salvaged Sword|Weapon|
@@ -875,6 +888,7 @@
 |[small.oil.refinery](/small.oil.refinery.png)|-1293296287|Small Oil Refinery|Items|
 |[smallbackpack](/smallbackpack.png)|2068884361|Small Backpack|Attire|
 |[smallcandles](/smallcandles.png)|-2058362263|Small Candle Set|Misc|
+|[smallengine](/smallengine.png)|-2115299615|Small Boat Engine|Items|
 |[smallwaterbottle](/smallwaterbottle.png)|-1039528932|Small Water Bottle|Food|
 |[smart.alarm](/smart.alarm.png)|-695978112|Smart Alarm|Electrical|
 |[smart.switch](/smart.switch.png)|988652725|Smart Switch|Electrical|
@@ -1024,7 +1038,6 @@
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
 |[wallpaper.ceiling](/wallpaper.ceiling.png)|1730664641|Wallpaper Ceiling|Items|
 |[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Wallpaper Flooring|Items|
-|[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
 |[wallpaper.tool](/wallpaper.tool.png)|1629564540|Wallpaper Tool|Tool|
 |[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper Wall|Tool|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
