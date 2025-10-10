@@ -247,7 +247,7 @@
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|Tool|Illuminate the underwater depths with this durable and waterproof diving torch|
 |![](/diving.fins.128.webp)|diving.fins|296519935|Diving Fins|Attire|Diving Fins. Significantly boosts your speed underwater but greatly reduces mobility on land.|
 |![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|Attire|A diving mask that provides clear vision under water at the cost of reduced peripheral vision.|
-|![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench.|
+|![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench or repair bench.|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
 |![](/documents.128.webp)|documents|-451310088|Documents|Tool|A stack of technical looking documents.|
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
