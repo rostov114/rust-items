@@ -1,11 +1,10 @@
 # Items
 |Image|Shortname|ID|Name|Category|Description|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|![](/50cal.128.webp)|50cal|458369891|#50cal|Weapon|#50cal.desc|
-|![](/50cal.right.128.webp)|50cal.right|-383658683|#50cal|Weapon|#50cal.desc|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|Items|Horizontal Abyss container taken from the depths of the ocean|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|Items|Vertical Abyss container taken from the depths of the ocean|
+|![](/advanceblueprintfragment.128.webp)|advanceblueprintfragment|-1896395719|Advance Blueprint Fragment|Resources|Precision schematics with complex information, multiple fragments are necessary for crafting a Tier 3 Workbench.|
 |![](/advancedblueprintfragment.128.webp)|advancedblueprintfragment|-1896395719|Advanced Blueprint Fragment|Component|Precision schematics with complex information, multiple fragments are necessary for crafting a Tier 3 Workbench.|
 |![](/advancedcoolingtea.128.webp)|advancedcoolingtea|-1498613415|Advanced Cooling Tea|Food|An advanced cooling tea, provides hydration and temporarily decreases your max and core temperature.|
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|An advanced crafting tea, provides hydration and temporarily increases the chances of a higher quality crafting outcome.|
@@ -35,7 +34,6 @@
 |![](/ammo.shotgun.128.webp)|ammo.shotgun|-1685290200|12 Gauge Buckshot|Ammunition|Ammunition for a Shotgun.|
 |![](/ammo.shotgun.slug.128.webp)|ammo.shotgun.slug|-727717969|12 Gauge Slug|Ammunition|Single large projectile for a Shotgun.|
 |![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|Snowball Gun Ammo|Ammunition||
-|![](/anchor.128.webp)|anchor|829641693|Anchor|Items|A heavy anchor to stop your boat drifting.|
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|Medical|Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration.|
 |![](/apple.128.webp)|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
@@ -111,8 +109,6 @@
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|Resources|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
 |![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
-|![](/boat.planner.128.webp)|boat.planner|-321247698|Boat Plan|Construction|A boat plan. You can use this to craft boats - right click when equipped for more options.|
-|![](/boatbuildingstation.128.webp)|boatbuildingstation|1993693904|Boat Building Station|Items|A boat yard in your pocket.|
 |![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|Attire|A primitive suit of armor made of bones, weak protection from damage and the elements but better than nothing.|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|Resources|Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.|
@@ -146,8 +142,6 @@
 |![](/can.tuna.128.webp)|can.tuna|-1941646328|Can of Tuna|Food|Chunked tuna found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/candycane.128.webp)|candycane|1121925526|Candy Cane|Food|A very old candy cane from 2014|
 |![](/candycaneclub.128.webp)|candycaneclub|1789825282|Candy Cane Club|Weapon|Smash some faces with this large piece of candy|
-|![](/cannon.128.webp)|cannon|-34498533|Cannon|Items|Bang!.|
-|![](/cannonball.128.webp)|cannonball|-411735114|Cannonball|Ammunition|Round solid ammo for the cannon|
 |![](/captainslog.128.webp)|captainslog|1230691307|Captain's Log|Misc|A deteriorating piece of paper with information relating to the last moments of this vessel.|
 |![](/carburetor1.128.webp)|carburetor1|656371028|Low Quality Carburetor|Component|A low quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
 |![](/carburetor2.128.webp)|carburetor2|656371027|Medium Quality Carburetor|Component|A medium quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
@@ -262,9 +256,7 @@
 |![](/door.double.hinged.metal.128.webp)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.double.hinged.toptier.128.webp)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.double.hinged.wood.128.webp)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
-|![](/door.hinged.boat.wood.128.webp)|door.hinged.boat.wood|-1063073030|Wooden Boat Door|Construction|Secure your boat with this wooden door|
 |![](/door.hinged.industrial.a.128.webp)|door.hinged.industrial.a|818733919|Industrial Door|Construction|A red industrial door with a window.|
-|![](/door.hinged.mboat.wood.128.webp)|door.hinged.mboat.wood|-63531389|Wooden door for boats|Construction|Secure your boat with this wooden door|
 |![](/door.hinged.metal.128.webp)|door.hinged.metal|-2067472972|Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.hinged.toptier.128.webp)|door.hinged.toptier|1353298668|Armored Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.hinged.wood.128.webp)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
@@ -572,7 +564,6 @@
 |![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|Attire|A medieval knights helmet. Made from scrap metal. Excellent craftmanship.|
 |![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|Attire|A well made set of knights plate that covers the hips and thighs. Made of scrap metal.|
 |![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass|Attire|A well made collection of scrap metal formed into a knights armour.|
-|![](/ladder.wooden.boat.128.webp)|ladder.wooden.boat|255305250|Wooden Boat Ladder|Construction|A ladder will help you climb walls on any boat.|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|
@@ -653,7 +644,6 @@
 |![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|Misc|A motorbike with sidecar.|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache (it acts as a hairy bandana) - all proceeds go to Movember, a charity promoting men's health awareness,|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|Attire|A fake moustache for Movember|
-|![](/mrsoda.can.128.webp)|mrsoda.can|1886820436|Mr Spice Can|Food|A delicious and refreshing beverage, with a delightful spicy undertone.|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
@@ -709,7 +699,6 @@
 |![](/piston2.128.webp)|piston2|1883981801|Medium Quality Pistons|Component|Medium quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
 |![](/piston3.128.webp)|piston3|1883981800|High Quality Pistons|Component|High quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
 |![](/pitchfork.128.webp)|pitchfork|1090916276|Pitchfork|Weapon|A 3 pronged pitchfork. Extremely easy to hit targets with.|
-|![](/plank.128.webp)|plank|-952411326|Plank|Items|Good for walking on.|
 |![](/planter.large.128.webp)|planter.large|1581210395|Large Planter Box|Items|A large planter with enough room to plant 9 seeds.|
 |![](/planter.small.128.webp)|planter.small|1903654061|Small Planter Box|Items|A small planter with enough room to plant 3 seeds.|
 |![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|Items|A triangle planter with enough room to plant 4 seeds.|
@@ -721,7 +710,6 @@
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
 |![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|Attire|A hood for prisoners, restricts vision.|
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|Component|Strong metal object.|
-|![](/ptboat.128.webp)|ptboat|1933140008|PTBoat|Items||
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
@@ -782,7 +770,6 @@
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|Misc|A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.|
 |![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|Misc|A beautiful hand crafted cerulean and gold egg, with a miniature cargo ship scene contained inside.|
-|![](/sail.128.webp)|sail|405905095|Sail|Items|A Mailbox that accepts notes. Only you can access the mail due to a one way slit.|
 |![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|Items|Bamboo shelves for item stacking|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
@@ -888,7 +875,6 @@
 |![](/small.oil.refinery.128.webp)|small.oil.refinery|-1293296287|Small Oil Refinery|Items|A small refinery which can produce Low Grade Fuel from Crude Oil.|
 |![](/smallbackpack.128.webp)|smallbackpack|2068884361|Small Backpack|Attire|A small, makeshift backpack|
 |![](/smallcandles.128.webp)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
-|![](/smallengine.128.webp)|smallengine|-2115299615|Small Boat Engine|Items|Faster than sails!|
 |![](/smallwaterbottle.128.webp)|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|
 |![](/smart.switch.128.webp)|smart.switch|988652725|Smart Switch|Electrical|A smart electric switch.|
@@ -1038,6 +1024,7 @@
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Strengthened Glass Window|
 |![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|Items||
 |![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|Items||
+|![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|Items|Transform your base from a rusty shack to a cozy hideout with this sleek wallpaper. A nice touch of style - until the next raid, at least.|
 |![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|Tool|Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.Press [+attack2] to select your skin.|
 |![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|Tool||
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can display a given player's face as wanted.|
