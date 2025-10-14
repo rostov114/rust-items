@@ -6,7 +6,7 @@
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[abyss.barrel.horizontal](/abyss.barrel.horizontal.png)|-880494890|Abyss Horizontal Storage Tank|Items|
 |[abyss.barrel.vertical](/abyss.barrel.vertical.png)|-919882824|Abyss Vertical Storage Tank|Items|
-|[advancedblueprintfragment](/advancedblueprintfragment.png)|-477757067|Advanced Blueprint Fragment|Component|
+|[advancedblueprintfragment](/advancedblueprintfragment.png)|-1896395719|Advanced Blueprint Fragment|Component|
 |[advancedcoolingtea](/advancedcoolingtea.png)|-1498613415|Advanced Cooling Tea|Food|
 |[advancedcraftingtea_quality](/advancedcraftingtea_quality.png)|-652889722|Advanced Crafting Quality Tea|Food|
 |[advancedwarmingtea](/advancedwarmingtea.png)|-334418777|Advanced Warming Tea|Food|
