@@ -475,6 +475,7 @@
 |![](/hat.wellipets.128.webp)|hat.wellipets|-507248640|Wellipets Hat|
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|
+|![](/hazmat.krieg.128.webp)|hazmat.krieg|-902423513|Krieg Hazmat|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Pack|
@@ -564,6 +565,11 @@
 |![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|
 |![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|
 |![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass|
+|![](/krieg.chainsword.128.webp)|krieg.chainsword|-1770281406|Krieg chainsword|
+|![](/krieg.shotgun.128.webp)|krieg.shotgun|-420889602|Krieg Shotgun|
+|![](/krieg.storage.horizontal.128.webp)|krieg.storage.horizontal|652793345|Krieg Storage Crates|
+|![](/krieg.storage.vertical.128.webp)|krieg.storage.vertical|1305765685|Krieg Storage Barrel|
+|![](/kriegbackpack.128.webp)|kriegbackpack|-874650016|Krieg Large Backpack|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|
