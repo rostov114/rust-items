@@ -475,6 +475,7 @@
 |[hat.wellipets](/hat.wellipets.png)|-507248640|Wellipets Hat|Attire|
 |[hat.wolf](/hat.wolf.png)|-1478212975|Wolf Headdress|Attire|
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
+|[hazmat.krieg](/hazmat.krieg.png)|-902423513|Krieg Hazmat|Attire|
 |[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Items|
 |[hazmatsuit.arcticsuit](/hazmatsuit.arcticsuit.png)|-470439097|Arctic Suit|Attire|
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Pack|Attire|
@@ -564,6 +565,11 @@
 |[knightsarmour.helmet](/knightsarmour.helmet.png)|-427072335|Knights armour helmet|Attire|
 |[knightsarmour.skirt](/knightsarmour.skirt.png)|-945708533|Knights armour skirt plates|Attire|
 |[knighttorso.armour](/knighttorso.armour.png)|547862680|Knights armour cuirass|Attire|
+|[krieg.chainsword](/krieg.chainsword.png)|-1770281406|Krieg chainsword|Tool|
+|[krieg.shotgun](/krieg.shotgun.png)|-420889602|Krieg Shotgun|Weapon|
+|[krieg.storage.horizontal](/krieg.storage.horizontal.png)|652793345|Krieg Storage Crates|Items|
+|[krieg.storage.vertical](/krieg.storage.vertical.png)|1305765685|Krieg Storage Barrel|Items|
+|[kriegbackpack](/kriegbackpack.png)|-874650016|Krieg Large Backpack|Attire|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
 |[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
@@ -755,6 +761,7 @@
 |[rock](/rock.png)|963906841|Rock|Tool|
 |[rocket.launcher.dragon](/rocket.launcher.dragon.png)|-1315992997|Dragon Rocket Launcher|Weapon|
 |[rocket.launcher](/rocket.launcher.png)|442886268|Rocket Launcher|Weapon|
+|[rocket.launcher.rpg7](/rocket.launcher.rpg7.png)|494161326|RPG7|Weapon|
 |[rockingchair](/rockingchair.png)|-1863063690|Rocking Chair|Items|
 |[rockingchair.rockingchair2](/rockingchair.rockingchair2.png)|1758333838|Teal|Items|
 |[rockingchair.rockingchair3](/rockingchair.rockingchair3.png)|192249897|Green|Items|

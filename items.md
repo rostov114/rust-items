@@ -475,6 +475,7 @@
 |![](/hat.wellipets.128.webp)|hat.wellipets|-507248640|Wellipets Hat|Attire|A hat made of wellipets boots|
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
+|![](/hazmat.krieg.128.webp)|hazmat.krieg|-902423513|Krieg Hazmat|Attire|A Krieg Hazmat Suit, standard issue for those who never retreat.|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|Items|A plushy of your favourite outfit made by the fabulous people at YouTooz.com|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Pack|Attire|A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.|
@@ -564,6 +565,11 @@
 |![](/knightsarmour.helmet.128.webp)|knightsarmour.helmet|-427072335|Knights armour helmet|Attire|A medieval knights helmet. Made from scrap metal. Excellent craftmanship.|
 |![](/knightsarmour.skirt.128.webp)|knightsarmour.skirt|-945708533|Knights armour skirt plates|Attire|A well made set of knights plate that covers the hips and thighs. Made of scrap metal.|
 |![](/knighttorso.armour.128.webp)|knighttorso.armour|547862680|Knights armour cuirass|Attire|A well made collection of scrap metal formed into a knights armour.|
+|![](/krieg.chainsword.128.webp)|krieg.chainsword|-1770281406|Krieg chainsword|Tool|A brutal tool of war, roaring to life with every swing.|
+|![](/krieg.shotgun.128.webp)|krieg.shotgun|-420889602|Krieg Shotgun|Weapon|Heavy, reliable, and unforgiving. A weapon that never hesitates.|
+|![](/krieg.storage.horizontal.128.webp)|krieg.storage.horizontal|652793345|Krieg Storage Crates|Items|Military-grade crates designed for efficient storage and durability. A staple of any well-supplied outpost.|
+|![](/krieg.storage.vertical.128.webp)|krieg.storage.vertical|1305765685|Krieg Storage Barrel|Items|Industrial barrels repurposed for the front lines. Sturdy, disciplined, and unmistakably Krieg.|
+|![](/kriegbackpack.128.webp)|kriegbackpack|-874650016|Krieg Large Backpack|Attire|Carry your essentials in a rugged military pack, built for endurance and practicality.|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|
@@ -755,6 +761,7 @@
 |![](/rock.128.webp)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
 |![](/rocket.launcher.dragon.128.webp)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
 |![](/rocket.launcher.128.webp)|rocket.launcher|442886268|Rocket Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
+|![](/rocket.launcher.rpg7.128.webp)|rocket.launcher.rpg7|494161326|RPG7|Weapon|Unmatched craftsmanship meets devastating firepower.|
 |![](/rockingchair.128.webp)|rockingchair|-1863063690|Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
 |![](/rockingchair.rockingchair2.128.webp)|rockingchair.rockingchair2|1758333838|Teal|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
 |![](/rockingchair.rockingchair3.128.webp)|rockingchair.rockingchair3|192249897|Green|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
@@ -819,7 +826,7 @@
 |![](/shoes.boots.128.webp)|shoes.boots|-1549739227|Boots|Attire|Sturdy work boots to keep your toes safe, you'd feel nothing if you kicked a table leg. Strong protection against the cold and incoming damage.|
 |![](/shotgun.double.128.webp)|shotgun.double|-765183617|Double Barrel Shotgun|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
 |![](/shotgun.m4.128.webp)|shotgun.m4|678698219|M4 Shotgun|Weapon|A semi automatic military issue shotgun|
-|![](/shotgun.pump.128.webp)|shotgun.pump|795371088|Pump Shotgun|Weapon|A Shotgun. Fires six rounds.|
+|![](/shotgun.pump.128.webp)|shotgun.pump|795371088|Pump Shotgun|Weapon|A Shotgun. Fires 8 rounds.|
 |![](/shotgun.spas12.128.webp)|shotgun.spas12|-41440462|Spas-12 Shotgun|Weapon|A semi automatic military issue shotgun|
 |![](/shotgun.waterpipe.128.webp)|shotgun.waterpipe|-1367281941|Waterpipe Shotgun|Weapon|A Shotgun. Fires a single round before reloading.|
 |![](/shovel.128.webp)|shovel|-1536855921|Shovel|Tool|A shovel for digging up stuff|
