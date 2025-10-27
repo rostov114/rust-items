@@ -1,6 +1,12 @@
 # Items
 |Image|Shortname|ID|Name|Category|Description|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|![](/2module car chassis.128.webp)|2module car chassis|-226151558|2 Module Car Chassis|Misc|2 Module Car Chassis|
+|![](/2module car.128.webp)|2module car|-866121090|2 Module Car|Misc|A motorbike.|
+|![](/3module car chassis.128.webp)|3module car chassis|1482871705|3 Module Car Chassis|Misc|3 Module Car Chassis|
+|![](/3module car.128.webp)|3module car|-831725027|3 Module Car|Misc|3 Module Car|
+|![](/4module car chassis.128.webp)|4module car chassis|385099196|4 Module Car Chassis|Misc|4 Module Car Chassis|
+|![](/4module car.128.webp)|4module car|-935322684|4 Module Car|Misc|4 Module Car|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|Items|Horizontal Abyss container taken from the depths of the ocean|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|Items|Vertical Abyss container taken from the depths of the ocean|
@@ -59,6 +65,7 @@
 |![](/attire.snowman.helmet.128.webp)|attire.snowman.helmet|-842267147|Snowman Helmet|Attire|A snowman helmet which provides ample protection.|
 |![](/autoturret.128.webp)|autoturret|-2139580305|Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
 |![](/axe.salvaged.128.webp)|axe.salvaged|-262590403|Salvaged Axe|Tool|A high-yield resource gathering axe. Slower than the Hatchet.|
+|![](/ball.128.webp)|ball|405904531|Soccer Ball|Misc|Soccer Ball|
 |![](/ballista.bolt.hammerhead.128.webp)|ballista.bolt.hammerhead|-19318653|Hammerhead Bolt|Ammunition|Heavy and solid bolt for a ballista, designed to hammer through doors.|
 |![](/ballista.bolt.incendiary.128.webp)|ballista.bolt.incendiary|-1987565603|Incendiary Bolt|Ammunition|A fire-tipped bolt for a ballista, wrapped in burning cloth, ignites upon impact.|
 |![](/ballista.bolt.piercer.128.webp)|ballista.bolt.piercer|-1127003365|Piercer Bolt|Ammunition|A piercing bolt for a ballista, capable of penetrating armored vehicles.|
@@ -133,6 +140,7 @@
 |![](/burlap.shirt.128.webp)|burlap.shirt|602741290|Burlap Shirt|Attire|A Shirt made out of burlap.|
 |![](/burlap.shoes.128.webp)|burlap.shoes|-761829530|Burlap Shoes|Attire|Shoes made out of burlap.|
 |![](/burlap.trousers.128.webp)|burlap.trousers|1992974553|Burlap Trousers|Attire|Trousers made out of burlap.|
+|![](/caboose.128.webp)|caboose|1732236518|Caboose|Misc|Caboose|
 |![](/cactusflesh.128.webp)|cactusflesh|1783512007|Cactus Flesh|Food|Flesh of a Cactus, contains water.|
 |![](/cakefiveyear.128.webp)|cakefiveyear|1973165031|Birthday Cake|Tool|A very special and happy birthday to Rust!|
 |![](/campfire.128.webp)|campfire|1946219319|Camp Fire|Items|A small camp fire. Provides warmth and light, and you can cook with it.|
@@ -447,6 +455,7 @@
 |![](/gunrack_wide.horizontal.128.webp)|gunrack_wide.horizontal|-96256997|Wide Weapon Rack|Items|Artfully display your arsenal with a handcrafted wall-mounted weapon rack.|
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
+|![](/hab.128.webp)|hab|696029539|Hot Air Balloon|Misc|A Hot Air Balloon.|
 |![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|Misc|A Hot Air Balloon.|
 |![](/half.bamboo.shelves.128.webp)|half.bamboo.shelves|-1923843855|Half Height Bamboo Shelves|Items|Half height salvaged bamboo shelves for stacking|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bag!|
@@ -510,6 +519,7 @@
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A full body armor for a horse. Provides strong protection for you and your steed, at the cost of greatly reduced movement speed.|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A full body armor for a horse made of wood. Provides moderate protection for you and your steed, but with a reduction in movement speed.|
 |![](/horse.costume.128.webp)|horse.costume|1420547167|Horse Costume|Attire|An inflatable horse costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
+|![](/horse.128.webp)|horse|82772055|Horse|Misc|Horse|
 |![](/horse.saddle.double.128.webp)|horse.saddle.double|-1323101799|Double Horse Saddle|Attire|A horse saddle with two seats. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.128.webp)|horse.saddle|-1997543660|Horse Saddle|Attire|Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
 |![](/horse.saddle.single.128.webp)|horse.saddle.single|1559915778|Single Horse Saddle|Attire|A horse saddle with one seat. Having this item allows you to claim a horse in a stable by holding E and selecting the "Claim" option|
@@ -635,6 +645,7 @@
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+attack2] to change voice mode between high and low pitch.|
 |![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|Weapon|A Military grade flamethrower. Uses low grade fuel as ammunition.|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|Items|A small planter with enough room to plant 2 seeds.|
+|![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|Misc|Minicopter|
 |![](/minicrossbow.128.webp)|minicrossbow|-482348853|Mini Crossbow|Weapon|A very accurate ranged weapon with a rotating barrel.|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|Weapon|A military issue belt-fed machine gun with that must be spun up to fire. Fires rapidly once spun up at the expense of movement speed.|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|Attire|A backpack designed to store ammunition for a minigun.|
@@ -761,7 +772,7 @@
 |![](/rock.128.webp)|rock|963906841|Rock|Tool|A Rock. The most basic melee weapon and gathering tool.|
 |![](/rocket.launcher.dragon.128.webp)|rocket.launcher.dragon|-1315992997|Dragon Rocket Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
 |![](/rocket.launcher.128.webp)|rocket.launcher|442886268|Rocket Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
-|![](/rocket.launcher.rpg7.128.webp)|rocket.launcher.rpg7|494161326|RPG7|Weapon|Unmatched craftsmanship meets devastating firepower.|
+|![](/rocket.launcher.rpg7.128.webp)|rocket.launcher.rpg7|494161326|RPG Launcher|Weapon|Unmatched craftsmanship meets devastating firepower.|
 |![](/rockingchair.128.webp)|rockingchair|-1863063690|Rocking Chair|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
 |![](/rockingchair.rockingchair2.128.webp)|rockingchair.rockingchair2|1758333838|Teal|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
 |![](/rockingchair.rockingchair3.128.webp)|rockingchair.rockingchair3|192249897|Green|Items|A rocking chair that responds to your input. Don't fire whilst seated.|
@@ -799,10 +810,12 @@
 |![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|An advanced scrap tea, temporarily increases the amount of scrap you receive from barrels a moderate amount.|
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A basic scrap tea, temporarily increases the amount of scrap you receive from barrels a small amount.|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.|
+|![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|Misc||
 |![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|An block of ice you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
+|![](/sedan.128.webp)|sedan|-374457631|Sedan|Misc|Sedan|
 |![](/seed.black.berry.128.webp)|seed.black.berry|1911552868|Black Berry Seed|Food|These black berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/seed.blue.berry.128.webp)|seed.blue.berry|803954639|Blue Berry Seed|Food|These blue berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/seed.corn.128.webp)|seed.corn|998894949|Corn Seed|Food|Corn seeds can be found when picking wild Corn plants. These seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more corn and faster growth.|
