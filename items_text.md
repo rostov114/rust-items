@@ -490,6 +490,7 @@
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Pack|Attire|
 |[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
 |[hazmatsuit](/hazmatsuit.png)|1266491000|Hazmat Suit|Attire|
+|[hazmatsuit.kick](/hazmatsuit.kick.png)|972302244|Kick Hazmat|Attire|
 |[hazmatsuit.lumberjack](/hazmatsuit.lumberjack.png)|861513346|Lumberjack Suit|Attire|
 |[hazmatsuit.nomadsuit](/hazmatsuit.nomadsuit.png)|491263800|Nomad Suit|Attire|
 |[hazmatsuit.pilot](/hazmatsuit.pilot.png)|1065594600|Pilot Hazmat|Attire|
@@ -645,6 +646,7 @@
 |[microphonestand](/microphonestand.png)|39600618|Microphone Stand|Fun|
 |[military flamethrower](/military flamethrower.png)|703057617|Military Flame Thrower|Weapon|
 |[minecart.planter](/minecart.planter.png)|1361520181|Minecart Planter|Items|
+|[mini fridge](/mini fridge.png)|1174484438|Mini Fridge|Electrical|
 |[minicopter](/minicopter.png)|-1334255764|Minicopter|Misc|
 |[minicrossbow](/minicrossbow.png)|-482348853|Mini Crossbow|Weapon|
 |[minigun](/minigun.png)|935606207|Minigun|Weapon|
