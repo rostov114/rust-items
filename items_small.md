@@ -490,6 +490,7 @@
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Pack|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
+|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|Kick Hazmat|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|
 |![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|
@@ -645,6 +646,7 @@
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|
 |![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|
+|![](/mini fridge.128.webp)|mini fridge|1174484438|Mini Fridge|
 |![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|
 |![](/minicrossbow.128.webp)|minicrossbow|-482348853|Mini Crossbow|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|
