@@ -7,6 +7,9 @@
 |![](/3module car.128.webp)|3module car|-831725027|3 Module Car|
 |![](/4module car chassis.128.webp)|4module car chassis|385099196|4 Module Car Chassis|
 |![](/4module car.128.webp)|4module car|-935322684|4 Module Car|
+|![](/50cal.mounted.128.webp)|50cal.mounted|162882477|#50cal|
+|![](/50cal.mounted.left.128.webp)|50cal.mounted.left|-1467876094|#50cal|
+|![](/50cal.mounted.right.128.webp)|50cal.mounted.right|1248383659|#50cal|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|
@@ -39,6 +42,7 @@
 |![](/ammo.shotgun.128.webp)|ammo.shotgun|-1685290200|12 Gauge Buckshot|
 |![](/ammo.shotgun.slug.128.webp)|ammo.shotgun.slug|-727717969|12 Gauge Slug|
 |![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|Snowball Gun Ammo|
+|![](/anchor.128.webp)|anchor|829641693|Anchor|
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|
 |![](/apple.128.webp)|apple|1548091822|Apple|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|
@@ -115,6 +119,8 @@
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|
 |![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|
+|![](/boat.planner.128.webp)|boat.planner|-321247698|Boat Building Plan|
+|![](/boatbuildingstation.128.webp)|boatbuildingstation|1993693904|Boat Building Station|
 |![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|
@@ -149,6 +155,8 @@
 |![](/can.tuna.128.webp)|can.tuna|-1941646328|Can of Tuna|
 |![](/candycane.128.webp)|candycane|1121925526|Candy Cane|
 |![](/candycaneclub.128.webp)|candycaneclub|1789825282|Candy Cane Club|
+|![](/cannon.128.webp)|cannon|-34498533|Cannon|
+|![](/cannonball.128.webp)|cannonball|-411735114|Cannonball|
 |![](/captainslog.128.webp)|captainslog|1230691307|Captain's Log|
 |![](/carburetor1.128.webp)|carburetor1|656371028|Low Quality Carburetor|
 |![](/carburetor2.128.webp)|carburetor2|656371027|Medium Quality Carburetor|
@@ -209,6 +217,7 @@
 |![](/cocoknight.armor.helmet.128.webp)|cocoknight.armor.helmet|-582467439|Coconut Armor Helmet|
 |![](/cocoknight.armor.pants.128.webp)|cocoknight.armor.pants|507284030|Coconut Armor Pants|
 |![](/cocoknight.armor.torso.128.webp)|cocoknight.armor.torso|1426097945|Coconut Armor Chestplate|
+|![](/coconut.128.webp)|coconut|-24571537|Coconut|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|
@@ -264,6 +273,7 @@
 |![](/door.double.hinged.metal.128.webp)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|
 |![](/door.double.hinged.toptier.128.webp)|door.double.hinged.toptier|1221063409|Armored Double Door|
 |![](/door.double.hinged.wood.128.webp)|door.double.hinged.wood|-1336109173|Wood Double Door|
+|![](/door.hinged.boat.wood.128.webp)|door.hinged.boat.wood|-1063073030|Wooden Boat Door|
 |![](/door.hinged.industrial.a.128.webp)|door.hinged.industrial.a|818733919|Industrial Door|
 |![](/door.hinged.metal.128.webp)|door.hinged.metal|-2067472972|Sheet Metal Door|
 |![](/door.hinged.toptier.128.webp)|door.hinged.toptier|1353298668|Armored Door|
@@ -496,6 +506,7 @@
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|
+|![](/hazmatsuit_scientist_naval.128.webp)|hazmatsuit_scientist_naval|-1937799374|#hazmatsuitnaval.scientist.name|
 |![](/hazmatsuit_scientist_nvgm.128.webp)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|
 |![](/hazmatsuit_scientist_peacekeeper.128.webp)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|
 |![](/hazmatsuittwitch.128.webp)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|
@@ -581,6 +592,7 @@
 |![](/krieg.storage.horizontal.128.webp)|krieg.storage.horizontal|652793345|Krieg Storage Crates|
 |![](/krieg.storage.vertical.128.webp)|krieg.storage.vertical|1305765685|Krieg Storage Barrel|
 |![](/kriegbackpack.128.webp)|kriegbackpack|-874650016|Krieg Large Backpack|
+|![](/ladder.wooden.boat.128.webp)|ladder.wooden.boat|255305250|Wooden Boat Ladder|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|
@@ -666,6 +678,7 @@
 |![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|
+|![](/mrspice.can.128.webp)|mrspice.can|-648077743|Mr Spice Can|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|
@@ -722,6 +735,7 @@
 |![](/piston2.128.webp)|piston2|1883981801|Medium Quality Pistons|
 |![](/piston3.128.webp)|piston3|1883981800|High Quality Pistons|
 |![](/pitchfork.128.webp)|pitchfork|1090916276|Pitchfork|
+|![](/plank.128.webp)|plank|-952411326|Plank|
 |![](/planter.large.128.webp)|planter.large|1581210395|Large Planter Box|
 |![](/planter.small.128.webp)|planter.small|1903654061|Small Planter Box|
 |![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|
@@ -733,6 +747,7 @@
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|
 |![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|
+|![](/ptboat.128.webp)|ptboat|1933140008|PTBoat|
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|
@@ -794,6 +809,7 @@
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|
 |![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|
+|![](/sail.128.webp)|sail|405905095|Sail|
 |![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|
@@ -898,8 +914,10 @@
 |![](/sled.xmas.128.webp)|sled.xmas|-135252633|Sled|
 |![](/sleepingbag.128.webp)|sleepingbag|-1754948969|Sleeping Bag|
 |![](/small.oil.refinery.128.webp)|small.oil.refinery|-1293296287|Small Oil Refinery|
+|![](/small_ramp.128.webp)|small_ramp|-158718378|Small Ramp|
 |![](/smallbackpack.128.webp)|smallbackpack|2068884361|Small Backpack|
 |![](/smallcandles.128.webp)|smallcandles|-2058362263|Small Candle Set|
+|![](/smallengine.128.webp)|smallengine|-2115299615|Small Boat Engine|
 |![](/smallwaterbottle.128.webp)|smallwaterbottle|-1039528932|Small Water Bottle|
 |![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|
 |![](/smart.switch.128.webp)|smart.switch|988652725|Smart Switch|
@@ -938,6 +956,7 @@
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|
 |![](/starballoon2025.128.webp)|starballoon2025|-1782127806|Star Balloon|
 |![](/stash.small.128.webp)|stash.small|-369760990|Small Stash|
+|![](/steeringwheel.boat.128.webp)|steeringwheel.boat|-1866909924|Steering Wheel|
 |![](/sticks.128.webp)|sticks|642482233|Sticks|
 |![](/stocking.large.128.webp)|stocking.large|-465682601|SUPER Stocking|
 |![](/stocking.small.128.webp)|stocking.small|1668858301|Small Stocking|

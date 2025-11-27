@@ -7,6 +7,9 @@
 |[3module car](/3module car.png)|-831725027|3 Module Car|Misc|
 |[4module car chassis](/4module car chassis.png)|385099196|4 Module Car Chassis|Misc|
 |[4module car](/4module car.png)|-935322684|4 Module Car|Misc|
+|[50cal.mounted](/50cal.mounted.png)|162882477|#50cal|Weapon|
+|[50cal.mounted.left](/50cal.mounted.left.png)|-1467876094|#50cal|Weapon|
+|[50cal.mounted.right](/50cal.mounted.right.png)|1248383659|#50cal|Weapon|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[abyss.barrel.horizontal](/abyss.barrel.horizontal.png)|-880494890|Abyss Horizontal Storage Tank|Items|
 |[abyss.barrel.vertical](/abyss.barrel.vertical.png)|-919882824|Abyss Vertical Storage Tank|Items|
@@ -39,6 +42,7 @@
 |[ammo.shotgun](/ammo.shotgun.png)|-1685290200|12 Gauge Buckshot|Ammunition|
 |[ammo.shotgun.slug](/ammo.shotgun.slug.png)|-727717969|12 Gauge Slug|Ammunition|
 |[ammo.snowballgun](/ammo.snowballgun.png)|550753330|Snowball Gun Ammo|Ammunition|
+|[anchor](/anchor.png)|829641693|Anchor|Items|
 |[antiradpills](/antiradpills.png)|-1432674913|Anti-Radiation Pills|Medical|
 |[apple](/apple.png)|1548091822|Apple|Food|
 |[apple.spoiled](/apple.spoiled.png)|352130972|Rotten Apple|Food|
@@ -115,6 +119,8 @@
 |[blueidtag](/blueidtag.png)|1364514421|Blue ID Tag|Resources|
 |[blueprintbase](/blueprintbase.png)|-996920608|Blueprint|Misc|
 |[blunderbuss](/blunderbuss.png)|-880412831|Blunderbuss|Weapon|
+|[boat.planner](/boat.planner.png)|-321247698|Boat Building Plan|Construction|
+|[boatbuildingstation](/boatbuildingstation.png)|1993693904|Boat Building Station|Items|
 |[bone.armor.suit](/bone.armor.suit.png)|1746956556|Bone Armor|Attire|
 |[bone.club](/bone.club.png)|1711033574|Bone Club|Weapon|
 |[bone.fragments](/bone.fragments.png)|1719978075|Bone Fragments|Resources|
@@ -149,6 +155,8 @@
 |[can.tuna](/can.tuna.png)|-1941646328|Can of Tuna|Food|
 |[candycane](/candycane.png)|1121925526|Candy Cane|Food|
 |[candycaneclub](/candycaneclub.png)|1789825282|Candy Cane Club|Weapon|
+|[cannon](/cannon.png)|-34498533|Cannon|Items|
+|[cannonball](/cannonball.png)|-411735114|Cannonball|Ammunition|
 |[captainslog](/captainslog.png)|1230691307|Captain's Log|Misc|
 |[carburetor1](/carburetor1.png)|656371028|Low Quality Carburetor|Component|
 |[carburetor2](/carburetor2.png)|656371027|Medium Quality Carburetor|Component|
@@ -209,6 +217,7 @@
 |[cocoknight.armor.helmet](/cocoknight.armor.helmet.png)|-582467439|Coconut Armor Helmet|Attire|
 |[cocoknight.armor.pants](/cocoknight.armor.pants.png)|507284030|Coconut Armor Pants|Attire|
 |[cocoknight.armor.torso](/cocoknight.armor.torso.png)|1426097945|Coconut Armor Chestplate|Attire|
+|[coconut](/coconut.png)|-24571537|Coconut|Food|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
 |[command.block](/command.block.png)|-1247485104|Command Block|Electrical|
@@ -264,6 +273,7 @@
 |[door.double.hinged.metal](/door.double.hinged.metal.png)|1390353317|Sheet Metal Double Door|Construction|
 |[door.double.hinged.toptier](/door.double.hinged.toptier.png)|1221063409|Armored Double Door|Construction|
 |[door.double.hinged.wood](/door.double.hinged.wood.png)|-1336109173|Wood Double Door|Construction|
+|[door.hinged.boat.wood](/door.hinged.boat.wood.png)|-1063073030|Wooden Boat Door|Construction|
 |[door.hinged.industrial.a](/door.hinged.industrial.a.png)|818733919|Industrial Door|Construction|
 |[door.hinged.metal](/door.hinged.metal.png)|-2067472972|Sheet Metal Door|Construction|
 |[door.hinged.toptier](/door.hinged.toptier.png)|1353298668|Armored Door|Construction|
@@ -496,6 +506,7 @@
 |[hazmatsuit.spacesuit](/hazmatsuit.spacesuit.png)|-560304835|Space Suit|Attire|
 |[hazmatsuit_scientist](/hazmatsuit_scientist.png)|-253079493|Scientist Suit|Attire|
 |[hazmatsuit_scientist_arctic](/hazmatsuit_scientist_arctic.png)|1107575710|Arctic Scientist Suit|Attire|
+|[hazmatsuit_scientist_naval](/hazmatsuit_scientist_naval.png)|-1937799374|#hazmatsuitnaval.scientist.name|Attire|
 |[hazmatsuit_scientist_nvgm](/hazmatsuit_scientist_nvgm.png)|86840834|NVGM Scientist Suit|Attire|
 |[hazmatsuit_scientist_peacekeeper](/hazmatsuit_scientist_peacekeeper.png)|-1958316066|Scientist Suit|Attire|
 |[hazmatsuittwitch](/hazmatsuittwitch.png)|468313189|Twitch Rivals Hazmat Suit|Attire|
@@ -581,6 +592,7 @@
 |[krieg.storage.horizontal](/krieg.storage.horizontal.png)|652793345|Krieg Storage Crates|Items|
 |[krieg.storage.vertical](/krieg.storage.vertical.png)|1305765685|Krieg Storage Barrel|Items|
 |[kriegbackpack](/kriegbackpack.png)|-874650016|Krieg Large Backpack|Attire|
+|[ladder.wooden.boat](/ladder.wooden.boat.png)|255305250|Wooden Boat Ladder|Construction|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
 |[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
@@ -666,6 +678,7 @@
 |[motorbike_sidecar](/motorbike_sidecar.png)|1869224826|Motorbike With Sidecar|Misc|
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
 |[movembermoustachecard](/movembermoustachecard.png)|3380160|Card Movember Moustache|Attire|
+|[mrspice.can](/mrspice.can.png)|-648077743|Mr Spice Can|Food|
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
 |[mummymask](/mummymask.png)|809689733|Mummy Mask|Attire|
 |[mushroom](/mushroom.png)|-1962971928|Mushroom|Food|
@@ -722,6 +735,7 @@
 |[piston2](/piston2.png)|1883981801|Medium Quality Pistons|Component|
 |[piston3](/piston3.png)|1883981800|High Quality Pistons|Component|
 |[pitchfork](/pitchfork.png)|1090916276|Pitchfork|Weapon|
+|[plank](/plank.png)|-952411326|Plank|Items|
 |[planter.large](/planter.large.png)|1581210395|Large Planter Box|Items|
 |[planter.small](/planter.small.png)|1903654061|Small Planter Box|Items|
 |[planter.triangle](/planter.triangle.png)|-280812482|Triangle Planter Box|Items|
@@ -733,6 +747,7 @@
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
 |[prisonerhood](/prisonerhood.png)|-892718768|Prisoner Hood|Attire|
 |[propanetank](/propanetank.png)|-1673693549|Empty Propane Tank|Component|
+|[ptboat](/ptboat.png)|1933140008|PTBoat|Items|
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
 |[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
@@ -794,6 +809,7 @@
 |[rustige_egg_e](/rustige_egg_e.png)|-173268125|Rustigé Egg - Green|Misc|
 |[rustige_egg_f](/rustige_egg_f.png)|-173268128|Rustigé Egg - White|Misc|
 |[rustige_egg_g](/rustige_egg_g.png)|-173268127|Rustigé Egg - Cerulean|Misc|
+|[sail](/sail.png)|405905095|Sail|Items|
 |[salvaged.bamboo.shelves](/salvaged.bamboo.shelves.png)|-2110553371|Bamboo Salvaged Shelves|Items|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
 |[salvaged.sword](/salvaged.sword.png)|1326180354|Salvaged Sword|Weapon|
@@ -898,8 +914,10 @@
 |[sled.xmas](/sled.xmas.png)|-135252633|Sled|Fun|
 |[sleepingbag](/sleepingbag.png)|-1754948969|Sleeping Bag|Items|
 |[small.oil.refinery](/small.oil.refinery.png)|-1293296287|Small Oil Refinery|Items|
+|[small_ramp](/small_ramp.png)|-158718378|Small Ramp|Items|
 |[smallbackpack](/smallbackpack.png)|2068884361|Small Backpack|Attire|
 |[smallcandles](/smallcandles.png)|-2058362263|Small Candle Set|Misc|
+|[smallengine](/smallengine.png)|-2115299615|Small Boat Engine|Items|
 |[smallwaterbottle](/smallwaterbottle.png)|-1039528932|Small Water Bottle|Food|
 |[smart.alarm](/smart.alarm.png)|-695978112|Smart Alarm|Electrical|
 |[smart.switch](/smart.switch.png)|988652725|Smart Switch|Electrical|
@@ -938,6 +956,7 @@
 |[spraycandecal](/spraycandecal.png)|-1366326648|Spray Can Decal|Tool|
 |[starballoon2025](/starballoon2025.png)|-1782127806|Star Balloon|Items|
 |[stash.small](/stash.small.png)|-369760990|Small Stash|Items|
+|[steeringwheel.boat](/steeringwheel.boat.png)|-1866909924|Steering Wheel|Items|
 |[sticks](/sticks.png)|642482233|Sticks|Component|
 |[stocking.large](/stocking.large.png)|-465682601|SUPER Stocking|Items|
 |[stocking.small](/stocking.small.png)|1668858301|Small Stocking|Items|
