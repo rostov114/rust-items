@@ -479,7 +479,7 @@
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat, offering some basic protection from damage and cold for your head.|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat, offering minor protection from damage and cold for your head.|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
-|![](/hat.candle.birthday.128.webp)|hat.candle.birthday|1633553557|Birthday Candle Hat|Attire|A hat with a candle on top. You can turn the candle on in your inventory.|
+|![](/hat.candle.birthday.128.webp)|hat.candle.birthday|1633553557|Birthday Candle Hat|Attire|A hat with a birthday candle on top. You can turn the candle on in your inventory.|
 |![](/hat.candle.128.webp)|hat.candle|1714496074|Candle Hat|Attire|A hat with a candle on top. You can turn the candle on in your inventory.|
 |![](/hat.cap.128.webp)|hat.cap|-1022661119|Baseball Cap|Attire|Simple hat for your head. Offers basic protection from damage and the cold.|
 |![](/hat.dragonmask.128.webp)|hat.dragonmask|-22883916|Dragon Mask|Attire|A special dragon mask to celebrate Chinese New Year|
@@ -781,6 +781,7 @@
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
+|![](/rifle.lr300.space.128.webp)|rifle.lr300.space|533993281|LR-300 Space Assault Rifle|Weapon|Non-standard-issue high-powered light assault rifle for only the most elite of practitioners.|
 |![](/rifle.m39.128.webp)|rifle.m39|28201841|M39 Rifle|Weapon|Military grade semi auto rifle|
 |![](/rifle.semiauto.128.webp)|rifle.semiauto|-904863145|Semi-Automatic Rifle|Weapon|A Semi Automatic Rifle.|
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Military-Grade Semi Automatic Rifle.|
