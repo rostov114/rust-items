@@ -747,7 +747,7 @@
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
 |[prisonerhood](/prisonerhood.png)|-892718768|Prisoner Hood|Attire|
 |[propanetank](/propanetank.png)|-1673693549|Empty Propane Tank|Component|
-|[ptboat](/ptboat.png)|1933140008|PTBoat|Items|
+|[ptboat](/ptboat.png)|1933140008|PT Boat|Items|
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
 |[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
