@@ -747,7 +747,7 @@
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|
 |![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|
-|![](/ptboat.128.webp)|ptboat|1933140008|PTBoat|
+|![](/ptboat.128.webp)|ptboat|1933140008|PT Boat|
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|
