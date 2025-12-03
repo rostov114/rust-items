@@ -781,7 +781,7 @@
 |[rifle.bolt](/rifle.bolt.png)|1588298435|Bolt Action Rifle|Weapon|
 |[rifle.l96](/rifle.l96.png)|-778367295|L96 Rifle|Weapon|
 |[rifle.lr300](/rifle.lr300.png)|-1812555177|LR-300 Assault Rifle|Weapon|
-|[rifle.lr300.space](/rifle.lr300.space.png)|533993281|LR-300 Space Assault Rifle|Weapon|
+|[rifle.lr300.space](/rifle.lr300.space.png)|533993281|Space LR-300 Assault Rifle|Weapon|
 |[rifle.m39](/rifle.m39.png)|28201841|M39 Rifle|Weapon|
 |[rifle.semiauto](/rifle.semiauto.png)|-904863145|Semi-Automatic Rifle|Weapon|
 |[rifle.sks](/rifle.sks.png)|-348232115|SKS|Weapon|
