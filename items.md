@@ -781,7 +781,7 @@
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
-|![](/rifle.lr300.space.128.webp)|rifle.lr300.space|533993281|LR-300 Space Assault Rifle|Weapon|Non-standard-issue high-powered light assault rifle for only the most elite of practitioners.|
+|![](/rifle.lr300.space.128.webp)|rifle.lr300.space|533993281|Space LR-300 Assault Rifle|Weapon|Non-standard-issue high-powered light assault rifle for only the most elite of practitioners.|
 |![](/rifle.m39.128.webp)|rifle.m39|28201841|M39 Rifle|Weapon|Military grade semi auto rifle|
 |![](/rifle.semiauto.128.webp)|rifle.semiauto|-904863145|Semi-Automatic Rifle|Weapon|A Semi Automatic Rifle.|
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Military-Grade Semi Automatic Rifle.|
