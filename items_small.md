@@ -181,6 +181,7 @@
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|
 |![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|
+|![](/circleballoon2025.128.webp)|circleballoon2025|-105343718|Circle Balloon|
 |![](/clantable.128.webp)|clantable|486661382|Clan Table|
 |![](/clatter.helmet.128.webp)|clatter.helmet|968019378|Clatter Helmet|
 |![](/clone.black.berry.128.webp)|clone.black.berry|122783240|Black Berry Clone|
@@ -471,6 +472,7 @@
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|
+|![](/hat.candle.birthday.128.webp)|hat.candle.birthday|1633553557|Birthday Candle Hat|
 |![](/hat.candle.128.webp)|hat.candle|1714496074|Candle Hat|
 |![](/hat.cap.128.webp)|hat.cap|-1022661119|Baseball Cap|
 |![](/hat.dragonmask.128.webp)|hat.dragonmask|-22883916|Dragon Mask|
@@ -505,6 +507,7 @@
 |![](/healingtea.advanced.128.webp)|healingtea.advanced|-2123125470|Advanced Healing Tea|
 |![](/healingtea.128.webp)|healingtea|-929092070|Basic Healing Tea|
 |![](/healingtea.pure.128.webp)|healingtea.pure|-1677315902|Pure Healing Tea|
+|![](/heartballoon2025.128.webp)|heartballoon2025|362863314|Heart Balloon|
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|
@@ -587,6 +590,8 @@
 |![](/largecandles.128.webp)|largecandles|-489848205|Large Candle Set|
 |![](/largemedkit.128.webp)|largemedkit|254522515|Large Medkit|
 |![](/laserlight.128.webp)|laserlight|853471967|Laser Light|
+|![](/latexballoon2025.128.webp)|latexballoon2025|1295301598|Latex Balloon|
+|![](/latexclumpballoon2025.128.webp)|latexclumpballoon2025|-1440443161|Clump of Latex Balloons|
 |![](/lavenderidtag.128.webp)|lavenderidtag|1223729384|Lavender ID Tag|
 |![](/leather.128.webp)|leather|1381010055|Leather|
 |![](/legacy bow.128.webp)|legacy bow|-73195037|Legacy Bow|
@@ -655,6 +660,7 @@
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|
+|![](/mixedclumpballoon2025.128.webp)|mixedclumpballoon2025|571949408|Clump of Mixed Balloons|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|
@@ -666,6 +672,7 @@
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|
+|![](/neonsigntr.128.webp)|neonsigntr|381595627|Twitch Rivals Neon Sign|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|
 |![](/note.128.webp)|note|1414245162|Note|
@@ -762,6 +769,7 @@
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|
+|![](/rifle.lr300.space.128.webp)|rifle.lr300.space|533993281|Space LR-300 Assault Rifle|
 |![](/rifle.m39.128.webp)|rifle.m39|28201841|M39 Rifle|
 |![](/rifle.semiauto.128.webp)|rifle.semiauto|-904863145|Semi-Automatic Rifle|
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|
@@ -924,6 +932,7 @@
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|
 |![](/speargun.128.webp)|speargun|-1517740219|Speargun|
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|
+|![](/speechbubbleballoon2025.128.webp)|speechbubbleballoon2025|963400638|Speech Bubble Balloon|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|
 |![](/spikes.trap.128.webp)|spikes.trap|-1850297170|Small Spike Trap|
@@ -932,6 +941,7 @@
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|
+|![](/starballoon2025.128.webp)|starballoon2025|-1782127806|Star Balloon|
 |![](/stash.small.128.webp)|stash.small|-369760990|Small Stash|
 |![](/sticks.128.webp)|sticks|642482233|Sticks|
 |![](/stocking.large.128.webp)|stocking.large|-465682601|SUPER Stocking|
@@ -991,6 +1001,7 @@
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|
+|![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|
 |![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|

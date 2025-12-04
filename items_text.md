@@ -181,6 +181,7 @@
 |[chineselantern](/chineselantern.png)|-1916473915|Chinese Lantern|Items|
 |[chineselanternwhite](/chineselanternwhite.png)|-770304148|Chinese Lantern White|Items|
 |[chocolate](/chocolate.png)|-965336208|Chocolate Bar|Food|
+|[circleballoon2025](/circleballoon2025.png)|-105343718|Circle Balloon|Items|
 |[clantable](/clantable.png)|486661382|Clan Table|Items|
 |[clatter.helmet](/clatter.helmet.png)|968019378|Clatter Helmet|Attire|
 |[clone.black.berry](/clone.black.berry.png)|122783240|Black Berry Clone|Food|
@@ -471,6 +472,7 @@
 |[hat.beenie](/hat.beenie.png)|1675639563|Beenie Hat|Attire|
 |[hat.boonie](/hat.boonie.png)|-23994173|Boonie Hat|Attire|
 |[hat.bunnyhat](/hat.bunnyhat.png)|23391694|Bunny Hat|Attire|
+|[hat.candle.birthday](/hat.candle.birthday.png)|1633553557|Birthday Candle Hat|Attire|
 |[hat.candle](/hat.candle.png)|1714496074|Candle Hat|Attire|
 |[hat.cap](/hat.cap.png)|-1022661119|Baseball Cap|Attire|
 |[hat.dragonmask](/hat.dragonmask.png)|-22883916|Dragon Mask|Attire|
@@ -505,6 +507,7 @@
 |[healingtea.advanced](/healingtea.advanced.png)|-2123125470|Advanced Healing Tea|Food|
 |[healingtea](/healingtea.png)|-929092070|Basic Healing Tea|Food|
 |[healingtea.pure](/healingtea.pure.png)|-1677315902|Pure Healing Tea|Food|
+|[heartballoon2025](/heartballoon2025.png)|362863314|Heart Balloon|Items|
 |[heavy.plate.helmet](/heavy.plate.helmet.png)|1181207482|Heavy Plate Helmet|Attire|
 |[heavy.plate.jacket](/heavy.plate.jacket.png)|-1102429027|Heavy Plate Jacket|Attire|
 |[heavy.plate.pants](/heavy.plate.pants.png)|-1778159885|Heavy Plate Pants|Attire|
@@ -587,6 +590,8 @@
 |[largecandles](/largecandles.png)|-489848205|Large Candle Set|Misc|
 |[largemedkit](/largemedkit.png)|254522515|Large Medkit|Medical|
 |[laserlight](/laserlight.png)|853471967|Laser Light|Fun|
+|[latexballoon2025](/latexballoon2025.png)|1295301598|Latex Balloon|Items|
+|[latexclumpballoon2025](/latexclumpballoon2025.png)|-1440443161|Clump of Latex Balloons|Items|
 |[lavenderidtag](/lavenderidtag.png)|1223729384|Lavender ID Tag|Resources|
 |[leather](/leather.png)|1381010055|Leather|Resources|
 |[legacy bow](/legacy bow.png)|-73195037|Legacy Bow|Weapon|
@@ -655,6 +660,7 @@
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
 |[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
+|[mixedclumpballoon2025](/mixedclumpballoon2025.png)|571949408|Clump of Mixed Balloons|Items|
 |[mixingtable](/mixingtable.png)|1259919256|Mixing Table|Items|
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
 |[mobilephone](/mobilephone.png)|-20045316|Mobile Phone|Fun|
@@ -666,6 +672,7 @@
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
 |[mummymask](/mummymask.png)|809689733|Mummy Mask|Attire|
 |[mushroom](/mushroom.png)|-1962971928|Mushroom|Food|
+|[neonsigntr](/neonsigntr.png)|381595627|Twitch Rivals Neon Sign|Electrical|
 |[newyeargong](/newyeargong.png)|-961457160|New Year Gong|Fun|
 |[nightvisiongoggles](/nightvisiongoggles.png)|-1518883088|Night Vision Goggles|Attire|
 |[note](/note.png)|1414245162|Note|Misc|
@@ -762,6 +769,7 @@
 |[rifle.bolt](/rifle.bolt.png)|1588298435|Bolt Action Rifle|Weapon|
 |[rifle.l96](/rifle.l96.png)|-778367295|L96 Rifle|Weapon|
 |[rifle.lr300](/rifle.lr300.png)|-1812555177|LR-300 Assault Rifle|Weapon|
+|[rifle.lr300.space](/rifle.lr300.space.png)|533993281|Space LR-300 Assault Rifle|Weapon|
 |[rifle.m39](/rifle.m39.png)|28201841|M39 Rifle|Weapon|
 |[rifle.semiauto](/rifle.semiauto.png)|-904863145|Semi-Automatic Rifle|Weapon|
 |[rifle.sks](/rifle.sks.png)|-348232115|SKS|Weapon|
@@ -924,6 +932,7 @@
 |[spear.wooden](/spear.wooden.png)|1540934679|Wooden Spear|Weapon|
 |[speargun](/speargun.png)|-1517740219|Speargun|Weapon|
 |[speargun.spear](/speargun.spear.png)|-1800345240|Speargun Spear|Ammunition|
+|[speechbubbleballoon2025](/speechbubbleballoon2025.png)|963400638|Speech Bubble Balloon|Items|
 |[spiderweb](/spiderweb.png)|882559853|Spider Webs|Misc|
 |[spikes.floor](/spikes.floor.png)|-92759291|Wooden Floor Spikes|Traps|
 |[spikes.trap](/spikes.trap.png)|-1850297170|Small Spike Trap|Traps|
@@ -932,6 +941,7 @@
 |[spookyspeaker](/spookyspeaker.png)|1885488976|Spooky Speaker|Misc|
 |[spraycan](/spraycan.png)|-596876839|Spray Can|Tool|
 |[spraycandecal](/spraycandecal.png)|-1366326648|Spray Can Decal|Tool|
+|[starballoon2025](/starballoon2025.png)|-1782127806|Star Balloon|Items|
 |[stash.small](/stash.small.png)|-369760990|Small Stash|Items|
 |[sticks](/sticks.png)|642482233|Sticks|Component|
 |[stocking.large](/stocking.large.png)|-465682601|SUPER Stocking|Items|
@@ -991,6 +1001,7 @@
 |[tunalight](/tunalight.png)|-1478445584|Tuna Can Lamp|Items|
 |[twitch.headset](/twitch.headset.png)|-1569700847|Headset|Attire|
 |[twitchrivals2023desk](/twitchrivals2023desk.png)|-243540612|Twitch Rivals Desk|Electrical|
+|[twitchrivals2025sofa](/twitchrivals2025sofa.png)|1604092540|Twitch Rivals 2025 Sofa|Items|
 |[twitchrivalsflag](/twitchrivalsflag.png)|-739993590|Twitch Rivals Flag|Attire|
 |[twitchsunglasses](/twitchsunglasses.png)|20489901|Purple Sunglasses|Attire|
 |[twowaymirror.window](/twowaymirror.window.png)|-1683726934|Two-Way Mirror|Items|

@@ -181,6 +181,7 @@
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
 |![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|Items|A decorative White Paper lantern|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
+|![](/circleballoon2025.128.webp)|circleballoon2025|-105343718|Circle Balloon|Items|A circular balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/clantable.128.webp)|clantable|486661382|Clan Table|Items|A table for managing clans.|
 |![](/clatter.helmet.128.webp)|clatter.helmet|968019378|Clatter Helmet|Attire|Special helmet for players who own Clatter and have played for at least 30 minutes, replaces the bucket helmet.|
 |![](/clone.black.berry.128.webp)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
@@ -471,6 +472,7 @@
 |![](/hat.beenie.128.webp)|hat.beenie|1675639563|Beenie Hat|Attire|A wooly hat, offering some basic protection from damage and cold for your head.|
 |![](/hat.boonie.128.webp)|hat.boonie|-23994173|Boonie Hat|Attire|A boonie hat, offering minor protection from damage and cold for your head.|
 |![](/hat.bunnyhat.128.webp)|hat.bunnyhat|23391694|Bunny Hat|Attire|A silly Bunny Hat with wobbly ears to celebrate Easter 2021|
+|![](/hat.candle.birthday.128.webp)|hat.candle.birthday|1633553557|Birthday Candle Hat|Attire|A hat with a birthday candle on top. You can turn the candle on in your inventory.|
 |![](/hat.candle.128.webp)|hat.candle|1714496074|Candle Hat|Attire|A hat with a candle on top. You can turn the candle on in your inventory.|
 |![](/hat.cap.128.webp)|hat.cap|-1022661119|Baseball Cap|Attire|Simple hat for your head. Offers basic protection from damage and the cold.|
 |![](/hat.dragonmask.128.webp)|hat.dragonmask|-22883916|Dragon Mask|Attire|A special dragon mask to celebrate Chinese New Year|
@@ -505,6 +507,7 @@
 |![](/healingtea.advanced.128.webp)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|An advanced healing tea, provides hydration and heals you a moderate amount over time.|
 |![](/healingtea.128.webp)|healingtea|-929092070|Basic Healing Tea|Food|A basic healing tea, provides hydration and heals you a small amount over time.|
 |![](/healingtea.pure.128.webp)|healingtea.pure|-1677315902|Pure Healing Tea|Food|A pure healing tea, provides hydration and heals you a large amount over time.|
+|![](/heartballoon2025.128.webp)|heartballoon2025|362863314|Heart Balloon|Items|A heart-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
@@ -587,6 +590,8 @@
 |![](/largecandles.128.webp)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
 |![](/largemedkit.128.webp)|largemedkit|254522515|Large Medkit|Medical|A large medkit that heals you to max health over time and stops any bleeding instantly.Guarantees 100% recovery from the wounded state if placed in your toolbar.|
 |![](/laserlight.128.webp)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
+|![](/latexballoon2025.128.webp)|latexballoon2025|1295301598|Latex Balloon|Items|A latex balloon to use as decoration and for you to celebrate. You can write on it.|
+|![](/latexclumpballoon2025.128.webp)|latexclumpballoon2025|-1440443161|Clump of Latex Balloons|Items|A clump of latex balloons to use as decoration and for you to celebrate.|
 |![](/lavenderidtag.128.webp)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.128.webp)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
 |![](/legacy bow.128.webp)|legacy bow|-73195037|Legacy Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
@@ -655,6 +660,7 @@
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|Resources|Mint ID Tag|
+|![](/mixedclumpballoon2025.128.webp)|mixedclumpballoon2025|571949408|Clump of Mixed Balloons|Items|A clump of mixed balloons to use as decoration and for you to celebrate.|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|Items|Used for mixing recipes.|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialer.|
@@ -666,6 +672,7 @@
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
+|![](/neonsigntr.128.webp)|neonsigntr|381595627|Twitch Rivals Neon Sign|Electrical|A Twitch Rivals Light-Up Neon Sign|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
 |![](/note.128.webp)|note|1414245162|Note|Misc|A scrap of paper for leaving notes.|
@@ -762,6 +769,7 @@
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
+|![](/rifle.lr300.space.128.webp)|rifle.lr300.space|533993281|Space LR-300 Assault Rifle|Weapon|Non-standard-issue high-powered light assault rifle for only the most elite of practitioners.|
 |![](/rifle.m39.128.webp)|rifle.m39|28201841|M39 Rifle|Weapon|Military grade semi auto rifle|
 |![](/rifle.semiauto.128.webp)|rifle.semiauto|-904863145|Semi-Automatic Rifle|Weapon|A Semi Automatic Rifle.|
 |![](/rifle.sks.128.webp)|rifle.sks|-348232115|SKS|Weapon|A Military-Grade Semi Automatic Rifle.|
@@ -924,6 +932,7 @@
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
 |![](/speargun.128.webp)|speargun|-1517740219|Speargun|Weapon|A speargun which can only be fired underwater. Excellent for hunting Sharks.|
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|Ammunition|Ammunition for a speargun.|
+|![](/speechbubbleballoon2025.128.webp)|speechbubbleballoon2025|963400638|Speech Bubble Balloon|Items|A speech bubble-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spikes.trap.128.webp)|spikes.trap|-1850297170|Small Spike Trap|Traps|A small improvised trap that injures and slows anyone who steps on it.|
@@ -932,6 +941,7 @@
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|Tool||
+|![](/starballoon2025.128.webp)|starballoon2025|-1782127806|Star Balloon|Items|A star-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/stash.small.128.webp)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/sticks.128.webp)|sticks|642482233|Sticks|Component|Some long, some short.|
 |![](/stocking.large.128.webp)|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
@@ -991,6 +1001,7 @@
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|Items|A makeshift wall light. Still smells faintly of fish.|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|Electrical|Twitch Rivals Desk|
+|![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|Items|A comfortable twitch branded sofa. A decorative item which provides comfort and seats two.|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|Attire|A wearable flag for Twitch Rivals|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop.|
 |![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
