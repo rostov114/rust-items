@@ -519,6 +519,7 @@
 |[heavy.plate.helmet](/heavy.plate.helmet.png)|1181207482|Heavy Plate Helmet|Attire|
 |[heavy.plate.jacket](/heavy.plate.jacket.png)|-1102429027|Heavy Plate Jacket|Attire|
 |[heavy.plate.pants](/heavy.plate.pants.png)|-1778159885|Heavy Plate Pants|Attire|
+|[heavy.scientist.plushie](/heavy.scientist.plushie.png)|146221721|Heavy Scientist Plushie|Items|
 |[heavyscientistyoutooz](/heavyscientistyoutooz.png)|-722629980|Heavy Scientist Youtooz|Items|
 |[hitchtroughcombo](/hitchtroughcombo.png)|1160881421|Hitch & Trough|Items|
 |[hmlmg](/hmlmg.png)|-1214542497|HMLMG|Weapon|
@@ -820,6 +821,7 @@
 |[scarecrow](/scarecrow.png)|177226991|Scarecrow|Items|
 |[scarecrow.suit](/scarecrow.suit.png)|273951840|Scarecrow Suit|Attire|
 |[scarecrowhead](/scarecrowhead.png)|809942731|Scarecrow Wrap|Attire|
+|[scientist.plushie](/scientist.plushie.png)|445662288|Scientist Plushie|Items|
 |[scientistsuit_heavy](/scientistsuit_heavy.png)|-1772746857|Heavy Scientist Suit|Attire|
 |[scrap](/scrap.png)|-932201673|Scrap|Resources|
 |[scrapframe.large](/scrapframe.large.png)|-1094453063|Scrap Frame large|Items|
