@@ -511,6 +511,7 @@
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|
+|![](/heavy.scientist.plushie.128.webp)|heavy.scientist.plushie|146221721|#heavy.scientist.plushie.name|
 |![](/heavyscientistyoutooz.128.webp)|heavyscientistyoutooz|-722629980|Heavy Scientist Youtooz|
 |![](/hitchtroughcombo.128.webp)|hitchtroughcombo|1160881421|Hitch & Trough|
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|
@@ -807,6 +808,7 @@
 |![](/scarecrow.128.webp)|scarecrow|177226991|Scarecrow|
 |![](/scarecrow.suit.128.webp)|scarecrow.suit|273951840|Scarecrow Suit|
 |![](/scarecrowhead.128.webp)|scarecrowhead|809942731|Scarecrow Wrap|
+|![](/scientist.plushie.128.webp)|scientist.plushie|445662288|#scientist.plushie.name|
 |![](/scientistsuit_heavy.128.webp)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|
 |![](/scrap.128.webp)|scrap|-932201673|Scrap|
 |![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Scrap Frame large|

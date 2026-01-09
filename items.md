@@ -511,6 +511,7 @@
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
+|![](/heavy.scientist.plushie.128.webp)|heavy.scientist.plushie|146221721|#heavy.scientist.plushie.name|Items|#heavy.scientist.plushie.desc|
 |![](/heavyscientistyoutooz.128.webp)|heavyscientistyoutooz|-722629980|Heavy Scientist Youtooz|Items|Heavy Scientist Youtooz|
 |![](/hitchtroughcombo.128.webp)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
@@ -807,6 +808,7 @@
 |![](/scarecrow.128.webp)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorative deployable item.|
 |![](/scarecrow.suit.128.webp)|scarecrow.suit|273951840|Scarecrow Suit|Attire|A spooky scarecrow suit|
 |![](/scarecrowhead.128.webp)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
+|![](/scientist.plushie.128.webp)|scientist.plushie|445662288|#scientist.plushie.name|Items|#scientist.plushie.desc|
 |![](/scientistsuit_heavy.128.webp)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
 |![](/scrap.128.webp)|scrap|-932201673|Scrap|Resources|Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.|
 |![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Scrap Frame large|Items|A large scrap frame|
