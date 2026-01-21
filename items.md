@@ -24,9 +24,10 @@
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
+|![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammunition for a paintball gun.|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
 |![](/ammo.pistol.hv.128.webp)|ammo.pistol.hv|-1691396643|HV Pistol Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
-|![](/ammo.pistol.128.webp)|ammo.pistol|785728077|Pistol Bullet|Ammunition|Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.|
+|![](/ammo.pistol.128.webp)|ammo.pistol|785728077|Pistol Bullet|Ammunition|Ammunition for a paintball gun.|
 |![](/ammo.rifle.explosive.128.webp)|ammo.rifle.explosive|-1321651331|Explosive 5.56 Rifle Ammo|Ammunition|This ammo explodes on contact dealing a small amount of fragmentation damage to nearby objects.|
 |![](/ammo.rifle.hv.128.webp)|ammo.rifle.hv|1712070256|HV 5.56 Rifle Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
 |![](/ammo.rifle.incendiary.128.webp)|ammo.rifle.incendiary|605467368|Incendiary 5.56 Rifle Ammo|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
@@ -286,6 +287,7 @@
 |![](/dropbox.128.webp)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
 |![](/drumkit.128.webp)|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
 |![](/ducttape.128.webp)|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
+|![](/easel.128.webp)|easel|-1779203452|Portable Easel|Items|A portable easel for painting plein air!|
 |![](/easter.bronzeegg.128.webp)|easter.bronzeegg|844440409|Bronze Egg|Misc|A Bronze Egg. Open for a surprise or collect 10 to upgrade to a silver egg.|
 |![](/easter.goldegg.128.webp)|easter.goldegg|-1002156085|Gold Egg|Misc|A Gold Egg. Containing the best easter loot.|
 |![](/easter.paintedeggs.128.webp)|easter.paintedeggs|-126305173|Painted Egg|Misc|Some simple painted eggs. Collect 10 to upgrade to a bronze egg|
@@ -433,10 +435,12 @@
 |![](/gingerbreadsuit.128.webp)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.128.webp)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.128.webp)|glue|-1899491405|Glue|Component|A strong adhesive.|
-|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Gold Frame large|Items|A large gold frame|
-|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Gold Frame Medium|Items|A medium gold frame|
-|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Gold Frame Small|Items|A small gold frame|
-|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Gold Frame Standing|Items|A standing gold frame|
+|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Ornate Frame large|Items|An extra, extra large ornate frame|
+|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Ornate Frame Medium|Items|A medium ornate frame|
+|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Ornate Frame Small|Items|A small ornate frame|
+|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Ornate Frame Standing|Items|A standing ornate frame|
+|![](/goldframe.xl.128.webp)|goldframe.xl|-1430299277|Ornate Frame XL|Items|An extra large ornate frame|
+|![](/goldframe.xxl.128.webp)|goldframe.xxl|-1322332389|Ornate Frame XXL|Items|An exrtra extra large ornate frame|
 |![](/goldmirror.large.128.webp)|goldmirror.large|1365234594|Gold Mirror large|Items|A large gold mirror|
 |![](/goldmirror.medium.128.webp)|goldmirror.medium|-1804515496|Gold Mirror Medium|Items|A medium gold mirror|
 |![](/goldmirror.small.128.webp)|goldmirror.small|-1444650226|Gold Mirror Small|Items|A small gold mirror|
@@ -608,6 +612,8 @@
 |![](/legacy.shelter.wood.128.webp)|legacy.shelter.wood|607400343|Legacy Wood Shelter|Construction|The classic s*** shack. A great starter base for any fresh spawn. You can only have one shelter deployed at anytime.|
 |![](/legacyfurnace.128.webp)|legacyfurnace|-1310391395|Legacy Furnace|Items|Legacy Furnace|
 |![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
+|![](/lightup.xl.128.webp)|lightup.xl|1801656689|Light-Up Frame XL|Items|An extra large light-up frame|
+|![](/lightup.xxl.128.webp)|lightup.xxl|1447138977|Light-Up Frame XXL|Items|An extra large light up frame|
 |![](/lightupframe.medium.128.webp)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
 |![](/lightupframe.small.128.webp)|lightupframe.small|1691223771|Light-Up Frame Small|Items|A small light-up frame|
 |![](/lightupframe.standing.128.webp)|lightupframe.standing|1950013766|Light-Up Frame Standing|Items|A standing light-up frame|
@@ -697,6 +703,9 @@
 |![](/outbreak.sprayer.128.webp)|outbreak.sprayer|1621942085|Outbreak Sprayer|Tool|An outbreak sprayer used by scientists|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
+|![](/paintabletarget.reactive.128.webp)|paintabletarget.reactive|-1039234836|Paintable Reactive Target|Misc|A reactive target practice in which you can paint whatever you want|
+|![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball gun|Weapon|An air gun that uses compressed gas to fire and make targets works of art.|
+|![](/paintballoveralls.suit.128.webp)|paintballoveralls.suit|-1014934560|Paintball Overalls|Attire|A set of paintball overalls|
 |![](/pants.128.webp)|pants|237239288|Pants|Attire|A pair of pants, highly capable undergarment for your legs. Great all round protection from damage and the elements.|
 |![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|Attire|Trusty pair of shorts, may provide a breeze in undesired places. Worse than their full length counterparts with only basic protection from damage and the elements.|
 |![](/paper.128.webp)|paper|-1779183908|Paper|Resources|Paper, a ingredient for Building plan and Note.|
@@ -828,6 +837,8 @@
 |![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Scrap Frame Medium|Items|A medium scrap frame|
 |![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Scrap Frame Small|Items|A small scrap frame|
 |![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Scrap Frame Standing|Items|A standing scrap frame|
+|![](/scrapframe.xl.128.webp)|scrapframe.xl|-1244287686|Scrap Frame XL|Items|An extra large scrap frame|
+|![](/scrapframe.xxl.128.webp)|scrapframe.xxl|-1211801774|Scrap Frame XXL|Items|An extra extra large scrap frame|
 |![](/scrapmirror.large.128.webp)|scrapmirror.large|-82758111|Scrap Mirror Large|Items|A large scrap mirror|
 |![](/scrapmirror.medium.128.webp)|scrapmirror.medium|839738457|Scrap Mirror Medium|Items|A medium scrap mirror|
 |![](/scrapmirror.small.128.webp)|scrapmirror.small|-1050697733|Scrap Mirror Small|Items|A small scrap mirror|
@@ -872,6 +883,11 @@
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
 |![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|Weapon|A rolling siege tower, providing cover and access to enemy bases. Can be locked with your own door. Can be towed by horses.|
+|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|L Artist Canvas|Items|A large canvas for seamless murals|
+|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|M Artist Canvas|Items|A medium sized canvas for seamless murals|
+|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|S Artist Canvas|Items|A small canvas for seamless murals|
+|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|XL Artist Canvas|Items|An extra large canvas for seamless murals|
+|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|XXL Artist Canvas|Items|An extra, extra large canvas for seamless murals|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
@@ -1111,6 +1127,7 @@
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
 |![](/wicker.barrel.128.webp)|wicker.barrel|-526026171|Wicker Barrel|Items|Keep your things in this wicker barrel. Stores up to 48 items. Cannot be locked.|
+|![](/window.paintable.128.webp)|window.paintable|738611016|Paintable Window|Construction|A window with paintable glass|
 |![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
 |![](/wolfmeat.burned.128.webp)|wolfmeat.burned|1827479659|Burnt Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
 |![](/wolfmeat.cooked.128.webp)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
