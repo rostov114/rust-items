@@ -24,6 +24,7 @@
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|
+|![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|
 |![](/ammo.pistol.hv.128.webp)|ammo.pistol.hv|-1691396643|HV Pistol Ammo|
 |![](/ammo.pistol.128.webp)|ammo.pistol|785728077|Pistol Bullet|
@@ -286,6 +287,7 @@
 |![](/dropbox.128.webp)|dropbox|-1519126340|Drop Box|
 |![](/drumkit.128.webp)|drumkit|-1330640246|Junkyard Drum Kit|
 |![](/ducttape.128.webp)|ducttape|1401987718|Duct Tape|
+|![](/easel.128.webp)|easel|-1779203452|Portable Easel|
 |![](/easter.bronzeegg.128.webp)|easter.bronzeegg|844440409|Bronze Egg|
 |![](/easter.goldegg.128.webp)|easter.goldegg|-1002156085|Gold Egg|
 |![](/easter.paintedeggs.128.webp)|easter.paintedeggs|-126305173|Painted Egg|
@@ -433,10 +435,12 @@
 |![](/gingerbreadsuit.128.webp)|gingerbreadsuit|-558880549|Gingerbread Suit|
 |![](/gloweyes.128.webp)|gloweyes|-690276911|Glowing Eyes|
 |![](/glue.128.webp)|glue|-1899491405|Glue|
-|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Gold Frame large|
-|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Gold Frame Medium|
-|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Gold Frame Small|
-|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Gold Frame Standing|
+|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Ornate Frame large|
+|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Ornate Frame Medium|
+|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Ornate Frame Small|
+|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Ornate Frame Standing|
+|![](/goldframe.xl.128.webp)|goldframe.xl|-1430299277|Ornate Frame XL|
+|![](/goldframe.xxl.128.webp)|goldframe.xxl|-1322332389|Ornate Frame XXL|
 |![](/goldmirror.large.128.webp)|goldmirror.large|1365234594|Gold Mirror large|
 |![](/goldmirror.medium.128.webp)|goldmirror.medium|-1804515496|Gold Mirror Medium|
 |![](/goldmirror.small.128.webp)|goldmirror.small|-1444650226|Gold Mirror Small|
@@ -608,6 +612,8 @@
 |![](/legacy.shelter.wood.128.webp)|legacy.shelter.wood|607400343|Legacy Wood Shelter|
 |![](/legacyfurnace.128.webp)|legacyfurnace|-1310391395|Legacy Furnace|
 |![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|
+|![](/lightup.xl.128.webp)|lightup.xl|1801656689|Light-Up Frame XL|
+|![](/lightup.xxl.128.webp)|lightup.xxl|1447138977|Light-Up Frame XXL|
 |![](/lightupframe.medium.128.webp)|lightupframe.medium|-1294739579|Light-Up Frame Medium|
 |![](/lightupframe.small.128.webp)|lightupframe.small|1691223771|Light-Up Frame Small|
 |![](/lightupframe.standing.128.webp)|lightupframe.standing|1950013766|Light-Up Frame Standing|
@@ -697,6 +703,9 @@
 |![](/outbreak.sprayer.128.webp)|outbreak.sprayer|1621942085|Outbreak Sprayer|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|
+|![](/paintabletarget.reactive.128.webp)|paintabletarget.reactive|-1039234836|Paintable Reactive Target|
+|![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball gun|
+|![](/paintballoveralls.suit.128.webp)|paintballoveralls.suit|-1014934560|Paintball Overalls|
 |![](/pants.128.webp)|pants|237239288|Pants|
 |![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|
 |![](/paper.128.webp)|paper|-1779183908|Paper|
@@ -828,6 +837,8 @@
 |![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Scrap Frame Medium|
 |![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Scrap Frame Small|
 |![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Scrap Frame Standing|
+|![](/scrapframe.xl.128.webp)|scrapframe.xl|-1244287686|Scrap Frame XL|
+|![](/scrapframe.xxl.128.webp)|scrapframe.xxl|-1211801774|Scrap Frame XXL|
 |![](/scrapmirror.large.128.webp)|scrapmirror.large|-82758111|Scrap Mirror Large|
 |![](/scrapmirror.medium.128.webp)|scrapmirror.medium|839738457|Scrap Mirror Medium|
 |![](/scrapmirror.small.128.webp)|scrapmirror.small|-1050697733|Scrap Mirror Small|
@@ -872,6 +883,11 @@
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|
 |![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|
+|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|L Artist Canvas|
+|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|M Artist Canvas|
+|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|S Artist Canvas|
+|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|XL Artist Canvas|
+|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|XXL Artist Canvas|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|
@@ -1111,6 +1127,7 @@
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|
 |![](/wicker.barrel.128.webp)|wicker.barrel|-526026171|Wicker Barrel|
+|![](/window.paintable.128.webp)|window.paintable|738611016|Paintable Window|
 |![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|
 |![](/wolfmeat.burned.128.webp)|wolfmeat.burned|1827479659|Burnt Wolf Meat|
 |![](/wolfmeat.cooked.128.webp)|wolfmeat.cooked|813023040|Cooked Wolf Meat|
