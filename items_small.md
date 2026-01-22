@@ -811,7 +811,7 @@
 |![](/rope.128.webp)|rope|1414245522|Rope|
 |![](/rose.128.webp)|rose|1414245519|Rose|
 |![](/rowboat.128.webp)|rowboat|1878053256|Rowboat|
-|![](/rug.bear.128.webp)|rug.bear|-1104881824|Rug Bear Skin|
+|![](/rug.bear.128.webp)|rug.bear|-1104881824|Bear Skin Rug|
 |![](/rug.128.webp)|rug|-1985799200|Rug|
 |![](/rustige_egg_a.128.webp)|rustige_egg_a|-173268129|Rustigé Egg - Red|
 |![](/rustige_egg_b.128.webp)|rustige_egg_b|-173268132|Rustigé Egg - Blue|
