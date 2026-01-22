@@ -811,7 +811,7 @@
 |[rope](/rope.png)|1414245522|Rope|Component|
 |[rose](/rose.png)|1414245519|Rose|Food|
 |[rowboat](/rowboat.png)|1878053256|Rowboat|Items|
-|[rug.bear](/rug.bear.png)|-1104881824|Rug Bear Skin|Items|
+|[rug.bear](/rug.bear.png)|-1104881824|Bear Skin Rug|Items|
 |[rug](/rug.png)|-1985799200|Rug|Items|
 |[rustige_egg_a](/rustige_egg_a.png)|-173268129|Rustigé Egg - Red|Misc|
 |[rustige_egg_b](/rustige_egg_b.png)|-173268132|Rustigé Egg - Blue|Misc|
