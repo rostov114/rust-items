@@ -121,7 +121,7 @@
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
 |![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
 |![](/boat.planner.128.webp)|boat.planner|-321247698|Boat Building Plan|Construction|A boat plan. You can use this to craft boats - right click when equipped for more options.|
-|![](/boatbuildingstation.128.webp)|boatbuildingstation|1993693904|Boat Building Station|Items|A boat yard in your pocket.|
+|![](/boatbuildingstation.128.webp)|boatbuildingstation|1993693904|Boat Building Station|Items|A deployable building station, creates a stable workspace on the water to build or edit your floating wooden refuge.|
 |![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|Attire|A primitive suit of armor made of bones, weak protection from damage and the elements but better than nothing.|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|Resources|Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.|
@@ -156,7 +156,7 @@
 |![](/can.tuna.128.webp)|can.tuna|-1941646328|Can of Tuna|Food|Chunked tuna found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/candycane.128.webp)|candycane|1121925526|Candy Cane|Food|A very old candy cane from 2014|
 |![](/candycaneclub.128.webp)|candycaneclub|1789825282|Candy Cane Club|Weapon|Smash some faces with this large piece of candy|
-|![](/cannon.128.webp)|cannon|-34498533|Cannon|Items|A cannon that can be mounted onto a boat. Requires cannonballs to fire.|
+|![](/cannon.128.webp)|cannon|-34498533|Cannon|Items|A heavy mountable cannon for your boat with a short fuse. Questionable accuracy but high damage.|
 |![](/cannonball.128.webp)|cannonball|-411735114|Cannonball|Ammunition|Round solid ammo for the cannon|
 |![](/captainslog.128.webp)|captainslog|1230691307|Captain's Log|Misc|A deteriorating piece of paper with information relating to the last moments of this vessel.|
 |![](/carburetor1.128.webp)|carburetor1|656371028|Low Quality Carburetor|Component|A low quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
@@ -745,7 +745,7 @@
 |![](/piston2.128.webp)|piston2|1883981801|Medium Quality Pistons|Component|Medium quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
 |![](/piston3.128.webp)|piston3|1883981800|High Quality Pistons|Component|High quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
 |![](/pitchfork.128.webp)|pitchfork|1090916276|Pitchfork|Weapon|A 3 pronged pitchfork. Extremely easy to hit targets with.|
-|![](/plank.128.webp)|plank|-952411326|Plank|Items|Good for walking on.|
+|![](/plank.128.webp)|plank|-952411326|Plank|Items|Crude boarding plank thrown together from ruined floorboards, watch out for splinters.|
 |![](/planter.large.128.webp)|planter.large|1581210395|Large Planter Box|Items|A large planter with enough room to plant 9 seeds.|
 |![](/planter.small.128.webp)|planter.small|1903654061|Small Planter Box|Items|A small planter with enough room to plant 3 seeds.|
 |![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|Items|A triangle planter with enough room to plant 4 seeds.|
@@ -811,7 +811,7 @@
 |![](/rope.128.webp)|rope|1414245522|Rope|Component|A Length of Rope.|
 |![](/rose.128.webp)|rose|1414245519|Rose|Food|Romantic AF.|
 |![](/rowboat.128.webp)|rowboat|1878053256|Rowboat|Items||
-|![](/rug.bear.128.webp)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
+|![](/rug.bear.128.webp)|rug.bear|-1104881824|Bear Skin Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rug.128.webp)|rug|-1985799200|Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rustige_egg_a.128.webp)|rustige_egg_a|-173268129|Rustigé Egg - Red|Misc|An exquisite hand crafted gold and diamond egg. When opened, a very special melody can be heard as you observe an intricate representation of your favorite monument.|
 |![](/rustige_egg_b.128.webp)|rustige_egg_b|-173268132|Rustigé Egg - Blue|Misc|A beautiful hand crafted white gold and sapphire encrusted egg, with a miniature monument contained inside.|
@@ -933,10 +933,10 @@
 |![](/sled.xmas.128.webp)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sleepingbag.128.webp)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you or an assigned player a place to respawn, with a long cooldown.|
 |![](/small.oil.refinery.128.webp)|small.oil.refinery|-1293296287|Small Oil Refinery|Items|A small refinery which can produce Low Grade Fuel from Crude Oil.|
-|![](/small_ramp.128.webp)|small_ramp|-158718378|Small Ramp|Items|Good for walking on.|
+|![](/small_ramp.128.webp)|small_ramp|-158718378|Small Ramp|Items|Deployable wooden ramp cobbled together from recycled doors, probably sturdy enough. Unfolds for boarding enemy vessels.|
 |![](/smallbackpack.128.webp)|smallbackpack|2068884361|Small Backpack|Attire|A small, makeshift backpack|
 |![](/smallcandles.128.webp)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
-|![](/smallengine.128.webp)|smallengine|-2115299615|Small Boat Engine|Items|Faster than sails!|
+|![](/smallengine.128.webp)|smallengine|-2115299615|Small Boat Engine|Items|A punchy boat engine made from scavenged parts, not good for the environment. More engines means more speed.|
 |![](/smallwaterbottle.128.webp)|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|
 |![](/smart.switch.128.webp)|smart.switch|988652725|Smart Switch|Electrical|A smart electric switch.|
@@ -975,7 +975,7 @@
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|Tool||
 |![](/starballoon2025.128.webp)|starballoon2025|-1782127806|Star Balloon|Items|A star-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/stash.small.128.webp)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
-|![](/steeringwheel.boat.128.webp)|steeringwheel.boat|-1866909924|Steering Wheel|Items|Useful boating item.|
+|![](/steeringwheel.boat.128.webp)|steeringwheel.boat|-1866909924|Steering Wheel|Items|A lockable steering wheel for your modular boat with some suspiciously shaped handles.|
 |![](/sticks.128.webp)|sticks|642482233|Sticks|Component|Some long, some short.|
 |![](/stocking.large.128.webp)|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
 |![](/stocking.small.128.webp)|stocking.small|1668858301|Small Stocking|Items|A small stocking. Hang it by a fire and you might just get a gift! Collect 6 to upgrade to a SUPER Stocking.|
