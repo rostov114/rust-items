@@ -883,11 +883,12 @@
 |[shutter.wood.a](/shutter.wood.a.png)|-1023374709|Wood Shutters|Construction|
 |[sickle](/sickle.png)|-1368584029|Sickle|Misc|
 |[siegetower](/siegetower.png)|-1290278434|Siege Tower|Weapon|
-|[sign.artistcanvas.l](/sign.artistcanvas.l.png)|-946599114|L Artist Canvas|Items|
-|[sign.artistcanvas.m](/sign.artistcanvas.m.png)|-946599113|M Artist Canvas|Items|
-|[sign.artistcanvas.s](/sign.artistcanvas.s.png)|-946599131|S Artist Canvas|Items|
-|[sign.artistcanvas.xl](/sign.artistcanvas.xl.png)|1562867678|XL Artist Canvas|Items|
-|[sign.artistcanvas.xxl](/sign.artistcanvas.xxl.png)|-816769770|XXL Artist Canvas|Items|
+|[sign.artistcanvas.l](/sign.artistcanvas.l.png)|-946599114|Artist Canvas Standing|Items|
+|[sign.artistcanvas.m](/sign.artistcanvas.m.png)|-946599113|Artist Canvas Large|Items|
+|[sign.artistcanvas.s](/sign.artistcanvas.s.png)|-946599131|Artist Canvas Medium|Items|
+|[sign.artistcanvas.xl](/sign.artistcanvas.xl.png)|1562867678|Artist Canvas XL|Items|
+|[sign.artistcanvas.xs](/sign.artistcanvas.xs.png)|1609921845|Artist Canvas Small|Items|
+|[sign.artistcanvas.xxl](/sign.artistcanvas.xxl.png)|-816769770|Artist Canvas XXL|Items|
 |[sign.hanging.banner.large](/sign.hanging.banner.large.png)|23352662|Large Banner Hanging|Items|
 |[sign.hanging](/sign.hanging.png)|1205607945|Two Sided Hanging Sign|Items|
 |[sign.hanging.ornate](/sign.hanging.ornate.png)|-1647846966|Two Sided Ornate Hanging Sign|Items|
@@ -1037,7 +1038,6 @@
 |[twitchrivals2025sofa](/twitchrivals2025sofa.png)|1604092540|Twitch Rivals 2025 Sofa|Items|
 |[twitchrivalsflag](/twitchrivalsflag.png)|-739993590|Twitch Rivals Flag|Attire|
 |[twitchsunglasses](/twitchsunglasses.png)|20489901|Purple Sunglasses|Attire|
-|[twowaymirror.window](/twowaymirror.window.png)|-1683726934|Two-Way Mirror|Items|
 |[valve1](/valve1.png)|1330084809|Low Quality Valves|Component|
 |[valve2](/valve2.png)|926800282|Medium Quality Valves|Component|
 |[valve3](/valve3.png)|-1802083073|High Quality Valves|Component|
