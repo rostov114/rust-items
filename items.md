@@ -705,7 +705,7 @@
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
 |![](/paintabletarget.reactive.128.webp)|paintabletarget.reactive|-1039234836|Paintable Reactive Target|Misc|A reactive target practice in which you can paint whatever you want|
 |![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball gun|Weapon|An air gun that uses compressed gas to fire and make targets works of art.|
-|![](/paintballoveralls.suit.128.webp)|paintballoveralls.suit|-1014934560|Paintball Overalls|Attire|A set of paintball overalls|
+|![](/paintballoveralls.suit.128.webp)|paintballoveralls.suit|-1014934560|Paintball Overalls|Attire|A set of paintball overalls.|
 |![](/pants.128.webp)|pants|237239288|Pants|Attire|A pair of pants, highly capable undergarment for your legs. Great all round protection from damage and the elements.|
 |![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|Attire|Trusty pair of shorts, may provide a breeze in undesired places. Worse than their full length counterparts with only basic protection from damage and the elements.|
 |![](/paper.128.webp)|paper|-1779183908|Paper|Resources|Paper, a ingredient for Building plan and Note.|
@@ -883,11 +883,12 @@
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
 |![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|Weapon|A rolling siege tower, providing cover and access to enemy bases. Can be locked with your own door. Can be towed by horses.|
-|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|L Artist Canvas|Items|A large canvas for seamless murals|
-|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|M Artist Canvas|Items|A medium sized canvas for seamless murals|
-|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|S Artist Canvas|Items|A small canvas for seamless murals|
-|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|XL Artist Canvas|Items|An extra large canvas for seamless murals|
-|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|XXL Artist Canvas|Items|An extra, extra large canvas for seamless murals|
+|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|Artist Canvas Standing|Items|A standing canvas for seamless murals|
+|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|Artist Canvas Large|Items|A large sized canvas for seamless murals|
+|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|Artist Canvas Medium|Items|A medium canvas for seamless murals|
+|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|Artist Canvas XL|Items|An extra large canvas for seamless murals|
+|![](/sign.artistcanvas.xs.128.webp)|sign.artistcanvas.xs|1609921845|Artist Canvas Small|Items|A small canvas for seamless murals|
+|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|Artist Canvas XXL|Items|An extra, extra large canvas for seamless murals|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
@@ -1037,7 +1038,6 @@
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|Items|A comfortable twitch branded sofa. A decorative item which provides comfort and seats two.|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|Attire|A wearable flag for Twitch Rivals|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop.|
-|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
