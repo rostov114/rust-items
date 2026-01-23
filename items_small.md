@@ -883,11 +883,12 @@
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|
 |![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|
-|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|L Artist Canvas|
-|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|M Artist Canvas|
-|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|S Artist Canvas|
-|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|XL Artist Canvas|
-|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|XXL Artist Canvas|
+|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|Artist Canvas Standing|
+|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|Artist Canvas Large|
+|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|Artist Canvas Medium|
+|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|Artist Canvas XL|
+|![](/sign.artistcanvas.xs.128.webp)|sign.artistcanvas.xs|1609921845|Artist Canvas Small|
+|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|Artist Canvas XXL|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|
@@ -1037,7 +1038,6 @@
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|
-|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|
