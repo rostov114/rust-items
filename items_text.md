@@ -833,12 +833,12 @@
 |[scientist.plushie](/scientist.plushie.png)|445662288|Scientist Plushie|Items|
 |[scientistsuit_heavy](/scientistsuit_heavy.png)|-1772746857|Heavy Scientist Suit|Attire|
 |[scrap](/scrap.png)|-932201673|Scrap|Resources|
-|[scrapframe.large](/scrapframe.large.png)|-1094453063|Scrap Frame large|Items|
-|[scrapframe.medium](/scrapframe.medium.png)|-1060567807|Scrap Frame Medium|Items|
-|[scrapframe.small](/scrapframe.small.png)|-498301781|Scrap Frame Small|Items|
-|[scrapframe.standing](/scrapframe.standing.png)|-1774190142|Scrap Frame Standing|Items|
-|[scrapframe.xl](/scrapframe.xl.png)|-1244287686|Scrap Frame XL|Items|
-|[scrapframe.xxl](/scrapframe.xxl.png)|-1211801774|Scrap Frame XXL|Items|
+|[scrapframe.large](/scrapframe.large.png)|-1094453063|Shutter Frame large|Items|
+|[scrapframe.medium](/scrapframe.medium.png)|-1060567807|Shutter Frame Medium|Items|
+|[scrapframe.small](/scrapframe.small.png)|-498301781|Shutter Frame Small|Items|
+|[scrapframe.standing](/scrapframe.standing.png)|-1774190142|Shutter Frame Standing|Items|
+|[scrapframe.xl](/scrapframe.xl.png)|-1244287686|Shutter Frame XL|Items|
+|[scrapframe.xxl](/scrapframe.xxl.png)|-1211801774|Shutter Frame XXL|Items|
 |[scrapmirror.large](/scrapmirror.large.png)|-82758111|Scrap Mirror Large|Items|
 |[scrapmirror.medium](/scrapmirror.medium.png)|839738457|Scrap Mirror Medium|Items|
 |[scrapmirror.small](/scrapmirror.small.png)|-1050697733|Scrap Mirror Small|Items|
