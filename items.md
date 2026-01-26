@@ -833,12 +833,12 @@
 |![](/scientist.plushie.128.webp)|scientist.plushie|445662288|Scientist Plushie|Items|Scientist Plushie|
 |![](/scientistsuit_heavy.128.webp)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
 |![](/scrap.128.webp)|scrap|-932201673|Scrap|Resources|Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.|
-|![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Scrap Frame large|Items|A large scrap frame|
-|![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Scrap Frame Medium|Items|A medium scrap frame|
-|![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Scrap Frame Small|Items|A small scrap frame|
-|![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Scrap Frame Standing|Items|A standing scrap frame|
-|![](/scrapframe.xl.128.webp)|scrapframe.xl|-1244287686|Scrap Frame XL|Items|An extra large scrap frame|
-|![](/scrapframe.xxl.128.webp)|scrapframe.xxl|-1211801774|Scrap Frame XXL|Items|An extra extra large scrap frame|
+|![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Shutter Frame large|Items|A large shutter frame|
+|![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Shutter Frame Medium|Items|A medium shutter frame|
+|![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Shutter Frame Small|Items|A small shutter frame|
+|![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Shutter Frame Standing|Items|A standing shutter frame|
+|![](/scrapframe.xl.128.webp)|scrapframe.xl|-1244287686|Shutter Frame XL|Items|An extra large shutter frame|
+|![](/scrapframe.xxl.128.webp)|scrapframe.xxl|-1211801774|Shutter Frame XXL|Items|An extra extra large shutter frame|
 |![](/scrapmirror.large.128.webp)|scrapmirror.large|-82758111|Scrap Mirror Large|Items|A large scrap mirror|
 |![](/scrapmirror.medium.128.webp)|scrapmirror.medium|839738457|Scrap Mirror Medium|Items|A medium scrap mirror|
 |![](/scrapmirror.small.128.webp)|scrapmirror.small|-1050697733|Scrap Mirror Small|Items|A small scrap mirror|
