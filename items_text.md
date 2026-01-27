@@ -510,7 +510,7 @@
 |[hazmatsuit.spacesuit](/hazmatsuit.spacesuit.png)|-560304835|Space Suit|Attire|
 |[hazmatsuit_scientist](/hazmatsuit_scientist.png)|-253079493|Scientist Suit|Attire|
 |[hazmatsuit_scientist_arctic](/hazmatsuit_scientist_arctic.png)|1107575710|Arctic Scientist Suit|Attire|
-|[hazmatsuit_scientist_naval](/hazmatsuit_scientist_naval.png)|-1937799374|#hazmatsuitnaval.scientist.name|Attire|
+|[hazmatsuit_scientist_naval](/hazmatsuit_scientist_naval.png)|-1937799374|Naval Scientist Suit|Attire|
 |[hazmatsuit_scientist_nvgm](/hazmatsuit_scientist_nvgm.png)|86840834|NVGM Scientist Suit|Attire|
 |[hazmatsuit_scientist_peacekeeper](/hazmatsuit_scientist_peacekeeper.png)|-1958316066|Scientist Suit|Attire|
 |[hazmatsuittwitch](/hazmatsuittwitch.png)|468313189|Twitch Rivals Hazmat Suit|Attire|
