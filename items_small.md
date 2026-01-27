@@ -510,7 +510,7 @@
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|
-|![](/hazmatsuit_scientist_naval.128.webp)|hazmatsuit_scientist_naval|-1937799374|#hazmatsuitnaval.scientist.name|
+|![](/hazmatsuit_scientist_naval.128.webp)|hazmatsuit_scientist_naval|-1937799374|Naval Scientist Suit|
 |![](/hazmatsuit_scientist_nvgm.128.webp)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|
 |![](/hazmatsuit_scientist_peacekeeper.128.webp)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|
 |![](/hazmatsuittwitch.128.webp)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|
@@ -1038,7 +1038,6 @@
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|
-|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|
