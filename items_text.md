@@ -1038,6 +1038,7 @@
 |[twitchrivals2025sofa](/twitchrivals2025sofa.png)|1604092540|Twitch Rivals 2025 Sofa|Items|
 |[twitchrivalsflag](/twitchrivalsflag.png)|-739993590|Twitch Rivals Flag|Attire|
 |[twitchsunglasses](/twitchsunglasses.png)|20489901|Purple Sunglasses|Attire|
+|[twowaymirror.window](/twowaymirror.window.png)|-1683726934|Two-Way Mirror|Items|
 |[valve1](/valve1.png)|1330084809|Low Quality Valves|Component|
 |[valve2](/valve2.png)|926800282|Medium Quality Valves|Component|
 |[valve3](/valve3.png)|-1802083073|High Quality Valves|Component|
