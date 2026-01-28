@@ -1038,6 +1038,7 @@
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|Items|A comfortable twitch branded sofa. A decorative item which provides comfort and seats two.|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|Attire|A wearable flag for Twitch Rivals|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop.|
+|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|

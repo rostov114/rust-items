@@ -1038,6 +1038,7 @@
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|
+|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|
