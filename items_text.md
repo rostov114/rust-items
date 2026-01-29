@@ -265,6 +265,7 @@
 |[divertorch](/divertorch.png)|1846605708|Abyss Torch|Tool|
 |[diving.fins](/diving.fins.png)|296519935|Diving Fins|Attire|
 |[diving.mask](/diving.mask.png)|-113413047|Diving Mask|Attire|
+|[diving.tank.double](/diving.tank.double.png)|-1559420426|Double Diving Tank|Attire|
 |[diving.tank](/diving.tank.png)|-2022172587|Diving Tank|Attire|
 |[diving.wetsuit](/diving.wetsuit.png)|-1101924344|Wetsuit|Attire|
 |[documents](/documents.png)|-451310088|Documents|Tool|
@@ -488,6 +489,7 @@
 |[hat.cap](/hat.cap.png)|-1022661119|Baseball Cap|Attire|
 |[hat.dragonmask](/hat.dragonmask.png)|-22883916|Dragon Mask|Attire|
 |[hat.gas.mask](/hat.gas.mask.png)|1659114910|Gas Mask|Attire|
+|[hat.horsemask](/hat.horsemask.png)|-418359052|Horse Mask|Attire|
 |[hat.miner](/hat.miner.png)|-1539025626|Miners Hat|Attire|
 |[hat.oxmask](/hat.oxmask.png)|1315082560|Ox Mask|Attire|
 |[hat.rabbitmask](/hat.rabbitmask.png)|-986782031|Rabbit Mask|Attire|
@@ -533,6 +535,7 @@
 |[honeycomb](/honeycomb.png)|-1513203236|Honeycomb|Food|
 |[hoodie](/hoodie.png)|1751045826|Hoodie|Attire|
 |[hopper](/hopper.png)|1428574144|Hopper|Electrical|
+|[horse.armor.lny26](/horse.armor.lny26.png)|-2068194497|Lunar New Year Horse Armor|Attire|
 |[horse.armor.roadsign](/horse.armor.roadsign.png)|60528587|Roadsign Horse Armor|Attire|
 |[horse.armor.wood](/horse.armor.wood.png)|1659447559|Wooden Horse Armor|Attire|
 |[horse.costume](/horse.costume.png)|1420547167|Horse Costume|Attire|
@@ -911,6 +914,7 @@
 |[sign.wooden.large](/sign.wooden.large.png)|1153652756|Large Wooden Sign|Items|
 |[sign.wooden.medium](/sign.wooden.medium.png)|-1819233322|Medium Wooden Sign|Items|
 |[sign.wooden.small](/sign.wooden.small.png)|-1138208076|Small Wooden Sign|Items|
+|[silly.horse.mask](/silly.horse.mask.png)|1849409072|Silly Horse Mask|Attire|
 |[single.shallow.wall.shelves](/single.shallow.wall.shelves.png)|-193519904|Single Shallow Wall Shelves|Items|
 |[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
