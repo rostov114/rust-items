@@ -265,6 +265,7 @@
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|
 |![](/diving.fins.128.webp)|diving.fins|296519935|Diving Fins|
 |![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|
+|![](/diving.tank.double.128.webp)|diving.tank.double|-1559420426|Double Diving Tank|
 |![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|
 |![](/documents.128.webp)|documents|-451310088|Documents|
@@ -488,6 +489,7 @@
 |![](/hat.cap.128.webp)|hat.cap|-1022661119|Baseball Cap|
 |![](/hat.dragonmask.128.webp)|hat.dragonmask|-22883916|Dragon Mask|
 |![](/hat.gas.mask.128.webp)|hat.gas.mask|1659114910|Gas Mask|
+|![](/hat.horsemask.128.webp)|hat.horsemask|-418359052|Horse Mask|
 |![](/hat.miner.128.webp)|hat.miner|-1539025626|Miners Hat|
 |![](/hat.oxmask.128.webp)|hat.oxmask|1315082560|Ox Mask|
 |![](/hat.rabbitmask.128.webp)|hat.rabbitmask|-986782031|Rabbit Mask|
@@ -533,6 +535,7 @@
 |![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|
+|![](/horse.armor.lny26.128.webp)|horse.armor.lny26|-2068194497|Lunar New Year Horse Armor|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|
 |![](/horse.costume.128.webp)|horse.costume|1420547167|Horse Costume|
@@ -911,6 +914,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|
+|![](/silly.horse.mask.128.webp)|silly.horse.mask|1849409072|Silly Horse Mask|
 |![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Single Shallow Wall Shelves|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|

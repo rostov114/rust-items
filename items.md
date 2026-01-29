@@ -265,6 +265,7 @@
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|Tool|Illuminate the underwater depths with this durable and waterproof diving torch|
 |![](/diving.fins.128.webp)|diving.fins|296519935|Diving Fins|Attire|Diving Fins. Significantly boosts your speed underwater but greatly reduces mobility on land.|
 |![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|Attire|A diving mask that provides clear vision under water at the cost of reduced peripheral vision.|
+|![](/diving.tank.double.128.webp)|diving.tank.double|-1559420426|Double Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench. Holds 80% more Oxygen than a standard diving tank|
 |![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench or repair bench.|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
 |![](/documents.128.webp)|documents|-451310088|Documents|Tool|A stack of technical looking documents.|
@@ -488,6 +489,7 @@
 |![](/hat.cap.128.webp)|hat.cap|-1022661119|Baseball Cap|Attire|Simple hat for your head. Offers basic protection from damage and the cold.|
 |![](/hat.dragonmask.128.webp)|hat.dragonmask|-22883916|Dragon Mask|Attire|A special dragon mask to celebrate Chinese New Year|
 |![](/hat.gas.mask.128.webp)|hat.gas.mask|1659114910|Gas Mask|Attire|A Gas Mask|
+|![](/hat.horsemask.128.webp)|hat.horsemask|-418359052|Horse Mask|Attire|A Beautifully crafted red and gold Horse mask to celebrate the 2026 Lunar New Year. This item replaces the wolf headdress.|
 |![](/hat.miner.128.webp)|hat.miner|-1539025626|Miners Hat|Attire|A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory.|
 |![](/hat.oxmask.128.webp)|hat.oxmask|1315082560|Ox Mask|Attire|An Ox mask to celebrate the 2021 Lunar New Year.|
 |![](/hat.rabbitmask.128.webp)|hat.rabbitmask|-986782031|Rabbit Mask|Attire|A Beautifully crafted Rabbit mask to celebrate the 2023 Lunar New Year|
@@ -533,6 +535,7 @@
 |![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Food|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
+|![](/horse.armor.lny26.128.webp)|horse.armor.lny26|-2068194497|Lunar New Year Horse Armor|Attire|A full body Lunar New Year themed armor for a horse. Provides strong protection for you and your steed, at the cost of greatly reduced movement speed.|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A full body armor for a horse. Provides strong protection for you and your steed, at the cost of greatly reduced movement speed.|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A full body armor for a horse made of wood. Provides moderate protection for you and your steed, but with a reduction in movement speed.|
 |![](/horse.costume.128.webp)|horse.costume|1420547167|Horse Costume|Attire|An inflatable horse costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
@@ -911,6 +914,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
+|![](/silly.horse.mask.128.webp)|silly.horse.mask|1849409072|Silly Horse Mask|Attire|A silly rubber horse mask to celebrate Lunar New Year 2026. Comes in three varieties.|
 |![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Single Shallow Wall Shelves|Items|Single Shallow Wall Shelves|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
