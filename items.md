@@ -24,10 +24,10 @@
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
-|![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammunition for a paintball gun.|
+|![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
 |![](/ammo.pistol.hv.128.webp)|ammo.pistol.hv|-1691396643|HV Pistol Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
-|![](/ammo.pistol.128.webp)|ammo.pistol|785728077|Pistol Bullet|Ammunition|Ammunition for a paintball gun.|
+|![](/ammo.pistol.128.webp)|ammo.pistol|785728077|Pistol Bullet|Ammunition|Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.|
 |![](/ammo.rifle.explosive.128.webp)|ammo.rifle.explosive|-1321651331|Explosive 5.56 Rifle Ammo|Ammunition|This ammo explodes on contact dealing a small amount of fragmentation damage to nearby objects.|
 |![](/ammo.rifle.hv.128.webp)|ammo.rifle.hv|1712070256|HV 5.56 Rifle Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
 |![](/ammo.rifle.incendiary.128.webp)|ammo.rifle.incendiary|605467368|Incendiary 5.56 Rifle Ammo|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
@@ -1042,7 +1042,6 @@
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|Items|A comfortable twitch branded sofa. A decorative item which provides comfort and seats two.|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|Attire|A wearable flag for Twitch Rivals|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop.|
-|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
