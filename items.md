@@ -24,7 +24,7 @@
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
-|![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.|
+|![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammo for a paintball gun.|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
 |![](/ammo.pistol.hv.128.webp)|ammo.pistol.hv|-1691396643|HV Pistol Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
 |![](/ammo.pistol.128.webp)|ammo.pistol|785728077|Pistol Bullet|Ammunition|Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.|
