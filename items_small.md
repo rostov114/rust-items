@@ -707,7 +707,7 @@
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|
 |![](/paintabletarget.reactive.128.webp)|paintabletarget.reactive|-1039234836|Paintable Reactive Target|
-|![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball gun|
+|![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball Gun|
 |![](/paintballoveralls.suit.128.webp)|paintballoveralls.suit|-1014934560|Paintball Overalls|
 |![](/pants.128.webp)|pants|237239288|Pants|
 |![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|
