@@ -436,12 +436,12 @@
 |![](/gingerbreadsuit.128.webp)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.128.webp)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.128.webp)|glue|-1899491405|Glue|Component|A strong adhesive.|
-|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Ornate Frame large|Items|An extra, extra large ornate frame|
+|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Ornate Frame large|Items|A large ornate frame|
 |![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Ornate Frame Medium|Items|A medium ornate frame|
 |![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Ornate Frame Small|Items|A small ornate frame|
 |![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Ornate Frame Standing|Items|A standing ornate frame|
 |![](/goldframe.xl.128.webp)|goldframe.xl|-1430299277|Ornate Frame XL|Items|An extra large ornate frame|
-|![](/goldframe.xxl.128.webp)|goldframe.xxl|-1322332389|Ornate Frame XXL|Items|An exrtra extra large ornate frame|
+|![](/goldframe.xxl.128.webp)|goldframe.xxl|-1322332389|Ornate Frame XXL|Items|An extra extra large ornate frame|
 |![](/goldmirror.large.128.webp)|goldmirror.large|1365234594|Gold Mirror large|Items|A large gold mirror|
 |![](/goldmirror.medium.128.webp)|goldmirror.medium|-1804515496|Gold Mirror Medium|Items|A medium gold mirror|
 |![](/goldmirror.small.128.webp)|goldmirror.small|-1444650226|Gold Mirror Small|Items|A small gold mirror|
@@ -616,7 +616,7 @@
 |![](/legacyfurnace.128.webp)|legacyfurnace|-1310391395|Legacy Furnace|Items|Legacy Furnace|
 |![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
 |![](/lightup.xl.128.webp)|lightup.xl|1801656689|Light-Up Frame XL|Items|An extra large light-up frame|
-|![](/lightup.xxl.128.webp)|lightup.xxl|1447138977|Light-Up Frame XXL|Items|An extra large light up frame|
+|![](/lightup.xxl.128.webp)|lightup.xxl|1447138977|Light-Up Frame XXL|Items|An extra extra large light up frame|
 |![](/lightupframe.medium.128.webp)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
 |![](/lightupframe.small.128.webp)|lightupframe.small|1691223771|Light-Up Frame Small|Items|A small light-up frame|
 |![](/lightupframe.standing.128.webp)|lightupframe.standing|1950013766|Light-Up Frame Standing|Items|A standing light-up frame|
@@ -707,7 +707,7 @@
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
 |![](/paintabletarget.reactive.128.webp)|paintabletarget.reactive|-1039234836|Paintable Reactive Target|Misc|A reactive target practice in which you can paint whatever you want|
-|![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball gun|Weapon|An air gun that uses compressed gas to fire and make targets works of art.|
+|![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball Gun|Weapon|An air gun that uses compressed gas to fire and make targets works of art.|
 |![](/paintballoveralls.suit.128.webp)|paintballoveralls.suit|-1014934560|Paintball Overalls|Attire|A set of paintball overalls.|
 |![](/pants.128.webp)|pants|237239288|Pants|Attire|A pair of pants, highly capable undergarment for your legs. Great all round protection from damage and the elements.|
 |![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|Attire|Trusty pair of shorts, may provide a breeze in undesired places. Worse than their full length counterparts with only basic protection from damage and the elements.|
