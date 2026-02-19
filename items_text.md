@@ -706,7 +706,7 @@
 |[outbreak.sprayer](/outbreak.sprayer.png)|1621942085|Outbreak Sprayer|Tool|
 |[paddle](/paddle.png)|1491189398|Paddle|Weapon|
 |[paddlingpool](/paddlingpool.png)|-733625651|Paddling Pool|Fun|
-|[paintabletarget.reactive](/paintabletarget.reactive.png)|-1039234836|Paintable Reactive Target|Misc|
+|[paintabletarget.reactive](/paintabletarget.reactive.png)|-1039234836|Paintable Reactive Target|Electrical|
 |[paintballgun](/paintballgun.png)|-707792719|Paintball Gun|Weapon|
 |[paintballoveralls.suit](/paintballoveralls.suit.png)|-1014934560|Paintball Overalls|Attire|
 |[pants](/pants.png)|237239288|Pants|Attire|
