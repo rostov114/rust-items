@@ -223,6 +223,22 @@
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
 |[command.block](/command.block.png)|-1247485104|Command Block|Electrical|
 |[compass](/compass.png)|594041190|Compass|Tool|
+|[component.box.ammo.large](/component.box.ammo.large.png)|-1593678393|Ammo Component Box|Items|
+|[component.box.armor.large](/component.box.armor.large.png)|1254295946|Armor Component Box|Items|
+|[component.box.charcoal.large](/component.box.charcoal.large.png)|1884461210|Charcoal Component Box|Items|
+|[component.box.clothing.large](/component.box.clothing.large.png)|1736620421|Clothing Component Box|Items|
+|[component.box.comps.large](/component.box.comps.large.png)|-413663149|Comps Component Box|Items|
+|[component.box.explosives.large](/component.box.explosives.large.png)|-1998423571|Explosives Component Box|Items|
+|[component.box.food.large](/component.box.food.large.png)|1023919015|Food Component Box|Items|
+|[component.box.guns.large](/component.box.guns.large.png)|-544295594|Guns Component Box|Items|
+|[component.box.meds.large](/component.box.meds.large.png)|-800824218|Meds Component Box|Items|
+|[component.box.metal.large](/component.box.metal.large.png)|1465782238|Metal Component Box|Items|
+|[component.box.ore.large](/component.box.ore.large.png)|992944937|Ore Component Box|Items|
+|[component.box.scrap.large](/component.box.scrap.large.png)|574701440|Scrap Component Box|Items|
+|[component.box.stone.large](/component.box.stone.large.png)|94971664|Stone Component Box|Items|
+|[component.box.sulfur.large](/component.box.sulfur.large.png)|-10594280|Sulfur Component Box|Items|
+|[component.box.tools.large](/component.box.tools.large.png)|679690962|Tools Component Box|Items|
+|[component.box.wood.large](/component.box.wood.large.png)|1044081720|Wood Component Box|Items|
 |[composter](/composter.png)|-1488398114|Composter|Items|
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
