@@ -223,6 +223,22 @@
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|
 |![](/compass.128.webp)|compass|594041190|Compass|
+|![](/component.box.ammo.large.128.webp)|component.box.ammo.large|-1593678393|Ammo Component Box|
+|![](/component.box.armor.large.128.webp)|component.box.armor.large|1254295946|Armor Component Box|
+|![](/component.box.charcoal.large.128.webp)|component.box.charcoal.large|1884461210|Charcoal Component Box|
+|![](/component.box.clothing.large.128.webp)|component.box.clothing.large|1736620421|Clothing Component Box|
+|![](/component.box.comps.large.128.webp)|component.box.comps.large|-413663149|Comps Component Box|
+|![](/component.box.explosives.large.128.webp)|component.box.explosives.large|-1998423571|Explosives Component Box|
+|![](/component.box.food.large.128.webp)|component.box.food.large|1023919015|Food Component Box|
+|![](/component.box.guns.large.128.webp)|component.box.guns.large|-544295594|Guns Component Box|
+|![](/component.box.meds.large.128.webp)|component.box.meds.large|-800824218|Meds Component Box|
+|![](/component.box.metal.large.128.webp)|component.box.metal.large|1465782238|Metal Component Box|
+|![](/component.box.ore.large.128.webp)|component.box.ore.large|992944937|Ore Component Box|
+|![](/component.box.scrap.large.128.webp)|component.box.scrap.large|574701440|Scrap Component Box|
+|![](/component.box.stone.large.128.webp)|component.box.stone.large|94971664|Stone Component Box|
+|![](/component.box.sulfur.large.128.webp)|component.box.sulfur.large|-10594280|Sulfur Component Box|
+|![](/component.box.tools.large.128.webp)|component.box.tools.large|679690962|Tools Component Box|
+|![](/component.box.wood.large.128.webp)|component.box.wood.large|1044081720|Wood Component Box|
 |![](/composter.128.webp)|composter|-1488398114|Composter|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|
