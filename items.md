@@ -223,22 +223,22 @@
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|Electrical|A block that runs commands|
 |![](/compass.128.webp)|compass|594041190|Compass|Tool|A handy tool which indicates which direction you're facing. Will reveal your location on the map in Hardcore mode if equipped on your belt.|
-|![](/component.box.ammo.large.128.webp)|component.box.ammo.large|-1593678393|Ammo Component Box|Items|Keep your ammunition in this storage box. Stores up to 48 items.|
-|![](/component.box.armor.large.128.webp)|component.box.armor.large|1254295946|Armor Component Box|Items|Keep your armor in this storage box. Stores up to 48 items.|
-|![](/component.box.charcoal.large.128.webp)|component.box.charcoal.large|1884461210|Charcoal Component Box|Items|Keep your charcoal in this storage box. Stores up to 48 items.|
-|![](/component.box.clothing.large.128.webp)|component.box.clothing.large|1736620421|Clothing Component Box|Items|Keep your clothing in this storage box. Stores up to 48 items.|
-|![](/component.box.comps.large.128.webp)|component.box.comps.large|-413663149|Comps Component Box|Items|Keep your components in this storage box. Stores up to 48 items.|
-|![](/component.box.explosives.large.128.webp)|component.box.explosives.large|-1998423571|Explosives Component Box|Items|Keep your explosives in this storage box. Stores up to 48 items.|
-|![](/component.box.food.large.128.webp)|component.box.food.large|1023919015|Food Component Box|Items|Keep your food in this storage box. Stores up to 48 items.|
-|![](/component.box.guns.large.128.webp)|component.box.guns.large|-544295594|Guns Component Box|Items|Keep your guns in this storage box. Stores up to 48 items.|
-|![](/component.box.meds.large.128.webp)|component.box.meds.large|-800824218|Meds Component Box|Items|Keep your medical things in this storage box. Stores up to 48 items.|
-|![](/component.box.metal.large.128.webp)|component.box.metal.large|1465782238|Metal Component Box|Items|Keep your metal things in this storage box. Stores up to 48 items.|
-|![](/component.box.ore.large.128.webp)|component.box.ore.large|992944937|Ore Component Box|Items|Keep your ore in this storage box. Stores up to 48 items.|
-|![](/component.box.scrap.large.128.webp)|component.box.scrap.large|574701440|Scrap Component Box|Items|Keep your scrap in this storage box. Stores up to 48 items.|
-|![](/component.box.stone.large.128.webp)|component.box.stone.large|94971664|Stone Component Box|Items|Keep your stone in this storage box. Stores up to 48 items.|
-|![](/component.box.sulfur.large.128.webp)|component.box.sulfur.large|-10594280|Sulfur Component Box|Items|Keep your sulfur in this storage box. Stores up to 48 items.|
-|![](/component.box.tools.large.128.webp)|component.box.tools.large|679690962|Tools Component Box|Items|Keep your tools in this storage box. Stores up to 48 items.|
-|![](/component.box.wood.large.128.webp)|component.box.wood.large|1044081720|Wood Component Box|Items|Keep your wood in this storage box. Stores up to 48 items.|
+|![](/component.box.ammo.large.128.webp)|component.box.ammo.large|-1593678393|Ammo Storage Box|Items|Keep your ammunition in this storage box. Stores up to 48 items.|
+|![](/component.box.armor.large.128.webp)|component.box.armor.large|1254295946|Armor Storage Box|Items|Keep your armor in this storage box. Stores up to 48 items.|
+|![](/component.box.charcoal.large.128.webp)|component.box.charcoal.large|1884461210|Charcoal Storage Box|Items|Keep your charcoal in this storage box. Stores up to 48 items.|
+|![](/component.box.clothing.large.128.webp)|component.box.clothing.large|1736620421|Clothing Storage Box|Items|Keep your clothing in this storage box. Stores up to 48 items.|
+|![](/component.box.comps.large.128.webp)|component.box.comps.large|-413663149|Comps Storage Box|Items|Keep your components in this storage box. Stores up to 48 items.|
+|![](/component.box.explosives.large.128.webp)|component.box.explosives.large|-1998423571|Explosives Storage Box|Items|Keep your explosives in this storage box. Stores up to 48 items.|
+|![](/component.box.food.large.128.webp)|component.box.food.large|1023919015|Food Storage Box|Items|Keep your food in this storage box. Stores up to 48 items.|
+|![](/component.box.guns.large.128.webp)|component.box.guns.large|-544295594|Guns Storage Box|Items|Keep your guns in this storage box. Stores up to 48 items.|
+|![](/component.box.meds.large.128.webp)|component.box.meds.large|-800824218|Meds Storage Box|Items|Keep your medical things in this storage box. Stores up to 48 items.|
+|![](/component.box.metal.large.128.webp)|component.box.metal.large|1465782238|Metal Storage Box|Items|Keep your metal things in this storage box. Stores up to 48 items.|
+|![](/component.box.ore.large.128.webp)|component.box.ore.large|992944937|Ore Storage Box|Items|Keep your ore in this storage box. Stores up to 48 items.|
+|![](/component.box.scrap.large.128.webp)|component.box.scrap.large|574701440|Scrap Storage Box|Items|Keep your scrap in this storage box. Stores up to 48 items.|
+|![](/component.box.stone.large.128.webp)|component.box.stone.large|94971664|Stone Storage Box|Items|Keep your stone in this storage box. Stores up to 48 items.|
+|![](/component.box.sulfur.large.128.webp)|component.box.sulfur.large|-10594280|Sulfur Storage Box|Items|Keep your sulfur in this storage box. Stores up to 48 items.|
+|![](/component.box.tools.large.128.webp)|component.box.tools.large|679690962|Tools Storage Box|Items|Keep your tools in this storage box. Stores up to 48 items.|
+|![](/component.box.wood.large.128.webp)|component.box.wood.large|1044081720|Wood Storage Box|Items|Keep your wood in this storage box. Stores up to 48 items.|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
