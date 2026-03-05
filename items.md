@@ -223,6 +223,22 @@
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|Electrical|A block that runs commands|
 |![](/compass.128.webp)|compass|594041190|Compass|Tool|A handy tool which indicates which direction you're facing. Will reveal your location on the map in Hardcore mode if equipped on your belt.|
+|![](/component.box.ammo.large.128.webp)|component.box.ammo.large|-1593678393|Ammo Storage Box|Items|Keep your ammunition in this storage box. Stores up to 48 items.|
+|![](/component.box.armor.large.128.webp)|component.box.armor.large|1254295946|Armor Storage Box|Items|Keep your armor in this storage box. Stores up to 48 items.|
+|![](/component.box.charcoal.large.128.webp)|component.box.charcoal.large|1884461210|Charcoal Storage Box|Items|Keep your charcoal in this storage box. Stores up to 48 items.|
+|![](/component.box.clothing.large.128.webp)|component.box.clothing.large|1736620421|Clothing Storage Box|Items|Keep your clothing in this storage box. Stores up to 48 items.|
+|![](/component.box.comps.large.128.webp)|component.box.comps.large|-413663149|Comps Storage Box|Items|Keep your components in this storage box. Stores up to 48 items.|
+|![](/component.box.explosives.large.128.webp)|component.box.explosives.large|-1998423571|Explosives Storage Box|Items|Keep your explosives in this storage box. Stores up to 48 items.|
+|![](/component.box.food.large.128.webp)|component.box.food.large|1023919015|Food Storage Box|Items|Keep your food in this storage box. Stores up to 48 items.|
+|![](/component.box.guns.large.128.webp)|component.box.guns.large|-544295594|Guns Storage Box|Items|Keep your guns in this storage box. Stores up to 48 items.|
+|![](/component.box.meds.large.128.webp)|component.box.meds.large|-800824218|Meds Storage Box|Items|Keep your medical things in this storage box. Stores up to 48 items.|
+|![](/component.box.metal.large.128.webp)|component.box.metal.large|1465782238|Metal Storage Box|Items|Keep your metal things in this storage box. Stores up to 48 items.|
+|![](/component.box.ore.large.128.webp)|component.box.ore.large|992944937|Ore Storage Box|Items|Keep your ore in this storage box. Stores up to 48 items.|
+|![](/component.box.scrap.large.128.webp)|component.box.scrap.large|574701440|Scrap Storage Box|Items|Keep your scrap in this storage box. Stores up to 48 items.|
+|![](/component.box.stone.large.128.webp)|component.box.stone.large|94971664|Stone Storage Box|Items|Keep your stone in this storage box. Stores up to 48 items.|
+|![](/component.box.sulfur.large.128.webp)|component.box.sulfur.large|-10594280|Sulfur Storage Box|Items|Keep your sulfur in this storage box. Stores up to 48 items.|
+|![](/component.box.tools.large.128.webp)|component.box.tools.large|679690962|Tools Storage Box|Items|Keep your tools in this storage box. Stores up to 48 items.|
+|![](/component.box.wood.large.128.webp)|component.box.wood.large|1044081720|Wood Storage Box|Items|Keep your wood in this storage box. Stores up to 48 items.|
 |![](/composter.128.webp)|composter|-1488398114|Composter|Items|Produces fertilizer from compostable items.|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|Electrical|A Computer station for remote control access|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|Tool|A salvaged piece of concrete and rebar which can be used to harvest wood|
@@ -472,7 +488,6 @@
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
 |![](/hab.128.webp)|hab|696029539|Hot Air Balloon|Misc|A Hot Air Balloon.|
-|![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|Misc|A Hot Air Balloon.|
 |![](/half.bamboo.shelves.128.webp)|half.bamboo.shelves|-1923843855|Half Height Bamboo Shelves|Items|Half height salvaged bamboo shelves for stacking|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bag!|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
@@ -709,7 +724,7 @@
 |![](/outbreak.sprayer.128.webp)|outbreak.sprayer|1621942085|Outbreak Sprayer|Tool|An outbreak sprayer used by scientists|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
-|![](/paintabletarget.reactive.128.webp)|paintabletarget.reactive|-1039234836|Paintable Reactive Target|Misc|A reactive target practice in which you can paint whatever you want|
+|![](/paintabletarget.reactive.128.webp)|paintabletarget.reactive|-1039234836|Paintable Reactive Target|Electrical|A reactive target practice in which you can paint whatever you want|
 |![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball Gun|Weapon|An air gun that uses compressed gas to fire and make targets works of art.|
 |![](/paintballoveralls.suit.128.webp)|paintballoveralls.suit|-1014934560|Paintball Overalls|Attire|A set of paintball overalls.|
 |![](/pants.128.webp)|pants|237239288|Pants|Attire|A pair of pants, highly capable undergarment for your legs. Great all round protection from damage and the elements.|
@@ -853,7 +868,6 @@
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A basic scrap tea, temporarily increases the amount of scrap you receive from barrels a small amount.|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|Misc||
-|![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|Misc||
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|A block of ice you can sculpt and light up with electric power.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
@@ -1046,7 +1060,6 @@
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|Items|A comfortable twitch branded sofa. A decorative item which provides comfort and seats two.|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|Attire|A wearable flag for Twitch Rivals|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|Attire|Sunglasses - Gained from Rust's first Twitch drop.|
-|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|Items|A Two-Way mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|Component|Low quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|Component|Medium quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|Component|High quality poppet valves for a combustion engine. Valves control the intake and exhaust flow.|

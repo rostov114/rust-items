@@ -223,6 +223,22 @@
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
 |[command.block](/command.block.png)|-1247485104|Command Block|Electrical|
 |[compass](/compass.png)|594041190|Compass|Tool|
+|[component.box.ammo.large](/component.box.ammo.large.png)|-1593678393|Ammo Storage Box|Items|
+|[component.box.armor.large](/component.box.armor.large.png)|1254295946|Armor Storage Box|Items|
+|[component.box.charcoal.large](/component.box.charcoal.large.png)|1884461210|Charcoal Storage Box|Items|
+|[component.box.clothing.large](/component.box.clothing.large.png)|1736620421|Clothing Storage Box|Items|
+|[component.box.comps.large](/component.box.comps.large.png)|-413663149|Comps Storage Box|Items|
+|[component.box.explosives.large](/component.box.explosives.large.png)|-1998423571|Explosives Storage Box|Items|
+|[component.box.food.large](/component.box.food.large.png)|1023919015|Food Storage Box|Items|
+|[component.box.guns.large](/component.box.guns.large.png)|-544295594|Guns Storage Box|Items|
+|[component.box.meds.large](/component.box.meds.large.png)|-800824218|Meds Storage Box|Items|
+|[component.box.metal.large](/component.box.metal.large.png)|1465782238|Metal Storage Box|Items|
+|[component.box.ore.large](/component.box.ore.large.png)|992944937|Ore Storage Box|Items|
+|[component.box.scrap.large](/component.box.scrap.large.png)|574701440|Scrap Storage Box|Items|
+|[component.box.stone.large](/component.box.stone.large.png)|94971664|Stone Storage Box|Items|
+|[component.box.sulfur.large](/component.box.sulfur.large.png)|-10594280|Sulfur Storage Box|Items|
+|[component.box.tools.large](/component.box.tools.large.png)|679690962|Tools Storage Box|Items|
+|[component.box.wood.large](/component.box.wood.large.png)|1044081720|Wood Storage Box|Items|
 |[composter](/composter.png)|-1488398114|Composter|Items|
 |[computerstation](/computerstation.png)|-1588628467|Computer Station|Electrical|
 |[concretehatchet](/concretehatchet.png)|1176355476|Concrete Hatchet|Tool|
@@ -472,7 +488,6 @@
 |[guntrap](/guntrap.png)|352499047|Shotgun Trap|Traps|
 |[hab.armor](/hab.armor.png)|-1989600732|Hot Air Balloon Armor|Attire|
 |[hab](/hab.png)|696029539|Hot Air Balloon|Misc|
-|[habrepair](/habrepair.png)|-1759188988|Hot Air Balloon|Misc|
 |[half.bamboo.shelves](/half.bamboo.shelves.png)|-1923843855|Half Height Bamboo Shelves|Items|
 |[halloween.candy](/halloween.candy.png)|-888153050|Halloween Candy|Misc|
 |[halloween.lootbag.large](/halloween.lootbag.large.png)|479292118|Large Loot Bag|Misc|
@@ -709,7 +724,7 @@
 |[outbreak.sprayer](/outbreak.sprayer.png)|1621942085|Outbreak Sprayer|Tool|
 |[paddle](/paddle.png)|1491189398|Paddle|Weapon|
 |[paddlingpool](/paddlingpool.png)|-733625651|Paddling Pool|Fun|
-|[paintabletarget.reactive](/paintabletarget.reactive.png)|-1039234836|Paintable Reactive Target|Misc|
+|[paintabletarget.reactive](/paintabletarget.reactive.png)|-1039234836|Paintable Reactive Target|Electrical|
 |[paintballgun](/paintballgun.png)|-707792719|Paintball Gun|Weapon|
 |[paintballoveralls.suit](/paintballoveralls.suit.png)|-1014934560|Paintball Overalls|Attire|
 |[pants](/pants.png)|237239288|Pants|Attire|
@@ -853,7 +868,6 @@
 |[scraptea](/scraptea.png)|263834859|Basic Scrap Tea|Food|
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptransportheli](/scraptransportheli.png)|375473148|Scrap Transport Helicopter|Misc|
-|[scraptransportheli.repair](/scraptransportheli.repair.png)|-1884328185|Scrap Transport Helicopter|Misc|
 |[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Items|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
@@ -1046,7 +1060,6 @@
 |[twitchrivals2025sofa](/twitchrivals2025sofa.png)|1604092540|Twitch Rivals 2025 Sofa|Items|
 |[twitchrivalsflag](/twitchrivalsflag.png)|-739993590|Twitch Rivals Flag|Attire|
 |[twitchsunglasses](/twitchsunglasses.png)|20489901|Purple Sunglasses|Attire|
-|[twowaymirror.window](/twowaymirror.window.png)|-1683726934|Two-Way Mirror|Items|
 |[valve1](/valve1.png)|1330084809|Low Quality Valves|Component|
 |[valve2](/valve2.png)|926800282|Medium Quality Valves|Component|
 |[valve3](/valve3.png)|-1802083073|High Quality Valves|Component|

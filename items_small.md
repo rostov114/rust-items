@@ -223,6 +223,22 @@
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|
 |![](/compass.128.webp)|compass|594041190|Compass|
+|![](/component.box.ammo.large.128.webp)|component.box.ammo.large|-1593678393|Ammo Storage Box|
+|![](/component.box.armor.large.128.webp)|component.box.armor.large|1254295946|Armor Storage Box|
+|![](/component.box.charcoal.large.128.webp)|component.box.charcoal.large|1884461210|Charcoal Storage Box|
+|![](/component.box.clothing.large.128.webp)|component.box.clothing.large|1736620421|Clothing Storage Box|
+|![](/component.box.comps.large.128.webp)|component.box.comps.large|-413663149|Comps Storage Box|
+|![](/component.box.explosives.large.128.webp)|component.box.explosives.large|-1998423571|Explosives Storage Box|
+|![](/component.box.food.large.128.webp)|component.box.food.large|1023919015|Food Storage Box|
+|![](/component.box.guns.large.128.webp)|component.box.guns.large|-544295594|Guns Storage Box|
+|![](/component.box.meds.large.128.webp)|component.box.meds.large|-800824218|Meds Storage Box|
+|![](/component.box.metal.large.128.webp)|component.box.metal.large|1465782238|Metal Storage Box|
+|![](/component.box.ore.large.128.webp)|component.box.ore.large|992944937|Ore Storage Box|
+|![](/component.box.scrap.large.128.webp)|component.box.scrap.large|574701440|Scrap Storage Box|
+|![](/component.box.stone.large.128.webp)|component.box.stone.large|94971664|Stone Storage Box|
+|![](/component.box.sulfur.large.128.webp)|component.box.sulfur.large|-10594280|Sulfur Storage Box|
+|![](/component.box.tools.large.128.webp)|component.box.tools.large|679690962|Tools Storage Box|
+|![](/component.box.wood.large.128.webp)|component.box.wood.large|1044081720|Wood Storage Box|
 |![](/composter.128.webp)|composter|-1488398114|Composter|
 |![](/computerstation.128.webp)|computerstation|-1588628467|Computer Station|
 |![](/concretehatchet.128.webp)|concretehatchet|1176355476|Concrete Hatchet|
@@ -472,7 +488,6 @@
 |![](/guntrap.128.webp)|guntrap|352499047|Shotgun Trap|
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|
 |![](/hab.128.webp)|hab|696029539|Hot Air Balloon|
-|![](/habrepair.128.webp)|habrepair|-1759188988|Hot Air Balloon|
 |![](/half.bamboo.shelves.128.webp)|half.bamboo.shelves|-1923843855|Half Height Bamboo Shelves|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|
@@ -853,7 +868,6 @@
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|
-|![](/scraptransportheli.repair.128.webp)|scraptransportheli.repair|-1884328185|Scrap Transport Helicopter|
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|
@@ -1046,7 +1060,6 @@
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|
 |![](/twitchrivalsflag.128.webp)|twitchrivalsflag|-739993590|Twitch Rivals Flag|
 |![](/twitchsunglasses.128.webp)|twitchsunglasses|20489901|Purple Sunglasses|
-|![](/twowaymirror.window.128.webp)|twowaymirror.window|-1683726934|Two-Way Mirror|
 |![](/valve1.128.webp)|valve1|1330084809|Low Quality Valves|
 |![](/valve2.128.webp)|valve2|926800282|Medium Quality Valves|
 |![](/valve3.128.webp)|valve3|-1802083073|High Quality Valves|
