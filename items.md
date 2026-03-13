@@ -48,6 +48,8 @@
 |![](/apple.128.webp)|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
 |![](/arcade.machine.chippy.128.webp)|arcade.machine.chippy|359723196|Chippy Arcade Game|Items|An Arcade Machine|
+|![](/armoured.ladder.hatch.128.webp)|armoured.ladder.hatch|1127417055|Armoured Ladder Hatch|Construction|An armoured hatch that opens and changes into a ladder.|
+|![](/armoured.triangle.ladder.hatch.128.webp)|armoured.triangle.ladder.hatch|-601133933|Armoured Triangle Laddder Hatch|Construction|An armoured hatch that opens and changes into a ladder.|
 |![](/arrow.bone.128.webp)|arrow.bone|215754713|Bone Arrow|Ammunition|An Arrow equipped with a large bone arrowhead making it very easy to hit targets at the expense of damage|
 |![](/arrow.fire.128.webp)|arrow.fire|14241751|Fire Arrow|Ammunition|A fuel soaked arrow, ignite it by aiming.|
 |![](/arrow.hv.128.webp)|arrow.hv|-1023065463|High Velocity Arrow|Ammunition|Lighter, faster arrow that deals less damage.|
