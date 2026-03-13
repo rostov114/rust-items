@@ -48,6 +48,8 @@
 |![](/apple.128.webp)|apple|1548091822|Apple|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|
 |![](/arcade.machine.chippy.128.webp)|arcade.machine.chippy|359723196|Chippy Arcade Game|
+|![](/armoured.ladder.hatch.128.webp)|armoured.ladder.hatch|1127417055|Armoured Ladder Hatch|
+|![](/armoured.triangle.ladder.hatch.128.webp)|armoured.triangle.ladder.hatch|-601133933|Armoured Triangle Laddder Hatch|
 |![](/arrow.bone.128.webp)|arrow.bone|215754713|Bone Arrow|
 |![](/arrow.fire.128.webp)|arrow.fire|14241751|Fire Arrow|
 |![](/arrow.hv.128.webp)|arrow.hv|-1023065463|High Velocity Arrow|
