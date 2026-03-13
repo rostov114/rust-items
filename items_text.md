@@ -48,6 +48,8 @@
 |[apple](/apple.png)|1548091822|Apple|Food|
 |[apple.spoiled](/apple.spoiled.png)|352130972|Rotten Apple|Food|
 |[arcade.machine.chippy](/arcade.machine.chippy.png)|359723196|Chippy Arcade Game|Items|
+|[armoured.ladder.hatch](/armoured.ladder.hatch.png)|1127417055|Armoured Ladder Hatch|Construction|
+|[armoured.triangle.ladder.hatch](/armoured.triangle.ladder.hatch.png)|-601133933|Armoured Triangle Laddder Hatch|Construction|
 |[arrow.bone](/arrow.bone.png)|215754713|Bone Arrow|Ammunition|
 |[arrow.fire](/arrow.fire.png)|14241751|Fire Arrow|Ammunition|
 |[arrow.hv](/arrow.hv.png)|-1023065463|High Velocity Arrow|Ammunition|
