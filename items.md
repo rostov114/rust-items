@@ -142,6 +142,7 @@
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
 |![](/building.planner.128.webp)|building.planner|1525520776|Building Plan|Construction|A building plan. You can use this to craft buildings - right click when equipped for more options.|
+|![](/bunny.suit.128.webp)|bunny.suit|1285226495|Bunny Costume|Attire|An inflatable bunny costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
 |![](/burlap.gloves.128.webp)|burlap.gloves|1366282552|Leather Gloves|Attire|Gloves made out of leather, offers a small amount of protection to the upper body.|
 |![](/burlap.gloves.new.128.webp)|burlap.gloves.new|21402876|Burlap Gloves|Attire|Basic burlap gloves, offering protection from the elements|
 |![](/burlap.headwrap.128.webp)|burlap.headwrap|1877339384|Burlap Headwrap|Attire|A Headwrap made out of burlap.|
@@ -405,8 +406,10 @@
 |![](/flashlight.held.128.webp)|flashlight.held|-196667575|Flashlight|Tool|A powerful flashlight which illuminates your surroundings and can be used as a weapon.|
 |![](/floor.grill.128.webp)|floor.grill|936496778|Floor grill|Construction|A floor grill must be placed in floor frames. Perfect for placing above a large furnace.|
 |![](/floor.ladder.hatch.128.webp)|floor.ladder.hatch|1948067030|Ladder Hatch|Construction|A hatch that opens and changes into a ladder.|
+|![](/floor.ladder.hatch.toptier.128.webp)|floor.ladder.hatch.toptier|607785075|Armored Ladder Hatch|Construction|An armored hatch that opens and changes into a ladder.|
 |![](/floor.triangle.grill.128.webp)|floor.triangle.grill|1983621560|Floor triangle grill|Construction|A floor grill must be placed in floor frames. Perfect for placing above a large furnace.|
 |![](/floor.triangle.ladder.hatch.128.webp)|floor.triangle.ladder.hatch|2041899972|Triangle Ladder Hatch|Construction|A hatch that opens and changes into a ladder.|
+|![](/floor.triangle.ladder.hatch.toptier.128.webp)|floor.triangle.ladder.hatch.toptier|-478923685|Armored Triangle Ladder Hatch|Construction|A triangular armored hatch that opens and changes into a ladder.|
 |![](/fluid.combiner.128.webp)|fluid.combiner|-265292885|Fluid Combiner|Electrical|Combines three separate fluid connections into one connection.|
 |![](/fluid.splitter.128.webp)|fluid.splitter|-1166712463|Fluid Splitter|Electrical|Splits a fluid connection into three separate connections.|
 |![](/fluid.switch.128.webp)|fluid.switch|443432036|Fluid Switch & Pump|Electrical|A simple switch that enables fluid to pass through. Can be switched on/off manually or via electricity. Can also pump water upwards to higher entities when powered.|
@@ -841,6 +844,7 @@
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|Misc|A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.|
 |![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|Misc|A beautiful hand crafted cerulean and gold egg, with a miniature cargo ship scene contained inside.|
+|![](/rustige_egg_h.128.webp)|rustige_egg_h|-173268138|Rustigé Egg - Amethyst|Misc|A beautiful hand crafted amethyst and gold egg, with a miniature excavator scene contained inside.|
 |![](/sail.128.webp)|sail|405905095|Sail|Items|A slow but effective boat sail, made from scraps of fabric hastily stitched together. More sails will generate more speed.|
 |![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|Items|Bamboo shelves for item stacking|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
