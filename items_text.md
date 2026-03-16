@@ -142,6 +142,7 @@
 |[bucket.helmet](/bucket.helmet.png)|850280505|Bucket Helmet|Attire|
 |[bucket.water](/bucket.water.png)|1424075905|Water Bucket|Tool|
 |[building.planner](/building.planner.png)|1525520776|Building Plan|Construction|
+|[bunny.suit](/bunny.suit.png)|1285226495|Bunny Costume|Attire|
 |[burlap.gloves](/burlap.gloves.png)|1366282552|Leather Gloves|Attire|
 |[burlap.gloves.new](/burlap.gloves.new.png)|21402876|Burlap Gloves|Attire|
 |[burlap.headwrap](/burlap.headwrap.png)|1877339384|Burlap Headwrap|Attire|
@@ -405,8 +406,10 @@
 |[flashlight.held](/flashlight.held.png)|-196667575|Flashlight|Tool|
 |[floor.grill](/floor.grill.png)|936496778|Floor grill|Construction|
 |[floor.ladder.hatch](/floor.ladder.hatch.png)|1948067030|Ladder Hatch|Construction|
+|[floor.ladder.hatch.toptier](/floor.ladder.hatch.toptier.png)|607785075|Armored Ladder Hatch|Construction|
 |[floor.triangle.grill](/floor.triangle.grill.png)|1983621560|Floor triangle grill|Construction|
 |[floor.triangle.ladder.hatch](/floor.triangle.ladder.hatch.png)|2041899972|Triangle Ladder Hatch|Construction|
+|[floor.triangle.ladder.hatch.toptier](/floor.triangle.ladder.hatch.toptier.png)|-478923685|Armored Triangle Ladder Hatch|Construction|
 |[fluid.combiner](/fluid.combiner.png)|-265292885|Fluid Combiner|Electrical|
 |[fluid.splitter](/fluid.splitter.png)|-1166712463|Fluid Splitter|Electrical|
 |[fluid.switch](/fluid.switch.png)|443432036|Fluid Switch & Pump|Electrical|
@@ -841,6 +844,7 @@
 |[rustige_egg_e](/rustige_egg_e.png)|-173268125|Rustigé Egg - Green|Misc|
 |[rustige_egg_f](/rustige_egg_f.png)|-173268128|Rustigé Egg - White|Misc|
 |[rustige_egg_g](/rustige_egg_g.png)|-173268127|Rustigé Egg - Cerulean|Misc|
+|[rustige_egg_h](/rustige_egg_h.png)|-173268138|Rustigé Egg - Amethyst|Misc|
 |[sail](/sail.png)|405905095|Sail|Items|
 |[salvaged.bamboo.shelves](/salvaged.bamboo.shelves.png)|-2110553371|Bamboo Salvaged Shelves|Items|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
