@@ -450,6 +450,7 @@
 |[gates.external.high.wood](/gates.external.high.wood.png)|-335089230|High External Wooden Gate|Construction|
 |[gears](/gears.png)|479143914|Gears|Component|
 |[geiger.counter](/geiger.counter.png)|999690781|Geiger Counter|Tool|
+|[generator.water](/generator.water.png)|-379403794|Water Wheel|Electrical|
 |[generator.wind.scrap](/generator.wind.scrap.png)|-1819763926|Wind Turbine|Electrical|
 |[ghostsheet](/ghostsheet.png)|-1043618880|Ghost Costume|Attire|
 |[giantcandycanedecor](/giantcandycanedecor.png)|-695124222|Giant Candy Decor|Misc|
