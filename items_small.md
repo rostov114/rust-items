@@ -450,6 +450,7 @@
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|
 |![](/gears.128.webp)|gears|479143914|Gears|
 |![](/geiger.counter.128.webp)|geiger.counter|999690781|Geiger Counter|
+|![](/generator.water.128.webp)|generator.water|-379403794|Water Wheel|
 |![](/generator.wind.scrap.128.webp)|generator.wind.scrap|-1819763926|Wind Turbine|
 |![](/ghostsheet.128.webp)|ghostsheet|-1043618880|Ghost Costume|
 |![](/giantcandycanedecor.128.webp)|giantcandycanedecor|-695124222|Giant Candy Decor|

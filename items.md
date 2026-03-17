@@ -450,6 +450,7 @@
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
 |![](/gears.128.webp)|gears|479143914|Gears|Component|A selection of gears. Some functional, some not.|
 |![](/geiger.counter.128.webp)|geiger.counter|999690781|Geiger Counter|Tool|A geiger counter used by scientists|
+|![](/generator.water.128.webp)|generator.water|-379403794|Water Wheel|Electrical|Converts kinetic energy harvested from flowing water into electricity.|
 |![](/generator.wind.scrap.128.webp)|generator.wind.scrap|-1819763926|Wind Turbine|Electrical|Converts kinetic energy harvested from the wind into electricity. Amount generated will vary depending on wind speed. Higher altitudes will yield stronger winds.|
 |![](/ghostsheet.128.webp)|ghostsheet|-1043618880|Ghost Costume|Attire|Definitely not a last minute costume idea.|
 |![](/giantcandycanedecor.128.webp)|giantcandycanedecor|-695124222|Giant Candy Decor|Misc|Get into the holiday spirit with this decorative inflated giant candy cane|
