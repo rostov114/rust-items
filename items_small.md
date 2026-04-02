@@ -140,6 +140,7 @@
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|
 |![](/building.planner.128.webp)|building.planner|1525520776|Building Plan|
+|![](/bunny.suit.128.webp)|bunny.suit|1285226495|Bunny Costume|
 |![](/burlap.gloves.128.webp)|burlap.gloves|1366282552|Leather Gloves|
 |![](/burlap.gloves.new.128.webp)|burlap.gloves.new|21402876|Burlap Gloves|
 |![](/burlap.headwrap.128.webp)|burlap.headwrap|1877339384|Burlap Headwrap|
@@ -404,8 +405,10 @@
 |![](/flashlight.held.128.webp)|flashlight.held|-196667575|Flashlight|
 |![](/floor.grill.128.webp)|floor.grill|936496778|Floor grill|
 |![](/floor.ladder.hatch.128.webp)|floor.ladder.hatch|1948067030|Ladder Hatch|
+|![](/floor.ladder.hatch.toptier.128.webp)|floor.ladder.hatch.toptier|607785075|Armored Ladder Hatch|
 |![](/floor.triangle.grill.128.webp)|floor.triangle.grill|1983621560|Floor triangle grill|
 |![](/floor.triangle.ladder.hatch.128.webp)|floor.triangle.ladder.hatch|2041899972|Triangle Ladder Hatch|
+|![](/floor.triangle.ladder.hatch.toptier.128.webp)|floor.triangle.ladder.hatch.toptier|-478923685|Armored Triangle Ladder Hatch|
 |![](/fluid.combiner.128.webp)|fluid.combiner|-265292885|Fluid Combiner|
 |![](/fluid.splitter.128.webp)|fluid.splitter|-1166712463|Fluid Splitter|
 |![](/fluid.switch.128.webp)|fluid.switch|443432036|Fluid Switch & Pump|
@@ -447,6 +450,7 @@
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|
 |![](/gears.128.webp)|gears|479143914|Gears|
 |![](/geiger.counter.128.webp)|geiger.counter|999690781|Geiger Counter|
+|![](/generator.water.128.webp)|generator.water|-379403794|Water Wheel|
 |![](/generator.wind.scrap.128.webp)|generator.wind.scrap|-1819763926|Wind Turbine|
 |![](/ghostsheet.128.webp)|ghostsheet|-1043618880|Ghost Costume|
 |![](/giantcandycanedecor.128.webp)|giantcandycanedecor|-695124222|Giant Candy Decor|
@@ -841,6 +845,7 @@
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|
 |![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|
+|![](/rustige_egg_h.128.webp)|rustige_egg_h|-173268138|Rustigé Egg - Amethyst|
 |![](/sail.128.webp)|sail|405905095|Sail|
 |![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|
