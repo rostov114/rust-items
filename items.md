@@ -357,7 +357,7 @@
 |![](/electric.teslacoil.128.webp)|electric.teslacoil|1371909803|Tesla Coil|Electrical|An electrical trap that zaps nearby players when powered. More power supplied will result in higher damage. Loses durability with use.|
 |![](/electric.timer.128.webp)|electric.timer|665332906|Timer|Electrical|A Timer switch, will pass power through for duration.|
 |![](/electric.wallcabinet.128.webp)|electric.wallcabinet|656829501|Wall Cabinet|Items|A cabinet with a shelf for small items.|
-|![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. If BOTH inputs recieve power, passthrough will be zero.|
+|![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. If BOTH inputs receive power, passthrough will be zero.|
 |![](/electrical.branch.128.webp)|electrical.branch|-1448252298|Electrical Branch|Electrical|This object allows you to branch power off from a main line by a set amount.|
 |![](/electrical.combiner.128.webp)|electrical.combiner|-458565393|Root Combiner|Electrical|This object combines two root electrical sources into a single signal. Helpful for stringing together low energy batteries or solar panels to produce higher power output. Can be wired in series, can not be used with any non energy producing electrical components.|
 |![](/electrical.memorycell.128.webp)|electrical.memorycell|-746647361|Memory Cell|Electrical|A 1 bit storage component. SET input will set the value to 1 CLEAR input sets the value to 0. Output will provide connected power if value is 1, Inverted output will provide connected power if value is 0. This is also known as a D-Type Flip Flop|
@@ -1178,6 +1178,16 @@
 |![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|An advanced wood tea, temporarily increases the yield from cutting trees a moderate amount.|
 |![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|Food|A basic wood tea, temporarily increases the yield from cutting trees a small amount.|
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount.|
+|![](/workbench.upgrade.accelerated.128.webp)|workbench.upgrade.accelerated|798382300|Accelerated Workbench Upgrade|Component|Crafting speed increases by 25% for each item already completed in the same batch.|
+|![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|Component|Provides a 100% comfort zone around the workbench for those long crafting sessions.|
+|![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Clothing crafted at this workbench is guaranteed to have at least one armor plate insert slot.|
+|![](/workbench.upgrade.efficiency.128.webp)|workbench.upgrade.efficiency|1215602244|Efficiency Workbench Upgrade|Component|10% chance to produce a free bonus item when crafting in batches. Does not apply to rockets or C4.|
+|![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|Component|Allows unlocking any tech tree item regardless of progression. Cost is doubled and there is a 10% chance of failure that still consumes resources.|
+|![](/workbench.upgrade.range.128.webp)|workbench.upgrade.range|1470387662|Range Workbench Upgrade|Component|Doubles the workbench crafting radius, letting you craft from twice as far away.|
+|![](/workbench.upgrade.recyclebin.128.webp)|workbench.upgrade.recyclebin|-286541059|Recycle Bin Workbench Upgrade|Component|Each craft has a chance to refund 0-10% of the ingredient cost back to you in raw material form.|
+|![](/workbench.upgrade.reinforced.128.webp)|workbench.upgrade.reinforced|112268546|Reinforced Workbench Upgrade|Component|Increases the workbench's max HP by 150% and grants explosive damage resistance.|
+|![](/workbench.upgrade.salvage.128.webp)|workbench.upgrade.salvage|-160105346|Salvage Workbench Upgrade|Component|Reduces the scrap cost of all tech tree unlocks at this bench by 20%.|
+|![](/workbench.upgrade.surplus.128.webp)|workbench.upgrade.surplus|-1536343135|Surplus Workbench Upgrade|Component|20% chance to produce a random surplus part (1-8) when crafting. Surplus parts are used in special alternate recipes.|
 |![](/workbench1.128.webp)|workbench1|1524187186|Workbench Level 1|Items|This allows you to craft and unlock items requiring workbench level 1|
 |![](/workbench2.128.webp)|workbench2|-41896755|Workbench Level 2|Items|This allows you to craft and unlock items requiring workbench level 2|
 |![](/workbench3.128.webp)|workbench3|-1607980696|Workbench Level 3|Items|This allows you to craft and unlock items requiring workbench level 3|
