@@ -1178,6 +1178,16 @@
 |[woodtea.advanced](/woodtea.advanced.png)|-541206665|Advanced Wood Tea|Food|
 |[woodtea](/woodtea.png)|-649128577|Basic Wood Tea|Food|
 |[woodtea.pure](/woodtea.pure.png)|-557539629|Pure Wood Tea|Food|
+|[workbench.upgrade.accelerated](/workbench.upgrade.accelerated.png)|798382300|Accelerated Workbench Upgrade|Component|
+|[workbench.upgrade.comfort](/workbench.upgrade.comfort.png)|-770390391|Comfort Workbench Upgrade|Component|
+|[workbench.upgrade.defensive](/workbench.upgrade.defensive.png)|-1953279770|Defensive Workbench Upgrade|Component|
+|[workbench.upgrade.efficiency](/workbench.upgrade.efficiency.png)|1215602244|Efficiency Workbench Upgrade|Component|
+|[workbench.upgrade.prototype](/workbench.upgrade.prototype.png)|-180862419|Prototype Workbench Upgrade|Component|
+|[workbench.upgrade.range](/workbench.upgrade.range.png)|1470387662|Range Workbench Upgrade|Component|
+|[workbench.upgrade.recyclebin](/workbench.upgrade.recyclebin.png)|-286541059|Recycle Bin Workbench Upgrade|Component|
+|[workbench.upgrade.reinforced](/workbench.upgrade.reinforced.png)|112268546|Reinforced Workbench Upgrade|Component|
+|[workbench.upgrade.salvage](/workbench.upgrade.salvage.png)|-160105346|Salvage Workbench Upgrade|Component|
+|[workbench.upgrade.surplus](/workbench.upgrade.surplus.png)|-1536343135|Surplus Workbench Upgrade|Component|
 |[workbench1](/workbench1.png)|1524187186|Workbench Level 1|Items|
 |[workbench2](/workbench2.png)|-41896755|Workbench Level 2|Items|
 |[workbench3](/workbench3.png)|-1607980696|Workbench Level 3|Items|

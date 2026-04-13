@@ -1178,6 +1178,16 @@
 |![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|
 |![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|
+|![](/workbench.upgrade.accelerated.128.webp)|workbench.upgrade.accelerated|798382300|Accelerated Workbench Upgrade|
+|![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|
+|![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|
+|![](/workbench.upgrade.efficiency.128.webp)|workbench.upgrade.efficiency|1215602244|Efficiency Workbench Upgrade|
+|![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|
+|![](/workbench.upgrade.range.128.webp)|workbench.upgrade.range|1470387662|Range Workbench Upgrade|
+|![](/workbench.upgrade.recyclebin.128.webp)|workbench.upgrade.recyclebin|-286541059|Recycle Bin Workbench Upgrade|
+|![](/workbench.upgrade.reinforced.128.webp)|workbench.upgrade.reinforced|112268546|Reinforced Workbench Upgrade|
+|![](/workbench.upgrade.salvage.128.webp)|workbench.upgrade.salvage|-160105346|Salvage Workbench Upgrade|
+|![](/workbench.upgrade.surplus.128.webp)|workbench.upgrade.surplus|-1536343135|Surplus Workbench Upgrade|
 |![](/workbench1.128.webp)|workbench1|1524187186|Workbench Level 1|
 |![](/workbench2.128.webp)|workbench2|-41896755|Workbench Level 2|
 |![](/workbench3.128.webp)|workbench3|-1607980696|Workbench Level 3|
