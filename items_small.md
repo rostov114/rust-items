@@ -23,6 +23,7 @@
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|
+|![](/ammo.mortar.basic.128.webp)|ammo.mortar.basic|963150711|Mortar Shell|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|
 |![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|
@@ -706,6 +707,7 @@
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|
 |![](/modularcarlift.128.webp)|modularcarlift|1696050067|Modular Car Lift|
+|![](/mortar.deployable.128.webp)|mortar.deployable|1459828804|Mortar|
 |![](/motorbike.128.webp)|motorbike|-1417478274|Motorbike|
 |![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|
