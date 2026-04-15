@@ -23,6 +23,7 @@
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
 |[ammo.handmade.shell](/ammo.handmade.shell.png)|588596902|Handmade Shell|Ammunition|
+|[ammo.mortar.basic](/ammo.mortar.basic.png)|963150711|Mortar Shell|Ammunition|
 |[ammo.nailgun.nails](/ammo.nailgun.nails.png)|-2097376851|Nailgun Nails|Ammunition|
 |[ammo.paintball](/ammo.paintball.png)|385645417|Paintball|Ammunition|
 |[ammo.pistol.fire](/ammo.pistol.fire.png)|51984655|Incendiary Pistol Bullet|Ammunition|
@@ -706,6 +707,7 @@
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
 |[mobilephone](/mobilephone.png)|-20045316|Mobile Phone|Fun|
 |[modularcarlift](/modularcarlift.png)|1696050067|Modular Car Lift|Electrical|
+|[mortar.deployable](/mortar.deployable.png)|1459828804|Mortar|Construction|
 |[motorbike](/motorbike.png)|-1417478274|Motorbike|Misc|
 |[motorbike_sidecar](/motorbike_sidecar.png)|1869224826|Motorbike With Sidecar|Misc|
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
