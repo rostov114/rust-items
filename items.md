@@ -90,6 +90,10 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
+|![](/base.half.shelves.128.webp)|base.half.shelves|-1024954624|null|Items||
+|![](/base.horizontal.barrel.128.webp)|base.horizontal.barrel|655356057|null|Items||
+|![](/base.single.shelves.128.webp)|base.single.shelves|-1695149731|null|Items||
+|![](/base.vertical.barrel.128.webp)|base.vertical.barrel|2045583965|null|Items||
 |![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|Component|Damaged diagrams containing partial information to constuct a Tier 2 Workbench for advanced crafting. Several fragments are needed.20 Basic Fragments can be pieced together to make an Advanced Fragment.|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|Items|A small planter with enough room to plant 3 seeds.|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|Weapon||
@@ -1182,7 +1186,7 @@
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount.|
 |![](/workbench.upgrade.accelerated.128.webp)|workbench.upgrade.accelerated|798382300|Accelerated Workbench Upgrade|Component|Crafting speed increases by 25% for each item already completed in the same batch.|
 |![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|Component|Provides a 100% comfort zone around the workbench for those long crafting sessions.|
-|![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Clothing crafted at this workbench is guaranteed to have at least one armor plate insert slot.|
+|![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Armor or clothing compatible with insert slots will always have at least one when crafted at workbenches with this upgrade.|
 |![](/workbench.upgrade.efficiency.128.webp)|workbench.upgrade.efficiency|1215602244|Efficiency Workbench Upgrade|Component|10% chance to produce a free bonus item when crafting in batches. Does not apply to rockets or C4.|
 |![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|Component|Allows unlocking any tech tree item regardless of progression. Cost is doubled and there is a 10% chance of failure that still consumes resources.|
 |![](/workbench.upgrade.range.128.webp)|workbench.upgrade.range|1470387662|Range Workbench Upgrade|Component|Doubles the workbench crafting radius, letting you craft from twice as far away.|

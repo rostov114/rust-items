@@ -90,6 +90,10 @@
 |[barricade.wood.cover](/barricade.wood.cover.png)|1373240771|Wooden Barricade Cover|Construction|
 |[barricade.wood](/barricade.wood.png)|866889860|Wooden Barricade|Construction|
 |[barricade.woodwire](/barricade.woodwire.png)|1382263453|Barbed Wooden Barricade|Construction|
+|[base.half.shelves](/base.half.shelves.png)|-1024954624|null|Items|
+|[base.horizontal.barrel](/base.horizontal.barrel.png)|655356057|null|Items|
+|[base.single.shelves](/base.single.shelves.png)|-1695149731|null|Items|
+|[base.vertical.barrel](/base.vertical.barrel.png)|2045583965|null|Items|
 |[basicblueprintfragment](/basicblueprintfragment.png)|-143481979|Basic Blueprint Fragment|Component|
 |[bathtub.planter](/bathtub.planter.png)|-1274093662|Bath Tub Planter|Items|
 |[batteringram.head.repair](/batteringram.head.repair.png)|-479314201|Battering Ram Head|Weapon|
