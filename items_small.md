@@ -90,6 +90,10 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|
+|![](/base.half.shelves.128.webp)|base.half.shelves|-1024954624|null|
+|![](/base.horizontal.barrel.128.webp)|base.horizontal.barrel|655356057|null|
+|![](/base.single.shelves.128.webp)|base.single.shelves|-1695149731|null|
+|![](/base.vertical.barrel.128.webp)|base.vertical.barrel|2045583965|null|
 |![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|
