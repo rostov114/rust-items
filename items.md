@@ -24,6 +24,7 @@
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
 |![](/ammo.mortar.basic.128.webp)|ammo.mortar.basic|963150711|Mortar Shell|Ammunition|Placeholder|
+|![](/ammo.mortar.fragment.128.webp)|ammo.mortar.fragment|-486432631|Fragmentation Mortar Shell|Ammunition|Placeholder|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
 |![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammo for a paintball gun.|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
@@ -1186,7 +1187,7 @@
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount.|
 |![](/workbench.upgrade.accelerated.128.webp)|workbench.upgrade.accelerated|798382300|Accelerated Workbench Upgrade|Component|Crafting speed increases by 25% for each item already completed in the same batch.|
 |![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|Component|Provides a 100% comfort zone around the workbench for those long crafting sessions.|
-|![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Armor or clothing compatible with insert slots will always have at least one when crafted at workbenches with this upgrade.|
+|![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Armor or clothing compatible with insert slots will roll an additional slot when crafted using this upgrade.|
 |![](/workbench.upgrade.efficiency.128.webp)|workbench.upgrade.efficiency|1215602244|Efficiency Workbench Upgrade|Component|10% chance to produce a free bonus item when crafting in batches. Does not apply to rockets or C4.|
 |![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|Component|Allows unlocking any tech tree item regardless of progression. Cost is doubled and there is a 10% chance of failure that still consumes resources.|
 |![](/workbench.upgrade.range.128.webp)|workbench.upgrade.range|1470387662|Range Workbench Upgrade|Component|Doubles the workbench crafting radius, letting you craft from twice as far away.|
