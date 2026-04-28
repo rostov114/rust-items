@@ -24,6 +24,7 @@
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
 |[ammo.handmade.shell](/ammo.handmade.shell.png)|588596902|Handmade Shell|Ammunition|
 |[ammo.mortar.basic](/ammo.mortar.basic.png)|963150711|Mortar Shell|Ammunition|
+|[ammo.mortar.fragment](/ammo.mortar.fragment.png)|-486432631|Fragmentation Mortar Shell|Ammunition|
 |[ammo.nailgun.nails](/ammo.nailgun.nails.png)|-2097376851|Nailgun Nails|Ammunition|
 |[ammo.paintball](/ammo.paintball.png)|385645417|Paintball|Ammunition|
 |[ammo.pistol.fire](/ammo.pistol.fire.png)|51984655|Incendiary Pistol Bullet|Ammunition|
