@@ -23,8 +23,8 @@
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
-|![](/ammo.mortar.basic.128.webp)|ammo.mortar.basic|963150711|Mortar Shell|Ammunition|Placeholder|
-|![](/ammo.mortar.fragment.128.webp)|ammo.mortar.fragment|-486432631|Fragmentation Mortar Shell|Ammunition|Placeholder|
+|![](/ammo.mortar.basic.128.webp)|ammo.mortar.basic|963150711|Mortar Shell|Ammunition|A high explosive mortar shell that deals minor structural damage on impact.|
+|![](/ammo.mortar.fragment.128.webp)|ammo.mortar.fragment|-486432631|Fragmentation Mortar Shell|Ammunition|A fragmentation mortar shell, dealing lethal damage in a large area on impact.|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
 |![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammo for a paintball gun.|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
@@ -712,7 +712,7 @@
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialer.|
 |![](/modularcarlift.128.webp)|modularcarlift|1696050067|Modular Car Lift|Electrical|This allows you to modify modular vehicles|
-|![](/mortar.deployable.128.webp)|mortar.deployable|1459828804|Mortar|Construction|Fire by holding mortar shell in handAdjust with pipe toolPickup with hammer|
+|![](/mortar.deployable.128.webp)|mortar.deployable|1459828804|Mortar|Construction|The Mortar fires in an arcing trajectory and favors volume over precision. Pairs well with binoculars.|
 |![](/motorbike.128.webp)|motorbike|-1417478274|Motorbike|Misc|A motorbike.|
 |![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|Misc|A motorbike with sidecar.|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache (it acts as a hairy bandana) - all proceeds go to Movember, a charity promoting men's health awareness,|
@@ -1189,9 +1189,9 @@
 |![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|Component|Provides a 100% comfort zone around the workbench for those long crafting sessions.|
 |![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Armor or clothing compatible with insert slots will roll an additional slot when crafted using this upgrade.|
 |![](/workbench.upgrade.efficiency.128.webp)|workbench.upgrade.efficiency|1215602244|Efficiency Workbench Upgrade|Component|10% chance to produce a free bonus item when crafting in batches. Does not apply to rockets or C4.|
-|![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|Component|Allows unlocking any tech tree item regardless of progression. Cost is doubled and there is a 10% chance of failure that still consumes resources.|
+|![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|Component|Allows unlocking any tech tree item regardless of progression. Cost is doubled and there is a 25% chance of failure that still consumes resources.|
 |![](/workbench.upgrade.range.128.webp)|workbench.upgrade.range|1470387662|Range Workbench Upgrade|Component|Doubles the workbench crafting radius, letting you craft from twice as far away.|
-|![](/workbench.upgrade.recyclebin.128.webp)|workbench.upgrade.recyclebin|-286541059|Recycle Bin Workbench Upgrade|Component|Each craft has a chance to refund 0-10% of the ingredient cost back to you in raw material form.|
+|![](/workbench.upgrade.recyclebin.128.webp)|workbench.upgrade.recyclebin|-286541059|Recycle Bin Workbench Upgrade|Component|Crafting at a workbench with this upgrade has a chance to refund up to 10% of the ingredient costs back to you in raw material form.|
 |![](/workbench.upgrade.reinforced.128.webp)|workbench.upgrade.reinforced|112268546|Reinforced Workbench Upgrade|Component|Increases the workbench's max HP by 150% and grants explosive damage resistance.|
 |![](/workbench.upgrade.salvage.128.webp)|workbench.upgrade.salvage|-160105346|Salvage Workbench Upgrade|Component|Reduces the scrap cost of all tech tree unlocks at this bench by 20%.|
 |![](/workbench.upgrade.surplus.128.webp)|workbench.upgrade.surplus|-1536343135|Surplus Workbench Upgrade|Component|20% chance to produce a random surplus part (1-8) when crafting. Surplus parts are used in special alternate recipes.|
