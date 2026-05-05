@@ -50,8 +50,6 @@
 |![](/apple.128.webp)|apple|1548091822|Apple|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|
 |![](/arcade.machine.chippy.128.webp)|arcade.machine.chippy|359723196|Chippy Arcade Game|
-|![](/armoured.ladder.hatch.128.webp)|armoured.ladder.hatch|1127417055|Armoured Ladder Hatch|
-|![](/armoured.triangle.ladder.hatch.128.webp)|armoured.triangle.ladder.hatch|-601133933|Armoured Triangle Laddder Hatch|
 |![](/arrow.bone.128.webp)|arrow.bone|215754713|Bone Arrow|
 |![](/arrow.fire.128.webp)|arrow.fire|14241751|Fire Arrow|
 |![](/arrow.hv.128.webp)|arrow.hv|-1023065463|High Velocity Arrow|
@@ -91,10 +89,10 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|
-|![](/base.half.shelves.128.webp)|base.half.shelves|-1024954624|null|
-|![](/base.horizontal.barrel.128.webp)|base.horizontal.barrel|655356057|null|
-|![](/base.single.shelves.128.webp)|base.single.shelves|-1695149731|null|
-|![](/base.vertical.barrel.128.webp)|base.vertical.barrel|2045583965|null|
+|![](/base.half.shelves.128.webp)|base.half.shelves|-1024954624|Base half shelves|
+|![](/base.horizontal.barrel.128.webp)|base.horizontal.barrel|655356057|Base horizontal storage barrel|
+|![](/base.single.shelves.128.webp)|base.single.shelves|-1695149731|Base single shelves|
+|![](/base.vertical.barrel.128.webp)|base.vertical.barrel|2045583965|Base vertical storage barrel|
 |![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|
