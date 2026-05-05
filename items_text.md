@@ -50,8 +50,6 @@
 |[apple](/apple.png)|1548091822|Apple|Food|
 |[apple.spoiled](/apple.spoiled.png)|352130972|Rotten Apple|Food|
 |[arcade.machine.chippy](/arcade.machine.chippy.png)|359723196|Chippy Arcade Game|Items|
-|[armoured.ladder.hatch](/armoured.ladder.hatch.png)|1127417055|Armoured Ladder Hatch|Construction|
-|[armoured.triangle.ladder.hatch](/armoured.triangle.ladder.hatch.png)|-601133933|Armoured Triangle Laddder Hatch|Construction|
 |[arrow.bone](/arrow.bone.png)|215754713|Bone Arrow|Ammunition|
 |[arrow.fire](/arrow.fire.png)|14241751|Fire Arrow|Ammunition|
 |[arrow.hv](/arrow.hv.png)|-1023065463|High Velocity Arrow|Ammunition|
@@ -91,10 +89,10 @@
 |[barricade.wood.cover](/barricade.wood.cover.png)|1373240771|Wooden Barricade Cover|Construction|
 |[barricade.wood](/barricade.wood.png)|866889860|Wooden Barricade|Construction|
 |[barricade.woodwire](/barricade.woodwire.png)|1382263453|Barbed Wooden Barricade|Construction|
-|[base.half.shelves](/base.half.shelves.png)|-1024954624|null|Items|
-|[base.horizontal.barrel](/base.horizontal.barrel.png)|655356057|null|Items|
-|[base.single.shelves](/base.single.shelves.png)|-1695149731|null|Items|
-|[base.vertical.barrel](/base.vertical.barrel.png)|2045583965|null|Items|
+|[base.half.shelves](/base.half.shelves.png)|-1024954624|Base half shelves|Items|
+|[base.horizontal.barrel](/base.horizontal.barrel.png)|655356057|Base horizontal storage barrel|Items|
+|[base.single.shelves](/base.single.shelves.png)|-1695149731|Base single shelves|Items|
+|[base.vertical.barrel](/base.vertical.barrel.png)|2045583965|Base vertical storage barrel|Items|
 |[basicblueprintfragment](/basicblueprintfragment.png)|-143481979|Basic Blueprint Fragment|Component|
 |[bathtub.planter](/bathtub.planter.png)|-1274093662|Bath Tub Planter|Items|
 |[batteringram.head.repair](/batteringram.head.repair.png)|-479314201|Battering Ram Head|Weapon|

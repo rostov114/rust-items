@@ -50,8 +50,6 @@
 |![](/apple.128.webp)|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
 |![](/arcade.machine.chippy.128.webp)|arcade.machine.chippy|359723196|Chippy Arcade Game|Items|An Arcade Machine|
-|![](/armoured.ladder.hatch.128.webp)|armoured.ladder.hatch|1127417055|Armoured Ladder Hatch|Construction|An armoured hatch that opens and changes into a ladder.|
-|![](/armoured.triangle.ladder.hatch.128.webp)|armoured.triangle.ladder.hatch|-601133933|Armoured Triangle Laddder Hatch|Construction|An armoured hatch that opens and changes into a ladder.|
 |![](/arrow.bone.128.webp)|arrow.bone|215754713|Bone Arrow|Ammunition|An Arrow equipped with a large bone arrowhead making it very easy to hit targets at the expense of damage|
 |![](/arrow.fire.128.webp)|arrow.fire|14241751|Fire Arrow|Ammunition|A fuel soaked arrow, ignite it by aiming.|
 |![](/arrow.hv.128.webp)|arrow.hv|-1023065463|High Velocity Arrow|Ammunition|Lighter, faster arrow that deals less damage.|
@@ -91,10 +89,10 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
-|![](/base.half.shelves.128.webp)|base.half.shelves|-1024954624|null|Items||
-|![](/base.horizontal.barrel.128.webp)|base.horizontal.barrel|655356057|null|Items||
-|![](/base.single.shelves.128.webp)|base.single.shelves|-1695149731|null|Items||
-|![](/base.vertical.barrel.128.webp)|base.vertical.barrel|2045583965|null|Items||
+|![](/base.half.shelves.128.webp)|base.half.shelves|-1024954624|Base half shelves|Items|Base half shelves|
+|![](/base.horizontal.barrel.128.webp)|base.horizontal.barrel|655356057|Base horizontal storage barrel|Items|Base horizontal storage barrel|
+|![](/base.single.shelves.128.webp)|base.single.shelves|-1695149731|Base single shelves|Items|Base single shelves|
+|![](/base.vertical.barrel.128.webp)|base.vertical.barrel|2045583965|Base vertical storage barrel|Items|Base vertical storage barrel|
 |![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|Component|Damaged diagrams containing partial information to constuct a Tier 2 Workbench for advanced crafting. Several fragments are needed.20 Basic Fragments can be pieced together to make an Advanced Fragment.|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|Items|A small planter with enough room to plant 3 seeds.|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|Weapon||
