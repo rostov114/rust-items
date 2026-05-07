@@ -23,6 +23,8 @@
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
 |[ammo.handmade.shell](/ammo.handmade.shell.png)|588596902|Handmade Shell|Ammunition|
+|[ammo.mortar.basic](/ammo.mortar.basic.png)|963150711|Mortar Shell|Ammunition|
+|[ammo.mortar.fragment](/ammo.mortar.fragment.png)|-486432631|Fragmentation Mortar Shell|Ammunition|
 |[ammo.nailgun.nails](/ammo.nailgun.nails.png)|-2097376851|Nailgun Nails|Ammunition|
 |[ammo.paintball](/ammo.paintball.png)|385645417|Paintball|Ammunition|
 |[ammo.pistol.fire](/ammo.pistol.fire.png)|51984655|Incendiary Pistol Bullet|Ammunition|
@@ -87,6 +89,10 @@
 |[barricade.wood.cover](/barricade.wood.cover.png)|1373240771|Wooden Barricade Cover|Construction|
 |[barricade.wood](/barricade.wood.png)|866889860|Wooden Barricade|Construction|
 |[barricade.woodwire](/barricade.woodwire.png)|1382263453|Barbed Wooden Barricade|Construction|
+|[base.half.shelves](/base.half.shelves.png)|-1024954624|Base half shelves|Items|
+|[base.horizontal.barrel](/base.horizontal.barrel.png)|655356057|Base horizontal storage barrel|Items|
+|[base.single.shelves](/base.single.shelves.png)|-1695149731|Base single shelves|Items|
+|[base.vertical.barrel](/base.vertical.barrel.png)|2045583965|Base vertical storage barrel|Items|
 |[basicblueprintfragment](/basicblueprintfragment.png)|-143481979|Basic Blueprint Fragment|Component|
 |[bathtub.planter](/bathtub.planter.png)|-1274093662|Bath Tub Planter|Items|
 |[batteringram.head.repair](/batteringram.head.repair.png)|-479314201|Battering Ram Head|Weapon|
@@ -706,6 +712,7 @@
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
 |[mobilephone](/mobilephone.png)|-20045316|Mobile Phone|Fun|
 |[modularcarlift](/modularcarlift.png)|1696050067|Modular Car Lift|Electrical|
+|[mortar.deployable](/mortar.deployable.png)|1459828804|Mortar|Construction|
 |[motorbike](/motorbike.png)|-1417478274|Motorbike|Misc|
 |[motorbike_sidecar](/motorbike_sidecar.png)|1869224826|Motorbike With Sidecar|Misc|
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
@@ -1180,6 +1187,16 @@
 |[woodtea.advanced](/woodtea.advanced.png)|-541206665|Advanced Wood Tea|Food|
 |[woodtea](/woodtea.png)|-649128577|Basic Wood Tea|Food|
 |[woodtea.pure](/woodtea.pure.png)|-557539629|Pure Wood Tea|Food|
+|[workbench.upgrade.accelerated](/workbench.upgrade.accelerated.png)|798382300|Accelerated Workbench Upgrade|Component|
+|[workbench.upgrade.comfort](/workbench.upgrade.comfort.png)|-770390391|Comfort Workbench Upgrade|Component|
+|[workbench.upgrade.defensive](/workbench.upgrade.defensive.png)|-1953279770|Defensive Workbench Upgrade|Component|
+|[workbench.upgrade.efficiency](/workbench.upgrade.efficiency.png)|1215602244|Efficiency Workbench Upgrade|Component|
+|[workbench.upgrade.prototype](/workbench.upgrade.prototype.png)|-180862419|Prototype Workbench Upgrade|Component|
+|[workbench.upgrade.range](/workbench.upgrade.range.png)|1470387662|Range Workbench Upgrade|Component|
+|[workbench.upgrade.recyclebin](/workbench.upgrade.recyclebin.png)|-286541059|Recycle Bin Workbench Upgrade|Component|
+|[workbench.upgrade.reinforced](/workbench.upgrade.reinforced.png)|112268546|Reinforced Workbench Upgrade|Component|
+|[workbench.upgrade.salvage](/workbench.upgrade.salvage.png)|-160105346|Salvage Workbench Upgrade|Component|
+|[workbench.upgrade.surplus](/workbench.upgrade.surplus.png)|-1536343135|Surplus Workbench Upgrade|Component|
 |[workbench1](/workbench1.png)|1524187186|Workbench Level 1|Items|
 |[workbench2](/workbench2.png)|-41896755|Workbench Level 2|Items|
 |[workbench3](/workbench3.png)|-1607980696|Workbench Level 3|Items|

@@ -23,6 +23,8 @@
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
+|![](/ammo.mortar.basic.128.webp)|ammo.mortar.basic|963150711|Mortar Shell|Ammunition|A high explosive mortar shell that deals minor structural damage on impact.|
+|![](/ammo.mortar.fragment.128.webp)|ammo.mortar.fragment|-486432631|Fragmentation Mortar Shell|Ammunition|A fragmentation mortar shell, dealing lethal damage in a large area on impact.|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
 |![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammo for a paintball gun.|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
@@ -87,6 +89,10 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|Construction|A wooden barricade with barbed wire, made of Wood and Metal Fragments. The barbed wire causes damage and will also slow player movement.|
+|![](/base.half.shelves.128.webp)|base.half.shelves|-1024954624|Base half shelves|Items|Base half shelves|
+|![](/base.horizontal.barrel.128.webp)|base.horizontal.barrel|655356057|Base horizontal storage barrel|Items|Base horizontal storage barrel|
+|![](/base.single.shelves.128.webp)|base.single.shelves|-1695149731|Base single shelves|Items|Base single shelves|
+|![](/base.vertical.barrel.128.webp)|base.vertical.barrel|2045583965|Base vertical storage barrel|Items|Base vertical storage barrel|
 |![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|Component|Damaged diagrams containing partial information to constuct a Tier 2 Workbench for advanced crafting. Several fragments are needed.20 Basic Fragments can be pieced together to make an Advanced Fragment.|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|Items|A small planter with enough room to plant 3 seeds.|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|Weapon||
@@ -356,7 +362,7 @@
 |![](/electric.teslacoil.128.webp)|electric.teslacoil|1371909803|Tesla Coil|Electrical|An electrical trap that zaps nearby players when powered. More power supplied will result in higher damage. Loses durability with use.|
 |![](/electric.timer.128.webp)|electric.timer|665332906|Timer|Electrical|A Timer switch, will pass power through for duration.|
 |![](/electric.wallcabinet.128.webp)|electric.wallcabinet|656829501|Wall Cabinet|Items|A cabinet with a shelf for small items.|
-|![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. If BOTH inputs recieve power, passthrough will be zero.|
+|![](/electric.xorswitch.128.webp)|electric.xorswitch|1293102274|XOR Switch|Electrical|An exclusive-or logic gate that allows electrical passthrough if ONLY ONE input receives power, passthrough amount is whichever single input is active. If BOTH inputs receive power, passthrough will be zero.|
 |![](/electrical.branch.128.webp)|electrical.branch|-1448252298|Electrical Branch|Electrical|This object allows you to branch power off from a main line by a set amount.|
 |![](/electrical.combiner.128.webp)|electrical.combiner|-458565393|Root Combiner|Electrical|This object combines two root electrical sources into a single signal. Helpful for stringing together low energy batteries or solar panels to produce higher power output. Can be wired in series, can not be used with any non energy producing electrical components.|
 |![](/electrical.memorycell.128.webp)|electrical.memorycell|-746647361|Memory Cell|Electrical|A 1 bit storage component. SET input will set the value to 1 CLEAR input sets the value to 0. Output will provide connected power if value is 1, Inverted output will provide connected power if value is 0. This is also known as a D-Type Flip Flop|
@@ -706,6 +712,7 @@
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialer.|
 |![](/modularcarlift.128.webp)|modularcarlift|1696050067|Modular Car Lift|Electrical|This allows you to modify modular vehicles|
+|![](/mortar.deployable.128.webp)|mortar.deployable|1459828804|Mortar|Construction|The Mortar fires in an arcing trajectory and favors volume over precision. Pairs well with binoculars.|
 |![](/motorbike.128.webp)|motorbike|-1417478274|Motorbike|Misc|A motorbike.|
 |![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|Misc|A motorbike with sidecar.|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache (it acts as a hairy bandana) - all proceeds go to Movember, a charity promoting men's health awareness,|
@@ -1042,7 +1049,7 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
-|![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|Traps|A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Simple but effective.|
+|![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|Traps|A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Can be rigged with grenades or other throwables.|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|
 |![](/tool.instant_camera.128.webp)|tool.instant_camera|-2001260025|Instant Camera|Tool|An instant camera. Take photos with primary fire, zoom in and out with secondary fire, and change focus mode with reload.|
@@ -1180,6 +1187,16 @@
 |![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|An advanced wood tea, temporarily increases the yield from cutting trees a moderate amount.|
 |![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|Food|A basic wood tea, temporarily increases the yield from cutting trees a small amount.|
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount.|
+|![](/workbench.upgrade.accelerated.128.webp)|workbench.upgrade.accelerated|798382300|Accelerated Workbench Upgrade|Component|Crafting speed increases by 25% for each item already completed in the same batch.|
+|![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|Component|Provides a 100% comfort zone around the workbench for those long crafting sessions.|
+|![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Armor or clothing compatible with insert slots will roll an additional slot when crafted using this upgrade.|
+|![](/workbench.upgrade.efficiency.128.webp)|workbench.upgrade.efficiency|1215602244|Efficiency Workbench Upgrade|Component|10% chance to produce a free bonus item when crafting in batches. Ineffective when crafting explosive and raid related items.|
+|![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|Component|Allows unlocking any tech tree item regardless of progression. Cost is doubled and there is a 25% chance of failure that still consumes resources.|
+|![](/workbench.upgrade.range.128.webp)|workbench.upgrade.range|1470387662|Range Workbench Upgrade|Component|Doubles the workbench crafting radius, letting you craft from twice as far away.|
+|![](/workbench.upgrade.recyclebin.128.webp)|workbench.upgrade.recyclebin|-286541059|Recycle Bin Workbench Upgrade|Component|Crafting at a workbench with this upgrade has a chance to refund up to 10% of the ingredient costs back to you in raw material form.|
+|![](/workbench.upgrade.reinforced.128.webp)|workbench.upgrade.reinforced|112268546|Reinforced Workbench Upgrade|Component|Increases the workbench's max HP by 150% and grants explosive damage resistance.|
+|![](/workbench.upgrade.salvage.128.webp)|workbench.upgrade.salvage|-160105346|Salvage Workbench Upgrade|Component|Reduces the scrap cost of all tech tree unlocks at this bench by 20%.|
+|![](/workbench.upgrade.surplus.128.webp)|workbench.upgrade.surplus|-1536343135|Surplus Workbench Upgrade|Component|20% chance to produce a random surplus part (1-8) when crafting. Surplus parts are used in special alternate recipes.|
 |![](/workbench1.128.webp)|workbench1|1524187186|Workbench Level 1|Items|This allows you to craft and unlock items requiring workbench level 1|
 |![](/workbench2.128.webp)|workbench2|-41896755|Workbench Level 2|Items|This allows you to craft and unlock items requiring workbench level 2|
 |![](/workbench3.128.webp)|workbench3|-1607980696|Workbench Level 3|Items|This allows you to craft and unlock items requiring workbench level 3|

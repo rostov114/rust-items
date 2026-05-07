@@ -23,6 +23,8 @@
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|
+|![](/ammo.mortar.basic.128.webp)|ammo.mortar.basic|963150711|Mortar Shell|
+|![](/ammo.mortar.fragment.128.webp)|ammo.mortar.fragment|-486432631|Fragmentation Mortar Shell|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|
 |![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|
@@ -87,6 +89,10 @@
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|
 |![](/barricade.woodwire.128.webp)|barricade.woodwire|1382263453|Barbed Wooden Barricade|
+|![](/base.half.shelves.128.webp)|base.half.shelves|-1024954624|Base half shelves|
+|![](/base.horizontal.barrel.128.webp)|base.horizontal.barrel|655356057|Base horizontal storage barrel|
+|![](/base.single.shelves.128.webp)|base.single.shelves|-1695149731|Base single shelves|
+|![](/base.vertical.barrel.128.webp)|base.vertical.barrel|2045583965|Base vertical storage barrel|
 |![](/basicblueprintfragment.128.webp)|basicblueprintfragment|-143481979|Basic Blueprint Fragment|
 |![](/bathtub.planter.128.webp)|bathtub.planter|-1274093662|Bath Tub Planter|
 |![](/batteringram.head.repair.128.webp)|batteringram.head.repair|-479314201|Battering Ram Head|
@@ -706,6 +712,7 @@
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|
 |![](/modularcarlift.128.webp)|modularcarlift|1696050067|Modular Car Lift|
+|![](/mortar.deployable.128.webp)|mortar.deployable|1459828804|Mortar|
 |![](/motorbike.128.webp)|motorbike|-1417478274|Motorbike|
 |![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|
@@ -1180,6 +1187,16 @@
 |![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|
 |![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|
+|![](/workbench.upgrade.accelerated.128.webp)|workbench.upgrade.accelerated|798382300|Accelerated Workbench Upgrade|
+|![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|
+|![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|
+|![](/workbench.upgrade.efficiency.128.webp)|workbench.upgrade.efficiency|1215602244|Efficiency Workbench Upgrade|
+|![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|
+|![](/workbench.upgrade.range.128.webp)|workbench.upgrade.range|1470387662|Range Workbench Upgrade|
+|![](/workbench.upgrade.recyclebin.128.webp)|workbench.upgrade.recyclebin|-286541059|Recycle Bin Workbench Upgrade|
+|![](/workbench.upgrade.reinforced.128.webp)|workbench.upgrade.reinforced|112268546|Reinforced Workbench Upgrade|
+|![](/workbench.upgrade.salvage.128.webp)|workbench.upgrade.salvage|-160105346|Salvage Workbench Upgrade|
+|![](/workbench.upgrade.surplus.128.webp)|workbench.upgrade.surplus|-1536343135|Surplus Workbench Upgrade|
 |![](/workbench1.128.webp)|workbench1|1524187186|Workbench Level 1|
 |![](/workbench2.128.webp)|workbench2|-41896755|Workbench Level 2|
 |![](/workbench3.128.webp)|workbench3|-1607980696|Workbench Level 3|
