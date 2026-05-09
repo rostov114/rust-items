@@ -530,7 +530,7 @@
 |![](/hazmat.krieg.128.webp)|hazmat.krieg|-902423513|Krieg Hazmat|Attire|A Krieg Hazmat Suit, standard issue for those who never retreat.|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|Items|A plushy of your favourite outfit made by the fabulous people at YouTooz.com|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
-|![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Pack|Attire|A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.|
+|![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|Attire|A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|Attire|A Frontier suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|Kick Hazmat|Attire|Hazmat obtained during Kick Drops 2025|
@@ -1110,9 +1110,9 @@
 |![](/wall.frame.fence.gate.128.webp)|wall.frame.fence.gate|1451568081|Chainlink Fence Gate|Construction|A Chainlink Fence Gate.|
 |![](/wall.frame.fence.128.webp)|wall.frame.fence|-1117626326|Chainlink Fence|Construction|A Chainlink Fence.|
 |![](/wall.frame.garagedoor.128.webp)|wall.frame.garagedoor|-148794216|Garage Door|Construction|A garage door that rolls up and down.|
-|![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Wall Divider Pack|Construction|A Lunar New Year themed decorative wall divider with geometric inlay|
-|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Wall Divider Pack|Construction|A Lunar New Year themed decorative wall divider with swirling inlay|
-|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Wall Divider Pack|Construction|A Lunar New Year themed decorative wall divider with floral inlay|
+|![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Lunar Wall Frame Inlay|Construction|A Lunar New Year themed decorative wall divider with geometric inlay|
+|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Inlay|Construction|A Lunar New Year themed decorative wall divider with swirling inlay|
+|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Inlay|Construction|A Lunar New Year themed decorative wall divider with floral inlay|
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|Construction|Netting you can climb.|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|Construction|A shop front to do commerce.|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|

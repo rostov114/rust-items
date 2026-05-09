@@ -530,7 +530,7 @@
 |![](/hazmat.krieg.128.webp)|hazmat.krieg|-902423513|Krieg Hazmat|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|
-|![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Pack|
+|![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
 |![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|Kick Hazmat|
@@ -1110,9 +1110,9 @@
 |![](/wall.frame.fence.gate.128.webp)|wall.frame.fence.gate|1451568081|Chainlink Fence Gate|
 |![](/wall.frame.fence.128.webp)|wall.frame.fence|-1117626326|Chainlink Fence|
 |![](/wall.frame.garagedoor.128.webp)|wall.frame.garagedoor|-148794216|Garage Door|
-|![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Wall Divider Pack|
-|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Wall Divider Pack|
-|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Wall Divider Pack|
+|![](/wall.frame.lunar2025_a.128.webp)|wall.frame.lunar2025_a|1115193056|Lunar Wall Frame Inlay|
+|![](/wall.frame.lunar2025_b.128.webp)|wall.frame.lunar2025_b|-450890885|Lunar Wall Frame Inlay|
+|![](/wall.frame.lunar2025_c.128.webp)|wall.frame.lunar2025_c|-2016974826|Lunar Wall Frame Inlay|
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|
