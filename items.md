@@ -78,6 +78,9 @@
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|Ammunition|A wide-impact bolt for a ballista, covering a large area while dealing moderate damage.|
 |![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|Weapon|A ballista mounted on wheels, designed for mobility and capable of firing bolts at distant targets. Can be towed by horses.|
 |![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|Weapon|A stationary ballista, perfect for defence. Can fire deadly bolts at distant targets.|
+|![](/ballistic.helmet.128.webp)|ballistic.helmet|1127732084|Ballistic helmet|Attire|Ballistic helmet with superior protection.|
+|![](/ballistic.legarmor.128.webp)|ballistic.legarmor|1983541158|Ballistic leg armour|Attire|A pair of ballistic leg armour pieces. worn, used, and a bit grubby, but highly protective.|
+|![](/ballistic.vest.128.webp)|ballistic.vest|-1780402255|Ballistic vest|Attire|A standard issue military ballstic vest. Worn, used, and dirty, but highly protectice.|
 |![](/bamboo.barrel.128.webp)|bamboo.barrel|-1652561344|Bamboo Barrel|Items|Keep your things in this bamboo barrel. Stores up to 48 items. Cannot be locked.|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
@@ -99,6 +102,8 @@
 |![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|Weapon|A reinforced siege weapon built for smashing through wooden and stone constructions with brute force. Must be repaired with high quality metal to keep functioning.|
 |![](/battery.small.128.webp)|battery.small|609049394|Battery - Small|Resources|A Battery.|
 |![](/bbq.128.webp)|bbq|1099314009|Barbeque|Items|A makeshift Barbeque. You can cook significant amounts of food with this.|
+|![](/bdu.pants.128.webp)|bdu.pants|1468749025|BDU pants|Attire|A pair of standard issue battle dress uniform pants. Old, worn, stained, but provides moderate protection.|
+|![](/bdu.shirt.128.webp)|bdu.shirt|-2127311451|BDU shirt|Attire|A standard issue battle dress uniform shirt. Old, worn and stained, but provides moderate protection.|
 |![](/beachchair.128.webp)|beachchair|-321431890|Beach Chair|Fun|The Beach Chair is the best way to relax, whether it's by the pool or on the beach.|
 |![](/beachparasol.128.webp)|beachparasol|-1621539785|Beach Parasol|Fun|A large umbrella that will shield you from the sun.|
 |![](/beachtable.128.webp)|beachtable|657352755|Beach Table|Fun|A small table to hold your drinks while relaxing.|
@@ -264,6 +269,7 @@
 |![](/crocodilemeat.128.webp)|crocodilemeat|-1081599445|Raw Crocodile Meat|Food|Raw Crocodile Meat. Eating it will damage your health, try cooking it first.|
 |![](/crocodilemeat.spoiled.128.webp)|crocodilemeat.spoiled|-1796837031|Spoiled Crocodile Meat|Food|Spoiled Crocodile Meat. Consuming will damage your health.|
 |![](/crossbow.128.webp)|crossbow|1965232394|Crossbow|Weapon|A very accurate ranged weapon.|
+|![](/crossbowbowless.128.webp)|crossbowbowless|2022157467|Bowless Crossbow|Weapon|A bowless crossbow for fans of DIY|
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|Resources|Raw Oil out of the ground, must be refined in a refinery to be used.|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|Construction|Placing and authorising with the cupboard will make it so only you can build in a 50 meter radius of it. If you want your friends to build, they'll need to auth too. You should protect this.|
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|Construction|Transform your tool cupboard experience with this modified Hi-Fi cabinet. Complete with retro displays indicating vital base data as well as frosted glass doors allowing you to view its contents of tools and resources!|
@@ -497,6 +503,7 @@
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|Attire|Armor for the Hot Air Balloon|
 |![](/hab.128.webp)|hab|696029539|Hot Air Balloon|Misc|A Hot Air Balloon.|
 |![](/half.bamboo.shelves.128.webp)|half.bamboo.shelves|-1923843855|Half Height Bamboo Shelves|Items|Half height salvaged bamboo shelves for stacking|
+|![](/halfheight.industrial.shelves.128.webp)|halfheight.industrial.shelves|786458957|Half Height Industrial Shelves|Items|Half height industrial shelves for stacking|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|Misc|Some loose halloween candy Collect 10 to upgrade to a Small Loot Bag!|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|Misc|A massive haul. Contains the best halloween loot|
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|Misc|Contains medium level loot, Collect 10 to upgrade to a Large loot bag, containing the best loot|
@@ -587,10 +594,17 @@
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
 |![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area. Usable with single handed weapons and tools.|
+|![](/industrial.autoturret.128.webp)|industrial.autoturret|-786398324|Industrial Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|Electrical|Combines three separate industrial connections into one connection.|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|Electrical|Moves an item from one container to another.|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|Electrical|Attaches to a workbench to allow automated crafting.|
+|![](/industrial.electric.furnace.128.webp)|industrial.electric.furnace|225892284|Industrial Electric Furnace|Electrical|An electrical version of a furnace that uses electricity instead of a fuel source.|
+|![](/industrial.furnace.large.128.webp)|industrial.furnace.large|1868984394|Large Industrial Furnace|Items|Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.|
+|![](/industrial.garagedoor.128.webp)|industrial.garagedoor|346569548|Industrial Garage Door|Construction|A garage door that rolls up and down.|
 |![](/industrial.splitter.128.webp)|industrial.splitter|742745918|Industrial Splitter|Electrical|Splits an industrial connection into three separate connections.|
+|![](/industrial.storage.horizontal.128.webp)|industrial.storage.horizontal|-1019111952|Industrial Storage Horizontal Barrel|Items|Horizontal barrel to store industrial materials|
+|![](/industrial.storage.vertical.128.webp)|industrial.storage.vertical|-883975138|Industrial Storage Vertical Barrel|Items|Vertical barrel to store industrial materials|
+|![](/industrial.torch.128.webp)|industrial.torch|4474927|Industrial Torch|Tool|An old mining lamp used as a torch. Lights your way at night and can be used as a weapon|
 |![](/industrial.wall.light.blue.128.webp)|industrial.wall.light.blue|920930831|Blue Industrial Wall Light|Electrical|A small blue light source.|
 |![](/industrial.wall.light.green.128.webp)|industrial.wall.light.green|1268178466|Green Industrial Wall Light|Electrical|A small green light source.|
 |![](/industrial.wall.light.128.webp)|industrial.wall.light|1623701499|Industrial Wall Light|Electrical|A small light source.|
@@ -854,6 +868,7 @@
 |![](/sail.128.webp)|sail|405905095|Sail|Items|A slow but effective boat sail, made from scraps of fabric hastily stitched together. More sails will generate more speed.|
 |![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|Items|Bamboo shelves for item stacking|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
+|![](/salvaged.industrial.shelves.128.webp)|salvaged.industrial.shelves|-1018026008|Salvaged Industrial Shelves|Items|Shelves for item stacking|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
 |![](/samsite.128.webp)|samsite|-1009359066|SAM Site|Traps|A surface to air rocket site. Requires 25 electricity to function.|
 |![](/santabeard.128.webp)|santabeard|2126889441|Santa Beard|Attire|A santa beard. Ho Ho ho. This item acts as a hairy bandana.|
@@ -1115,6 +1130,7 @@
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
 |![](/wall.graveyard.fence.128.webp)|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
 |![](/wall.ice.wall.128.webp)|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
+|![](/wall.shallow.industrial.shelves.128.webp)|wall.shallow.industrial.shelves|-265202949|Single Shallow Industrial Wall Shelves|Items|A shallow industrial wall shelf for small item stacking|
 |![](/wall.window.bars.metal.128.webp)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
