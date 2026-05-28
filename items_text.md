@@ -676,6 +676,7 @@
 |[lumberjack.hatchet](/lumberjack.hatchet.png)|-399173933|Prototype Hatchet|Tool|
 |[lumberjack.pickaxe](/lumberjack.pickaxe.png)|236677901|Prototype Pickaxe|Tool|
 |[lunar.firecrackers](/lunar.firecrackers.png)|-1961560162|Firecracker String|Fun|
+|[m16a2](/m16a2.png)|599591861|LR-300 Assault Rifle|Weapon|
 |[mace.baseballbat](/mace.baseballbat.png)|-2026042603|Baseball Bat|Weapon|
 |[mace](/mace.png)|-1966748496|Mace|Weapon|
 |[machete](/machete.png)|-1137865085|Machete|Weapon|

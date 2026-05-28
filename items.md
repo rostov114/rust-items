@@ -80,7 +80,7 @@
 |![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|Weapon|A stationary ballista, perfect for defence. Can fire deadly bolts at distant targets.|
 |![](/ballistic.helmet.128.webp)|ballistic.helmet|1127732084|Ballistic helmet|Attire|Ballistic helmet with superior protection.|
 |![](/ballistic.legarmor.128.webp)|ballistic.legarmor|1983541158|Ballistic leg armour|Attire|A pair of ballistic leg armour pieces. worn, used, and a bit grubby, but highly protective.|
-|![](/ballistic.vest.128.webp)|ballistic.vest|-1780402255|Ballistic vest|Attire|A standard issue military ballstic vest. Worn, used, and dirty, but highly protectice.|
+|![](/ballistic.vest.128.webp)|ballistic.vest|-1780402255|Ballistic vest|Attire|A standard issue military ballstic vest. Worn, used, and dirty, but highly protective.|
 |![](/bamboo.barrel.128.webp)|bamboo.barrel|-1652561344|Bamboo Barrel|Items|Keep your things in this bamboo barrel. Stores up to 48 items. Cannot be locked.|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
@@ -676,6 +676,7 @@
 |![](/lumberjack.hatchet.128.webp)|lumberjack.hatchet|-399173933|Prototype Hatchet|Tool|A prototype field hatchet, useful for gathering wood|
 |![](/lumberjack.pickaxe.128.webp)|lumberjack.pickaxe|236677901|Prototype Pickaxe|Tool|A prototype field pickaxe. Useful for gathering ore from rocks.|
 |![](/lunar.firecrackers.128.webp)|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
+|![](/m16a2.128.webp)|m16a2|599591861|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
 |![](/mace.baseballbat.128.webp)|mace.baseballbat|-2026042603|Baseball Bat|Weapon|A baseball bat wrapped in barbed wire|
 |![](/mace.128.webp)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](/machete.128.webp)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
