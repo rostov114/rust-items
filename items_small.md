@@ -676,6 +676,7 @@
 |![](/lumberjack.hatchet.128.webp)|lumberjack.hatchet|-399173933|Prototype Hatchet|
 |![](/lumberjack.pickaxe.128.webp)|lumberjack.pickaxe|236677901|Prototype Pickaxe|
 |![](/lunar.firecrackers.128.webp)|lunar.firecrackers|-1961560162|Firecracker String|
+|![](/m16a2.128.webp)|m16a2|599591861|LR-300 Assault Rifle|
 |![](/mace.baseballbat.128.webp)|mace.baseballbat|-2026042603|Baseball Bat|
 |![](/mace.128.webp)|mace|-1966748496|Mace|
 |![](/machete.128.webp)|machete|-1137865085|Machete|
