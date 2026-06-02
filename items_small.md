@@ -288,7 +288,7 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|
-|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plushie|
+|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plush|
 |![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|
@@ -960,7 +960,7 @@
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|
 |![](/silly.horse.mask.128.webp)|silly.horse.mask|1849409072|Silly Horse Mask|
-|![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Single Shallow Wall Shelves|
+|![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Bamboo Wall Shelves|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|
 |![](/skull.128.webp)|skull|1312843609|Skull|
@@ -1132,7 +1132,7 @@
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|
 |![](/wall.graveyard.fence.128.webp)|wall.graveyard.fence|-1679267738|Graveyard Fence|
 |![](/wall.ice.wall.128.webp)|wall.ice.wall|1327005675|Short Ice Wall|
-|![](/wall.shallow.industrial.shelves.128.webp)|wall.shallow.industrial.shelves|-265202949|Single Shallow Industrial Wall Shelves|
+|![](/wall.shallow.industrial.shelves.128.webp)|wall.shallow.industrial.shelves|-265202949|Industrial Wall Shelves|
 |![](/wall.window.bars.metal.128.webp)|wall.window.bars.metal|-819720157|Metal Window Bars|
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|

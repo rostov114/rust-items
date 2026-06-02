@@ -288,7 +288,7 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
-|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plushie|Items|Exclusive to the discord store!|
+|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plush|Items|Exclusive to the Discord store!|
 |![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|Items|A companion that reminds you of your youth.|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|Tool|Metal hatchet, reclaimed from the abyss, perfect for survival and crafting|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|Tool|Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor|
@@ -677,7 +677,7 @@
 |![](/lumberjack.hatchet.128.webp)|lumberjack.hatchet|-399173933|Prototype Hatchet|Tool|A prototype field hatchet, useful for gathering wood|
 |![](/lumberjack.pickaxe.128.webp)|lumberjack.pickaxe|236677901|Prototype Pickaxe|Tool|A prototype field pickaxe. Useful for gathering ore from rocks.|
 |![](/lunar.firecrackers.128.webp)|lunar.firecrackers|-1961560162|Firecracker String|Fun|Happy Lunar New Year!|
-|![](/m16a2.128.webp)|m16a2|599591861|M16A2|Weapon|A reliable burst-fire rifle offering excellent accuracy and control.|
+|![](/m16a2.128.webp)|m16a2|599591861|M16A2|Weapon|A reliable burst-fire only rifle offering excellent accuracy and firerate.|
 |![](/mace.baseballbat.128.webp)|mace.baseballbat|-2026042603|Baseball Bat|Weapon|A baseball bat wrapped in barbed wire|
 |![](/mace.128.webp)|mace|-1966748496|Mace|Weapon|A powerful 2-handed melee weapon, It's unique design makes it easier to hit your target when compared to other more traditional weapons.|
 |![](/machete.128.webp)|machete|-1137865085|Machete|Weapon|A brutal weapon with good range.|
@@ -960,7 +960,7 @@
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
 |![](/silly.horse.mask.128.webp)|silly.horse.mask|1849409072|Silly Horse Mask|Attire|A silly rubber horse mask to celebrate Lunar New Year 2026. Comes in three varieties.|
-|![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Single Shallow Wall Shelves|Items|Single Shallow Wall Shelves|
+|![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Bamboo Wall Shelves|Items|A shallow bamboo wall shelf for small item stacking|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
 |![](/skull.128.webp)|skull|1312843609|Skull|Tool|A spooky skull|
@@ -1132,7 +1132,7 @@
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
 |![](/wall.graveyard.fence.128.webp)|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
 |![](/wall.ice.wall.128.webp)|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
-|![](/wall.shallow.industrial.shelves.128.webp)|wall.shallow.industrial.shelves|-265202949|Single Shallow Industrial Wall Shelves|Items|A shallow industrial wall shelf for small item stacking|
+|![](/wall.shallow.industrial.shelves.128.webp)|wall.shallow.industrial.shelves|-265202949|Industrial Wall Shelves|Items|A shallow industrial wall shelf for small item stacking|
 |![](/wall.window.bars.metal.128.webp)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|Construction|Window bars to fit a standard window. These bars are made out of reinforced metal and contain a thick surround to protect from incoming projectiles.|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
