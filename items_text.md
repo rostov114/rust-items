@@ -288,7 +288,7 @@
 |[discoball](/discoball.png)|1895235349|Disco Ball|Fun|
 |[discofloor](/discofloor.png)|286648290|Disco Floor|Fun|
 |[discofloor.largetiles](/discofloor.largetiles.png)|1735402444|Disco Floor|Fun|
-|[discord.plushie](/discord.plushie.png)|-1800102806|Wumpus Plushie|Items|
+|[discord.plushie](/discord.plushie.png)|-1800102806|Wumpus Plush|Items|
 |[discord.trophy](/discord.trophy.png)|1494014226|Discord Trophy|Items|
 |[diverhatchet](/diverhatchet.png)|1046904719|Abyss Metal Hatchet|Tool|
 |[diverpickaxe](/diverpickaxe.png)|1561022037|Abyss Metal Pickaxe|Tool|
@@ -960,7 +960,7 @@
 |[sign.wooden.medium](/sign.wooden.medium.png)|-1819233322|Medium Wooden Sign|Items|
 |[sign.wooden.small](/sign.wooden.small.png)|-1138208076|Small Wooden Sign|Items|
 |[silly.horse.mask](/silly.horse.mask.png)|1849409072|Silly Horse Mask|Attire|
-|[single.shallow.wall.shelves](/single.shallow.wall.shelves.png)|-193519904|Single Shallow Wall Shelves|Items|
+|[single.shallow.wall.shelves](/single.shallow.wall.shelves.png)|-193519904|Bamboo Wall Shelves|Items|
 |[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
 |[skull](/skull.png)|1312843609|Skull|Tool|
@@ -1132,7 +1132,7 @@
 |[wall.frame.shopfront.metal](/wall.frame.shopfront.metal.png)|-148229307|Metal Shop Front|Construction|
 |[wall.graveyard.fence](/wall.graveyard.fence.png)|-1679267738|Graveyard Fence|Misc|
 |[wall.ice.wall](/wall.ice.wall.png)|1327005675|Short Ice Wall|Construction|
-|[wall.shallow.industrial.shelves](/wall.shallow.industrial.shelves.png)|-265202949|Single Shallow Industrial Wall Shelves|Items|
+|[wall.shallow.industrial.shelves](/wall.shallow.industrial.shelves.png)|-265202949|Industrial Wall Shelves|Items|
 |[wall.window.bars.metal](/wall.window.bars.metal.png)|-819720157|Metal Window Bars|Construction|
 |[wall.window.bars.toptier](/wall.window.bars.toptier.png)|671706427|Reinforced Glass Window|Construction|
 |[wall.window.bars.wood](/wall.window.bars.wood.png)|-1183726687|Wooden Window Bars|Construction|
