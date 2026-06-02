@@ -288,6 +288,7 @@
 |[discoball](/discoball.png)|1895235349|Disco Ball|Fun|
 |[discofloor](/discofloor.png)|286648290|Disco Floor|Fun|
 |[discofloor.largetiles](/discofloor.largetiles.png)|1735402444|Disco Floor|Fun|
+|[discord.plushie](/discord.plushie.png)|-1800102806|Wumpus Plushie|Items|
 |[discord.trophy](/discord.trophy.png)|1494014226|Discord Trophy|Items|
 |[diverhatchet](/diverhatchet.png)|1046904719|Abyss Metal Hatchet|Tool|
 |[diverpickaxe](/diverpickaxe.png)|1561022037|Abyss Metal Pickaxe|Tool|
@@ -676,7 +677,7 @@
 |[lumberjack.hatchet](/lumberjack.hatchet.png)|-399173933|Prototype Hatchet|Tool|
 |[lumberjack.pickaxe](/lumberjack.pickaxe.png)|236677901|Prototype Pickaxe|Tool|
 |[lunar.firecrackers](/lunar.firecrackers.png)|-1961560162|Firecracker String|Fun|
-|[m16a2](/m16a2.png)|599591861|LR-300 Assault Rifle|Weapon|
+|[m16a2](/m16a2.png)|599591861|M16A2|Weapon|
 |[mace.baseballbat](/mace.baseballbat.png)|-2026042603|Baseball Bat|Weapon|
 |[mace](/mace.png)|-1966748496|Mace|Weapon|
 |[machete](/machete.png)|-1137865085|Machete|Weapon|
