@@ -288,6 +288,7 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|
+|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plushie|
 |![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|
@@ -676,7 +677,7 @@
 |![](/lumberjack.hatchet.128.webp)|lumberjack.hatchet|-399173933|Prototype Hatchet|
 |![](/lumberjack.pickaxe.128.webp)|lumberjack.pickaxe|236677901|Prototype Pickaxe|
 |![](/lunar.firecrackers.128.webp)|lunar.firecrackers|-1961560162|Firecracker String|
-|![](/m16a2.128.webp)|m16a2|599591861|LR-300 Assault Rifle|
+|![](/m16a2.128.webp)|m16a2|599591861|M16A2|
 |![](/mace.baseballbat.128.webp)|mace.baseballbat|-2026042603|Baseball Bat|
 |![](/mace.128.webp)|mace|-1966748496|Mace|
 |![](/machete.128.webp)|machete|-1137865085|Machete|
