@@ -78,6 +78,9 @@
 |![](/ballista.bolt.pitchfork.128.webp)|ballista.bolt.pitchfork|-357442017|Pitchfork Bolt|
 |![](/ballista.mounted.128.webp)|ballista.mounted|-759279626|Mounted Ballista|
 |![](/ballista.static.128.webp)|ballista.static|1714509152|Ballista|
+|![](/ballistic.helmet.128.webp)|ballistic.helmet|1127732084|Ballistic helmet|
+|![](/ballistic.legarmor.128.webp)|ballistic.legarmor|1983541158|Ballistic leg armour|
+|![](/ballistic.vest.128.webp)|ballistic.vest|-1780402255|Ballistic vest|
 |![](/bamboo.barrel.128.webp)|bamboo.barrel|-1652561344|Bamboo Barrel|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|
@@ -99,6 +102,8 @@
 |![](/batteringram.128.webp)|batteringram|-187304968|Battering Ram|
 |![](/battery.small.128.webp)|battery.small|609049394|Battery - Small|
 |![](/bbq.128.webp)|bbq|1099314009|Barbeque|
+|![](/bdu.pants.128.webp)|bdu.pants|1468749025|BDU pants|
+|![](/bdu.shirt.128.webp)|bdu.shirt|-2127311451|BDU shirt|
 |![](/beachchair.128.webp)|beachchair|-321431890|Beach Chair|
 |![](/beachparasol.128.webp)|beachparasol|-1621539785|Beach Parasol|
 |![](/beachtable.128.webp)|beachtable|657352755|Beach Table|
@@ -264,6 +269,7 @@
 |![](/crocodilemeat.128.webp)|crocodilemeat|-1081599445|Raw Crocodile Meat|
 |![](/crocodilemeat.spoiled.128.webp)|crocodilemeat.spoiled|-1796837031|Spoiled Crocodile Meat|
 |![](/crossbow.128.webp)|crossbow|1965232394|Crossbow|
+|![](/crossbowbowless.128.webp)|crossbowbowless|2022157467|Bowless Crossbow|
 |![](/crude.oil.128.webp)|crude.oil|-321733511|Crude Oil|
 |![](/cupboard.tool.128.webp)|cupboard.tool|-97956382|Tool Cupboard|
 |![](/cupboard.tool.retro.128.webp)|cupboard.tool.retro|1488606552|Retro Tool Cupboard|
@@ -283,6 +289,7 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|
+|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plush|
 |![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|
@@ -499,6 +506,7 @@
 |![](/hab.armor.128.webp)|hab.armor|-1989600732|Hot Air Balloon Armor|
 |![](/hab.128.webp)|hab|696029539|Hot Air Balloon|
 |![](/half.bamboo.shelves.128.webp)|half.bamboo.shelves|-1923843855|Half Height Bamboo Shelves|
+|![](/halfheight.industrial.shelves.128.webp)|halfheight.industrial.shelves|786458957|Half Height Industrial Shelves|
 |![](/halloween.candy.128.webp)|halloween.candy|-888153050|Halloween Candy|
 |![](/halloween.lootbag.large.128.webp)|halloween.lootbag.large|479292118|Large Loot Bag|
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|
@@ -589,10 +597,17 @@
 |![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|
 |![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|
+|![](/industrial.autoturret.128.webp)|industrial.autoturret|-786398324|Industrial Auto Turret|
 |![](/industrial.combiner.128.webp)|industrial.combiner|1538126328|Industrial Combiner|
 |![](/industrial.conveyor.128.webp)|industrial.conveyor|610102428|Industrial Conveyor|
 |![](/industrial.crafter.128.webp)|industrial.crafter|1430085198|Industrial Crafter|
+|![](/industrial.electric.furnace.128.webp)|industrial.electric.furnace|225892284|Industrial Electric Furnace|
+|![](/industrial.furnace.large.128.webp)|industrial.furnace.large|1868984394|Large Industrial Furnace|
+|![](/industrial.garagedoor.128.webp)|industrial.garagedoor|346569548|Industrial Garage Door|
 |![](/industrial.splitter.128.webp)|industrial.splitter|742745918|Industrial Splitter|
+|![](/industrial.storage.horizontal.128.webp)|industrial.storage.horizontal|-1019111952|Industrial Storage Horizontal Barrel|
+|![](/industrial.storage.vertical.128.webp)|industrial.storage.vertical|-883975138|Industrial Storage Vertical Barrel|
+|![](/industrial.torch.128.webp)|industrial.torch|4474927|Industrial Torch|
 |![](/industrial.wall.light.blue.128.webp)|industrial.wall.light.blue|920930831|Blue Industrial Wall Light|
 |![](/industrial.wall.light.green.128.webp)|industrial.wall.light.green|1268178466|Green Industrial Wall Light|
 |![](/industrial.wall.light.128.webp)|industrial.wall.light|1623701499|Industrial Wall Light|
@@ -664,6 +679,7 @@
 |![](/lumberjack.hatchet.128.webp)|lumberjack.hatchet|-399173933|Prototype Hatchet|
 |![](/lumberjack.pickaxe.128.webp)|lumberjack.pickaxe|236677901|Prototype Pickaxe|
 |![](/lunar.firecrackers.128.webp)|lunar.firecrackers|-1961560162|Firecracker String|
+|![](/m16a2.128.webp)|m16a2|599591861|M16A2|
 |![](/mace.baseballbat.128.webp)|mace.baseballbat|-2026042603|Baseball Bat|
 |![](/mace.128.webp)|mace|-1966748496|Mace|
 |![](/machete.128.webp)|machete|-1137865085|Machete|
@@ -856,6 +872,7 @@
 |![](/sail.128.webp)|sail|405905095|Sail|
 |![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|
+|![](/salvaged.industrial.shelves.128.webp)|salvaged.industrial.shelves|-1018026008|Salvaged Industrial Shelves|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|
 |![](/samsite.128.webp)|samsite|-1009359066|SAM Site|
 |![](/santabeard.128.webp)|santabeard|2126889441|Santa Beard|
@@ -945,7 +962,7 @@
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|
 |![](/silly.horse.mask.128.webp)|silly.horse.mask|1849409072|Silly Horse Mask|
-|![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Single Shallow Wall Shelves|
+|![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Bamboo Wall Shelves|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|
 |![](/skull.128.webp)|skull|1312843609|Skull|
@@ -1118,6 +1135,7 @@
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|
 |![](/wall.graveyard.fence.128.webp)|wall.graveyard.fence|-1679267738|Graveyard Fence|
 |![](/wall.ice.wall.128.webp)|wall.ice.wall|1327005675|Short Ice Wall|
+|![](/wall.shallow.industrial.shelves.128.webp)|wall.shallow.industrial.shelves|-265202949|Industrial Wall Shelves|
 |![](/wall.window.bars.metal.128.webp)|wall.window.bars.metal|-819720157|Metal Window Bars|
 |![](/wall.window.bars.toptier.128.webp)|wall.window.bars.toptier|671706427|Reinforced Glass Window|
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|

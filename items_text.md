@@ -78,6 +78,9 @@
 |[ballista.bolt.pitchfork](/ballista.bolt.pitchfork.png)|-357442017|Pitchfork Bolt|Ammunition|
 |[ballista.mounted](/ballista.mounted.png)|-759279626|Mounted Ballista|Weapon|
 |[ballista.static](/ballista.static.png)|1714509152|Ballista|Weapon|
+|[ballistic.helmet](/ballistic.helmet.png)|1127732084|Ballistic helmet|Attire|
+|[ballistic.legarmor](/ballistic.legarmor.png)|1983541158|Ballistic leg armour|Attire|
+|[ballistic.vest](/ballistic.vest.png)|-1780402255|Ballistic vest|Attire|
 |[bamboo.barrel](/bamboo.barrel.png)|-1652561344|Bamboo Barrel|Items|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
@@ -99,6 +102,8 @@
 |[batteringram](/batteringram.png)|-187304968|Battering Ram|Weapon|
 |[battery.small](/battery.small.png)|609049394|Battery - Small|Resources|
 |[bbq](/bbq.png)|1099314009|Barbeque|Items|
+|[bdu.pants](/bdu.pants.png)|1468749025|BDU pants|Attire|
+|[bdu.shirt](/bdu.shirt.png)|-2127311451|BDU shirt|Attire|
 |[beachchair](/beachchair.png)|-321431890|Beach Chair|Fun|
 |[beachparasol](/beachparasol.png)|-1621539785|Beach Parasol|Fun|
 |[beachtable](/beachtable.png)|657352755|Beach Table|Fun|
@@ -264,6 +269,7 @@
 |[crocodilemeat](/crocodilemeat.png)|-1081599445|Raw Crocodile Meat|Food|
 |[crocodilemeat.spoiled](/crocodilemeat.spoiled.png)|-1796837031|Spoiled Crocodile Meat|Food|
 |[crossbow](/crossbow.png)|1965232394|Crossbow|Weapon|
+|[crossbowbowless](/crossbowbowless.png)|2022157467|Bowless Crossbow|Weapon|
 |[crude.oil](/crude.oil.png)|-321733511|Crude Oil|Resources|
 |[cupboard.tool](/cupboard.tool.png)|-97956382|Tool Cupboard|Construction|
 |[cupboard.tool.retro](/cupboard.tool.retro.png)|1488606552|Retro Tool Cupboard|Construction|
@@ -283,6 +289,7 @@
 |[discoball](/discoball.png)|1895235349|Disco Ball|Fun|
 |[discofloor](/discofloor.png)|286648290|Disco Floor|Fun|
 |[discofloor.largetiles](/discofloor.largetiles.png)|1735402444|Disco Floor|Fun|
+|[discord.plushie](/discord.plushie.png)|-1800102806|Wumpus Plush|Items|
 |[discord.trophy](/discord.trophy.png)|1494014226|Discord Trophy|Items|
 |[diverhatchet](/diverhatchet.png)|1046904719|Abyss Metal Hatchet|Tool|
 |[diverpickaxe](/diverpickaxe.png)|1561022037|Abyss Metal Pickaxe|Tool|
@@ -499,6 +506,7 @@
 |[hab.armor](/hab.armor.png)|-1989600732|Hot Air Balloon Armor|Attire|
 |[hab](/hab.png)|696029539|Hot Air Balloon|Misc|
 |[half.bamboo.shelves](/half.bamboo.shelves.png)|-1923843855|Half Height Bamboo Shelves|Items|
+|[halfheight.industrial.shelves](/halfheight.industrial.shelves.png)|786458957|Half Height Industrial Shelves|Items|
 |[halloween.candy](/halloween.candy.png)|-888153050|Halloween Candy|Misc|
 |[halloween.lootbag.large](/halloween.lootbag.large.png)|479292118|Large Loot Bag|Misc|
 |[halloween.lootbag.medium](/halloween.lootbag.medium.png)|1899610628|Medium Loot Bag|Misc|
@@ -589,10 +597,17 @@
 |[huntingtrophysmall](/huntingtrophysmall.png)|-869598982|Small Hunting Trophy|Items|
 |[icepick.salvaged](/icepick.salvaged.png)|-1780802565|Salvaged Icepick|Tool|
 |[improvised.shield](/improvised.shield.png)|196784377|Improvised Shield|Attire|
+|[industrial.autoturret](/industrial.autoturret.png)|-786398324|Industrial Auto Turret|Electrical|
 |[industrial.combiner](/industrial.combiner.png)|1538126328|Industrial Combiner|Electrical|
 |[industrial.conveyor](/industrial.conveyor.png)|610102428|Industrial Conveyor|Electrical|
 |[industrial.crafter](/industrial.crafter.png)|1430085198|Industrial Crafter|Electrical|
+|[industrial.electric.furnace](/industrial.electric.furnace.png)|225892284|Industrial Electric Furnace|Electrical|
+|[industrial.furnace.large](/industrial.furnace.large.png)|1868984394|Large Industrial Furnace|Items|
+|[industrial.garagedoor](/industrial.garagedoor.png)|346569548|Industrial Garage Door|Construction|
 |[industrial.splitter](/industrial.splitter.png)|742745918|Industrial Splitter|Electrical|
+|[industrial.storage.horizontal](/industrial.storage.horizontal.png)|-1019111952|Industrial Storage Horizontal Barrel|Items|
+|[industrial.storage.vertical](/industrial.storage.vertical.png)|-883975138|Industrial Storage Vertical Barrel|Items|
+|[industrial.torch](/industrial.torch.png)|4474927|Industrial Torch|Tool|
 |[industrial.wall.light.blue](/industrial.wall.light.blue.png)|920930831|Blue Industrial Wall Light|Electrical|
 |[industrial.wall.light.green](/industrial.wall.light.green.png)|1268178466|Green Industrial Wall Light|Electrical|
 |[industrial.wall.light](/industrial.wall.light.png)|1623701499|Industrial Wall Light|Electrical|
@@ -664,6 +679,7 @@
 |[lumberjack.hatchet](/lumberjack.hatchet.png)|-399173933|Prototype Hatchet|Tool|
 |[lumberjack.pickaxe](/lumberjack.pickaxe.png)|236677901|Prototype Pickaxe|Tool|
 |[lunar.firecrackers](/lunar.firecrackers.png)|-1961560162|Firecracker String|Fun|
+|[m16a2](/m16a2.png)|599591861|M16A2|Weapon|
 |[mace.baseballbat](/mace.baseballbat.png)|-2026042603|Baseball Bat|Weapon|
 |[mace](/mace.png)|-1966748496|Mace|Weapon|
 |[machete](/machete.png)|-1137865085|Machete|Weapon|
@@ -856,6 +872,7 @@
 |[sail](/sail.png)|405905095|Sail|Items|
 |[salvaged.bamboo.shelves](/salvaged.bamboo.shelves.png)|-2110553371|Bamboo Salvaged Shelves|Items|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
+|[salvaged.industrial.shelves](/salvaged.industrial.shelves.png)|-1018026008|Salvaged Industrial Shelves|Items|
 |[salvaged.sword](/salvaged.sword.png)|1326180354|Salvaged Sword|Weapon|
 |[samsite](/samsite.png)|-1009359066|SAM Site|Traps|
 |[santabeard](/santabeard.png)|2126889441|Santa Beard|Attire|
@@ -945,7 +962,7 @@
 |[sign.wooden.medium](/sign.wooden.medium.png)|-1819233322|Medium Wooden Sign|Items|
 |[sign.wooden.small](/sign.wooden.small.png)|-1138208076|Small Wooden Sign|Items|
 |[silly.horse.mask](/silly.horse.mask.png)|1849409072|Silly Horse Mask|Attire|
-|[single.shallow.wall.shelves](/single.shallow.wall.shelves.png)|-193519904|Single Shallow Wall Shelves|Items|
+|[single.shallow.wall.shelves](/single.shallow.wall.shelves.png)|-193519904|Bamboo Wall Shelves|Items|
 |[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
 |[skull](/skull.png)|1312843609|Skull|Tool|
@@ -1118,6 +1135,7 @@
 |[wall.frame.shopfront.metal](/wall.frame.shopfront.metal.png)|-148229307|Metal Shop Front|Construction|
 |[wall.graveyard.fence](/wall.graveyard.fence.png)|-1679267738|Graveyard Fence|Misc|
 |[wall.ice.wall](/wall.ice.wall.png)|1327005675|Short Ice Wall|Construction|
+|[wall.shallow.industrial.shelves](/wall.shallow.industrial.shelves.png)|-265202949|Industrial Wall Shelves|Items|
 |[wall.window.bars.metal](/wall.window.bars.metal.png)|-819720157|Metal Window Bars|Construction|
 |[wall.window.bars.toptier](/wall.window.bars.toptier.png)|671706427|Reinforced Glass Window|Construction|
 |[wall.window.bars.wood](/wall.window.bars.wood.png)|-1183726687|Wooden Window Bars|Construction|
