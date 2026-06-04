@@ -288,7 +288,7 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
-|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plush|Items|Exclusive to the Discord store!|
+|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plush|Items|Exclusive to the Rust Shop on Discord!|
 |![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|Items|A companion that reminds you of your youth.|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|Tool|Metal hatchet, reclaimed from the abyss, perfect for survival and crafting|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|Tool|Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor|
