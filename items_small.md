@@ -628,6 +628,7 @@
 |![](/keycard_blue.128.webp)|keycard_blue|-484206264|Blue Keycard|
 |![](/keycard_green.128.webp)|keycard_green|37122747|Green Keycard|
 |![](/keycard_red.128.webp)|keycard_red|-1880870149|Red Keycard|
+|![](/kickgems.128.webp)|kickgems|-1622386500|Gems|
 |![](/knife.bone.128.webp)|knife.bone|1814288539|Bone Knife|
 |![](/knife.bone.obsidian.128.webp)|knife.bone.obsidian|158303804|Obsidian Bone Knife|
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|
