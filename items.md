@@ -628,6 +628,7 @@
 |![](/keycard_blue.128.webp)|keycard_blue|-484206264|Blue Keycard|Misc|A keycard with medium level clearance.|
 |![](/keycard_green.128.webp)|keycard_green|37122747|Green Keycard|Misc|A low level clearance card granting access to basic areas.|
 |![](/keycard_red.128.webp)|keycard_red|-1880870149|Red Keycard|Misc|A keycard with advanced clearance, grants access to top level areas|
+|![](/kickgems.128.webp)|kickgems|-1622386500|Gems|Resources|Looks valuable|
 |![](/knife.bone.128.webp)|knife.bone|1814288539|Bone Knife|Weapon|Melee weapon crafted from bone fragments. Good for harvesting carcases.|
 |![](/knife.bone.obsidian.128.webp)|knife.bone.obsidian|158303804|Obsidian Bone Knife|Weapon|Melee weapon crafted from obsidian. Good for harvesting carcases.|
 |![](/knife.butcher.128.webp)|knife.butcher|-194509282|Butcher Knife|Weapon|A sharp butcher knife. Extremely good at harvesting flesh from both dead or alive bodies.|
