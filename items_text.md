@@ -630,6 +630,7 @@
 |[keycard_blue](/keycard_blue.png)|-484206264|Blue Keycard|Misc|
 |[keycard_green](/keycard_green.png)|37122747|Green Keycard|Misc|
 |[keycard_red](/keycard_red.png)|-1880870149|Red Keycard|Misc|
+|[kickgems](/kickgems.png)|-1622386500|Gems|Resources|
 |[knife.bone](/knife.bone.png)|1814288539|Bone Knife|Weapon|
 |[knife.bone.obsidian](/knife.bone.obsidian.png)|158303804|Obsidian Bone Knife|Weapon|
 |[knife.butcher](/knife.butcher.png)|-194509282|Butcher Knife|Weapon|
