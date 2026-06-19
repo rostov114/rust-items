@@ -191,8 +191,11 @@
 |[chair.icethrone](/chair.icethrone.png)|-1944704288|Ice Throne|Items|
 |[chair](/chair.png)|1534542921|Chair|Items|
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
+|[charity.plushie.05](/charity.plushie.05.png)|374496151|Humane World Charity 2026 Plushie|Items|
 |[charity.plushy.01](/charity.plushy.01.png)|2130820932|Cancer Research UK Plushie|Items|
 |[charity.plushy.02](/charity.plushy.02.png)|2130820933|Ronald McDonald House UK Plushie|Items|
+|[charity.plushy.03](/charity.plushy.03.png)|2130820934|Ronald McDonald House UK 2026 Plushie|Items|
+|[charity.plushy.04](/charity.plushy.04.png)|2130820927|Cancer Research UK 2026 Plushie|Items|
 |[chicken.burned](/chicken.burned.png)|1973684065|Burnt Chicken|Food|
 |[chicken.cooked](/chicken.cooked.png)|-1848736516|Cooked Chicken|Food|
 |[chicken.costume](/chicken.costume.png)|-152332823|Chicken Costume|Attire|
