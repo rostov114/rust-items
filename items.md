@@ -47,6 +47,7 @@
 |![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|Snowball Gun Ammo|Ammunition||
 |![](/anchor.128.webp)|anchor|829641693|Anchor|Items|A heavy anchor to stop your boat drifting.|
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|Medical|Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration.|
+|![](/apartment.master_key.128.webp)|apartment.master_key|1664052604|Apartment Key|Misc|An old rusty key that can open the door to an apartment.|
 |![](/apple.128.webp)|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
 |![](/arcade.machine.chippy.128.webp)|arcade.machine.chippy|359723196|Chippy Arcade Game|Items|An Arcade Machine|
@@ -827,6 +828,12 @@
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
 |![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long. Usable with single handed weapons and tools.|
+|![](/rentable.shop.sign.a.128.webp)|rentable.shop.sign.a|-835995173|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.b.128.webp)|rentable.shop.sign.b|-1239279700|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.c.128.webp)|rentable.shop.sign.c|326804241|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.d.128.webp)|rentable.shop.sign.d|-76480286|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.e.128.webp)|rentable.shop.sign.e|1489603655|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.f.128.webp)|rentable.shop.sign.f|1086319128|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|High Caliber Revolver|
