@@ -47,6 +47,7 @@
 |![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|Snowball Gun Ammo|
 |![](/anchor.128.webp)|anchor|829641693|Anchor|
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|
+|![](/apartment.master_key.128.webp)|apartment.master_key|1664052604|Apartment Key|
 |![](/apple.128.webp)|apple|1548091822|Apple|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|
 |![](/arcade.machine.chippy.128.webp)|arcade.machine.chippy|359723196|Chippy Arcade Game|
@@ -827,6 +828,12 @@
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|
 |![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|
+|![](/rentable.shop.sign.a.128.webp)|rentable.shop.sign.a|-835995173|Medium Wooden Sign|
+|![](/rentable.shop.sign.b.128.webp)|rentable.shop.sign.b|-1239279700|Medium Wooden Sign|
+|![](/rentable.shop.sign.c.128.webp)|rentable.shop.sign.c|326804241|Medium Wooden Sign|
+|![](/rentable.shop.sign.d.128.webp)|rentable.shop.sign.d|-76480286|Medium Wooden Sign|
+|![](/rentable.shop.sign.e.128.webp)|rentable.shop.sign.e|1489603655|Medium Wooden Sign|
+|![](/rentable.shop.sign.f.128.webp)|rentable.shop.sign.f|1086319128|Medium Wooden Sign|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|
