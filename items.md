@@ -47,6 +47,7 @@
 |![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|Snowball Gun Ammo|Ammunition||
 |![](/anchor.128.webp)|anchor|829641693|Anchor|Items|A heavy anchor to stop your boat drifting.|
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|Medical|Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration.|
+|![](/apartment.master_key.128.webp)|apartment.master_key|1664052604|Apartment Key|Misc|An old rusty key that can open the door to an apartment.|
 |![](/apple.128.webp)|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
 |![](/arcade.machine.chippy.128.webp)|arcade.machine.chippy|359723196|Chippy Arcade Game|Items|An Arcade Machine|
@@ -191,8 +192,11 @@
 |![](/chair.icethrone.128.webp)|chair.icethrone|-1944704288|Ice Throne|Items|An Ice Throne. Fit for the one true arctic warlord.|
 |![](/chair.128.webp)|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
+|![](/charity.plushie.05.128.webp)|charity.plushie.05|374496151|Humane World Charity 2026 Plushie|Items|TEXT TBD|
 |![](/charity.plushy.01.128.webp)|charity.plushy.01|2130820932|Cancer Research UK Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Cancer Research UK, each purchase helped fund real-world cancer research.www.cancerresearchuk.org|
 |![](/charity.plushy.02.128.webp)|charity.plushy.02|2130820933|Ronald McDonald House UK Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
+|![](/charity.plushy.03.128.webp)|charity.plushy.03|2130820934|Ronald McDonald House UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in July 2026 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
+|![](/charity.plushy.04.128.webp)|charity.plushy.04|2130820927|Cancer Research UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in July 2026 to support Cancer Research UK, each purchase helped fund real-world cancer research.www.cancerresearchuk.org|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|Food|Cooked chicken. Eating it will restore some health, hunger, and thirst.|
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|Attire|An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
