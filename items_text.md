@@ -84,6 +84,8 @@
 |[ballistic.vest](/ballistic.vest.png)|-1780402255|Ballistic vest|Attire|
 |[bamboo.barrel](/bamboo.barrel.png)|-1652561344|Bamboo Barrel|Items|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
+|[bar.stool.metal](/bar.stool.metal.png)|-1639742441|Metal Bar Stool|Items|
+|[bar.stool.wood](/bar.stool.wood.png)|-1444366079|Wooden Bar Stool|Items|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
 |[barricade.medieval](/barricade.medieval.png)|-424687710|Medieval Barricade|Construction|
@@ -283,6 +285,7 @@
 |[dart.radiation](/dart.radiation.png)|-594596146|Radiation Dart|Ammunition|
 |[dart.scatter](/dart.scatter.png)|2036395619|Scatter Dart|Ammunition|
 |[dart.wood](/dart.wood.png)|-274709858|Wood Dart|Ammunition|
+|[dartboard](/dartboard.png)|-872679147|Dart Board|Electrical|
 |[deer.skull.mask](/deer.skull.mask.png)|-1903165497|Bone Helmet|Attire|
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
 |[deermeat.cooked](/deermeat.cooked.png)|-1509851560|Cooked Deer Meat|Food|
@@ -459,6 +462,8 @@
 |[furnace](/furnace.png)|-1999722522|Furnace|Items|
 |[furnace.large](/furnace.large.png)|-1992717673|Large Furnace|Items|
 |[fuse](/fuse.png)|-629028935|Electric Fuse|Component|
+|[gamesroom.minifridge](/gamesroom.minifridge.png)|352442426|Bar Games Minifridge|Electrical|
+|[gamesroom.shotgun.trap](/gamesroom.shotgun.trap.png)|399522257|Bar Games Shotgun Trap|Traps|
 |[gates.external.high.adobe](/gates.external.high.adobe.png)|-401905610|High External Adobe Gate|Construction|
 |[gates.external.high.legacy](/gates.external.high.legacy.png)|-1442339204|High External Legacy Gate|Construction|
 |[gates.external.high.stone](/gates.external.high.stone.png)|-691113464|High External Stone Gate|Construction|
@@ -624,6 +629,7 @@
 |[jackolantern.angry](/jackolantern.angry.png)|1242482355|Jack O Lantern Angry|Items|
 |[jackolantern.happy](/jackolantern.happy.png)|-1824943010|Jack O Lantern Happy|Items|
 |[jar.pickle](/jar.pickle.png)|286193827|Pickles|Food|
+|[jukebox](/jukebox.png)|-1018085504|Jukebox|Fun|
 |[jumpsuit.suit.blue](/jumpsuit.suit.blue.png)|1601468620|Blue Jumpsuit|Attire|
 |[jumpsuit.suit](/jumpsuit.suit.png)|-97459906|Jumpsuit|Attire|
 |[jumpsuit.waterwellnpc](/jumpsuit.waterwellnpc.png)|-874908751|Waterwell NPC Jumpsuit|Attire|
@@ -803,6 +809,7 @@
 |[plantfiber](/plantfiber.png)|-804769727|Plant Fiber|Resources|
 |[plantpot.single](/plantpot.single.png)|-430416124|Single Plant Pot|Items|
 |[pookie.bear](/pookie.bear.png)|-1651220691|Pookie Bear|Items|
+|[pooltable](/pooltable.png)|-1748166144|Pooltable|Items|
 |[porkmeat.spoiled](/porkmeat.spoiled.png)|1925646349|Spoiled Pork Meat|Food|
 |[potato](/potato.png)|-2086926071|Potato|Food|
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
@@ -828,12 +835,6 @@
 |[reddogtags](/reddogtags.png)|-602717596|Red Dog Tags|Resources|
 |[redidtag](/redidtag.png)|70102328|Red ID Tag|Resources|
 |[reinforced.wooden.shield](/reinforced.wooden.shield.png)|969768382|Reinforced Wooden Shield|Attire|
-|[rentable.shop.sign.a](/rentable.shop.sign.a.png)|-835995173|Medium Wooden Sign|Items|
-|[rentable.shop.sign.b](/rentable.shop.sign.b.png)|-1239279700|Medium Wooden Sign|Items|
-|[rentable.shop.sign.c](/rentable.shop.sign.c.png)|326804241|Medium Wooden Sign|Items|
-|[rentable.shop.sign.d](/rentable.shop.sign.d.png)|-76480286|Medium Wooden Sign|Items|
-|[rentable.shop.sign.e](/rentable.shop.sign.e.png)|1489603655|Medium Wooden Sign|Items|
-|[rentable.shop.sign.f](/rentable.shop.sign.f.png)|1086319128|Medium Wooden Sign|Items|
 |[research.table](/research.table.png)|-1861522751|Research Table|Items|
 |[researchpaper](/researchpaper.png)|-544317637|Research Paper|Resources|
 |[revolver.hc](/revolver.hc.png)|-92315244|High Caliber Revolver|Weapon|
