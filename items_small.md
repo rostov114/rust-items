@@ -84,6 +84,8 @@
 |![](/ballistic.vest.128.webp)|ballistic.vest|-1780402255|Ballistic vest|
 |![](/bamboo.barrel.128.webp)|bamboo.barrel|-1652561344|Bamboo Barrel|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|
+|![](/bar.stool.metal.128.webp)|bar.stool.metal|-1639742441|Metal Bar Stool|
+|![](/bar.stool.wood.128.webp)|bar.stool.wood|-1444366079|Wooden Bar Stool|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|
 |![](/barricade.medieval.128.webp)|barricade.medieval|-424687710|Medieval Barricade|
@@ -283,6 +285,7 @@
 |![](/dart.radiation.128.webp)|dart.radiation|-594596146|Radiation Dart|
 |![](/dart.scatter.128.webp)|dart.scatter|2036395619|Scatter Dart|
 |![](/dart.wood.128.webp)|dart.wood|-274709858|Wood Dart|
+|![](/dartboard.128.webp)|dartboard|-872679147|Dart Board|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|
@@ -459,6 +462,8 @@
 |![](/furnace.128.webp)|furnace|-1999722522|Furnace|
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|
+|![](/gamesroom.minifridge.128.webp)|gamesroom.minifridge|352442426|Bar Games Minifridge|
+|![](/gamesroom.shotgun.trap.128.webp)|gamesroom.shotgun.trap|399522257|Bar Games Shotgun Trap|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|
 |![](/gates.external.high.legacy.128.webp)|gates.external.high.legacy|-1442339204|High External Legacy Gate|
 |![](/gates.external.high.stone.128.webp)|gates.external.high.stone|-691113464|High External Stone Gate|
@@ -624,6 +629,7 @@
 |![](/jackolantern.angry.128.webp)|jackolantern.angry|1242482355|Jack O Lantern Angry|
 |![](/jackolantern.happy.128.webp)|jackolantern.happy|-1824943010|Jack O Lantern Happy|
 |![](/jar.pickle.128.webp)|jar.pickle|286193827|Pickles|
+|![](/jukebox.128.webp)|jukebox|-1018085504|Jukebox|
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|
 |![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|
@@ -803,6 +809,7 @@
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|
 |![](/plantpot.single.128.webp)|plantpot.single|-430416124|Single Plant Pot|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|
+|![](/pooltable.128.webp)|pooltable|-1748166144|Pooltable|
 |![](/porkmeat.spoiled.128.webp)|porkmeat.spoiled|1925646349|Spoiled Pork Meat|
 |![](/potato.128.webp)|potato|-2086926071|Potato|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|
@@ -828,12 +835,6 @@
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|
 |![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|
-|![](/rentable.shop.sign.a.128.webp)|rentable.shop.sign.a|-835995173|Medium Wooden Sign|
-|![](/rentable.shop.sign.b.128.webp)|rentable.shop.sign.b|-1239279700|Medium Wooden Sign|
-|![](/rentable.shop.sign.c.128.webp)|rentable.shop.sign.c|326804241|Medium Wooden Sign|
-|![](/rentable.shop.sign.d.128.webp)|rentable.shop.sign.d|-76480286|Medium Wooden Sign|
-|![](/rentable.shop.sign.e.128.webp)|rentable.shop.sign.e|1489603655|Medium Wooden Sign|
-|![](/rentable.shop.sign.f.128.webp)|rentable.shop.sign.f|1086319128|Medium Wooden Sign|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|
