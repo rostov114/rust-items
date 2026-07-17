@@ -841,6 +841,12 @@
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
 |![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long. Usable with single handed weapons and tools.|
+|![](/rentable.shop.sign.a.128.webp)|rentable.shop.sign.a|-835995173|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.b.128.webp)|rentable.shop.sign.b|-1239279700|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.c.128.webp)|rentable.shop.sign.c|326804241|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.d.128.webp)|rentable.shop.sign.d|-76480286|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.e.128.webp)|rentable.shop.sign.e|1489603655|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
+|![](/rentable.shop.sign.f.128.webp)|rentable.shop.sign.f|1086319128|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|High Caliber Revolver|
