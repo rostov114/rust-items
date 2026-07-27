@@ -204,7 +204,7 @@
 |![](/charity.plushy.01.128.webp)|charity.plushy.01|2130820932|Cancer Research UK Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Cancer Research UK, each purchase helped fund real-world cancer research.www.cancerresearchuk.org|
 |![](/charity.plushy.02.128.webp)|charity.plushy.02|2130820933|Ronald McDonald House UK Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
 |![](/charity.plushy.03.128.webp)|charity.plushy.03|2130820934|Ronald McDonald House UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in July 2026 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
-|![](/charity.plushy.04.128.webp)|charity.plushy.04|2130820927|Cancer Research UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in July 2026 to support Cancer Research UK, each purchase helped fund real-world cancer research.www.cancerresearchuk.org|
+|![](/charity.plushy.04.128.webp)|charity.plushy.04|2130820927|Cancer Research UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base.Cancer Research UK (reg charity nos. 1089464, SC041666, 1103 and 247)will get 100% of the net sales of the Cancer Research UK Plushie*.  *Net sales being gross sales less refunds and after Steam platform fees (20%) and sales tax typically around 10-11%.|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|Food|Cooked chicken. Eating it will restore some health, hunger, and thirst.|
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|Attire|An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
@@ -815,7 +815,7 @@
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|Resources|Fiber from dead plants. Can be composted.|
 |![](/plantpot.single.128.webp)|plantpot.single|-430416124|Single Plant Pot|Items|A single plant pot.|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
-|![](/pooltable.128.webp)|pooltable|-1748166144|Pooltable|Items|#pooltable.desc|
+|![](/pooltable.128.webp)|pooltable|-1748166144|Pool Table|Items|A classic game of pool to challenge your friends, or foes. Hold interact key to choose between single or two-player game.|
 |![](/porkmeat.spoiled.128.webp)|porkmeat.spoiled|1925646349|Spoiled Pork Meat|Food|Spoiled Pork Meat. Consuming will damage your health.|
 |![](/potato.128.webp)|potato|-2086926071|Potato|Food|Potato.|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
@@ -920,6 +920,7 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|Misc||
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|A block of ice you can sculpt and light up with electric power.|
+|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Rock Sculpture|Items|A block of rock you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
 |![](/sedan.128.webp)|sedan|-374457631|Sedan|Misc|Sedan|
