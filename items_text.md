@@ -815,7 +815,7 @@
 |[plantfiber](/plantfiber.png)|-804769727|Plant Fiber|Resources|
 |[plantpot.single](/plantpot.single.png)|-430416124|Single Plant Pot|Items|
 |[pookie.bear](/pookie.bear.png)|-1651220691|Pookie Bear|Items|
-|[pooltable](/pooltable.png)|-1748166144|Pooltable|Items|
+|[pooltable](/pooltable.png)|-1748166144|Pool Table|Items|
 |[porkmeat.spoiled](/porkmeat.spoiled.png)|1925646349|Spoiled Pork Meat|Food|
 |[potato](/potato.png)|-2086926071|Potato|Food|
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
@@ -920,6 +920,7 @@
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptransportheli](/scraptransportheli.png)|375473148|Scrap Transport Helicopter|Misc|
 |[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Items|
+|[sculpture.rock](/sculpture.rock.png)|1852905808|Rock Sculpture|Items|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
 |[sedan](/sedan.png)|-374457631|Sedan|Misc|

@@ -815,7 +815,7 @@
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|
 |![](/plantpot.single.128.webp)|plantpot.single|-430416124|Single Plant Pot|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|
-|![](/pooltable.128.webp)|pooltable|-1748166144|Pooltable|
+|![](/pooltable.128.webp)|pooltable|-1748166144|Pool Table|
 |![](/porkmeat.spoiled.128.webp)|porkmeat.spoiled|1925646349|Spoiled Pork Meat|
 |![](/potato.128.webp)|potato|-2086926071|Potato|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|
@@ -920,6 +920,7 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|
+|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Rock Sculpture|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|
 |![](/sedan.128.webp)|sedan|-374457631|Sedan|
