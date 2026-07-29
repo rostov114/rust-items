@@ -1,16 +1,10 @@
 # Items
 |Shortname|ID|Name|Category|
 |:-:|:-:|:-:|:-:|
-|[2module car chassis](/2module car chassis.png)|-226151558|2 Module Car Chassis|Misc|
-|[2module car](/2module car.png)|-866121090|2 Module Car|Misc|
 |[2module.car.chassis](/2module.car.chassis.png)|-226151558|2 Module Car Chassis|Misc|
 |[2module.car](/2module.car.png)|-866121090|2 Module Car|Misc|
-|[3module car chassis](/3module car chassis.png)|1482871705|3 Module Car Chassis|Misc|
-|[3module car](/3module car.png)|-831725027|3 Module Car|Misc|
 |[3module.car.chassis](/3module.car.chassis.png)|1482871705|3 Module Car Chassis|Misc|
 |[3module.car](/3module.car.png)|-831725027|3 Module Car|Misc|
-|[4module car chassis](/4module car chassis.png)|385099196|4 Module Car Chassis|Misc|
-|[4module car](/4module car.png)|-935322684|4 Module Car|Misc|
 |[4module.car.chassis](/4module.car.chassis.png)|385099196|4 Module Car Chassis|Misc|
 |[4module.car](/4module.car.png)|-935322684|4 Module Car|Misc|
 |[50cal.mounted](/50cal.mounted.png)|162882477|#50cal|Weapon|
@@ -841,12 +835,6 @@
 |[reddogtags](/reddogtags.png)|-602717596|Red Dog Tags|Resources|
 |[redidtag](/redidtag.png)|70102328|Red ID Tag|Resources|
 |[reinforced.wooden.shield](/reinforced.wooden.shield.png)|969768382|Reinforced Wooden Shield|Attire|
-|[rentable.shop.sign.a](/rentable.shop.sign.a.png)|-835995173|Medium Wooden Sign|Items|
-|[rentable.shop.sign.b](/rentable.shop.sign.b.png)|-1239279700|Medium Wooden Sign|Items|
-|[rentable.shop.sign.c](/rentable.shop.sign.c.png)|326804241|Medium Wooden Sign|Items|
-|[rentable.shop.sign.d](/rentable.shop.sign.d.png)|-76480286|Medium Wooden Sign|Items|
-|[rentable.shop.sign.e](/rentable.shop.sign.e.png)|1489603655|Medium Wooden Sign|Items|
-|[rentable.shop.sign.f](/rentable.shop.sign.f.png)|1086319128|Medium Wooden Sign|Items|
 |[research.table](/research.table.png)|-1861522751|Research Table|Items|
 |[researchpaper](/researchpaper.png)|-544317637|Research Paper|Resources|
 |[revolver.hc](/revolver.hc.png)|-92315244|High Caliber Revolver|Weapon|
