@@ -1,16 +1,10 @@
 # Items
 |Image|Shortname|ID|Name|Category|Description|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|![](/2module car chassis.128.webp)|2module car chassis|-226151558|2 Module Car Chassis|Misc|2 Module Car Chassis|
-|![](/2module car.128.webp)|2module car|-866121090|2 Module Car|Misc|A motorbike.|
 |![](/2module.car.chassis.128.webp)|2module.car.chassis|-226151558|2 Module Car Chassis|Misc|2 Module Car Chassis|
 |![](/2module.car.128.webp)|2module.car|-866121090|2 Module Car|Misc|A motorbike.|
-|![](/3module car chassis.128.webp)|3module car chassis|1482871705|3 Module Car Chassis|Misc|3 Module Car Chassis|
-|![](/3module car.128.webp)|3module car|-831725027|3 Module Car|Misc|3 Module Car|
 |![](/3module.car.chassis.128.webp)|3module.car.chassis|1482871705|3 Module Car Chassis|Misc|3 Module Car Chassis|
 |![](/3module.car.128.webp)|3module.car|-831725027|3 Module Car|Misc|3 Module Car|
-|![](/4module car chassis.128.webp)|4module car chassis|385099196|4 Module Car Chassis|Misc|4 Module Car Chassis|
-|![](/4module car.128.webp)|4module car|-935322684|4 Module Car|Misc|4 Module Car|
 |![](/4module.car.chassis.128.webp)|4module.car.chassis|385099196|4 Module Car Chassis|Misc|4 Module Car Chassis|
 |![](/4module.car.128.webp)|4module.car|-935322684|4 Module Car|Misc|4 Module Car|
 |![](/50cal.mounted.128.webp)|50cal.mounted|162882477|#50cal|Weapon|#50cal.desc|
@@ -841,12 +835,6 @@
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
 |![](/redidtag.128.webp)|redidtag|70102328|Red ID Tag|Resources|Red ID Tag|
 |![](/reinforced.wooden.shield.128.webp)|reinforced.wooden.shield|969768382|Reinforced Wooden Shield|Attire|A basic wooden shield with added protection, keeps you safe but not for long. Usable with single handed weapons and tools.|
-|![](/rentable.shop.sign.a.128.webp)|rentable.shop.sign.a|-835995173|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
-|![](/rentable.shop.sign.b.128.webp)|rentable.shop.sign.b|-1239279700|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
-|![](/rentable.shop.sign.c.128.webp)|rentable.shop.sign.c|326804241|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
-|![](/rentable.shop.sign.d.128.webp)|rentable.shop.sign.d|-76480286|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
-|![](/rentable.shop.sign.e.128.webp)|rentable.shop.sign.e|1489603655|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
-|![](/rentable.shop.sign.f.128.webp)|rentable.shop.sign.f|1086319128|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/research.table.128.webp)|research.table|-1861522751|Research Table|Items|You can use this table to learn how to permanently craft items you have found in exchange for scrap.|
 |![](/researchpaper.128.webp)|researchpaper|-544317637|Research Paper|Resources|Use this item in a Research Bench to create blueprints of items.|
 |![](/revolver.hc.128.webp)|revolver.hc|-92315244|High Caliber Revolver|Weapon|High Caliber Revolver|
