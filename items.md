@@ -461,6 +461,7 @@
 |![](/fun.tuba.128.webp)|fun.tuba|1784406797|Sousaphone|Fun|A collection of used piping that’s been converted into a Tuba. Probably not very hygienic.|
 |![](/furnace.128.webp)|furnace|-1999722522|Furnace|Items|A Furnace. Use it to smelt mined ore.|
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|Items|Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.|
+|![](/fuse.highgrade.128.webp)|fuse.highgrade|-945548410|Heavy Fuse|Component|Lasts longer than a regular fuse and is compatible with and able to restore a Power Plant. Will have to be replaced after a period of time.|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
 |![](/gamesroom.minifridge.128.webp)|gamesroom.minifridge|352442426|Bar Games Minifridge|Electrical|A small fridge you can store food into and keep your drink cool!|
 |![](/gamesroom.shotgun.trap.128.webp)|gamesroom.shotgun.trap|399522257|Bar Games Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
@@ -908,7 +909,7 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|Misc||
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|A block of ice you can sculpt and light up with electric power.|
-|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Rock Sculpture|Items|A block of rock you can sculpt.|
+|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Stone Sculpture|Items|A block of stone you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
 |![](/sedan.128.webp)|sedan|-374457631|Sedan|Misc|Sedan|

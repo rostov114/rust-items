@@ -461,6 +461,7 @@
 |![](/fun.tuba.128.webp)|fun.tuba|1784406797|Sousaphone|
 |![](/furnace.128.webp)|furnace|-1999722522|Furnace|
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|
+|![](/fuse.highgrade.128.webp)|fuse.highgrade|-945548410|Heavy Fuse|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|
 |![](/gamesroom.minifridge.128.webp)|gamesroom.minifridge|352442426|Bar Games Minifridge|
 |![](/gamesroom.shotgun.trap.128.webp)|gamesroom.shotgun.trap|399522257|Bar Games Shotgun Trap|
@@ -908,7 +909,7 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|
-|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Rock Sculpture|
+|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Stone Sculpture|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|
 |![](/sedan.128.webp)|sedan|-374457631|Sedan|

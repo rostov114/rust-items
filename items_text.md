@@ -461,6 +461,7 @@
 |[fun.tuba](/fun.tuba.png)|1784406797|Sousaphone|Fun|
 |[furnace](/furnace.png)|-1999722522|Furnace|Items|
 |[furnace.large](/furnace.large.png)|-1992717673|Large Furnace|Items|
+|[fuse.highgrade](/fuse.highgrade.png)|-945548410|Heavy Fuse|Component|
 |[fuse](/fuse.png)|-629028935|Electric Fuse|Component|
 |[gamesroom.minifridge](/gamesroom.minifridge.png)|352442426|Bar Games Minifridge|Electrical|
 |[gamesroom.shotgun.trap](/gamesroom.shotgun.trap.png)|399522257|Bar Games Shotgun Trap|Traps|
@@ -908,7 +909,7 @@
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptransportheli](/scraptransportheli.png)|375473148|Scrap Transport Helicopter|Misc|
 |[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Items|
-|[sculpture.rock](/sculpture.rock.png)|1852905808|Rock Sculpture|Items|
+|[sculpture.rock](/sculpture.rock.png)|1852905808|Stone Sculpture|Items|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
 |[sedan](/sedan.png)|-374457631|Sedan|Misc|
