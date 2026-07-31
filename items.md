@@ -285,7 +285,7 @@
 |![](/dart.radiation.128.webp)|dart.radiation|-594596146|Radiation Dart|Ammunition|A dart that applies stackable radiation.|
 |![](/dart.scatter.128.webp)|dart.scatter|2036395619|Scatter Dart|Ammunition|A spread shot dart that fires multiple smaller darts.|
 |![](/dart.wood.128.webp)|dart.wood|-274709858|Wood Dart|Ammunition|A basic damage dart.|
-|![](/dartboard.128.webp)|dartboard|-872679147|Dart Board|Electrical|Throw some darts! Compete with others in a leaderboard.|
+|![](/dartboard.128.webp)|dartboard|-872679147|Dart Board|Electrical|Throw some darts! Compete with others in a leaderboard. Hold the interact key to choose between a single or two-player game.|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A primitive helmet made from bone. Moderate protection from projectiles and melee damage.|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|Food|Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.|
@@ -630,7 +630,7 @@
 |![](/jackolantern.angry.128.webp)|jackolantern.angry|1242482355|Jack O Lantern Angry|Items|A Lantern. Place it where you need light.|
 |![](/jackolantern.happy.128.webp)|jackolantern.happy|-1824943010|Jack O Lantern Happy|Items|A Lantern. Place it where you need light.|
 |![](/jar.pickle.128.webp)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amateur. Eat at your own risk.|
-|![](/jukebox.128.webp)|jukebox|-1018085504|Jukebox|Fun|A large speaker to play recorded cassette tapes which can also stream audio from the internet. Open the settings to change audio options.|
+|![](/jukebox.128.webp)|jukebox|-1018085504|Jukebox|Fun|A Jukebox that brings the tunes! Play recorded cassette tapes or stream audio from the internet. Fitted with a matrix display that shows the tuned station. Open the settings to change audio options.|
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
 |![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|Attire|A green jumpsuit and gasmask worn by the waterwell NPC|
@@ -810,7 +810,7 @@
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|Resources|Fiber from dead plants. Can be composted.|
 |![](/plantpot.single.128.webp)|plantpot.single|-430416124|Single Plant Pot|Items|A single plant pot.|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
-|![](/pooltable.128.webp)|pooltable|-1748166144|Pool Table|Items|A classic game of pool to challenge your friends, or foes. Hold interact key to choose between single or two-player game.|
+|![](/pooltable.128.webp)|pooltable|-1748166144|Pool Table|Items|A classic game of pool to challenge your friends, or foes. Hold the interact key to choose between a single or two-player game.|
 |![](/porkmeat.spoiled.128.webp)|porkmeat.spoiled|1925646349|Spoiled Pork Meat|Food|Spoiled Pork Meat. Consuming will damage your health.|
 |![](/potato.128.webp)|potato|-2086926071|Potato|Food|Potato.|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
