@@ -285,7 +285,7 @@
 |[dart.radiation](/dart.radiation.png)|-594596146|Radiation Dart|Ammunition|
 |[dart.scatter](/dart.scatter.png)|2036395619|Scatter Dart|Ammunition|
 |[dart.wood](/dart.wood.png)|-274709858|Wood Dart|Ammunition|
-|[dartboard](/dartboard.png)|-872679147|Dart Board|Electrical|
+|[dartboard](/dartboard.png)|-872679147|Dart Board|Fun|
 |[deer.skull.mask](/deer.skull.mask.png)|-1903165497|Bone Helmet|Attire|
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
 |[deermeat.cooked](/deermeat.cooked.png)|-1509851560|Cooked Deer Meat|Food|
@@ -810,7 +810,7 @@
 |[plantfiber](/plantfiber.png)|-804769727|Plant Fiber|Resources|
 |[plantpot.single](/plantpot.single.png)|-430416124|Single Plant Pot|Items|
 |[pookie.bear](/pookie.bear.png)|-1651220691|Pookie Bear|Items|
-|[pooltable](/pooltable.png)|-1748166144|Pool Table|Items|
+|[pooltable](/pooltable.png)|-1748166144|Pool Table|Fun|
 |[porkmeat.spoiled](/porkmeat.spoiled.png)|1925646349|Spoiled Pork Meat|Food|
 |[potato](/potato.png)|-2086926071|Potato|Food|
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
@@ -1078,7 +1078,7 @@
 |[tarp](/tarp.png)|2019042823|Tarp|Component|
 |[techparts](/techparts.png)|73681876|Tech Trash|Component|
 |[telephone](/telephone.png)|1234878710|Telephone|Fun|
-|[thruster.module](/thruster.module.png)|1754952075|Thruster Module|Resources|
+|[thruster.module](/thruster.module.png)|1754952075|Thruster Module|Component|
 |[tincan.alarm](/tincan.alarm.png)|962186730|Tin Can Alarm|Traps|
 |[tool.binoculars](/tool.binoculars.png)|-1262185308|Binoculars|Tool|
 |[tool.camera](/tool.camera.png)|-1316706473|Camera|Tool|

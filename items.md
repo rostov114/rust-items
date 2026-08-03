@@ -285,7 +285,7 @@
 |![](/dart.radiation.128.webp)|dart.radiation|-594596146|Radiation Dart|Ammunition|A dart that applies stackable radiation.|
 |![](/dart.scatter.128.webp)|dart.scatter|2036395619|Scatter Dart|Ammunition|A spread shot dart that fires multiple smaller darts.|
 |![](/dart.wood.128.webp)|dart.wood|-274709858|Wood Dart|Ammunition|A basic damage dart.|
-|![](/dartboard.128.webp)|dartboard|-872679147|Dart Board|Electrical|Throw some darts! Compete with others in a leaderboard. Hold the interact key to choose between a single or two-player game.|
+|![](/dartboard.128.webp)|dartboard|-872679147|Dart Board|Fun|Throw some darts! Compete with others in a leaderboard. Hold the interact key to choose between a single or two-player game.|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A primitive helmet made from bone. Moderate protection from projectiles and melee damage.|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|Food|Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.|
@@ -810,7 +810,7 @@
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|Resources|Fiber from dead plants. Can be composted.|
 |![](/plantpot.single.128.webp)|plantpot.single|-430416124|Single Plant Pot|Items|A single plant pot.|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
-|![](/pooltable.128.webp)|pooltable|-1748166144|Pool Table|Items|A classic game of pool to challenge your friends, or foes. Hold the interact key to choose between a single or two-player game.|
+|![](/pooltable.128.webp)|pooltable|-1748166144|Pool Table|Fun|A classic game of pool to challenge your friends, or foes. Hold the interact key to choose between a single or two-player game.|
 |![](/porkmeat.spoiled.128.webp)|porkmeat.spoiled|1925646349|Spoiled Pork Meat|Food|Spoiled Pork Meat. Consuming will damage your health.|
 |![](/potato.128.webp)|potato|-2086926071|Potato|Food|Potato.|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
@@ -1078,7 +1078,7 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
-|![](/thruster.module.128.webp)|thruster.module|1754952075|Thruster Module|Resources|A thruster module salvaged from crashed satellite remains. The more fuel left in the satellite when it was brought down, the better its condition.|
+|![](/thruster.module.128.webp)|thruster.module|1754952075|Thruster Module|Component|A thruster module salvaged from crashed satellite remains. The more fuel left in the satellite when it was brought down, the better its condition.|
 |![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|Traps|A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Can be rigged with grenades or other throwables.|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|
