@@ -18,7 +18,7 @@
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|
 |![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|
-|![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|
+|![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|Aiming Module|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|
