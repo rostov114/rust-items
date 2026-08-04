@@ -18,7 +18,7 @@
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|An advanced crafting tea, provides hydration and temporarily increases the chances of a higher quality crafting outcome.|
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|An advanced warming tea that temporarily increases both your core and minimum temperature.|
 |![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|Food|An advanced harvesting tea, provides hydration and temporarily boosts the amount of resources you receive from harvesting corpses a moderate amount.|
-|![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
+|![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|Aiming Module|Component|An aiming system computer module for MLRS vehicles and satellite control terminals.|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
