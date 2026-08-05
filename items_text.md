@@ -1153,9 +1153,9 @@
 |[wall.window.bars.wood](/wall.window.bars.wood.png)|-1183726687|Wooden Window Bars|Construction|
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
 |[wallpaper.ceiling](/wallpaper.ceiling.png)|1730664641|Wallpaper Ceiling|Items|
-|[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Wallpaper Flooring|Items|
+|[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Flooring|Items|
 |[wallpaper.tool](/wallpaper.tool.png)|1629564540|Wallpaper Tool|Tool|
-|[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper Wall|Tool|
+|[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper|Tool|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
