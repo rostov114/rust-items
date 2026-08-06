@@ -3,10 +3,16 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |![](/2module car chassis.128.webp)|2module car chassis|-226151558|2 Module Car Chassis|Misc|2 Module Car Chassis|
 |![](/2module car.128.webp)|2module car|-866121090|2 Module Car|Misc|A motorbike.|
+|![](/2module.car.chassis.128.webp)|2module.car.chassis|-226151558|2 Module Car Chassis|Misc|2 Module Car Chassis|
+|![](/2module.car.128.webp)|2module.car|-866121090|2 Module Car|Misc|A motorbike.|
 |![](/3module car chassis.128.webp)|3module car chassis|1482871705|3 Module Car Chassis|Misc|3 Module Car Chassis|
 |![](/3module car.128.webp)|3module car|-831725027|3 Module Car|Misc|3 Module Car|
+|![](/3module.car.chassis.128.webp)|3module.car.chassis|1482871705|3 Module Car Chassis|Misc|3 Module Car Chassis|
+|![](/3module.car.128.webp)|3module.car|-831725027|3 Module Car|Misc|3 Module Car|
 |![](/4module car chassis.128.webp)|4module car chassis|385099196|4 Module Car Chassis|Misc|4 Module Car Chassis|
 |![](/4module car.128.webp)|4module car|-935322684|4 Module Car|Misc|4 Module Car|
+|![](/4module.car.chassis.128.webp)|4module.car.chassis|385099196|4 Module Car Chassis|Misc|4 Module Car Chassis|
+|![](/4module.car.128.webp)|4module.car|-935322684|4 Module Car|Misc|4 Module Car|
 |![](/50cal.mounted.128.webp)|50cal.mounted|162882477|#50cal|Weapon|#50cal.desc|
 |![](/50cal.mounted.left.128.webp)|50cal.mounted.left|-1467876094|#50cal|Weapon|#50cal.desc|
 |![](/50cal.mounted.right.128.webp)|50cal.mounted.right|1248383659|#50cal|Weapon|#50cal.desc|
@@ -18,7 +24,7 @@
 |![](/advancedcraftingtea_quality.128.webp)|advancedcraftingtea_quality|-652889722|Advanced Crafting Quality Tea|Food|An advanced crafting tea, provides hydration and temporarily increases the chances of a higher quality crafting outcome.|
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|An advanced warming tea that temporarily increases both your core and minimum temperature.|
 |![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|Food|An advanced harvesting tea, provides hydration and temporarily boosts the amount of resources you receive from harvesting corpses a moderate amount.|
-|![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|MLRS Aiming Module|Component|An aiming system computer module for an MLRS vehicle.|
+|![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|Aiming Module|Component|An aiming system computer module for MLRS vehicles and satellite control terminals.|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
@@ -84,6 +90,8 @@
 |![](/ballistic.vest.128.webp)|ballistic.vest|-1780402255|Ballistic vest|Attire|A standard issue military ballstic vest. Worn, used, and dirty, but highly protective.|
 |![](/bamboo.barrel.128.webp)|bamboo.barrel|-1652561344|Bamboo Barrel|Items|Keep your things in this bamboo barrel. Stores up to 48 items. Cannot be locked.|
 |![](/bandage.128.webp)|bandage|-2072273936|Bandage|Medical|Heal yourself or others with this bandage. Left-click heals you, right-click heals a target.|
+|![](/bar.stool.metal.128.webp)|bar.stool.metal|-1639742441|Metal Bar Stool|Items|Pull up a stool and have a drink. A decorative item which provides comfort while seated.|
+|![](/bar.stool.wood.128.webp)|bar.stool.wood|-1444366079|Wooden Bar Stool|Items|Pull up a stool and have a drink. A decorative item which provides comfort while seated.|
 |![](/barrelcostume.128.webp)|barrelcostume|-1215166612|A Barrel Costume|Attire|A stupid barrel costume, so you can hide like a pro..p|
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
 |![](/barricade.medieval.128.webp)|barricade.medieval|-424687710|Medieval Barricade|Construction|A medieval barricade. Designed to block paths and provide defensive cover as well as being an effective tool to fortify your base.|
@@ -196,7 +204,7 @@
 |![](/charity.plushy.01.128.webp)|charity.plushy.01|2130820932|Cancer Research UK Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Cancer Research UK, each purchase helped fund real-world cancer research.www.cancerresearchuk.org|
 |![](/charity.plushy.02.128.webp)|charity.plushy.02|2130820933|Ronald McDonald House UK Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
 |![](/charity.plushy.03.128.webp)|charity.plushy.03|2130820934|Ronald McDonald House UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in July 2026 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
-|![](/charity.plushy.04.128.webp)|charity.plushy.04|2130820927|Cancer Research UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in July 2026 to support Cancer Research UK, each purchase helped fund real-world cancer research.www.cancerresearchuk.org|
+|![](/charity.plushy.04.128.webp)|charity.plushy.04|2130820927|Cancer Research UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base.Cancer Research UK (reg charity nos. 1089464, SC041666, 1103 and 247)will get 100% of the net sales of the Cancer Research UK Plushie*.  *Net sales being gross sales less refunds and after Steam platform fees (20%) and sales tax typically around 10-11%.|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|Food|Cooked chicken. Eating it will restore some health, hunger, and thirst.|
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|Attire|An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
@@ -284,6 +292,7 @@
 |![](/dart.radiation.128.webp)|dart.radiation|-594596146|Radiation Dart|Ammunition|A dart that applies stackable radiation.|
 |![](/dart.scatter.128.webp)|dart.scatter|2036395619|Scatter Dart|Ammunition|A spread shot dart that fires multiple smaller darts.|
 |![](/dart.wood.128.webp)|dart.wood|-274709858|Wood Dart|Ammunition|A basic damage dart.|
+|![](/dartboard.128.webp)|dartboard|-872679147|Dart Board|Fun|Throw some darts! Compete with others in a leaderboard. Hold the interact key to choose between a single or two-player game.|
 |![](/deer.skull.mask.128.webp)|deer.skull.mask|-1903165497|Bone Helmet|Attire|A primitive helmet made from bone. Moderate protection from projectiles and melee damage.|
 |![](/deermeat.burned.128.webp)|deermeat.burned|-78533081|Burnt Deer Meat|Food|Burned Deer Meat. Eating it will damage your health.|
 |![](/deermeat.cooked.128.webp)|deermeat.cooked|-1509851560|Cooked Deer Meat|Food|Cooked Deer Meat. Eating it will restore some health, hunger, and thirst.|
@@ -459,7 +468,10 @@
 |![](/fun.tuba.128.webp)|fun.tuba|1784406797|Sousaphone|Fun|A collection of used piping that’s been converted into a Tuba. Probably not very hygienic.|
 |![](/furnace.128.webp)|furnace|-1999722522|Furnace|Items|A Furnace. Use it to smelt mined ore.|
 |![](/furnace.large.128.webp)|furnace.large|-1992717673|Large Furnace|Items|Used to smelt large quantities of ore. Difficult to secure, must be placed on terrain.|
+|![](/fuse.highgrade.128.webp)|fuse.highgrade|-945548410|Heavy Fuse|Component|Lasts longer than a regular fuse and is compatible with and able to restore a Power Plant. Will have to be replaced after a period of time.|
 |![](/fuse.128.webp)|fuse|-629028935|Electric Fuse|Component|An unreliable electric fuse. Will allow electrical passthrough for a period of time.|
+|![](/gamesroom.minifridge.128.webp)|gamesroom.minifridge|352442426|Bar Games Minifridge|Electrical|A small fridge you can store food into and keep your drink cool!|
+|![](/gamesroom.shotgun.trap.128.webp)|gamesroom.shotgun.trap|399522257|Bar Games Shotgun Trap|Traps|A shotgun trap triggered by movement, place near doorways and load with handmade shells.|
 |![](/gates.external.high.adobe.128.webp)|gates.external.high.adobe|-401905610|High External Adobe Gate|Construction|A high stone gate, allowing access in and out of your compound.|
 |![](/gates.external.high.frontier.128.webp)|gates.external.high.frontier|2137338174|High External Frontier Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
 |![](/gates.external.high.legacy.128.webp)|gates.external.high.legacy|-1442339204|High External Legacy Gate|Construction|A legacy themed wooden gate to keep the untamed wilderness away from your property, it's seen better days. Replaces the High External Wooden Wall.|
@@ -626,6 +638,7 @@
 |![](/jackolantern.angry.128.webp)|jackolantern.angry|1242482355|Jack O Lantern Angry|Items|A Lantern. Place it where you need light.|
 |![](/jackolantern.happy.128.webp)|jackolantern.happy|-1824943010|Jack O Lantern Happy|Items|A Lantern. Place it where you need light.|
 |![](/jar.pickle.128.webp)|jar.pickle|286193827|Pickles|Food|Cucumbers in a vinegar bath, jarred by an amateur. Eat at your own risk.|
+|![](/jukebox.128.webp)|jukebox|-1018085504|Jukebox|Fun|A Jukebox that brings the tunes! Play recorded cassette tapes or stream audio from the internet. Fitted with a matrix display that shows the tuned station. Open the settings to change audio options.|
 |![](/jumpsuit.suit.blue.128.webp)|jumpsuit.suit.blue|1601468620|Blue Jumpsuit|Attire|A Blue Jumpsuit|
 |![](/jumpsuit.suit.128.webp)|jumpsuit.suit|-97459906|Jumpsuit|Attire|A Jumpsuit|
 |![](/jumpsuit.waterwellnpc.128.webp)|jumpsuit.waterwellnpc|-874908751|Waterwell NPC Jumpsuit|Attire|A green jumpsuit and gasmask worn by the waterwell NPC|
@@ -805,6 +818,7 @@
 |![](/plantfiber.128.webp)|plantfiber|-804769727|Plant Fiber|Resources|Fiber from dead plants. Can be composted.|
 |![](/plantpot.single.128.webp)|plantpot.single|-430416124|Single Plant Pot|Items|A single plant pot.|
 |![](/pookie.bear.128.webp)|pookie.bear|-1651220691|Pookie Bear|Items|A companion that reminds you of your youth.|
+|![](/pooltable.128.webp)|pooltable|-1748166144|Pool Table|Fun|A classic game of pool to challenge your friends, or foes. Hold the interact key to choose between a single or two-player game.|
 |![](/porkmeat.spoiled.128.webp)|porkmeat.spoiled|1925646349|Spoiled Pork Meat|Food|Spoiled Pork Meat. Consuming will damage your health.|
 |![](/potato.128.webp)|potato|-2086926071|Potato|Food|Potato.|
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
@@ -903,6 +917,7 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|Misc||
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|A block of ice you can sculpt and light up with electric power.|
+|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Stone Sculpture|Items|A block of stone you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
 |![](/sedan.128.webp)|sedan|-374457631|Sedan|Misc|Sedan|
@@ -1071,6 +1086,7 @@
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
+|![](/thruster.module.128.webp)|thruster.module|1754952075|Thruster Module|Component|A thruster module salvaged from crashed satellite remains. The more fuel left in the satellite when it was brought down, the better its condition.|
 |![](/tincan.alarm.128.webp)|tincan.alarm|962186730|Tin Can Alarm|Traps|A primitive perimeter alarm made from hanging tin cans. Clatters loudly when disturbed, alerting you to any trespassers. Can be rigged with grenades or other throwables.|
 |![](/tool.binoculars.128.webp)|tool.binoculars|-1262185308|Binoculars|Tool|Binoculars allowing you to see objects at great length.|
 |![](/tool.camera.128.webp)|tool.camera|-1316706473|Camera|Tool|A camera. Take screenshots with primary fire, zoom in and out with secondary fire, and lock focus with third fire.|
@@ -1146,10 +1162,10 @@
 |![](/wall.window.bars.wood.128.webp)|wall.window.bars.wood|-1183726687|Wooden Window Bars|Construction|Window bars made out of wood. They'll stop people climbing through your window, but probably not for very long.|
 |![](/wall.window.glass.reinforced.128.webp)|wall.window.glass.reinforced|-1614955425|Strengthened Glass Window|Construction|Strengthened Glass Window|
 |![](/wallpaper.ceiling.128.webp)|wallpaper.ceiling|1730664641|Wallpaper Ceiling|Items||
-|![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Wallpaper Flooring|Items||
+|![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Flooring|Items||
 |![](/wallpaper.128.webp)|wallpaper|-1501434104|Wallpaper|Items|Transform your base from a rusty shack to a cozy hideout with this sleek wallpaper. A nice touch of style - until the next raid, at least.|
 |![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|Tool|Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.Press [+attack2] to select your skin.|
-|![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper Wall|Tool||
+|![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper|Tool||
 |![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
 |![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|

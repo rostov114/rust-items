@@ -3,10 +3,16 @@
 |:-:|:-:|:-:|:-:|
 |[2module car chassis](/2module car chassis.png)|-226151558|2 Module Car Chassis|Misc|
 |[2module car](/2module car.png)|-866121090|2 Module Car|Misc|
+|[2module.car.chassis](/2module.car.chassis.png)|-226151558|2 Module Car Chassis|Misc|
+|[2module.car](/2module.car.png)|-866121090|2 Module Car|Misc|
 |[3module car chassis](/3module car chassis.png)|1482871705|3 Module Car Chassis|Misc|
 |[3module car](/3module car.png)|-831725027|3 Module Car|Misc|
+|[3module.car.chassis](/3module.car.chassis.png)|1482871705|3 Module Car Chassis|Misc|
+|[3module.car](/3module.car.png)|-831725027|3 Module Car|Misc|
 |[4module car chassis](/4module car chassis.png)|385099196|4 Module Car Chassis|Misc|
 |[4module car](/4module car.png)|-935322684|4 Module Car|Misc|
+|[4module.car.chassis](/4module.car.chassis.png)|385099196|4 Module Car Chassis|Misc|
+|[4module.car](/4module.car.png)|-935322684|4 Module Car|Misc|
 |[50cal.mounted](/50cal.mounted.png)|162882477|#50cal|Weapon|
 |[50cal.mounted.left](/50cal.mounted.left.png)|-1467876094|#50cal|Weapon|
 |[50cal.mounted.right](/50cal.mounted.right.png)|1248383659|#50cal|Weapon|
@@ -18,7 +24,7 @@
 |[advancedcraftingtea_quality](/advancedcraftingtea_quality.png)|-652889722|Advanced Crafting Quality Tea|Food|
 |[advancedwarmingtea](/advancedwarmingtea.png)|-334418777|Advanced Warming Tea|Food|
 |[advanceharvestingtea](/advanceharvestingtea.png)|-1385721419|Advanced Harvesting Tea|Food|
-|[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|MLRS Aiming Module|Component|
+|[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|Aiming Module|Component|
 |[ammo.grenadelauncher.buckshot](/ammo.grenadelauncher.buckshot.png)|1055319033|40mm Shotgun Round|Ammunition|
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
@@ -84,6 +90,8 @@
 |[ballistic.vest](/ballistic.vest.png)|-1780402255|Ballistic vest|Attire|
 |[bamboo.barrel](/bamboo.barrel.png)|-1652561344|Bamboo Barrel|Items|
 |[bandage](/bandage.png)|-2072273936|Bandage|Medical|
+|[bar.stool.metal](/bar.stool.metal.png)|-1639742441|Metal Bar Stool|Items|
+|[bar.stool.wood](/bar.stool.wood.png)|-1444366079|Wooden Bar Stool|Items|
 |[barrelcostume](/barrelcostume.png)|-1215166612|A Barrel Costume|Attire|
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
 |[barricade.medieval](/barricade.medieval.png)|-424687710|Medieval Barricade|Construction|
@@ -284,6 +292,7 @@
 |[dart.radiation](/dart.radiation.png)|-594596146|Radiation Dart|Ammunition|
 |[dart.scatter](/dart.scatter.png)|2036395619|Scatter Dart|Ammunition|
 |[dart.wood](/dart.wood.png)|-274709858|Wood Dart|Ammunition|
+|[dartboard](/dartboard.png)|-872679147|Dart Board|Fun|
 |[deer.skull.mask](/deer.skull.mask.png)|-1903165497|Bone Helmet|Attire|
 |[deermeat.burned](/deermeat.burned.png)|-78533081|Burnt Deer Meat|Food|
 |[deermeat.cooked](/deermeat.cooked.png)|-1509851560|Cooked Deer Meat|Food|
@@ -459,7 +468,10 @@
 |[fun.tuba](/fun.tuba.png)|1784406797|Sousaphone|Fun|
 |[furnace](/furnace.png)|-1999722522|Furnace|Items|
 |[furnace.large](/furnace.large.png)|-1992717673|Large Furnace|Items|
+|[fuse.highgrade](/fuse.highgrade.png)|-945548410|Heavy Fuse|Component|
 |[fuse](/fuse.png)|-629028935|Electric Fuse|Component|
+|[gamesroom.minifridge](/gamesroom.minifridge.png)|352442426|Bar Games Minifridge|Electrical|
+|[gamesroom.shotgun.trap](/gamesroom.shotgun.trap.png)|399522257|Bar Games Shotgun Trap|Traps|
 |[gates.external.high.adobe](/gates.external.high.adobe.png)|-401905610|High External Adobe Gate|Construction|
 |[gates.external.high.frontier](/gates.external.high.frontier.png)|2137338174|High External Frontier Gate|Construction|
 |[gates.external.high.legacy](/gates.external.high.legacy.png)|-1442339204|High External Legacy Gate|Construction|
@@ -626,6 +638,7 @@
 |[jackolantern.angry](/jackolantern.angry.png)|1242482355|Jack O Lantern Angry|Items|
 |[jackolantern.happy](/jackolantern.happy.png)|-1824943010|Jack O Lantern Happy|Items|
 |[jar.pickle](/jar.pickle.png)|286193827|Pickles|Food|
+|[jukebox](/jukebox.png)|-1018085504|Jukebox|Fun|
 |[jumpsuit.suit.blue](/jumpsuit.suit.blue.png)|1601468620|Blue Jumpsuit|Attire|
 |[jumpsuit.suit](/jumpsuit.suit.png)|-97459906|Jumpsuit|Attire|
 |[jumpsuit.waterwellnpc](/jumpsuit.waterwellnpc.png)|-874908751|Waterwell NPC Jumpsuit|Attire|
@@ -805,6 +818,7 @@
 |[plantfiber](/plantfiber.png)|-804769727|Plant Fiber|Resources|
 |[plantpot.single](/plantpot.single.png)|-430416124|Single Plant Pot|Items|
 |[pookie.bear](/pookie.bear.png)|-1651220691|Pookie Bear|Items|
+|[pooltable](/pooltable.png)|-1748166144|Pool Table|Fun|
 |[porkmeat.spoiled](/porkmeat.spoiled.png)|1925646349|Spoiled Pork Meat|Food|
 |[potato](/potato.png)|-2086926071|Potato|Food|
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
@@ -903,6 +917,7 @@
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptransportheli](/scraptransportheli.png)|375473148|Scrap Transport Helicopter|Misc|
 |[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Items|
+|[sculpture.rock](/sculpture.rock.png)|1852905808|Stone Sculpture|Items|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
 |[sedan](/sedan.png)|-374457631|Sedan|Misc|
@@ -1071,6 +1086,7 @@
 |[tarp](/tarp.png)|2019042823|Tarp|Component|
 |[techparts](/techparts.png)|73681876|Tech Trash|Component|
 |[telephone](/telephone.png)|1234878710|Telephone|Fun|
+|[thruster.module](/thruster.module.png)|1754952075|Thruster Module|Component|
 |[tincan.alarm](/tincan.alarm.png)|962186730|Tin Can Alarm|Traps|
 |[tool.binoculars](/tool.binoculars.png)|-1262185308|Binoculars|Tool|
 |[tool.camera](/tool.camera.png)|-1316706473|Camera|Tool|
@@ -1146,10 +1162,10 @@
 |[wall.window.bars.wood](/wall.window.bars.wood.png)|-1183726687|Wooden Window Bars|Construction|
 |[wall.window.glass.reinforced](/wall.window.glass.reinforced.png)|-1614955425|Strengthened Glass Window|Construction|
 |[wallpaper.ceiling](/wallpaper.ceiling.png)|1730664641|Wallpaper Ceiling|Items|
-|[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Wallpaper Flooring|Items|
+|[wallpaper.flooring](/wallpaper.flooring.png)|-551431036|Flooring|Items|
 |[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
 |[wallpaper.tool](/wallpaper.tool.png)|1629564540|Wallpaper Tool|Tool|
-|[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper Wall|Tool|
+|[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper|Tool|
 |[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
 |[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
 |[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
