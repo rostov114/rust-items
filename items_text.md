@@ -549,7 +549,7 @@
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Hazmat|Attire|
 |[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
 |[hazmatsuit](/hazmatsuit.png)|1266491000|Hazmat Suit|Attire|
-|[hazmatsuit.kick](/hazmatsuit.kick.png)|972302244|Kick Hazmat|Attire|
+|[hazmatsuit.kick](/hazmatsuit.kick.png)|972302244|KICK Hazmat|Attire|
 |[hazmatsuit.lumberjack](/hazmatsuit.lumberjack.png)|861513346|Lumberjack Suit|Attire|
 |[hazmatsuit.nomadsuit](/hazmatsuit.nomadsuit.png)|491263800|Nomad Suit|Attire|
 |[hazmatsuit.pilot](/hazmatsuit.pilot.png)|1065594600|Pilot Hazmat|Attire|
@@ -704,6 +704,7 @@
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
+|[medical.honey.bandage](/medical.honey.bandage.png)|-75264812|Medical Honey Bandage|Medical|
 |[medieval.box.wooden.large](/medieval.box.wooden.large.png)|814297925|Medieval Large Wood Box|Items|
 |[medieval.door.double.hinged.metal](/medieval.door.double.hinged.metal.png)|-380502678|Medieval Sheet Metal Double Door|Construction|
 |[medieval.door.hinged.metal](/medieval.door.hinged.metal.png)|-1654401345|Medieval Sheet Metal Door|Construction|
