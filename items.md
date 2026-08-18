@@ -549,7 +549,7 @@
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|Attire|A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|Attire|A Frontier suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
-|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|Kick Hazmat|Attire|Hazmat obtained during Kick Drops 2025|
+|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|KICK Hazmat|Attire|Unique hazmat suit obtainable during KICK Drops 2025|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
 |![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|Attire|A hazmat suit made from a fighter pilot's flight suit.|
@@ -704,6 +704,7 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
+|![](/medical.honey.bandage.128.webp)|medical.honey.bandage|-75264812|Medical Honey Bandage|Medical|Heal yourself and other with this medical honey bandage.|
 |![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|Items|Keep your things in this medieval themed wooden storage box. Stores up to 48 items.|
 |![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
