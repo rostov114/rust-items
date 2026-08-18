@@ -549,7 +549,7 @@
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
-|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|Kick Hazmat|
+|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|KICK Hazmat|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|
 |![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|
@@ -704,6 +704,7 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
+|![](/medical.honey.bandage.128.webp)|medical.honey.bandage|-75264812|Medical Honey Bandage|
 |![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|
 |![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|
 |![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|
