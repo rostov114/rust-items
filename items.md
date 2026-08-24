@@ -704,7 +704,7 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
-|![](/medical.honey.bandage.128.webp)|medical.honey.bandage|-149337229|Medical Honey Bandage|Medical|Heal yourself and others with this medical honey bandage. Left click heals you, right click heals others.|
+|![](/medical.honey.bandage.128.webp)|medical.honey.bandage|-75264812|Medical Honey Bandage|Medical|Heal yourself and others with this medical honey bandage. Left click heals you, right click heals others.|
 |![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|Items|Keep your things in this medieval themed wooden storage box. Stores up to 48 items.|
 |![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
@@ -1003,7 +1003,7 @@
 |![](/smallcandles.128.webp)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
 |![](/smallengine.128.webp)|smallengine|-2115299615|Small Boat Engine|Items|A punchy boat engine made from scavenged parts, not good for the environment. More engines means more speed.|
 |![](/smallwaterbottle.128.webp)|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
-|![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|
+|![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends notifications to your phone when powered on.|
 |![](/smart.switch.128.webp)|smart.switch|988652725|Smart Switch|Electrical|A smart electric switch.|
 |![](/smg.2.128.webp)|smg.2|1796682209|Custom SMG|Weapon|A rapid-firing Machine Gun. Sacrifices accuracy and distance for speed.|
 |![](/smg.mp5.128.webp)|smg.mp5|1318558775|MP5A4|Weapon|A medium damage machine gun.|
