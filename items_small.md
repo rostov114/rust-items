@@ -394,6 +394,7 @@
 |![](/firework.boomer.pattern.128.webp)|firework.boomer.pattern|-379734527|Pattern Boomer|
 |![](/firework.boomer.red.128.webp)|firework.boomer.red|-1553999294|Red Boomer|
 |![](/firework.boomer.violet.128.webp)|firework.boomer.violet|-280223496|Violet Boomer|
+|![](/firework.boomer.white.128.webp)|firework.boomer.white|-18034684|White Boomer|
 |![](/firework.romancandle.blue.128.webp)|firework.romancandle.blue|-515830359|Blue Roman Candle|
 |![](/firework.romancandle.green.128.webp)|firework.romancandle.green|-1306288356|Green Roman Candle|
 |![](/firework.romancandle.red.128.webp)|firework.romancandle.red|-1486461488|Red Roman Candle|

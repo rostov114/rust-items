@@ -394,6 +394,7 @@
 |[firework.boomer.pattern](/firework.boomer.pattern.png)|-379734527|Pattern Boomer|Fun|
 |[firework.boomer.red](/firework.boomer.red.png)|-1553999294|Red Boomer|Fun|
 |[firework.boomer.violet](/firework.boomer.violet.png)|-280223496|Violet Boomer|Fun|
+|[firework.boomer.white](/firework.boomer.white.png)|-18034684|White Boomer|Fun|
 |[firework.romancandle.blue](/firework.romancandle.blue.png)|-515830359|Blue Roman Candle|Fun|
 |[firework.romancandle.green](/firework.romancandle.green.png)|-1306288356|Green Roman Candle|Fun|
 |[firework.romancandle.red](/firework.romancandle.red.png)|-1486461488|Red Roman Candle|Fun|
