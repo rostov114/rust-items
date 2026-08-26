@@ -394,6 +394,7 @@
 |![](/firework.boomer.pattern.128.webp)|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A special boomer which allows you light up the night sky with a custom pattern that you draw. Multiple colors and altitude settings are available.|
 |![](/firework.boomer.red.128.webp)|firework.boomer.red|-1553999294|Red Boomer|Fun|A very large mortar type firework with a red starburst|
 |![](/firework.boomer.violet.128.webp)|firework.boomer.violet|-280223496|Violet Boomer|Fun|A very large mortar type firework with a violet starburst|
+|![](/firework.boomer.white.128.webp)|firework.boomer.white|-18034684|White Boomer|Fun|A very large mortar type firework with a white starburst|
 |![](/firework.romancandle.blue.128.webp)|firework.romancandle.blue|-515830359|Blue Roman Candle|Fun|A small repeating firework, shoots a series of Blue balls into the air|
 |![](/firework.romancandle.green.128.webp)|firework.romancandle.green|-1306288356|Green Roman Candle|Fun|A small repeating firework, shoots a series of Green balls into the air|
 |![](/firework.romancandle.red.128.webp)|firework.romancandle.red|-1486461488|Red Roman Candle|Fun|A small repeating firework, shoots a series of red balls into the air|
