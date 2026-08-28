@@ -845,6 +845,11 @@
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|
+|![](/rifle.ak.glass.blue.128.webp)|rifle.ak.glass.blue|-1156572922|Crystal AR Sapphire|
+|![](/rifle.ak.glass.green.128.webp)|rifle.ak.glass.green|-75136407|Crystal AR Emerald|
+|![](/rifle.ak.glass.128.webp)|rifle.ak.glass|-1920964108|Crystal AR Diamond|
+|![](/rifle.ak.glass.pink.128.webp)|rifle.ak.glass.pink|-1795386514|Crystal AR Pink Diamond|
+|![](/rifle.ak.glass.red.128.webp)|rifle.ak.glass.red|-1045971123|Crystal AR Ruby|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|
 |![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|
