@@ -845,6 +845,11 @@
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|Items||
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|Weapon|A waterlogged assault rifle from the abyss|
+|![](/rifle.ak.glass.blue.128.webp)|rifle.ak.glass.blue|-1156572922|Crystal AR Sapphire|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
+|![](/rifle.ak.glass.green.128.webp)|rifle.ak.glass.green|-75136407|Crystal AR Emerald|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
+|![](/rifle.ak.glass.128.webp)|rifle.ak.glass|-1920964108|Crystal AR Diamond|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
+|![](/rifle.ak.glass.pink.128.webp)|rifle.ak.glass.pink|-1795386514|Crystal AR Pink Diamond|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
+|![](/rifle.ak.glass.red.128.webp)|rifle.ak.glass.red|-1045971123|Crystal AR Ruby|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|Weapon|Jungle Relic themed high damage machine rifle.|
