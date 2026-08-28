@@ -845,6 +845,11 @@
 |[rf_pager](/rf_pager.png)|-566907190|RF Pager|Electrical|
 |[rhib](/rhib.png)|1394042569|RHIB|Items|
 |[rifle.ak.diver](/rifle.ak.diver.png)|-139037392|Abyss Assault Rifle|Weapon|
+|[rifle.ak.glass.blue](/rifle.ak.glass.blue.png)|-1156572922|Crystal AR Sapphire|Weapon|
+|[rifle.ak.glass.green](/rifle.ak.glass.green.png)|-75136407|Crystal AR Emerald|Weapon|
+|[rifle.ak.glass](/rifle.ak.glass.png)|-1920964108|Crystal AR Diamond|Weapon|
+|[rifle.ak.glass.pink](/rifle.ak.glass.pink.png)|-1795386514|Crystal AR Pink Diamond|Weapon|
+|[rifle.ak.glass.red](/rifle.ak.glass.red.png)|-1045971123|Crystal AR Ruby|Weapon|
 |[rifle.ak.ice](/rifle.ak.ice.png)|-1335497659|Ice Assault Rifle|Weapon|
 |[rifle.ak](/rifle.ak.png)|1545779598|Assault Rifle|Weapon|
 |[rifle.ak.jungle](/rifle.ak.jungle.png)|2054929933|Jungle Relic Assault Rifle|Weapon|
