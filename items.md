@@ -845,15 +845,15 @@
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|Items||
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|Weapon|A waterlogged assault rifle from the abyss|
-|![](/rifle.ak.glass.blue.128.webp)|rifle.ak.glass.blue|-1156572922|Crystal AR Sapphire|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
-|![](/rifle.ak.glass.green.128.webp)|rifle.ak.glass.green|-75136407|Crystal AR Emerald|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
-|![](/rifle.ak.glass.128.webp)|rifle.ak.glass|-1920964108|Crystal AR Diamond|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
-|![](/rifle.ak.glass.pink.128.webp)|rifle.ak.glass.pink|-1795386514|Crystal AR Pink Diamond|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
-|![](/rifle.ak.glass.red.128.webp)|rifle.ak.glass.red|-1045971123|Crystal AR Ruby|Weapon|Show off how an AR works with this toughened crystal model. Available in five colors.|
+|![](/rifle.ak.glass.blue.128.webp)|rifle.ak.glass.blue|-1156572922|Crystal Assault Rifle Sapphire|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
+|![](/rifle.ak.glass.green.128.webp)|rifle.ak.glass.green|-75136407|Crystal Assault Rifle Emerald|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
+|![](/rifle.ak.glass.128.webp)|rifle.ak.glass|-1920964108|Crystal Assault Rifle Diamond|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
+|![](/rifle.ak.glass.pink.128.webp)|rifle.ak.glass.pink|-1795386514|Crystal Assault Rifle Pink Diamond|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
+|![](/rifle.ak.glass.red.128.webp)|rifle.ak.glass.red|-1045971123|Crystal Assault Rifle Ruby|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|Weapon|Jungle Relic themed high damage machine rifle.|
-|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval AR|Weapon|Medieval themed high damage machine rifle.|
+|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|Weapon|Medieval themed high damage machine rifle.|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
