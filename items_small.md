@@ -845,15 +845,15 @@
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|
-|![](/rifle.ak.glass.blue.128.webp)|rifle.ak.glass.blue|-1156572922|Crystal AR Sapphire|
-|![](/rifle.ak.glass.green.128.webp)|rifle.ak.glass.green|-75136407|Crystal AR Emerald|
-|![](/rifle.ak.glass.128.webp)|rifle.ak.glass|-1920964108|Crystal AR Diamond|
-|![](/rifle.ak.glass.pink.128.webp)|rifle.ak.glass.pink|-1795386514|Crystal AR Pink Diamond|
-|![](/rifle.ak.glass.red.128.webp)|rifle.ak.glass.red|-1045971123|Crystal AR Ruby|
+|![](/rifle.ak.glass.blue.128.webp)|rifle.ak.glass.blue|-1156572922|Crystal Assault Rifle Sapphire|
+|![](/rifle.ak.glass.green.128.webp)|rifle.ak.glass.green|-75136407|Crystal Assault Rifle Emerald|
+|![](/rifle.ak.glass.128.webp)|rifle.ak.glass|-1920964108|Crystal Assault Rifle Diamond|
+|![](/rifle.ak.glass.pink.128.webp)|rifle.ak.glass.pink|-1795386514|Crystal Assault Rifle Pink Diamond|
+|![](/rifle.ak.glass.red.128.webp)|rifle.ak.glass.red|-1045971123|Crystal Assault Rifle Ruby|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|
 |![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|
-|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval AR|
+|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|
