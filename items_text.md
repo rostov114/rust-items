@@ -401,6 +401,7 @@
 |[firework.boomer.pattern](/firework.boomer.pattern.png)|-379734527|Pattern Boomer|Fun|
 |[firework.boomer.red](/firework.boomer.red.png)|-1553999294|Red Boomer|Fun|
 |[firework.boomer.violet](/firework.boomer.violet.png)|-280223496|Violet Boomer|Fun|
+|[firework.boomer.white](/firework.boomer.white.png)|-18034684|White Boomer|Fun|
 |[firework.romancandle.blue](/firework.romancandle.blue.png)|-515830359|Blue Roman Candle|Fun|
 |[firework.romancandle.green](/firework.romancandle.green.png)|-1306288356|Green Roman Candle|Fun|
 |[firework.romancandle.red](/firework.romancandle.red.png)|-1486461488|Red Roman Candle|Fun|
@@ -557,7 +558,7 @@
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Hazmat|Attire|
 |[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
 |[hazmatsuit](/hazmatsuit.png)|1266491000|Hazmat Suit|Attire|
-|[hazmatsuit.kick](/hazmatsuit.kick.png)|972302244|Kick Hazmat|Attire|
+|[hazmatsuit.kick](/hazmatsuit.kick.png)|972302244|KICK Hazmat|Attire|
 |[hazmatsuit.lumberjack](/hazmatsuit.lumberjack.png)|861513346|Lumberjack Suit|Attire|
 |[hazmatsuit.nomadsuit](/hazmatsuit.nomadsuit.png)|491263800|Nomad Suit|Attire|
 |[hazmatsuit.pilot](/hazmatsuit.pilot.png)|1065594600|Pilot Hazmat|Attire|
@@ -712,6 +713,7 @@
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
+|[medical.honey.bandage](/medical.honey.bandage.png)|-75264812|Medical Honey Bandage|Medical|
 |[medieval.box.wooden.large](/medieval.box.wooden.large.png)|814297925|Medieval Large Wood Box|Items|
 |[medieval.door.double.hinged.metal](/medieval.door.double.hinged.metal.png)|-380502678|Medieval Sheet Metal Double Door|Construction|
 |[medieval.door.hinged.metal](/medieval.door.hinged.metal.png)|-1654401345|Medieval Sheet Metal Door|Construction|
@@ -851,10 +853,15 @@
 |[rf_pager](/rf_pager.png)|-566907190|RF Pager|Electrical|
 |[rhib](/rhib.png)|1394042569|RHIB|Items|
 |[rifle.ak.diver](/rifle.ak.diver.png)|-139037392|Abyss Assault Rifle|Weapon|
+|[rifle.ak.glass.blue](/rifle.ak.glass.blue.png)|-1156572922|Crystal Assault Rifle Sapphire|Weapon|
+|[rifle.ak.glass.green](/rifle.ak.glass.green.png)|-75136407|Crystal Assault Rifle Emerald|Weapon|
+|[rifle.ak.glass](/rifle.ak.glass.png)|-1920964108|Crystal Assault Rifle Diamond|Weapon|
+|[rifle.ak.glass.pink](/rifle.ak.glass.pink.png)|-1795386514|Crystal Assault Rifle Pink Diamond|Weapon|
+|[rifle.ak.glass.red](/rifle.ak.glass.red.png)|-1045971123|Crystal Assault Rifle Ruby|Weapon|
 |[rifle.ak.ice](/rifle.ak.ice.png)|-1335497659|Ice Assault Rifle|Weapon|
 |[rifle.ak](/rifle.ak.png)|1545779598|Assault Rifle|Weapon|
 |[rifle.ak.jungle](/rifle.ak.jungle.png)|2054929933|Jungle Relic Assault Rifle|Weapon|
-|[rifle.ak.med](/rifle.ak.med.png)|472505338|Medieval AR|Weapon|
+|[rifle.ak.med](/rifle.ak.med.png)|472505338|Medieval Assault Rifle|Weapon|
 |[rifle.bolt](/rifle.bolt.png)|1588298435|Bolt Action Rifle|Weapon|
 |[rifle.l96](/rifle.l96.png)|-778367295|L96 Rifle|Weapon|
 |[rifle.lr300](/rifle.lr300.png)|-1812555177|LR-300 Assault Rifle|Weapon|

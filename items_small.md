@@ -401,6 +401,7 @@
 |![](/firework.boomer.pattern.128.webp)|firework.boomer.pattern|-379734527|Pattern Boomer|
 |![](/firework.boomer.red.128.webp)|firework.boomer.red|-1553999294|Red Boomer|
 |![](/firework.boomer.violet.128.webp)|firework.boomer.violet|-280223496|Violet Boomer|
+|![](/firework.boomer.white.128.webp)|firework.boomer.white|-18034684|White Boomer|
 |![](/firework.romancandle.blue.128.webp)|firework.romancandle.blue|-515830359|Blue Roman Candle|
 |![](/firework.romancandle.green.128.webp)|firework.romancandle.green|-1306288356|Green Roman Candle|
 |![](/firework.romancandle.red.128.webp)|firework.romancandle.red|-1486461488|Red Roman Candle|
@@ -557,7 +558,7 @@
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|
-|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|Kick Hazmat|
+|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|KICK Hazmat|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|
 |![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|
@@ -712,6 +713,7 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
+|![](/medical.honey.bandage.128.webp)|medical.honey.bandage|-75264812|Medical Honey Bandage|
 |![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|
 |![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|
 |![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|
@@ -851,10 +853,15 @@
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|
+|![](/rifle.ak.glass.blue.128.webp)|rifle.ak.glass.blue|-1156572922|Crystal Assault Rifle Sapphire|
+|![](/rifle.ak.glass.green.128.webp)|rifle.ak.glass.green|-75136407|Crystal Assault Rifle Emerald|
+|![](/rifle.ak.glass.128.webp)|rifle.ak.glass|-1920964108|Crystal Assault Rifle Diamond|
+|![](/rifle.ak.glass.pink.128.webp)|rifle.ak.glass.pink|-1795386514|Crystal Assault Rifle Pink Diamond|
+|![](/rifle.ak.glass.red.128.webp)|rifle.ak.glass.red|-1045971123|Crystal Assault Rifle Ruby|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|
 |![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|
-|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval AR|
+|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|

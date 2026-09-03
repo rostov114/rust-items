@@ -401,6 +401,7 @@
 |![](/firework.boomer.pattern.128.webp)|firework.boomer.pattern|-379734527|Pattern Boomer|Fun|A special boomer which allows you light up the night sky with a custom pattern that you draw. Multiple colors and altitude settings are available.|
 |![](/firework.boomer.red.128.webp)|firework.boomer.red|-1553999294|Red Boomer|Fun|A very large mortar type firework with a red starburst|
 |![](/firework.boomer.violet.128.webp)|firework.boomer.violet|-280223496|Violet Boomer|Fun|A very large mortar type firework with a violet starburst|
+|![](/firework.boomer.white.128.webp)|firework.boomer.white|-18034684|White Boomer|Fun|A very large mortar type firework with a white starburst|
 |![](/firework.romancandle.blue.128.webp)|firework.romancandle.blue|-515830359|Blue Roman Candle|Fun|A small repeating firework, shoots a series of Blue balls into the air|
 |![](/firework.romancandle.green.128.webp)|firework.romancandle.green|-1306288356|Green Roman Candle|Fun|A small repeating firework, shoots a series of Green balls into the air|
 |![](/firework.romancandle.red.128.webp)|firework.romancandle.red|-1486461488|Red Roman Candle|Fun|A small repeating firework, shoots a series of red balls into the air|
@@ -557,7 +558,7 @@
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|Attire|A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|Attire|A Frontier suit|
 |![](/hazmatsuit.128.webp)|hazmatsuit|1266491000|Hazmat Suit|Attire|A hazmat suit made from radiation resistant rubber.|
-|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|Kick Hazmat|Attire|Hazmat obtained during Kick Drops 2025|
+|![](/hazmatsuit.kick.128.webp)|hazmatsuit.kick|972302244|KICK Hazmat|Attire|Unique hazmat suit obtainable during KICK Drops 2025|
 |![](/hazmatsuit.lumberjack.128.webp)|hazmatsuit.lumberjack|861513346|Lumberjack Suit|Attire|A Lumberjack Suit|
 |![](/hazmatsuit.nomadsuit.128.webp)|hazmatsuit.nomadsuit|491263800|Nomad Suit|Attire|A nomad suit.|
 |![](/hazmatsuit.pilot.128.webp)|hazmatsuit.pilot|1065594600|Pilot Hazmat|Attire|A hazmat suit made from a fighter pilot's flight suit.|
@@ -712,6 +713,7 @@
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
+|![](/medical.honey.bandage.128.webp)|medical.honey.bandage|-75264812|Medical Honey Bandage|Medical|Heal yourself and others with this medical honey bandage. Left click heals you, right click heals others.|
 |![](/medieval.box.wooden.large.128.webp)|medieval.box.wooden.large|814297925|Medieval Large Wood Box|Items|Keep your things in this medieval themed wooden storage box. Stores up to 48 items.|
 |![](/medieval.door.double.hinged.metal.128.webp)|medieval.door.double.hinged.metal|-380502678|Medieval Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/medieval.door.hinged.metal.128.webp)|medieval.door.hinged.metal|-1654401345|Medieval Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
@@ -851,10 +853,15 @@
 |![](/rf_pager.128.webp)|rf_pager|-566907190|RF Pager|Electrical|An RF Pager. An audible tone will be produced when a signal is picked up on the listening frequency. Can be set to silent mode.|
 |![](/rhib.128.webp)|rhib|1394042569|RHIB|Items||
 |![](/rifle.ak.diver.128.webp)|rifle.ak.diver|-139037392|Abyss Assault Rifle|Weapon|A waterlogged assault rifle from the abyss|
+|![](/rifle.ak.glass.blue.128.webp)|rifle.ak.glass.blue|-1156572922|Crystal Assault Rifle Sapphire|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
+|![](/rifle.ak.glass.green.128.webp)|rifle.ak.glass.green|-75136407|Crystal Assault Rifle Emerald|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
+|![](/rifle.ak.glass.128.webp)|rifle.ak.glass|-1920964108|Crystal Assault Rifle Diamond|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
+|![](/rifle.ak.glass.pink.128.webp)|rifle.ak.glass.pink|-1795386514|Crystal Assault Rifle Pink Diamond|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
+|![](/rifle.ak.glass.red.128.webp)|rifle.ak.glass.red|-1045971123|Crystal Assault Rifle Ruby|Weapon|Machined from the toughest gemstones, this Assault Rifle skin will show each and every shot you take.|
 |![](/rifle.ak.ice.128.webp)|rifle.ak.ice|-1335497659|Ice Assault Rifle|Weapon|Ice-covered high damage machine rifle.|
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|Weapon|Jungle Relic themed high damage machine rifle.|
-|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval AR|Weapon|Medieval themed high damage machine rifle.|
+|![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|Weapon|Medieval themed high damage machine rifle.|
 |![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
@@ -1010,7 +1017,7 @@
 |![](/smallcandles.128.webp)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
 |![](/smallengine.128.webp)|smallengine|-2115299615|Small Boat Engine|Items|A punchy boat engine made from scavenged parts, not good for the environment. More engines means more speed.|
 |![](/smallwaterbottle.128.webp)|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
-|![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|
+|![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends notifications to your phone when powered on.|
 |![](/smart.switch.128.webp)|smart.switch|988652725|Smart Switch|Electrical|A smart electric switch.|
 |![](/smg.2.128.webp)|smg.2|1796682209|Custom SMG|Weapon|A rapid-firing Machine Gun. Sacrifices accuracy and distance for speed.|
 |![](/smg.mp5.128.webp)|smg.mp5|1318558775|MP5A4|Weapon|A medium damage machine gun.|
