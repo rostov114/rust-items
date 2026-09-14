@@ -854,7 +854,7 @@
 |![](/rifle.ak.128.webp)|rifle.ak|1545779598|Assault Rifle|Weapon|High damage machine rifle.|
 |![](/rifle.ak.jungle.128.webp)|rifle.ak.jungle|2054929933|Jungle Relic Assault Rifle|Weapon|Jungle Relic themed high damage machine rifle.|
 |![](/rifle.ak.med.128.webp)|rifle.ak.med|472505338|Medieval Assault Rifle|Weapon|Medieval themed high damage machine rifle.|
-|![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A High powered, highly accurate, long range rifle.|
+|![](/rifle.bolt.128.webp)|rifle.bolt|1588298435|Bolt Action Rifle|Weapon|A high powered, highly accurate, long range rifle.|
 |![](/rifle.l96.128.webp)|rifle.l96|-778367295|L96 Rifle|Weapon|A military grade high powered, long range rifle with great accuracy.|
 |![](/rifle.lr300.128.webp)|rifle.lr300|-1812555177|LR-300 Assault Rifle|Weapon|Stalk your enemies with this high powered light assault rifle.|
 |![](/rifle.lr300.space.128.webp)|rifle.lr300.space|533993281|Space LR-300 Assault Rifle|Weapon|Non-standard-issue high-powered light assault rifle for only the most elite of practitioners.|
@@ -996,10 +996,10 @@
 |![](/skullspikes.128.webp)|skullspikes|-1073015016|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
 |![](/skullspikes.pumpkin.128.webp)|skullspikes.pumpkin|-1078639462|Skull Spikes|Fun|A spike of several skulls. Very spooky.|
 |![](/skylantern.128.webp)|skylantern|1819863051|Sky Lantern|Fun|A set of beautiful sky lanterns. Comes in 5 colors. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.|
-|![](/skylantern.skylantern.green.128.webp)|skylantern.skylantern.green|-1770889433|Sky Lantern - Green|Fun|#skylantern.skylantern.green.desc|
-|![](/skylantern.skylantern.orange.128.webp)|skylantern.skylantern.orange|-1824770114|Sky Lantern - Orange|Fun|#skylantern.skylantern.orange.desc|
-|![](/skylantern.skylantern.purple.128.webp)|skylantern.skylantern.purple|831955134|Sky Lantern - Purple|Fun|#skylantern.skylantern.purple.desc|
-|![](/skylantern.skylantern.red.128.webp)|skylantern.skylantern.red|-1433390281|Sky Lantern - Red|Fun|#skylantern.skylantern.red.desc|
+|![](/skylantern.skylantern.green.128.webp)|skylantern.skylantern.green|-1770889433|Sky Lantern - Green|Fun|A beautiful green sky lantern. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.|
+|![](/skylantern.skylantern.orange.128.webp)|skylantern.skylantern.orange|-1824770114|Sky Lantern - Orange|Fun|A beautiful orange sky lantern. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.|
+|![](/skylantern.skylantern.purple.128.webp)|skylantern.skylantern.purple|831955134|Sky Lantern - Purple|Fun|A beautiful purple sky lantern. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.|
+|![](/skylantern.skylantern.red.128.webp)|skylantern.skylantern.red|-1433390281|Sky Lantern - Red|Fun|A beautiful red sky lantern. Can be launched in any direction. Has one inventory slot. Can be Ignited with a lit torch.|
 |![](/sled.128.webp)|sled|-333406828|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sled.xmas.128.webp)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sleepingbag.128.webp)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you or an assigned player a place to respawn, with a long cooldown.|
