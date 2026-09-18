@@ -7,9 +7,9 @@
 |![](/3module.car.128.webp)|3module.car|-831725027|3 Module Car|
 |![](/4module.car.chassis.128.webp)|4module.car.chassis|385099196|4 Module Car Chassis|
 |![](/4module.car.128.webp)|4module.car|-935322684|4 Module Car|
-|![](/50cal.mounted.128.webp)|50cal.mounted|162882477|#50cal|
-|![](/50cal.mounted.left.128.webp)|50cal.mounted.left|-1467876094|#50cal|
-|![](/50cal.mounted.right.128.webp)|50cal.mounted.right|1248383659|#50cal|
+|![](/50cal.mounted.128.webp)|50cal.mounted|162882477|50 Cal Turret|
+|![](/50cal.mounted.left.128.webp)|50cal.mounted.left|-1467876094|Dual 50 Cal Turret|
+|![](/50cal.mounted.right.128.webp)|50cal.mounted.right|1248383659|Dual 50 Cal Turret|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|
@@ -90,7 +90,10 @@
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|
 |![](/barricade.medieval.128.webp)|barricade.medieval|-424687710|Medieval Barricade|
 |![](/barricade.metal.128.webp)|barricade.metal|1655650836|Metal Barricade|
+|![](/barricade.sandbags.half.128.webp)|barricade.sandbags.half|-219005627|#barricade.sandbags.half|
 |![](/barricade.sandbags.128.webp)|barricade.sandbags|-559599960|Sandbag Barricade|
+|![](/barricade.sandbags.pillbox.128.webp)|barricade.sandbags.pillbox|-1088645302|#barricade.sandbags.pillbox|
+|![](/barricade.sandbags.three.quarter.128.webp)|barricade.sandbags.three.quarter|2141654944|#barricade.sandbags.three.quarter|
 |![](/barricade.stone.128.webp)|barricade.stone|15388698|Stone Barricade|
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|
