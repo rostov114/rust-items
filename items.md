@@ -7,9 +7,9 @@
 |![](/3module.car.128.webp)|3module.car|-831725027|3 Module Car|Misc|3 Module Car|
 |![](/4module.car.chassis.128.webp)|4module.car.chassis|385099196|4 Module Car Chassis|Misc|4 Module Car Chassis|
 |![](/4module.car.128.webp)|4module.car|-935322684|4 Module Car|Misc|4 Module Car|
-|![](/50cal.mounted.128.webp)|50cal.mounted|162882477|#50cal|Weapon|#50cal.desc|
-|![](/50cal.mounted.left.128.webp)|50cal.mounted.left|-1467876094|#50cal|Weapon|#50cal.desc|
-|![](/50cal.mounted.right.128.webp)|50cal.mounted.right|1248383659|#50cal|Weapon|#50cal.desc|
+|![](/50cal.mounted.128.webp)|50cal.mounted|162882477|50 Cal Turret|Weapon|50 Cal Turret|
+|![](/50cal.mounted.left.128.webp)|50cal.mounted.left|-1467876094|Dual 50 Cal Turret|Weapon|Dual 50 Cal Turret|
+|![](/50cal.mounted.right.128.webp)|50cal.mounted.right|1248383659|Dual 50 Cal Turret|Weapon|Dual 50 Cal Turret|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|Items|Horizontal Abyss container taken from the depths of the ocean|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|Items|Vertical Abyss container taken from the depths of the ocean|
@@ -90,7 +90,10 @@
 |![](/barricade.concrete.128.webp)|barricade.concrete|-1950721390|Concrete Barricade|Construction|A barricade made out of Stones.|
 |![](/barricade.medieval.128.webp)|barricade.medieval|-424687710|Medieval Barricade|Construction|A medieval barricade. Designed to block paths and provide defensive cover as well as being an effective tool to fortify your base.|
 |![](/barricade.metal.128.webp)|barricade.metal|1655650836|Metal Barricade|Construction|A tough metal barricade with barbed wire, made from Metal Fragments. The barbed wire causes damage and will also slow player movement.|
-|![](/barricade.sandbags.128.webp)|barricade.sandbags|-559599960|Sandbag Barricade|Construction|A protective barricade made out of Sand Bags.|
+|![](/barricade.sandbags.half.128.webp)|barricade.sandbags.half|-219005627|#barricade.sandbags.half|Construction|A protective barricade made out of Sand Bags. Deploy another one on top to build it higher, up to a sandbag pillbox.|
+|![](/barricade.sandbags.128.webp)|barricade.sandbags|-559599960|Sandbag Barricade|Construction|A protective barricade made out of Sand Bags. Deploy another one on top to build it higher, up to a sandbag pillbox.|
+|![](/barricade.sandbags.pillbox.128.webp)|barricade.sandbags.pillbox|-1088645302|#barricade.sandbags.pillbox|Construction|#barricade.sandbags.pillbox.desc|
+|![](/barricade.sandbags.three.quarter.128.webp)|barricade.sandbags.three.quarter|2141654944|#barricade.sandbags.three.quarter|Construction|A protective barricade made out of Sand Bags. Deploy another one on top to build it higher, up to a sandbag pillbox.|
 |![](/barricade.stone.128.webp)|barricade.stone|15388698|Stone Barricade|Construction|A protective barricade made out of Stones.|
 |![](/barricade.wood.cover.128.webp)|barricade.wood.cover|1373240771|Wooden Barricade Cover|Construction|Perfect for cover when engaging in gun fights. Decays rapidly when placed outside of building privilege.|
 |![](/barricade.wood.128.webp)|barricade.wood|866889860|Wooden Barricade|Construction|A wooden barricade. Will hurt players and animals that run into it.|
