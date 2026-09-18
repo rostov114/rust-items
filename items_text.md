@@ -7,9 +7,9 @@
 |[3module.car](/3module.car.png)|-831725027|3 Module Car|Misc|
 |[4module.car.chassis](/4module.car.chassis.png)|385099196|4 Module Car Chassis|Misc|
 |[4module.car](/4module.car.png)|-935322684|4 Module Car|Misc|
-|[50cal.mounted](/50cal.mounted.png)|162882477|#50cal|Weapon|
-|[50cal.mounted.left](/50cal.mounted.left.png)|-1467876094|#50cal|Weapon|
-|[50cal.mounted.right](/50cal.mounted.right.png)|1248383659|#50cal|Weapon|
+|[50cal.mounted](/50cal.mounted.png)|162882477|50 Cal Turret|Weapon|
+|[50cal.mounted.left](/50cal.mounted.left.png)|-1467876094|Dual 50 Cal Turret|Weapon|
+|[50cal.mounted.right](/50cal.mounted.right.png)|1248383659|Dual 50 Cal Turret|Weapon|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[abyss.barrel.horizontal](/abyss.barrel.horizontal.png)|-880494890|Abyss Horizontal Storage Tank|Items|
 |[abyss.barrel.vertical](/abyss.barrel.vertical.png)|-919882824|Abyss Vertical Storage Tank|Items|
@@ -90,7 +90,10 @@
 |[barricade.concrete](/barricade.concrete.png)|-1950721390|Concrete Barricade|Construction|
 |[barricade.medieval](/barricade.medieval.png)|-424687710|Medieval Barricade|Construction|
 |[barricade.metal](/barricade.metal.png)|1655650836|Metal Barricade|Construction|
+|[barricade.sandbags.half](/barricade.sandbags.half.png)|-219005627|#barricade.sandbags.half|Construction|
 |[barricade.sandbags](/barricade.sandbags.png)|-559599960|Sandbag Barricade|Construction|
+|[barricade.sandbags.pillbox](/barricade.sandbags.pillbox.png)|-1088645302|#barricade.sandbags.pillbox|Construction|
+|[barricade.sandbags.three.quarter](/barricade.sandbags.three.quarter.png)|2141654944|#barricade.sandbags.three.quarter|Construction|
 |[barricade.stone](/barricade.stone.png)|15388698|Stone Barricade|Construction|
 |[barricade.wood.cover](/barricade.wood.cover.png)|1373240771|Wooden Barricade Cover|Construction|
 |[barricade.wood](/barricade.wood.png)|866889860|Wooden Barricade|Construction|
