@@ -121,6 +121,9 @@
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|Food|Raw Bear Meat. Eating it will damage your health, try cooking it first.|
 |![](/bearmeat.spoiled.128.webp)|bearmeat.spoiled|1348294923|Spoiled Bear Meat|Food|Spoiled Bear Meat. Consuming will damage your health.|
 |![](/bed.128.webp)|bed|-1273339005|Bed|Items|A Bed. Placing this will give you a place to respawn and can be used much more frequently than a sleeping bag. Note: Must be placed inside a building.|
+|![](/beefmeat.cooked.128.webp)|beefmeat.cooked|718346230|Cooked Beef|Food|Delicious Beef, Eating it will restore some health, hunger, and thirst.|
+|![](/beefmeat.128.webp)|beefmeat|-201824959|Raw Beef|Food|Raw Beef. Eating it will damage your health, try cooking it first.|
+|![](/beefmeat.spoiled.128.webp)|beefmeat.spoiled|1412100395|Spoiled Beef|Food|Spoiled Beef. Consuming will damage your health.|
 |![](/beehive.128.webp)|beehive|184516676|Beehive|Construction|Hand made beehive, place a nucleus inside to raise your own bees and produce honeycomb. Happy bees will make honeycomb more quickly.|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|Misc|A pedal bike.|
 |![](/bigcatmeat.cooked.128.webp)|bigcatmeat.cooked|-1318837358|Cooked Big Cat Meat|Food|Delicious Big Cat Meat, Eating it will restore some health, hunger, and thirst.|
@@ -153,6 +156,7 @@
 |![](/box.repair.bench.128.webp)|box.repair.bench|803222026|Repair Bench|Items|You can repair your items here for a fraction of their construction cost. You may also use this to apply new skins to existing items.|
 |![](/box.wooden.128.webp)|box.wooden|-180129657|Wood Storage Box|Items|Keep your things in this wooden storage box. Stores up to 18 items.|
 |![](/box.wooden.large.128.webp)|box.wooden.large|833533164|Large Wood Box|Items|Keep your things in this wooden storage box. Stores up to 48 items.|
+|![](/bread.brioche.loaf.128.webp)|bread.brioche.loaf|-909588488|Brioche Bread|Food|A loaf of rich brioche bread, eating it provides a large boost to health, hunger and hydration. Feeding to a horse will provide a boost to its digestion and dung production for a short time.|
 |![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|Food|A loaf of bread, eating it provides a boost to health, hunger and hydration. Feeding to a horse will provide a boost to its digestion and dung production for a short time.|
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|Attire|A Bucket Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|Tool|A bucket for transporting water or other liquids.|
@@ -274,6 +278,7 @@
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|Component|A medium quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|Component|A high quality crankshaft for a combustion engine. Converts piston movement into rotational motion.|
 |![](/cratecostume.128.webp)|cratecostume|1189981699|Crate Costume|Attire|A sneaky crate costume. Use with a friend to expertly troll other players|
+|![](/cream.128.webp)|cream|1185218972|Cream|Food|The fat skimmed off whole milk. Calorie dense and restorative, but it will barely quench your thirst.|
 |![](/crocodilemeat.cooked.128.webp)|crocodilemeat.cooked|392828520|Cooked Crocodile Meat|Food|Delicious Crocodile Meat, Eating it will restore some health, hunger, and thirst.|
 |![](/crocodilemeat.128.webp)|crocodilemeat|-1081599445|Raw Crocodile Meat|Food|Raw Crocodile Meat. Eating it will damage your health, try cooking it first.|
 |![](/crocodilemeat.spoiled.128.webp)|crocodilemeat.spoiled|-1796837031|Spoiled Crocodile Meat|Food|Spoiled Crocodile Meat. Consuming will damage your health.|
@@ -568,7 +573,9 @@
 |![](/head.bag.128.webp)|head.bag|209218760|Head Bag|Misc|A sack containing the head of a defeated foe. Can be added to trophies.|
 |![](/healingtea.advanced.128.webp)|healingtea.advanced|-2123125470|Advanced Healing Tea|Food|An advanced healing tea, provides hydration and heals you a moderate amount over time.|
 |![](/healingtea.128.webp)|healingtea|-929092070|Basic Healing Tea|Food|A basic healing tea, provides hydration and heals you a small amount over time.|
+|![](/healingtea.pure.creamy.128.webp)|healingtea.pure.creamy|-132349657|Creamy Pure Healing Tea|Food|A pure healing tea, provides hydration and heals you a large amount over time. Enriched with cream for a stronger, shorter lived effect.|
 |![](/healingtea.pure.128.webp)|healingtea.pure|-1677315902|Pure Healing Tea|Food|A pure healing tea, provides hydration and heals you a large amount over time.|
+|![](/healingtea.pure.milky.128.webp)|healingtea.pure.milky|-1644292642|Milky Pure Healing Tea|Food|A pure healing tea, provides hydration and heals you a large amount over time. Enriched with milk to make the effect last longer.|
 |![](/heartballoon2025.128.webp)|heartballoon2025|362863314|Heart Balloon|Items|A heart-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
@@ -594,7 +601,7 @@
 |![](/horse.saddlebag.128.webp)|horse.saddlebag|1400460850|Saddle bag|Attire|Equipping this saddle bag will add extra storage space on your horse|
 |![](/horse.shoes.advanced.128.webp)|horse.shoes.advanced|1989785143|High Quality Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
 |![](/horse.shoes.basic.128.webp)|horse.shoes.basic|-1211268013|Basic Horse Shoes|Attire|Equipping these horse shoes will grant your horse additional movement speed|
-|![](/horsedung.128.webp)|horsedung|-1579932985|Horse Dung|Resources|Fresh and fertile.|
+|![](/horsedung.128.webp)|horsedung|-1579932985|Dung|Resources|Fresh and fertile.|
 |![](/horsemeat.burned.128.webp)|horsemeat.burned|1917703890|Burnt Horse Meat|Food|Burned horse meat. Eating it will damage your health.|
 |![](/horsemeat.cooked.128.webp)|horsemeat.cooked|-1162759543|Cooked Horse Meat|Food|Cooked Horse Meat. Eating it will restore some health, hunger, and thirst.|
 |![](/horsemeat.raw.128.webp)|horsemeat.raw|-1130350864|Raw Horse Meat|Food|Raw Horse Meat. Eating it will damage your health, try cooking it first.|
@@ -704,7 +711,9 @@
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|Attire|A square of cloth which is tied around the face over the nose and mouth.|
 |![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|Food|An advanced health tea, provides hydration and temporarily boosts maximum health a moderate amount.|
 |![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|Food|A basic health tea, provides hydration and temporarily boosts maximum health a small amount.|
+|![](/maxhealthtea.pure.creamy.128.webp)|maxhealthtea.pure.creamy|-1244746477|Creamy Pure Max Health Tea|Food|A pure health tea, provides hydration and temporarily boosts maximum health a large amount. Enriched with cream for a stronger, shorter lived effect.|
 |![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|Food|A pure health tea, provides hydration and temporarily boosts maximum health a large amount.|
+|![](/maxhealthtea.pure.milky.128.webp)|maxhealthtea.pure.milky|-1388103748|Milky Pure Max Health Tea|Food|A pure health tea, provides hydration and temporarily boosts maximum health a large amount. Enriched with milk to make the effect last longer.|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|Food|Raw pork. Eating it will damage your health, try cooking it first.|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|Food|This little piggy has been in the oven for too long.|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|Food|Cooked pork, Eating it will restore some health, hunger, and thirst.|
@@ -728,6 +737,7 @@
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+attack2] to change voice mode between high and low pitch.|
 |![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|Weapon|A Military grade flamethrower. Uses low grade fuel as ammunition.|
+|![](/milk.128.webp)|milk|325350919|Milk|Food|A small bottle of milk. Very calorie dense.|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|Items|A small planter with enough room to plant 2 seeds.|
 |![](/mini fridge.128.webp)|mini fridge|1174484438|Mini Fridge|Electrical|Ideal for preserving food and keeping items cool.|
 |![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|Misc|Minicopter|
@@ -752,6 +762,9 @@
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
+|![](/muttonmeat.cooked.128.webp)|muttonmeat.cooked|-319133397|Cooked Mutton Meat|Food|Delicious Mutton Meat, Eating it will restore some health, hunger, and thirst.|
+|![](/muttonmeat.128.webp)|muttonmeat|-1957595450|Raw Mutton Meat|Food|Raw Mutton Meat. Eating it will damage your health, try cooking it first.|
+|![](/muttonmeat.spoiled.128.webp)|muttonmeat.spoiled|1751463672|Spoiled Mutton Meat|Food|Spoiled Mutton Meat. Consuming will damage your health.|
 |![](/neonsigntr.128.webp)|neonsigntr|381595627|Twitch Rivals Neon Sign|Electrical|A Twitch Rivals Light-Up Neon Sign|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
@@ -761,7 +774,9 @@
 |![](/orchid.128.webp)|orchid|734320711|Orchid|Food|Smells nice.|
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|Food|An advanced ore tea, provides hydration and temporarily increases your yield from ores a moderate amount.|
 |![](/oretea.128.webp)|oretea|1480022580|Basic Ore Tea|Food|A basic ore tea, provides hydration and temporarily increases your yield from harvesting ores a small amount.|
+|![](/oretea.pure.creamy.128.webp)|oretea.pure.creamy|-744942541|Creamy Pure Ore Tea|Food|A pure ore tea, provides hydration and temporarily increases your yield when harvesting ores a large amount. Enriched with cream for a stronger, shorter lived effect.|
 |![](/oretea.pure.128.webp)|oretea.pure|1729374708|Pure Ore Tea|Food|A pure ore tea, provides hydration and temporarily increases your yield when harvesting ores a large amount.|
+|![](/oretea.pure.milky.128.webp)|oretea.pure.milky|1243083208|Milky Pure Ore Tea|Food|A pure ore tea, provides hydration and temporarily increases your yield when harvesting ores a large amount. Enriched with milk to make the effect last longer.|
 |![](/oubreak_scientist.128.webp)|oubreak_scientist|-2133781216|Outbreak Scientist Suit|Attire|A outbreak scientist suit|
 |![](/outbreak.sprayer.128.webp)|outbreak.sprayer|1621942085|Outbreak Sprayer|Tool|An outbreak sprayer used by scientists|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
@@ -782,14 +797,26 @@
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
+|![](/pie.apple.rich.128.webp)|pie.apple.rich|-1846744758|Rich Apple Pie|Food|An apple pie enriched with cream. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a long time.|
 |![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|Food|A pie made of bear meat, provides a boost to hunger, health and hydration. Increases effect of harvesting teas but reduces their duration.|
+|![](/pie.bear.rich.128.webp)|pie.bear.rich|1883513936|Rich Bear Pie|Food|A bear meat pie enriched with cream. Provides a boost to hunger, health and hydration. Greatly increases effect of harvesting teas but reduces their duration.|
+|![](/pie.beef.128.webp)|pie.beef|782269436|Beef Pie|Food|A pie made of beef, increases the maximum amount of food that can be eaten. High calorie consumption increases chance of recovering from injuries.|
+|![](/pie.beef.rich.128.webp)|pie.beef.rich|-867055736|Rich Beef Pie|Food|A pie made of beef, enriched with cream. Increases the maximum amount of food that can be eaten, up to double the normal amount. High calorie consumption increases chance of recovering from injuries.|
 |![](/pie.bigcat.128.webp)|pie.bigcat|309017792|Big Cat Pie|Food|A pie made from jungle cat meat, purrfect temperature. Boosts hunger, health and hydration. Shows nearby animal tracks for a short time.|
+|![](/pie.bigcat.rich.128.webp)|pie.bigcat.rich|1469787676|Rich Big Cat Pie|Food|A jungle cat pie enriched with cream, purrfect temperature. Boosts hunger, health and hydration. Shows nearby animal tracks for a long time.|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|Food|Just like mom used to make. Provides a boost to hunger, health and hydration. Increases the chance of better genes from crops for short time.|
+|![](/pie.chicken.rich.128.webp)|pie.chicken.rich|2006264797|Rich Chicken Pie|Food|Just like mom used to make, enriched with cream. Provides a boost to hunger, health and hydration. Greatly increases the chance of better genes from crops for a short time.|
 |![](/pie.crocodile.128.webp)|pie.crocodile|54265286|Crocodile Pie|Food|A pie made from crocodile meat, may cause a reptile dysfunction. Boosts hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|Food|Delightful fish pie. Provides a boost to hunger, health and hydration. Increases base comfort level for a short time.|
+|![](/pie.fish.rich.128.webp)|pie.fish.rich|1427291780|Rich Fish Pie|Food|A delightful fish pie enriched with cream. Provides a boost to hunger, health and hydration. Increases base comfort level for a long time.|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration. Reduces bleeding for a short time.|
+|![](/pie.hunters.rich.128.webp)|pie.hunters.rich|-1188678681|Rich Hunters Pie|Food|A hunters pie enriched with cream, made with real deer. Provides a boost to hunger, health and hydration. Stops bleeding for a short time.|
+|![](/pie.mutton.128.webp)|pie.mutton|939198535|Shepherds Pie|Food|Hearty mutton pie, provides a boost to hunger, health and hydration. Livestock grow used to you twice as fast, and are far less likely to turn on you, for a short time.|
+|![](/pie.mutton.rich.128.webp)|pie.mutton.rich|1468691829|Rich Mutton Pie|Food|A hearty mutton pie enriched with cream. Provides a boost to hunger, health and hydration. Livestock grow used to you far faster, and are far less likely to turn on you, for a short time.|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
+|![](/pie.pork.rich.128.webp)|pie.pork.rich|1988640176|Rich Pork Pie|Food|A tempting pork pie enriched with cream. Provides a boost to hunger, health and hydration. Greatly improves healing rate from other sources for a short time.|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration. Increases maximum health for a short time.|
+|![](/pie.pumpkin.rich.128.webp)|pie.pumpkin.rich|1364112542|Rich Pumpkin Pie|Food|A spooky pumpkin pie enriched with cream. Provides a boost to health, hunger and hydration. Greatly increases maximum health for a short time.|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|Food|It's people. Survivor's pie is made out of people. Provides a boost to health, hunger and hydration. Increases yield when harvesting corpses for a short time.|
 |![](/pilot.hazmat.box.wooden.128.webp)|pilot.hazmat.box.wooden|537946062|Flight Recorder Box|Items|Keep your things in this Flight Recorder box. Stores up to 18 items.|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|Fun|Batter up!|
@@ -825,17 +852,25 @@
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
+|![](/purecoolingtea.creamy.128.webp)|purecoolingtea.creamy|1527700610|Creamy Pure Cooling Tea|Food|A pure cooling tea that temporarily decreases your max and core temperature. Enriched with cream for a stronger, shorter lived effect.|
 |![](/purecoolingtea.128.webp)|purecoolingtea|1121416193|Pure Cooling Tea|Food|A pure cooling tea that temporarily decreases your max and core temperature.|
+|![](/purecoolingtea.milky.128.webp)|purecoolingtea.milky|1738714421|Milky Pure Cooling Tea|Food|A pure cooling tea that temporarily decreases your max and core temperature. Enriched with milk to make the effect last longer.|
 |![](/purecraftingtea_quality.128.webp)|purecraftingtea_quality|97903330|Pure Crafting Quality Tea|Food|A pure crafting tea. provides hydration and increases the chances of a higher quality crafting outcome for a short time.|
+|![](/pureharvestingtea.creamy.128.webp)|pureharvestingtea.creamy|-1661676046|Creamy Pure Harvesting Tea|Food|A pure harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a large amount. Enriched with cream for a stronger, shorter lived effect.|
 |![](/pureharvestingtea.128.webp)|pureharvestingtea|377750553|Pure Harvesting Tea|Food|A pure harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a large amount.|
+|![](/pureharvestingtea.milky.128.webp)|pureharvestingtea.milky|789540413|Milky Pure Harvesting Tea|Food|A pure harvesting tea, provides hydration and temporarily increases the amount of resources you receive from harvesting corpses a large amount. Enriched with milk to make the effect last longer.|
+|![](/purewarmingtea.creamy.128.webp)|purewarmingtea.creamy|556232090|Creamy Pure Warming Tea|Food|A pure warming tea that temporarily increases both your core and minimum temperature. Enriched with cream for a stronger, shorter lived effect.|
 |![](/purewarmingtea.128.webp)|purewarmingtea|-1476814093|Pure Warming Tea|Food|A pure warming tea that temporarily increases both your core and minimum temperature.|
+|![](/purewarmingtea.milky.128.webp)|purewarmingtea.milky|91167975|Milky Pure Warming Tea|Food|A pure warming tea that temporarily increases both your core and minimum temperature. Enriched with milk to make the effect last longer.|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|Resources|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationremovetea.pure.128.webp)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|Food|A tea that removes some radiation.|
 |![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Advanced Anti-Rad Tea|Food|An advanced tea that provides some hydration and temporarily increases your resistance to radiation a moderate amount.|
 |![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Basic Anti-Rad Tea|Food|A basic tea that provides hydration and temporarily increases your resistance to radiation a small amount.|
+|![](/radiationresisttea.pure.creamy.128.webp)|radiationresisttea.pure.creamy|-1882497808|Creamy Pure Anti-Rad Tea|Food|A pure tea that provides hydration and temporarily increases your resistance to radiation a large amount. Enriched with cream for a stronger, shorter lived effect.|
 |![](/radiationresisttea.pure.128.webp)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|Food|A pure tea that provides hydration and temporarily increases your resistance to radiation a large amount.|
+|![](/radiationresisttea.pure.milky.128.webp)|radiationresisttea.pure.milky|-1341272471|Milky Pure Anti-Rad Tea|Food|A pure tea that provides hydration and temporarily increases your resistance to radiation a large amount. Enriched with milk to make the effect last longer.|
 |![](/rail.road.planter.128.webp)|rail.road.planter|615112838|Rail Road Planter|Items|A large planter with enough room to plant 9 seeds.|
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|Food|A red berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|Resources|Red Dog Tags|
@@ -916,7 +951,9 @@
 |![](/scrapmirror.standing.128.webp)|scrapmirror.standing|-1380144986|Scrap Mirror Standing|Items|A standing scrap mirror|
 |![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|Food|An advanced scrap tea, temporarily increases the amount of scrap you receive from barrels a moderate amount.|
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|Food|A basic scrap tea, temporarily increases the amount of scrap you receive from barrels a small amount.|
+|![](/scraptea.pure.creamy.128.webp)|scraptea.pure.creamy|1519395656|Creamy Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount. Enriched with cream for a stronger, shorter lived effect.|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.|
+|![](/scraptea.pure.milky.128.webp)|scraptea.pure.milky|-1057052157|Milky Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount. Enriched with milk to make the effect last longer.|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|Misc||
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|A block of ice you can sculpt and light up with electric power.|
 |![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Stone Sculpture|Items|A block of stone you can sculpt.|
@@ -986,6 +1023,7 @@
 |![](/silly.horse.mask.128.webp)|silly.horse.mask|1849409072|Silly Horse Mask|Attire|A silly rubber horse mask to celebrate Lunar New Year 2026. Comes in three varieties.|
 |![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Bamboo Wall Shelves|Items|A shallow bamboo wall shelf for small item stacking|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
+|![](/skimmedmilk.128.webp)|skimmedmilk|-1019639625|Skimmed Milk|Food|Milk with the cream separated out. Hydrating, but less calorie dense than whole milk.|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
 |![](/skull.128.webp)|skull|1312843609|Skull|Tool|A spooky skull|
 |![](/skull.trophy.jar.128.webp)|skull.trophy.jar|971362526|Skull Trophy|Fun|A decorative mount that can hold the skull of a friend or foe.|
@@ -1139,6 +1177,8 @@
 |![](/venom.snake.128.webp)|venom.snake|-870140677|Snake Venom|Items|The venom of a snake. Used to create Incapacitate darts.|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|Items|A walkie talkie set to an unknown channel|
+|![](/wall.animal.fence.gate.128.webp)|wall.animal.fence.gate|1143376304|Animal Fence Gate|Construction|A gate for accessing your animal pen.|
+|![](/wall.animal.fence.128.webp)|wall.animal.fence|-1814195745|Animal Fence|Misc|A sturdy fence for penning animals.|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|Construction|A high stone wall used to keep people off your property.|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
@@ -1225,7 +1265,10 @@
 |![](/woodmirror.standing.128.webp)|woodmirror.standing|723407026|Wood Mirror Standing|Items|A standing wooden frontier themed mirror|
 |![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|Food|An advanced wood tea, temporarily increases the yield from cutting trees a moderate amount.|
 |![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|Food|A basic wood tea, temporarily increases the yield from cutting trees a small amount.|
+|![](/woodtea.pure.creamy.128.webp)|woodtea.pure.creamy|-844428380|Creamy Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount. Enriched with cream for a stronger, shorter lived effect.|
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount.|
+|![](/woodtea.pure.milky.128.webp)|woodtea.pure.milky|777041831|Milky Pure Wood Tea|Food|A pure wood tea, temporarily increases the yield from cutting trees a large amount. Enriched with milk to make the effect last longer.|
+|![](/wool.128.webp)|wool|204391867|Wool|Resources|A bundle of wool. Might be able to take this to a stable to sell.|
 |![](/workbench.upgrade.accelerated.128.webp)|workbench.upgrade.accelerated|798382300|Accelerated Workbench Upgrade|Component|Crafting speed increases by 25% for each item already completed in the same batch.|
 |![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|Component|Provides a 100% comfort zone around the workbench for those long crafting sessions.|
 |![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Armor or clothing compatible with insert slots will roll an additional slot when crafted using this upgrade.|
