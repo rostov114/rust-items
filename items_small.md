@@ -121,6 +121,9 @@
 |![](/bearmeat.128.webp)|bearmeat|-1520560807|Raw Bear Meat|
 |![](/bearmeat.spoiled.128.webp)|bearmeat.spoiled|1348294923|Spoiled Bear Meat|
 |![](/bed.128.webp)|bed|-1273339005|Bed|
+|![](/beefmeat.cooked.128.webp)|beefmeat.cooked|718346230|Cooked Beef|
+|![](/beefmeat.128.webp)|beefmeat|-201824959|Raw Beef|
+|![](/beefmeat.spoiled.128.webp)|beefmeat.spoiled|1412100395|Spoiled Beef|
 |![](/beehive.128.webp)|beehive|184516676|Beehive|
 |![](/bicycle.128.webp)|bicycle|821588319|Bicycle|
 |![](/bigcatmeat.cooked.128.webp)|bigcatmeat.cooked|-1318837358|Cooked Big Cat Meat|
@@ -153,6 +156,7 @@
 |![](/box.repair.bench.128.webp)|box.repair.bench|803222026|Repair Bench|
 |![](/box.wooden.128.webp)|box.wooden|-180129657|Wood Storage Box|
 |![](/box.wooden.large.128.webp)|box.wooden.large|833533164|Large Wood Box|
+|![](/bread.brioche.loaf.128.webp)|bread.brioche.loaf|-909588488|Brioche Bread|
 |![](/bread.loaf.128.webp)|bread.loaf|281099360|Bread Loaf|
 |![](/bucket.helmet.128.webp)|bucket.helmet|850280505|Bucket Helmet|
 |![](/bucket.water.128.webp)|bucket.water|1424075905|Water Bucket|
@@ -274,6 +278,7 @@
 |![](/crankshaft2.128.webp)|crankshaft2|1158340331|Medium Quality Crankshaft|
 |![](/crankshaft3.128.webp)|crankshaft3|1158340332|High Quality Crankshaft|
 |![](/cratecostume.128.webp)|cratecostume|1189981699|Crate Costume|
+|![](/cream.128.webp)|cream|1185218972|Cream|
 |![](/crocodilemeat.cooked.128.webp)|crocodilemeat.cooked|392828520|Cooked Crocodile Meat|
 |![](/crocodilemeat.128.webp)|crocodilemeat|-1081599445|Raw Crocodile Meat|
 |![](/crocodilemeat.spoiled.128.webp)|crocodilemeat.spoiled|-1796837031|Spoiled Crocodile Meat|
@@ -568,7 +573,9 @@
 |![](/head.bag.128.webp)|head.bag|209218760|Head Bag|
 |![](/healingtea.advanced.128.webp)|healingtea.advanced|-2123125470|Advanced Healing Tea|
 |![](/healingtea.128.webp)|healingtea|-929092070|Basic Healing Tea|
+|![](/healingtea.pure.creamy.128.webp)|healingtea.pure.creamy|-132349657|Creamy Pure Healing Tea|
 |![](/healingtea.pure.128.webp)|healingtea.pure|-1677315902|Pure Healing Tea|
+|![](/healingtea.pure.milky.128.webp)|healingtea.pure.milky|-1644292642|Milky Pure Healing Tea|
 |![](/heartballoon2025.128.webp)|heartballoon2025|362863314|Heart Balloon|
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|
@@ -594,7 +601,7 @@
 |![](/horse.saddlebag.128.webp)|horse.saddlebag|1400460850|Saddle bag|
 |![](/horse.shoes.advanced.128.webp)|horse.shoes.advanced|1989785143|High Quality Horse Shoes|
 |![](/horse.shoes.basic.128.webp)|horse.shoes.basic|-1211268013|Basic Horse Shoes|
-|![](/horsedung.128.webp)|horsedung|-1579932985|Horse Dung|
+|![](/horsedung.128.webp)|horsedung|-1579932985|Dung|
 |![](/horsemeat.burned.128.webp)|horsemeat.burned|1917703890|Burnt Horse Meat|
 |![](/horsemeat.cooked.128.webp)|horsemeat.cooked|-1162759543|Cooked Horse Meat|
 |![](/horsemeat.raw.128.webp)|horsemeat.raw|-1130350864|Raw Horse Meat|
@@ -704,7 +711,9 @@
 |![](/mask.bandana.128.webp)|mask.bandana|-702051347|Bandana Mask|
 |![](/maxhealthtea.advanced.128.webp)|maxhealthtea.advanced|603811464|Advanced Max Health Tea|
 |![](/maxhealthtea.128.webp)|maxhealthtea|-1184406448|Basic Max Health Tea|
+|![](/maxhealthtea.pure.creamy.128.webp)|maxhealthtea.pure.creamy|-1244746477|Creamy Pure Max Health Tea|
 |![](/maxhealthtea.pure.128.webp)|maxhealthtea.pure|1712261904|Pure Max Health Tea|
+|![](/maxhealthtea.pure.milky.128.webp)|maxhealthtea.pure.milky|-1388103748|Milky Pure Max Health Tea|
 |![](/meat.boar.128.webp)|meat.boar|621915341|Raw Pork|
 |![](/meat.pork.burned.128.webp)|meat.pork.burned|1391703481|Burnt Pork|
 |![](/meat.pork.cooked.128.webp)|meat.pork.cooked|-242084766|Cooked Pork|
@@ -728,6 +737,7 @@
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|
 |![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|
+|![](/milk.128.webp)|milk|325350919|Milk|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|
 |![](/mini fridge.128.webp)|mini fridge|1174484438|Mini Fridge|
 |![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|
@@ -752,6 +762,9 @@
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|
+|![](/muttonmeat.cooked.128.webp)|muttonmeat.cooked|-319133397|Cooked Mutton Meat|
+|![](/muttonmeat.128.webp)|muttonmeat|-1957595450|Raw Mutton Meat|
+|![](/muttonmeat.spoiled.128.webp)|muttonmeat.spoiled|1751463672|Spoiled Mutton Meat|
 |![](/neonsigntr.128.webp)|neonsigntr|381595627|Twitch Rivals Neon Sign|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|
@@ -761,7 +774,9 @@
 |![](/orchid.128.webp)|orchid|734320711|Orchid|
 |![](/oretea.advanced.128.webp)|oretea.advanced|2063916636|Advanced Ore Tea|
 |![](/oretea.128.webp)|oretea|1480022580|Basic Ore Tea|
+|![](/oretea.pure.creamy.128.webp)|oretea.pure.creamy|-744942541|Creamy Pure Ore Tea|
 |![](/oretea.pure.128.webp)|oretea.pure|1729374708|Pure Ore Tea|
+|![](/oretea.pure.milky.128.webp)|oretea.pure.milky|1243083208|Milky Pure Ore Tea|
 |![](/oubreak_scientist.128.webp)|oubreak_scientist|-2133781216|Outbreak Scientist Suit|
 |![](/outbreak.sprayer.128.webp)|outbreak.sprayer|1621942085|Outbreak Sprayer|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|
@@ -782,14 +797,26 @@
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|
+|![](/pie.apple.rich.128.webp)|pie.apple.rich|-1846744758|Rich Apple Pie|
 |![](/pie.bear.128.webp)|pie.bear|2039177180|Bear Pie|
+|![](/pie.bear.rich.128.webp)|pie.bear.rich|1883513936|Rich Bear Pie|
+|![](/pie.beef.128.webp)|pie.beef|782269436|Beef Pie|
+|![](/pie.beef.rich.128.webp)|pie.beef.rich|-867055736|Rich Beef Pie|
 |![](/pie.bigcat.128.webp)|pie.bigcat|309017792|Big Cat Pie|
+|![](/pie.bigcat.rich.128.webp)|pie.bigcat.rich|1469787676|Rich Big Cat Pie|
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|
+|![](/pie.chicken.rich.128.webp)|pie.chicken.rich|2006264797|Rich Chicken Pie|
 |![](/pie.crocodile.128.webp)|pie.crocodile|54265286|Crocodile Pie|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|
+|![](/pie.fish.rich.128.webp)|pie.fish.rich|1427291780|Rich Fish Pie|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|
+|![](/pie.hunters.rich.128.webp)|pie.hunters.rich|-1188678681|Rich Hunters Pie|
+|![](/pie.mutton.128.webp)|pie.mutton|939198535|Shepherds Pie|
+|![](/pie.mutton.rich.128.webp)|pie.mutton.rich|1468691829|Rich Mutton Pie|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|
+|![](/pie.pork.rich.128.webp)|pie.pork.rich|1988640176|Rich Pork Pie|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|
+|![](/pie.pumpkin.rich.128.webp)|pie.pumpkin.rich|1364112542|Rich Pumpkin Pie|
 |![](/pie.survivors.128.webp)|pie.survivors|-963820355|Survivor's Pie|
 |![](/pilot.hazmat.box.wooden.128.webp)|pilot.hazmat.box.wooden|537946062|Flight Recorder Box|
 |![](/pinata.128.webp)|pinata|-1442496789|Pinata|
@@ -825,17 +852,25 @@
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|
+|![](/purecoolingtea.creamy.128.webp)|purecoolingtea.creamy|1527700610|Creamy Pure Cooling Tea|
 |![](/purecoolingtea.128.webp)|purecoolingtea|1121416193|Pure Cooling Tea|
+|![](/purecoolingtea.milky.128.webp)|purecoolingtea.milky|1738714421|Milky Pure Cooling Tea|
 |![](/purecraftingtea_quality.128.webp)|purecraftingtea_quality|97903330|Pure Crafting Quality Tea|
+|![](/pureharvestingtea.creamy.128.webp)|pureharvestingtea.creamy|-1661676046|Creamy Pure Harvesting Tea|
 |![](/pureharvestingtea.128.webp)|pureharvestingtea|377750553|Pure Harvesting Tea|
+|![](/pureharvestingtea.milky.128.webp)|pureharvestingtea.milky|789540413|Milky Pure Harvesting Tea|
+|![](/purewarmingtea.creamy.128.webp)|purewarmingtea.creamy|556232090|Creamy Pure Warming Tea|
 |![](/purewarmingtea.128.webp)|purewarmingtea|-1476814093|Pure Warming Tea|
+|![](/purewarmingtea.milky.128.webp)|purewarmingtea.milky|91167975|Milky Pure Warming Tea|
 |![](/purpleidtag.128.webp)|purpleidtag|-1386082991|Purple ID Tag|
 |![](/radiationremovetea.advanced.128.webp)|radiationremovetea.advanced|2021351233|Advanced Rad. Removal Tea|
 |![](/radiationremovetea.128.webp)|radiationremovetea|-496584751|Rad. Removal Tea|
 |![](/radiationremovetea.pure.128.webp)|radiationremovetea.pure|1905387657|Pure Rad. Removal Tea|
 |![](/radiationresisttea.advanced.128.webp)|radiationresisttea.advanced|-1729415579|Advanced Anti-Rad Tea|
 |![](/radiationresisttea.128.webp)|radiationresisttea|-487356515|Basic Anti-Rad Tea|
+|![](/radiationresisttea.pure.creamy.128.webp)|radiationresisttea.pure.creamy|-1882497808|Creamy Pure Anti-Rad Tea|
 |![](/radiationresisttea.pure.128.webp)|radiationresisttea.pure|-33009419|Pure Anti-Rad Tea|
+|![](/radiationresisttea.pure.milky.128.webp)|radiationresisttea.pure.milky|-1341272471|Milky Pure Anti-Rad Tea|
 |![](/rail.road.planter.128.webp)|rail.road.planter|615112838|Rail Road Planter|
 |![](/red.berry.128.webp)|red.berry|1272194103|Red Berry|
 |![](/reddogtags.128.webp)|reddogtags|-602717596|Red Dog Tags|
@@ -916,7 +951,9 @@
 |![](/scrapmirror.standing.128.webp)|scrapmirror.standing|-1380144986|Scrap Mirror Standing|
 |![](/scraptea.advanced.128.webp)|scraptea.advanced|524678627|Advanced Scrap Tea|
 |![](/scraptea.128.webp)|scraptea|263834859|Basic Scrap Tea|
+|![](/scraptea.pure.creamy.128.webp)|scraptea.pure.creamy|1519395656|Creamy Pure Scrap Tea|
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|
+|![](/scraptea.pure.milky.128.webp)|scraptea.pure.milky|-1057052157|Milky Pure Scrap Tea|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|
 |![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|
 |![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Stone Sculpture|
@@ -986,6 +1023,7 @@
 |![](/silly.horse.mask.128.webp)|silly.horse.mask|1849409072|Silly Horse Mask|
 |![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Bamboo Wall Shelves|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|
+|![](/skimmedmilk.128.webp)|skimmedmilk|-1019639625|Skimmed Milk|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|
 |![](/skull.128.webp)|skull|1312843609|Skull|
 |![](/skull.trophy.jar.128.webp)|skull.trophy.jar|971362526|Skull Trophy|
@@ -1139,6 +1177,8 @@
 |![](/venom.snake.128.webp)|venom.snake|-870140677|Snake Venom|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
+|![](/wall.animal.fence.gate.128.webp)|wall.animal.fence.gate|1143376304|Animal Fence Gate|
+|![](/wall.animal.fence.128.webp)|wall.animal.fence|-1814195745|Animal Fence|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|
@@ -1225,7 +1265,10 @@
 |![](/woodmirror.standing.128.webp)|woodmirror.standing|723407026|Wood Mirror Standing|
 |![](/woodtea.advanced.128.webp)|woodtea.advanced|-541206665|Advanced Wood Tea|
 |![](/woodtea.128.webp)|woodtea|-649128577|Basic Wood Tea|
+|![](/woodtea.pure.creamy.128.webp)|woodtea.pure.creamy|-844428380|Creamy Pure Wood Tea|
 |![](/woodtea.pure.128.webp)|woodtea.pure|-557539629|Pure Wood Tea|
+|![](/woodtea.pure.milky.128.webp)|woodtea.pure.milky|777041831|Milky Pure Wood Tea|
+|![](/wool.128.webp)|wool|204391867|Wool|
 |![](/workbench.upgrade.accelerated.128.webp)|workbench.upgrade.accelerated|798382300|Accelerated Workbench Upgrade|
 |![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|
 |![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|

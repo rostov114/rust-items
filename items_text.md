@@ -121,6 +121,9 @@
 |[bearmeat](/bearmeat.png)|-1520560807|Raw Bear Meat|Food|
 |[bearmeat.spoiled](/bearmeat.spoiled.png)|1348294923|Spoiled Bear Meat|Food|
 |[bed](/bed.png)|-1273339005|Bed|Items|
+|[beefmeat.cooked](/beefmeat.cooked.png)|718346230|Cooked Beef|Food|
+|[beefmeat](/beefmeat.png)|-201824959|Raw Beef|Food|
+|[beefmeat.spoiled](/beefmeat.spoiled.png)|1412100395|Spoiled Beef|Food|
 |[beehive](/beehive.png)|184516676|Beehive|Construction|
 |[bicycle](/bicycle.png)|821588319|Bicycle|Misc|
 |[bigcatmeat.cooked](/bigcatmeat.cooked.png)|-1318837358|Cooked Big Cat Meat|Food|
@@ -153,6 +156,7 @@
 |[box.repair.bench](/box.repair.bench.png)|803222026|Repair Bench|Items|
 |[box.wooden](/box.wooden.png)|-180129657|Wood Storage Box|Items|
 |[box.wooden.large](/box.wooden.large.png)|833533164|Large Wood Box|Items|
+|[bread.brioche.loaf](/bread.brioche.loaf.png)|-909588488|Brioche Bread|Food|
 |[bread.loaf](/bread.loaf.png)|281099360|Bread Loaf|Food|
 |[bucket.helmet](/bucket.helmet.png)|850280505|Bucket Helmet|Attire|
 |[bucket.water](/bucket.water.png)|1424075905|Water Bucket|Tool|
@@ -274,6 +278,7 @@
 |[crankshaft2](/crankshaft2.png)|1158340331|Medium Quality Crankshaft|Component|
 |[crankshaft3](/crankshaft3.png)|1158340332|High Quality Crankshaft|Component|
 |[cratecostume](/cratecostume.png)|1189981699|Crate Costume|Attire|
+|[cream](/cream.png)|1185218972|Cream|Food|
 |[crocodilemeat.cooked](/crocodilemeat.cooked.png)|392828520|Cooked Crocodile Meat|Food|
 |[crocodilemeat](/crocodilemeat.png)|-1081599445|Raw Crocodile Meat|Food|
 |[crocodilemeat.spoiled](/crocodilemeat.spoiled.png)|-1796837031|Spoiled Crocodile Meat|Food|
@@ -568,7 +573,9 @@
 |[head.bag](/head.bag.png)|209218760|Head Bag|Misc|
 |[healingtea.advanced](/healingtea.advanced.png)|-2123125470|Advanced Healing Tea|Food|
 |[healingtea](/healingtea.png)|-929092070|Basic Healing Tea|Food|
+|[healingtea.pure.creamy](/healingtea.pure.creamy.png)|-132349657|Creamy Pure Healing Tea|Food|
 |[healingtea.pure](/healingtea.pure.png)|-1677315902|Pure Healing Tea|Food|
+|[healingtea.pure.milky](/healingtea.pure.milky.png)|-1644292642|Milky Pure Healing Tea|Food|
 |[heartballoon2025](/heartballoon2025.png)|362863314|Heart Balloon|Items|
 |[heavy.plate.helmet](/heavy.plate.helmet.png)|1181207482|Heavy Plate Helmet|Attire|
 |[heavy.plate.jacket](/heavy.plate.jacket.png)|-1102429027|Heavy Plate Jacket|Attire|
@@ -594,7 +601,7 @@
 |[horse.saddlebag](/horse.saddlebag.png)|1400460850|Saddle bag|Attire|
 |[horse.shoes.advanced](/horse.shoes.advanced.png)|1989785143|High Quality Horse Shoes|Attire|
 |[horse.shoes.basic](/horse.shoes.basic.png)|-1211268013|Basic Horse Shoes|Attire|
-|[horsedung](/horsedung.png)|-1579932985|Horse Dung|Resources|
+|[horsedung](/horsedung.png)|-1579932985|Dung|Resources|
 |[horsemeat.burned](/horsemeat.burned.png)|1917703890|Burnt Horse Meat|Food|
 |[horsemeat.cooked](/horsemeat.cooked.png)|-1162759543|Cooked Horse Meat|Food|
 |[horsemeat.raw](/horsemeat.raw.png)|-1130350864|Raw Horse Meat|Food|
@@ -704,7 +711,9 @@
 |[mask.bandana](/mask.bandana.png)|-702051347|Bandana Mask|Attire|
 |[maxhealthtea.advanced](/maxhealthtea.advanced.png)|603811464|Advanced Max Health Tea|Food|
 |[maxhealthtea](/maxhealthtea.png)|-1184406448|Basic Max Health Tea|Food|
+|[maxhealthtea.pure.creamy](/maxhealthtea.pure.creamy.png)|-1244746477|Creamy Pure Max Health Tea|Food|
 |[maxhealthtea.pure](/maxhealthtea.pure.png)|1712261904|Pure Max Health Tea|Food|
+|[maxhealthtea.pure.milky](/maxhealthtea.pure.milky.png)|-1388103748|Milky Pure Max Health Tea|Food|
 |[meat.boar](/meat.boar.png)|621915341|Raw Pork|Food|
 |[meat.pork.burned](/meat.pork.burned.png)|1391703481|Burnt Pork|Food|
 |[meat.pork.cooked](/meat.pork.cooked.png)|-242084766|Cooked Pork|Food|
@@ -728,6 +737,7 @@
 |[metalspring](/metalspring.png)|-1021495308|Metal Spring|Component|
 |[microphonestand](/microphonestand.png)|39600618|Microphone Stand|Fun|
 |[military flamethrower](/military flamethrower.png)|703057617|Military Flame Thrower|Weapon|
+|[milk](/milk.png)|325350919|Milk|Food|
 |[minecart.planter](/minecart.planter.png)|1361520181|Minecart Planter|Items|
 |[mini fridge](/mini fridge.png)|1174484438|Mini Fridge|Electrical|
 |[minicopter](/minicopter.png)|-1334255764|Minicopter|Misc|
@@ -752,6 +762,9 @@
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
 |[mummymask](/mummymask.png)|809689733|Mummy Mask|Attire|
 |[mushroom](/mushroom.png)|-1962971928|Mushroom|Food|
+|[muttonmeat.cooked](/muttonmeat.cooked.png)|-319133397|Cooked Mutton Meat|Food|
+|[muttonmeat](/muttonmeat.png)|-1957595450|Raw Mutton Meat|Food|
+|[muttonmeat.spoiled](/muttonmeat.spoiled.png)|1751463672|Spoiled Mutton Meat|Food|
 |[neonsigntr](/neonsigntr.png)|381595627|Twitch Rivals Neon Sign|Electrical|
 |[newyeargong](/newyeargong.png)|-961457160|New Year Gong|Fun|
 |[nightvisiongoggles](/nightvisiongoggles.png)|-1518883088|Night Vision Goggles|Attire|
@@ -761,7 +774,9 @@
 |[orchid](/orchid.png)|734320711|Orchid|Food|
 |[oretea.advanced](/oretea.advanced.png)|2063916636|Advanced Ore Tea|Food|
 |[oretea](/oretea.png)|1480022580|Basic Ore Tea|Food|
+|[oretea.pure.creamy](/oretea.pure.creamy.png)|-744942541|Creamy Pure Ore Tea|Food|
 |[oretea.pure](/oretea.pure.png)|1729374708|Pure Ore Tea|Food|
+|[oretea.pure.milky](/oretea.pure.milky.png)|1243083208|Milky Pure Ore Tea|Food|
 |[oubreak_scientist](/oubreak_scientist.png)|-2133781216|Outbreak Scientist Suit|Attire|
 |[outbreak.sprayer](/outbreak.sprayer.png)|1621942085|Outbreak Sprayer|Tool|
 |[paddle](/paddle.png)|1491189398|Paddle|Weapon|
@@ -782,14 +797,26 @@
 |[piano](/piano.png)|1272430949|Wheelbarrow Piano|Fun|
 |[pickaxe](/pickaxe.png)|-1302129395|Pickaxe|Tool|
 |[pie.apple](/pie.apple.png)|4384538|Apple Pie|Food|
+|[pie.apple.rich](/pie.apple.rich.png)|-1846744758|Rich Apple Pie|Food|
 |[pie.bear](/pie.bear.png)|2039177180|Bear Pie|Food|
+|[pie.bear.rich](/pie.bear.rich.png)|1883513936|Rich Bear Pie|Food|
+|[pie.beef](/pie.beef.png)|782269436|Beef Pie|Food|
+|[pie.beef.rich](/pie.beef.rich.png)|-867055736|Rich Beef Pie|Food|
 |[pie.bigcat](/pie.bigcat.png)|309017792|Big Cat Pie|Food|
+|[pie.bigcat.rich](/pie.bigcat.rich.png)|1469787676|Rich Big Cat Pie|Food|
 |[pie.chicken](/pie.chicken.png)|120820987|Chicken Pie|Food|
+|[pie.chicken.rich](/pie.chicken.rich.png)|2006264797|Rich Chicken Pie|Food|
 |[pie.crocodile](/pie.crocodile.png)|54265286|Crocodile Pie|Food|
 |[pie.fish](/pie.fish.png)|-1785248332|Fish Pie|Food|
+|[pie.fish.rich](/pie.fish.rich.png)|1427291780|Rich Fish Pie|Food|
 |[pie.hunters](/pie.hunters.png)|320438357|Hunters Pie|Food|
+|[pie.hunters.rich](/pie.hunters.rich.png)|-1188678681|Rich Hunters Pie|Food|
+|[pie.mutton](/pie.mutton.png)|939198535|Shepherds Pie|Food|
+|[pie.mutton.rich](/pie.mutton.rich.png)|1468691829|Rich Mutton Pie|Food|
 |[pie.pork](/pie.pork.png)|1467878256|Pork Pie|Food|
+|[pie.pork.rich](/pie.pork.rich.png)|1988640176|Rich Pork Pie|Food|
 |[pie.pumpkin](/pie.pumpkin.png)|-1488408786|Pumpkin Pie|Food|
+|[pie.pumpkin.rich](/pie.pumpkin.rich.png)|1364112542|Rich Pumpkin Pie|Food|
 |[pie.survivors](/pie.survivors.png)|-963820355|Survivor's Pie|Food|
 |[pilot.hazmat.box.wooden](/pilot.hazmat.box.wooden.png)|537946062|Flight Recorder Box|Items|
 |[pinata](/pinata.png)|-1442496789|Pinata|Fun|
@@ -825,17 +852,25 @@
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
 |[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
+|[purecoolingtea.creamy](/purecoolingtea.creamy.png)|1527700610|Creamy Pure Cooling Tea|Food|
 |[purecoolingtea](/purecoolingtea.png)|1121416193|Pure Cooling Tea|Food|
+|[purecoolingtea.milky](/purecoolingtea.milky.png)|1738714421|Milky Pure Cooling Tea|Food|
 |[purecraftingtea_quality](/purecraftingtea_quality.png)|97903330|Pure Crafting Quality Tea|Food|
+|[pureharvestingtea.creamy](/pureharvestingtea.creamy.png)|-1661676046|Creamy Pure Harvesting Tea|Food|
 |[pureharvestingtea](/pureharvestingtea.png)|377750553|Pure Harvesting Tea|Food|
+|[pureharvestingtea.milky](/pureharvestingtea.milky.png)|789540413|Milky Pure Harvesting Tea|Food|
+|[purewarmingtea.creamy](/purewarmingtea.creamy.png)|556232090|Creamy Pure Warming Tea|Food|
 |[purewarmingtea](/purewarmingtea.png)|-1476814093|Pure Warming Tea|Food|
+|[purewarmingtea.milky](/purewarmingtea.milky.png)|91167975|Milky Pure Warming Tea|Food|
 |[purpleidtag](/purpleidtag.png)|-1386082991|Purple ID Tag|Resources|
 |[radiationremovetea.advanced](/radiationremovetea.advanced.png)|2021351233|Advanced Rad. Removal Tea|Food|
 |[radiationremovetea](/radiationremovetea.png)|-496584751|Rad. Removal Tea|Food|
 |[radiationremovetea.pure](/radiationremovetea.pure.png)|1905387657|Pure Rad. Removal Tea|Food|
 |[radiationresisttea.advanced](/radiationresisttea.advanced.png)|-1729415579|Advanced Anti-Rad Tea|Food|
 |[radiationresisttea](/radiationresisttea.png)|-487356515|Basic Anti-Rad Tea|Food|
+|[radiationresisttea.pure.creamy](/radiationresisttea.pure.creamy.png)|-1882497808|Creamy Pure Anti-Rad Tea|Food|
 |[radiationresisttea.pure](/radiationresisttea.pure.png)|-33009419|Pure Anti-Rad Tea|Food|
+|[radiationresisttea.pure.milky](/radiationresisttea.pure.milky.png)|-1341272471|Milky Pure Anti-Rad Tea|Food|
 |[rail.road.planter](/rail.road.planter.png)|615112838|Rail Road Planter|Items|
 |[red.berry](/red.berry.png)|1272194103|Red Berry|Food|
 |[reddogtags](/reddogtags.png)|-602717596|Red Dog Tags|Resources|
@@ -916,7 +951,9 @@
 |[scrapmirror.standing](/scrapmirror.standing.png)|-1380144986|Scrap Mirror Standing|Items|
 |[scraptea.advanced](/scraptea.advanced.png)|524678627|Advanced Scrap Tea|Food|
 |[scraptea](/scraptea.png)|263834859|Basic Scrap Tea|Food|
+|[scraptea.pure.creamy](/scraptea.pure.creamy.png)|1519395656|Creamy Pure Scrap Tea|Food|
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
+|[scraptea.pure.milky](/scraptea.pure.milky.png)|-1057052157|Milky Pure Scrap Tea|Food|
 |[scraptransportheli](/scraptransportheli.png)|375473148|Scrap Transport Helicopter|Misc|
 |[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Items|
 |[sculpture.rock](/sculpture.rock.png)|1852905808|Stone Sculpture|Items|
@@ -986,6 +1023,7 @@
 |[silly.horse.mask](/silly.horse.mask.png)|1849409072|Silly Horse Mask|Attire|
 |[single.shallow.wall.shelves](/single.shallow.wall.shelves.png)|-193519904|Bamboo Wall Shelves|Items|
 |[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
+|[skimmedmilk](/skimmedmilk.png)|-1019639625|Skimmed Milk|Food|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
 |[skull](/skull.png)|1312843609|Skull|Tool|
 |[skull.trophy.jar](/skull.trophy.jar.png)|971362526|Skull Trophy|Fun|
@@ -1139,6 +1177,8 @@
 |[venom.snake](/venom.snake.png)|-870140677|Snake Venom|Items|
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
 |[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
+|[wall.animal.fence.gate](/wall.animal.fence.gate.png)|1143376304|Animal Fence Gate|Construction|
+|[wall.animal.fence](/wall.animal.fence.png)|-1814195745|Animal Fence|Misc|
 |[wall.external.high.adobe](/wall.external.high.adobe.png)|756890702|High External Adobe Wall|Construction|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
@@ -1225,7 +1265,10 @@
 |[woodmirror.standing](/woodmirror.standing.png)|723407026|Wood Mirror Standing|Items|
 |[woodtea.advanced](/woodtea.advanced.png)|-541206665|Advanced Wood Tea|Food|
 |[woodtea](/woodtea.png)|-649128577|Basic Wood Tea|Food|
+|[woodtea.pure.creamy](/woodtea.pure.creamy.png)|-844428380|Creamy Pure Wood Tea|Food|
 |[woodtea.pure](/woodtea.pure.png)|-557539629|Pure Wood Tea|Food|
+|[woodtea.pure.milky](/woodtea.pure.milky.png)|777041831|Milky Pure Wood Tea|Food|
+|[wool](/wool.png)|204391867|Wool|Resources|
 |[workbench.upgrade.accelerated](/workbench.upgrade.accelerated.png)|798382300|Accelerated Workbench Upgrade|Component|
 |[workbench.upgrade.comfort](/workbench.upgrade.comfort.png)|-770390391|Comfort Workbench Upgrade|Component|
 |[workbench.upgrade.defensive](/workbench.upgrade.defensive.png)|-1953279770|Defensive Workbench Upgrade|Component|
