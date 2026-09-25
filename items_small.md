@@ -480,6 +480,7 @@
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|
 |![](/gears.128.webp)|gears|479143914|Gears|
 |![](/geiger.counter.128.webp)|geiger.counter|999690781|Geiger Counter|
+|![](/generator.biofuel.128.webp)|generator.biofuel|-1661343913|Biofuel Generator|
 |![](/generator.water.128.webp)|generator.water|-379403794|Water Wheel|
 |![](/generator.wind.scrap.128.webp)|generator.wind.scrap|-1819763926|Wind Turbine|
 |![](/ghostsheet.128.webp)|ghostsheet|-1043618880|Ghost Costume|
@@ -812,7 +813,7 @@
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|
 |![](/pie.hunters.rich.128.webp)|pie.hunters.rich|-1188678681|Rich Hunters Pie|
 |![](/pie.mutton.128.webp)|pie.mutton|939198535|Shepherds Pie|
-|![](/pie.mutton.rich.128.webp)|pie.mutton.rich|1468691829|Rich Mutton Pie|
+|![](/pie.mutton.rich.128.webp)|pie.mutton.rich|1468691829|Rich Shepherds Pie|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|
 |![](/pie.pork.rich.128.webp)|pie.pork.rich|1988640176|Rich Pork Pie|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|
