@@ -480,6 +480,7 @@
 |![](/gates.external.high.wood.128.webp)|gates.external.high.wood|-335089230|High External Wooden Gate|Construction|A high wooden gate, allowing access in and out of your compound.|
 |![](/gears.128.webp)|gears|479143914|Gears|Component|A selection of gears. Some functional, some not.|
 |![](/geiger.counter.128.webp)|geiger.counter|999690781|Geiger Counter|Tool|A geiger counter used by scientists|
+|![](/generator.biofuel.128.webp)|generator.biofuel|-1661343913|Biofuel Generator|Items|A large pot that can convert organic matter into fuel.|
 |![](/generator.water.128.webp)|generator.water|-379403794|Water Wheel|Electrical|Converts kinetic energy harvested from flowing water into electricity.|
 |![](/generator.wind.scrap.128.webp)|generator.wind.scrap|-1819763926|Wind Turbine|Electrical|Converts kinetic energy harvested from the wind into electricity. Amount generated will vary depending on wind speed. Higher altitudes will yield stronger winds.|
 |![](/ghostsheet.128.webp)|ghostsheet|-1043618880|Ghost Costume|Attire|Definitely not a last minute costume idea.|
@@ -812,7 +813,7 @@
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|Food|Tasty hunters pie, made with real deer. Provides a boost to hunger, health and hydration. Reduces bleeding for a short time.|
 |![](/pie.hunters.rich.128.webp)|pie.hunters.rich|-1188678681|Rich Hunters Pie|Food|A hunters pie enriched with cream, made with real deer. Provides a boost to hunger, health and hydration. Stops bleeding for a short time.|
 |![](/pie.mutton.128.webp)|pie.mutton|939198535|Shepherds Pie|Food|Hearty mutton pie, provides a boost to hunger, health and hydration. Livestock grow used to you twice as fast, and are far less likely to turn on you, for a short time.|
-|![](/pie.mutton.rich.128.webp)|pie.mutton.rich|1468691829|Rich Mutton Pie|Food|A hearty mutton pie enriched with cream. Provides a boost to hunger, health and hydration. Livestock grow used to you far faster, and are far less likely to turn on you, for a short time.|
+|![](/pie.mutton.rich.128.webp)|pie.mutton.rich|1468691829|Rich Shepherds Pie|Food|A hearty shepherds pie enriched with cream. Provides a boost to hunger, health and hydration. Livestock grow used to you far faster, and are far less likely to turn on you, for a short time.|
 |![](/pie.pork.128.webp)|pie.pork|1467878256|Pork Pie|Food|Tempting pork pie, provides a boost to hunger, health and hydration. Improves healing rate from other sources for a short time.|
 |![](/pie.pork.rich.128.webp)|pie.pork.rich|1988640176|Rich Pork Pie|Food|A tempting pork pie enriched with cream. Provides a boost to hunger, health and hydration. Greatly improves healing rate from other sources for a short time.|
 |![](/pie.pumpkin.128.webp)|pie.pumpkin|-1488408786|Pumpkin Pie|Food|Spooky pumpkin pie, provides a boost to health, hunger and hydration. Increases maximum health for a short time.|
