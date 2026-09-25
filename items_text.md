@@ -480,6 +480,7 @@
 |[gates.external.high.wood](/gates.external.high.wood.png)|-335089230|High External Wooden Gate|Construction|
 |[gears](/gears.png)|479143914|Gears|Component|
 |[geiger.counter](/geiger.counter.png)|999690781|Geiger Counter|Tool|
+|[generator.biofuel](/generator.biofuel.png)|-1661343913|Biofuel Generator|Items|
 |[generator.water](/generator.water.png)|-379403794|Water Wheel|Electrical|
 |[generator.wind.scrap](/generator.wind.scrap.png)|-1819763926|Wind Turbine|Electrical|
 |[ghostsheet](/ghostsheet.png)|-1043618880|Ghost Costume|Attire|
@@ -812,7 +813,7 @@
 |[pie.hunters](/pie.hunters.png)|320438357|Hunters Pie|Food|
 |[pie.hunters.rich](/pie.hunters.rich.png)|-1188678681|Rich Hunters Pie|Food|
 |[pie.mutton](/pie.mutton.png)|939198535|Shepherds Pie|Food|
-|[pie.mutton.rich](/pie.mutton.rich.png)|1468691829|Rich Mutton Pie|Food|
+|[pie.mutton.rich](/pie.mutton.rich.png)|1468691829|Rich Shepherds Pie|Food|
 |[pie.pork](/pie.pork.png)|1467878256|Pork Pie|Food|
 |[pie.pork.rich](/pie.pork.rich.png)|1988640176|Rich Pork Pie|Food|
 |[pie.pumpkin](/pie.pumpkin.png)|-1488408786|Pumpkin Pie|Food|
