@@ -554,6 +554,7 @@
 |[hat.wolf](/hat.wolf.png)|-1478212975|Wolf Headdress|Attire|
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
 |[hazmat.krieg](/hazmat.krieg.png)|-902423513|Krieg Hazmat|Attire|
+|[hazmat.plague](/hazmat.plague.png)|-1587608109|Plague Doctor Hazmat Suit|Attire|
 |[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Items|
 |[hazmatsuit.arcticsuit](/hazmatsuit.arcticsuit.png)|-470439097|Arctic Suit|Attire|
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Hazmat|Attire|
@@ -1179,7 +1180,7 @@
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
 |[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
 |[wall.animal.fence.gate](/wall.animal.fence.gate.png)|1143376304|Animal Fence Gate|Construction|
-|[wall.animal.fence](/wall.animal.fence.png)|-1814195745|Animal Fence|Misc|
+|[wall.animal.fence](/wall.animal.fence.png)|-1814195745|Animal Fence|Construction|
 |[wall.external.high.adobe](/wall.external.high.adobe.png)|756890702|High External Adobe Wall|Construction|
 |[wall.external.high.ice](/wall.external.high.ice.png)|-985781766|High Ice Wall|Construction|
 |[wall.external.high](/wall.external.high.png)|99588025|High External Wooden Wall|Construction|
@@ -1196,7 +1197,7 @@
 |[wall.frame.netting](/wall.frame.netting.png)|1516985844|Netting|Construction|
 |[wall.frame.shopfront](/wall.frame.shopfront.png)|-796583652|Shop Front|Construction|
 |[wall.frame.shopfront.metal](/wall.frame.shopfront.metal.png)|-148229307|Metal Shop Front|Construction|
-|[wall.graveyard.fence](/wall.graveyard.fence.png)|-1679267738|Graveyard Fence|Misc|
+|[wall.graveyard.fence](/wall.graveyard.fence.png)|-1679267738|Graveyard Fence|Construction|
 |[wall.ice.wall](/wall.ice.wall.png)|1327005675|Short Ice Wall|Construction|
 |[wall.shallow.industrial.shelves](/wall.shallow.industrial.shelves.png)|-265202949|Industrial Wall Shelves|Items|
 |[wall.window.bars.metal](/wall.window.bars.metal.png)|-819720157|Metal Window Bars|Construction|
