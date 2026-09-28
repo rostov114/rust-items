@@ -554,6 +554,7 @@
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|
 |![](/hazmat.krieg.128.webp)|hazmat.krieg|-902423513|Krieg Hazmat|
+|![](/hazmat.plague.128.webp)|hazmat.plague|-1587608109|Plague Doctor Hazmat Suit|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|

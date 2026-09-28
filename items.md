@@ -554,6 +554,7 @@
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmat.krieg.128.webp)|hazmat.krieg|-902423513|Krieg Hazmat|Attire|A Krieg Hazmat Suit, standard issue for those who never retreat.|
+|![](/hazmat.plague.128.webp)|hazmat.plague|-1587608109|Plague Doctor Hazmat Suit|Attire|Plague doctor garb, used as a hazmat.|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|Items|A plushy of your favourite outfit made by the fabulous people at YouTooz.com|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|Attire|A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.|
@@ -738,7 +739,7 @@
 |![](/metalspring.128.webp)|metalspring|-1021495308|Metal Spring|Component|A metal spring. Used to provide motion or resistance in objects.|
 |![](/microphonestand.128.webp)|microphonestand|39600618|Microphone Stand|Fun|A powered microphone that lets you broadcast your voice. Press [+attack2] to change voice mode between high and low pitch.|
 |![](/military flamethrower.128.webp)|military flamethrower|703057617|Military Flame Thrower|Weapon|A Military grade flamethrower. Uses low grade fuel as ammunition.|
-|![](/milk.128.webp)|milk|325350919|Milk|Food|A small bottle of milk. Very calorie dense.|
+|![](/milk.128.webp)|milk|325350919|Milk|Food|A small bottle of milk. Very calorie dense. Store in a fridge to separate it and create Cream.|
 |![](/minecart.planter.128.webp)|minecart.planter|1361520181|Minecart Planter|Items|A small planter with enough room to plant 2 seeds.|
 |![](/mini fridge.128.webp)|mini fridge|1174484438|Mini Fridge|Electrical|Ideal for preserving food and keeping items cool.|
 |![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|Misc|Minicopter|
@@ -1179,7 +1180,7 @@
 |![](/wagon.128.webp)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|Items|A walkie talkie set to an unknown channel|
 |![](/wall.animal.fence.gate.128.webp)|wall.animal.fence.gate|1143376304|Animal Fence Gate|Construction|A gate for accessing your animal pen.|
-|![](/wall.animal.fence.128.webp)|wall.animal.fence|-1814195745|Animal Fence|Misc|A sturdy fence for penning animals.|
+|![](/wall.animal.fence.128.webp)|wall.animal.fence|-1814195745|Animal Fence|Construction|A sturdy fence for penning animals.|
 |![](/wall.external.high.adobe.128.webp)|wall.external.high.adobe|756890702|High External Adobe Wall|Construction|A high stone wall used to keep people off your property.|
 |![](/wall.external.high.ice.128.webp)|wall.external.high.ice|-985781766|High Ice Wall|Construction|A very high ice wall to protect your property.|
 |![](/wall.external.high.128.webp)|wall.external.high|99588025|High External Wooden Wall|Construction|A high wooden wall used to keep people off your property.|
@@ -1196,7 +1197,7 @@
 |![](/wall.frame.netting.128.webp)|wall.frame.netting|1516985844|Netting|Construction|Netting you can climb.|
 |![](/wall.frame.shopfront.128.webp)|wall.frame.shopfront|-796583652|Shop Front|Construction|A shop front to do commerce.|
 |![](/wall.frame.shopfront.metal.128.webp)|wall.frame.shopfront.metal|-148229307|Metal Shop Front|Construction|A bulletproof shop front for secure trades.|
-|![](/wall.graveyard.fence.128.webp)|wall.graveyard.fence|-1679267738|Graveyard Fence|Misc|A Spooky Fence|
+|![](/wall.graveyard.fence.128.webp)|wall.graveyard.fence|-1679267738|Graveyard Fence|Construction|A Spooky Fence|
 |![](/wall.ice.wall.128.webp)|wall.ice.wall|1327005675|Short Ice Wall|Construction|A short wall made of solid ice.|
 |![](/wall.shallow.industrial.shelves.128.webp)|wall.shallow.industrial.shelves|-265202949|Industrial Wall Shelves|Items|A shallow industrial wall shelf for small item stacking|
 |![](/wall.window.bars.metal.128.webp)|wall.window.bars.metal|-819720157|Metal Window Bars|Construction|Metal window bars made to fit a normal sized window.|
