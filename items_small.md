@@ -764,9 +764,9 @@
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|
-|![](/muttonmeat.cooked.128.webp)|muttonmeat.cooked|-319133397|Cooked Mutton Meat|
-|![](/muttonmeat.128.webp)|muttonmeat|-1957595450|Raw Mutton Meat|
-|![](/muttonmeat.spoiled.128.webp)|muttonmeat.spoiled|1751463672|Spoiled Mutton Meat|
+|![](/muttonmeat.cooked.128.webp)|muttonmeat.cooked|-319133397|Cooked Mutton|
+|![](/muttonmeat.128.webp)|muttonmeat|-1957595450|Raw Mutton|
+|![](/muttonmeat.spoiled.128.webp)|muttonmeat.spoiled|1751463672|Spoiled Mutton|
 |![](/neonsigntr.128.webp)|neonsigntr|381595627|Twitch Rivals Neon Sign|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|

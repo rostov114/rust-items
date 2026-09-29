@@ -764,9 +764,9 @@
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
 |[mummymask](/mummymask.png)|809689733|Mummy Mask|Attire|
 |[mushroom](/mushroom.png)|-1962971928|Mushroom|Food|
-|[muttonmeat.cooked](/muttonmeat.cooked.png)|-319133397|Cooked Mutton Meat|Food|
-|[muttonmeat](/muttonmeat.png)|-1957595450|Raw Mutton Meat|Food|
-|[muttonmeat.spoiled](/muttonmeat.spoiled.png)|1751463672|Spoiled Mutton Meat|Food|
+|[muttonmeat.cooked](/muttonmeat.cooked.png)|-319133397|Cooked Mutton|Food|
+|[muttonmeat](/muttonmeat.png)|-1957595450|Raw Mutton|Food|
+|[muttonmeat.spoiled](/muttonmeat.spoiled.png)|1751463672|Spoiled Mutton|Food|
 |[neonsigntr](/neonsigntr.png)|381595627|Twitch Rivals Neon Sign|Electrical|
 |[newyeargong](/newyeargong.png)|-961457160|New Year Gong|Fun|
 |[nightvisiongoggles](/nightvisiongoggles.png)|-1518883088|Night Vision Goggles|Attire|
