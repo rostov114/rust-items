@@ -764,9 +764,9 @@
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
-|![](/muttonmeat.cooked.128.webp)|muttonmeat.cooked|-319133397|Cooked Mutton Meat|Food|Delicious Mutton Meat, Eating it will restore some health, hunger, and thirst.|
-|![](/muttonmeat.128.webp)|muttonmeat|-1957595450|Raw Mutton Meat|Food|Raw Mutton Meat. Eating it will damage your health, try cooking it first.|
-|![](/muttonmeat.spoiled.128.webp)|muttonmeat.spoiled|1751463672|Spoiled Mutton Meat|Food|Spoiled Mutton Meat. Consuming will damage your health.|
+|![](/muttonmeat.cooked.128.webp)|muttonmeat.cooked|-319133397|Cooked Mutton|Food|Delicious Mutton, Eating it will restore some health, hunger, and thirst.|
+|![](/muttonmeat.128.webp)|muttonmeat|-1957595450|Raw Mutton|Food|Raw Mutton. Eating it will damage your health, try cooking it first.|
+|![](/muttonmeat.spoiled.128.webp)|muttonmeat.spoiled|1751463672|Spoiled Mutton|Food|Spoiled Mutton. Consuming will damage your health.|
 |![](/neonsigntr.128.webp)|neonsigntr|381595627|Twitch Rivals Neon Sign|Electrical|A Twitch Rivals Light-Up Neon Sign|
 |![](/newyeargong.128.webp)|newyeargong|-961457160|New Year Gong|Fun|Ring in the Lunar new year with a massive gong!|
 |![](/nightvisiongoggles.128.webp)|nightvisiongoggles|-1518883088|Night Vision Goggles|Attire|Enables vision at nighttime by projecting and amplifying infrared light.The batteries can be recharged at a Lvl 2 workbench. Cannot be worn with a helmet.|
