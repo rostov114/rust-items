@@ -554,7 +554,7 @@
 |![](/hat.wolf.128.webp)|hat.wolf|-1478212975|Wolf Headdress|Attire|A headdress made out of the scraped out head of a wolf.|
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmat.krieg.128.webp)|hazmat.krieg|-902423513|Krieg Hazmat|Attire|A Krieg Hazmat Suit, standard issue for those who never retreat.|
-|![](/hazmat.plague.128.webp)|hazmat.plague|-1587608109|Plague Doctor Hazmat Suit|Attire|Plague doctor garb, used as a hazmat.|
+|![](/hazmat.plague.128.webp)|hazmat.plague|-1587608109|Plague Doctor Hazmat Suit|Attire|The Plague Doctor delivers no cure - only death and decay. Bring out your dead, or prepare to join them.|
 |![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|Items|A plushy of your favourite outfit made by the fabulous people at YouTooz.com|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|Attire|A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.|
