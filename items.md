@@ -584,7 +584,7 @@
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
 |![](/heavy.scientist.plushie.128.webp)|heavy.scientist.plushie|146221721|Heavy Scientist Plushie|Items|Heavy Scientist Plushie|
 |![](/heavyscientistyoutooz.128.webp)|heavyscientistyoutooz|-722629980|Heavy Scientist Youtooz|Items|Heavy Scientist Youtooz|
-|![](/hitchtroughcombo.128.webp)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
+|![](/hitchtroughcombo.128.webp)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food. Livestock will also eat from here if there's not enough grass nearby.|
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
 |![](/hobobarrel.128.webp)|hobobarrel|-1442559428|Hobo Barrel|Items|A vagabond staple. Use this repurposed oil barrel to stay warm.|
 |![](/homingmissile.launcher.128.webp)|homingmissile.launcher|-218009552|Homing Missile Launcher|Weapon|An active-guidance homing missile launcher. Once launched, the target must be tracked by the launcher until impact. Can be distracted by flares.|
