@@ -1221,7 +1221,7 @@
 |[water.purifier](/water.purifier.png)|2114754781|Water Purifier|Items|
 |[water.radioactive](/water.radioactive.png)|1811780502|Radioactive Water|Resources|
 |[water.salt](/water.salt.png)|-277057363|Salt Water|Resources|
-|[waterjug](/waterjug.png)|-119235651|Water Jug|Food|
+|[waterjug](/waterjug.png)|-119235651|Water Jug|Items|
 |[waterpump](/waterpump.png)|-1284169891|Water Pump|Electrical|
 |[weapon.mod.8x.scope](/weapon.mod.8x.scope.png)|174866732|Variable Zoom Scope|Weapon|
 |[weapon.mod.burstmodule](/weapon.mod.burstmodule.png)|838308300|Burst Module|Component|
