@@ -1231,7 +1231,7 @@
 |![](/water.purifier.128.webp)|water.purifier|2114754781|Water Purifier|Items|A Water Purifier. Place overtop of a campfire. Will provide clean, drinkable water from salty, or stagnant water.|
 |![](/water.radioactive.128.webp)|water.radioactive|1811780502|Radioactive Water|Resources|Glowing water. Consuming will damage your health and irradiate you.|
 |![](/water.salt.128.webp)|water.salt|-277057363|Salt Water|Resources|Water with a high salt content. Consuming will damage your health.|
-|![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|Food|A large jerry can for all kinds of water. Holds up to 5000ml. Careful not to throw it all away!|
+|![](/waterjug.128.webp)|waterjug|-119235651|Water Jug|Items|A large jerry can for all kinds of water. Holds up to 5000ml. Careful not to throw it all away!|
 |![](/waterpump.128.webp)|waterpump|-1284169891|Water Pump|Electrical|Can be placed in a water source to collect that water while powered. Can be connected to other Water entities.|
 |![](/weapon.mod.8x.scope.128.webp)|weapon.mod.8x.scope|174866732|Variable Zoom Scope|Weapon|A large military-grade scope that can be configured from 4x zoom to 16x zoom.|
 |![](/weapon.mod.burstmodule.128.webp)|weapon.mod.burstmodule|838308300|Burst Module|Component|A weapon attachment that modifies recoil and rate of fire. Allows weapon to fire in 3 round bursts when turned on. Use [+firemode] to toggle on or off.|
