@@ -19,6 +19,7 @@
 |[advancedwarmingtea](/advancedwarmingtea.png)|-334418777|Advanced Warming Tea|Food|
 |[advanceharvestingtea](/advanceharvestingtea.png)|-1385721419|Advanced Harvesting Tea|Food|
 |[aiming.module.mlrs](/aiming.module.mlrs.png)|343045591|Aiming Module|Component|
+|[alien.costume](/alien.costume.png)|1930628359|Alien Costume|Attire|
 |[ammo.grenadelauncher.buckshot](/ammo.grenadelauncher.buckshot.png)|1055319033|40mm Shotgun Round|Ammunition|
 |[ammo.grenadelauncher.he](/ammo.grenadelauncher.he.png)|349762871|40mm HE Grenade|Ammunition|
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
@@ -530,7 +531,9 @@
 |[halloween.lootbag.medium](/halloween.lootbag.medium.png)|1899610628|Medium Loot Bag|Misc|
 |[halloween.lootbag.small](/halloween.lootbag.small.png)|1319617282|Small Loot Bag|Misc|
 |[halloween.mummysuit](/halloween.mummysuit.png)|277730763|Mummy Suit|Attire|
+|[halloween.string.lights](/halloween.string.lights.png)|139776459|Halloween String Lights|Items|
 |[halloween.surgeonsuit](/halloween.surgeonsuit.png)|-1785231475|Surgeon Scrubs|Attire|
+|[halloweenwreath](/halloweenwreath.png)|1174330346|Halloween Wreath|Items|
 |[hammer](/hammer.png)|200773292|Hammer|Tool|
 |[hammer.salvaged](/hammer.salvaged.png)|-1506397857|Salvaged Hammer|Tool|
 |[handcuffs](/handcuffs.png)|-839576748|Handcuffs|Tool|
@@ -1147,6 +1150,7 @@
 |[tshirt.long](/tshirt.long.png)|935692442|Longsleeve T-Shirt|Attire|
 |[tugboat](/tugboat.png)|-561148628|Tugboat|Items|
 |[tunalight](/tunalight.png)|-1478445584|Tuna Can Lamp|Items|
+|[tunalight.skull](/tunalight.skull.png)|-1716340729|Skull Wall Lamp|Items|
 |[twitch.headset](/twitch.headset.png)|-1569700847|Headset|Attire|
 |[twitchrivals2023desk](/twitchrivals2023desk.png)|-243540612|Twitch Rivals Desk|Electrical|
 |[twitchrivals2025sofa](/twitchrivals2025sofa.png)|1604092540|Twitch Rivals 2025 Sofa|Items|
