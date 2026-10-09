@@ -19,6 +19,7 @@
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|An advanced warming tea that temporarily increases both your core and minimum temperature.|
 |![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|Food|An advanced harvesting tea, provides hydration and temporarily boosts the amount of resources you receive from harvesting corpses a moderate amount.|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|Aiming Module|Component|An aiming system computer module for MLRS vehicles and satellite control terminals.|
+|![](/alien.costume.128.webp)|alien.costume|1930628359|Alien Costume|Attire|An inflatable alien costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible. Three varieties.|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
@@ -530,7 +531,9 @@
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|Misc|Contains medium level loot, Collect 10 to upgrade to a Large loot bag, containing the best loot|
 |![](/halloween.lootbag.small.128.webp)|halloween.lootbag.small|1319617282|Small Loot Bag|Misc|Open for a surprise, or collect 10 to upgrade to a medium loot bag containing better loot!|
 |![](/halloween.mummysuit.128.webp)|halloween.mummysuit|277730763|Mummy Suit|Attire|A mummy suit|
+|![](/halloween.string.lights.128.webp)|halloween.string.lights|139776459|Halloween String Lights|Items|Spooky Halloween string lights for your base. Part of the Spooky Decor Bundle.|
 |![](/halloween.surgeonsuit.128.webp)|halloween.surgeonsuit|-1785231475|Surgeon Scrubs|Attire|A bloody surgeon outfit. Protects your entire body and provides good protection while giving off a creepy halloween vibe.|
+|![](/halloweenwreath.128.webp)|halloweenwreath|1174330346|Halloween Wreath|Items|A spooky Halloween Wreath for the doors in your base. Part of the Spooky Decor Bundle.|
 |![](/hammer.128.webp)|hammer|200773292|Hammer|Tool|A Hammer, used to upgrade building materials. Right-click for the options. You can also pick up deployed objects while the hammer is equipped.|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|Tool|A Hammer made from a bunch of other crap.|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|Tool|You're under arrest! Use on a surrendering or wounded player to keep them restrained. The wearer is blocked from using or holding items and can be pushed around.|
@@ -1147,6 +1150,7 @@
 |![](/tshirt.long.128.webp)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|Long sleeve tshirt, versatile clothing for protection against damage and the elements.|
 |![](/tugboat.128.webp)|tugboat|-561148628|Tugboat|Items||
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|Items|A makeshift wall light. Still smells faintly of fish.|
+|![](/tunalight.skull.128.webp)|tunalight.skull|-1716340729|Skull Wall Lamp|Items|Turn your enemies into something useful with this tasteful lamp.|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|Attire|Every gamer needs a headset! - Gained from Rust's first Twitch drop event.|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|Electrical|Twitch Rivals Desk|
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|Items|A comfortable twitch branded sofa. A decorative item which provides comfort and seats two.|
