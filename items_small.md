@@ -19,6 +19,7 @@
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|
 |![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|Aiming Module|
+|![](/alien.costume.128.webp)|alien.costume|1930628359|Alien Costume|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|
@@ -530,7 +531,9 @@
 |![](/halloween.lootbag.medium.128.webp)|halloween.lootbag.medium|1899610628|Medium Loot Bag|
 |![](/halloween.lootbag.small.128.webp)|halloween.lootbag.small|1319617282|Small Loot Bag|
 |![](/halloween.mummysuit.128.webp)|halloween.mummysuit|277730763|Mummy Suit|
+|![](/halloween.string.lights.128.webp)|halloween.string.lights|139776459|Halloween String Lights|
 |![](/halloween.surgeonsuit.128.webp)|halloween.surgeonsuit|-1785231475|Surgeon Scrubs|
+|![](/halloweenwreath.128.webp)|halloweenwreath|1174330346|Halloween Wreath|
 |![](/hammer.128.webp)|hammer|200773292|Hammer|
 |![](/hammer.salvaged.128.webp)|hammer.salvaged|-1506397857|Salvaged Hammer|
 |![](/handcuffs.128.webp)|handcuffs|-839576748|Handcuffs|
@@ -1147,6 +1150,7 @@
 |![](/tshirt.long.128.webp)|tshirt.long|935692442|Longsleeve T-Shirt|
 |![](/tugboat.128.webp)|tugboat|-561148628|Tugboat|
 |![](/tunalight.128.webp)|tunalight|-1478445584|Tuna Can Lamp|
+|![](/tunalight.skull.128.webp)|tunalight.skull|-1716340729|Skull Wall Lamp|
 |![](/twitch.headset.128.webp)|twitch.headset|-1569700847|Headset|
 |![](/twitchrivals2023desk.128.webp)|twitchrivals2023desk|-243540612|Twitch Rivals Desk|
 |![](/twitchrivals2025sofa.128.webp)|twitchrivals2025sofa|1604092540|Twitch Rivals 2025 Sofa|
