@@ -747,6 +747,7 @@
 |![](/mini fridge.128.webp)|mini fridge|1174484438|Mini Fridge|
 |![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|
 |![](/minicrossbow.128.webp)|minicrossbow|-482348853|Mini Crossbow|
+|![](/minifridge.128.webp)|minifridge|1174484438|Mini Fridge|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|
