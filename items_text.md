@@ -747,6 +747,7 @@
 |[mini fridge](/mini fridge.png)|1174484438|Mini Fridge|Electrical|
 |[minicopter](/minicopter.png)|-1334255764|Minicopter|Misc|
 |[minicrossbow](/minicrossbow.png)|-482348853|Mini Crossbow|Weapon|
+|[minifridge](/minifridge.png)|1174484438|Mini Fridge|Electrical|
 |[minigun](/minigun.png)|935606207|Minigun|Weapon|
 |[minigunammopack](/minigunammopack.png)|355877490|Minigun Ammo Pack|Attire|
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|

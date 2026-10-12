@@ -747,6 +747,7 @@
 |![](/mini fridge.128.webp)|mini fridge|1174484438|Mini Fridge|Electrical|Ideal for preserving food and keeping items cool.|
 |![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|Misc|Minicopter|
 |![](/minicrossbow.128.webp)|minicrossbow|-482348853|Mini Crossbow|Weapon|A very accurate ranged weapon with a rotating barrel.|
+|![](/minifridge.128.webp)|minifridge|1174484438|Mini Fridge|Electrical|Ideal for preserving food and keeping items cool.|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|Weapon|A military issue belt-fed machine gun that must be spun up to fire. Fires rapidly at the expense of movement speed.|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|Attire|A backpack designed to store ammunition for a minigun.|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|Misc||
