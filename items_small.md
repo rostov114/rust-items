@@ -306,6 +306,7 @@
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|
 |![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plush|
 |![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|
+|![](/discord.zombie.plushie.128.webp)|discord.zombie.plushie|-570638754|Zombie Wumpus Plush|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|
