@@ -203,10 +203,10 @@
 |![](/chair.128.webp)|chair|1534542921|Chair|Items|Every home needs a chair. A decorative item which provides comfort while seated.|
 |![](/charcoal.128.webp)|charcoal|-1938052175|Charcoal|Resources|Byproduct from campfires and furnaces used for crafting gunpowder.|
 |![](/charity.plushie.05.128.webp)|charity.plushie.05|374496151|Humane World Charity 2026 Plushie|Items|TEXT TBD|
-|![](/charity.plushy.01.128.webp)|charity.plushy.01|2130820932|Cancer Research UK Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Cancer Research UK, each purchase helped fund real-world cancer research.www.cancerresearchuk.org|
-|![](/charity.plushy.02.128.webp)|charity.plushy.02|2130820933|Ronald McDonald House UK Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
-|![](/charity.plushy.03.128.webp)|charity.plushy.03|2130820934|Ronald McDonald House UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in July 2026 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
-|![](/charity.plushy.04.128.webp)|charity.plushy.04|2130820927|Cancer Research UK 2026 Plushie|Items|A soft and squishy plush that provides comfort in your base.Cancer Research UK (reg charity nos. 1089464, SC041666, 1103 and 247)will get 100% of the net sales of the Cancer Research UK Plushie*.  *Net sales being gross sales less refunds and after Steam platform fees (20%) and sales tax typically around 10-11%.|
+|![](/charity.plushy.01.128.webp)|charity.plushy.01|2130820932|Cancer Research UK Plushie|Fun|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Cancer Research UK, each purchase helped fund real-world cancer research.www.cancerresearchuk.org|
+|![](/charity.plushy.02.128.webp)|charity.plushy.02|2130820933|Ronald McDonald House UK Plushie|Fun|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in October 2025 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
+|![](/charity.plushy.03.128.webp)|charity.plushy.03|2130820934|Ronald McDonald House UK 2026 Plushie|Fun|A soft and squishy plush that provides comfort in your base. First sold on the Rust store in July 2026 to support Ronald McDonald House Charities UK, helping ease the burden on families by providing free ‘home away from home’ accommodation near hospitals.www.rmhc.org.uk|
+|![](/charity.plushy.04.128.webp)|charity.plushy.04|2130820927|Cancer Research UK 2026 Plushie|Fun|A soft and squishy plush that provides comfort in your base.Cancer Research UK (reg charity nos. 1089464, SC041666, 1103 and 247)will get 100% of the net sales of the Cancer Research UK Plushie*.  *Net sales being gross sales less refunds and after Steam platform fees (20%) and sales tax typically around 10-11%.|
 |![](/chicken.burned.128.webp)|chicken.burned|1973684065|Burnt Chicken|Food|Burned chicken. Eating it will damage your health.|
 |![](/chicken.cooked.128.webp)|chicken.cooked|-1848736516|Cooked Chicken|Food|Cooked chicken. Eating it will restore some health, hunger, and thirst.|
 |![](/chicken.costume.128.webp)|chicken.costume|-152332823|Chicken Costume|Attire|An inflatable chicken costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
@@ -216,7 +216,7 @@
 |![](/chineselantern.128.webp)|chineselantern|-1916473915|Chinese Lantern|Items|A decorative Paper lantern|
 |![](/chineselanternwhite.128.webp)|chineselanternwhite|-770304148|Chinese Lantern White|Items|A decorative White Paper lantern|
 |![](/chocolate.128.webp)|chocolate|-965336208|Chocolate Bar|Food|Chocolate Bar found as loot. Eating it provides a small boost to health, hunger, and thirst.|
-|![](/circleballoon2025.128.webp)|circleballoon2025|-105343718|Circle Balloon|Items|A circular balloon to use as decoration and for you to celebrate. You can write on it.|
+|![](/circleballoon2025.128.webp)|circleballoon2025|-105343718|Circle Balloon|Fun|A circular balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/clantable.128.webp)|clantable|486661382|Clan Table|Items|A table for managing clans.|
 |![](/clatter.helmet.128.webp)|clatter.helmet|968019378|Clatter Helmet|Attire|Special helmet for players who own Clatter and have played for at least 30 minutes, replaces the bucket helmet.|
 |![](/clone.black.berry.128.webp)|clone.black.berry|122783240|Black Berry Clone|Food|A clipping of a Black Berry Plant.|
@@ -304,9 +304,9 @@
 |![](/discoball.128.webp)|discoball|1895235349|Disco Ball|Fun|Get groovy with this stunning disco ball.|
 |![](/discofloor.128.webp)|discofloor|286648290|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
 |![](/discofloor.largetiles.128.webp)|discofloor.largetiles|1735402444|Disco Floor|Fun|A vibrant flashing floor that pulses in time to music.|
-|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plush|Items|Exclusive to the Rust Shop on Discord!|
-|![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|Items|A companion that reminds you of your youth.|
-|![](/discord.zombie.plushie.128.webp)|discord.zombie.plushie|-570638754|Zombie Wumpus Plush|Items|Exclusive to the Rust Shop on Discord!|
+|![](/discord.plushie.128.webp)|discord.plushie|-1800102806|Wumpus Plush|Fun|Exclusive to the Rust Shop on Discord!|
+|![](/discord.trophy.128.webp)|discord.trophy|1494014226|Discord Trophy|Fun|A companion that reminds you of your youth.|
+|![](/discord.zombie.plushie.128.webp)|discord.zombie.plushie|-570638754|Zombie Wumpus Plush|Fun|Exclusive to the Rust Shop on Discord!|
 |![](/diverhatchet.128.webp)|diverhatchet|1046904719|Abyss Metal Hatchet|Tool|Metal hatchet, reclaimed from the abyss, perfect for survival and crafting|
 |![](/diverpickaxe.128.webp)|diverpickaxe|1561022037|Abyss Metal Pickaxe|Tool|Plucked from the abyss, this Metal Pickaxe is a prized possession for any survivor|
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|Tool|Illuminate the underwater depths with this durable and waterproof diving torch|
@@ -335,7 +335,7 @@
 |![](/dropbox.128.webp)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
 |![](/drumkit.128.webp)|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
 |![](/ducttape.128.webp)|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
-|![](/easel.128.webp)|easel|-1779203452|Portable Easel|Items|A portable easel for painting plein air!|
+|![](/easel.128.webp)|easel|-1779203452|Portable Easel|Fun|A portable easel for painting plein air!|
 |![](/easter.bronzeegg.128.webp)|easter.bronzeegg|844440409|Bronze Egg|Misc|A Bronze Egg. Open for a surprise or collect 10 to upgrade to a silver egg.|
 |![](/easter.goldegg.128.webp)|easter.goldegg|-1002156085|Gold Egg|Misc|A Gold Egg. Containing the best easter loot.|
 |![](/easter.paintedeggs.128.webp)|easter.paintedeggs|-126305173|Painted Egg|Misc|Some simple painted eggs. Collect 10 to upgrade to a bronze egg|
@@ -428,7 +428,7 @@
 |![](/fishing.tackle.128.webp)|fishing.tackle|-1707425764|Fishing Tackle|Tool|Fishing Tackle|
 |![](/fishingrod.handmade.128.webp)|fishingrod.handmade|1569882109|Handmade Fishing Rod|Tool|Use [attack2] to cast out the line and wait for a bite. Requires bait.|
 |![](/fishtrap.small.128.webp)|fishtrap.small|559147458|Survival Fish Trap|Items|Traps fish, place on the shore and load with bait. The more bait loaded the bigger the chance of catching Trout.|
-|![](/fishtrophy.128.webp)|fishtrophy|-1913996738|Fish Trophy|Items|A wall mountable item to show off your greatest catches. Fish not included.|
+|![](/fishtrophy.128.webp)|fishtrophy|-1913996738|Fish Trophy|Fun|A wall mountable item to show off your greatest catches. Fish not included.|
 |![](/flamethrower.128.webp)|flamethrower|-1215753368|Flame Thrower|Weapon|A Flamethrower. Uses low grade fuel as ammunition.|
 |![](/flameturret.128.webp)|flameturret|528668503|Flame Turret|Traps|Automated Flame turret. Requires Low Grade Fuel. Sprays flames when triggered.|
 |![](/flare.128.webp)|flare|304481038|Flare|Tool|Light up the night sky with this brand new red flare!|
@@ -491,12 +491,12 @@
 |![](/gingerbreadsuit.128.webp)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.128.webp)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.128.webp)|glue|-1899491405|Glue|Component|A strong adhesive.|
-|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Ornate Frame large|Items|A large ornate frame|
-|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Ornate Frame Medium|Items|A medium ornate frame|
-|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Ornate Frame Small|Items|A small ornate frame|
-|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Ornate Frame Standing|Items|A standing ornate frame|
-|![](/goldframe.xl.128.webp)|goldframe.xl|-1430299277|Ornate Frame XL|Items|An extra large ornate frame|
-|![](/goldframe.xxl.128.webp)|goldframe.xxl|-1322332389|Ornate Frame XXL|Items|An extra extra large ornate frame|
+|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Ornate Frame large|Fun|A large ornate frame|
+|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Ornate Frame Medium|Fun|A medium ornate frame|
+|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Ornate Frame Small|Fun|A small ornate frame|
+|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Ornate Frame Standing|Fun|A standing ornate frame|
+|![](/goldframe.xl.128.webp)|goldframe.xl|-1430299277|Ornate Frame XL|Fun|An extra large ornate frame|
+|![](/goldframe.xxl.128.webp)|goldframe.xxl|-1322332389|Ornate Frame XXL|Fun|An extra extra large ornate frame|
 |![](/goldmirror.large.128.webp)|goldmirror.large|1365234594|Gold Mirror large|Items|A large gold mirror|
 |![](/goldmirror.medium.128.webp)|goldmirror.medium|-1804515496|Gold Mirror Medium|Items|A medium gold mirror|
 |![](/goldmirror.small.128.webp)|goldmirror.small|-1444650226|Gold Mirror Small|Items|A small gold mirror|
@@ -559,7 +559,7 @@
 |![](/hatchet.128.webp)|hatchet|-1252059217|Hatchet|Tool|A Hatchet, useful for chopping trees and dismembering corpses.|
 |![](/hazmat.krieg.128.webp)|hazmat.krieg|-902423513|Krieg Hazmat|Attire|A Krieg Hazmat Suit, standard issue for those who never retreat.|
 |![](/hazmat.plague.128.webp)|hazmat.plague|-1587608109|Plague Doctor Hazmat Suit|Attire|The Plague Doctor delivers no cure - only death and decay. Bring out your dead, or prepare to join them.|
-|![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|Items|A plushy of your favourite outfit made by the fabulous people at YouTooz.com|
+|![](/hazmat.plushy.128.webp)|hazmat.plushy|1578317134|Hazmat Plushy|Fun|A plushy of your favourite outfit made by the fabulous people at YouTooz.com|
 |![](/hazmatsuit.arcticsuit.128.webp)|hazmatsuit.arcticsuit|-470439097|Arctic Suit|Attire|An arctic variant of the hazmat suit which trades radiation for cold protection.|
 |![](/hazmatsuit.diver.128.webp)|hazmatsuit.diver|-797592358|Abyss Hazmat|Attire|A damaged deep-water survival suit was found in the abyss. Although it may no longer serve its original purpose, it functions reliably as a Hazmat suit. Owning this suit also grants access to the Abyss Pickaxe, Abyss Hatchet, Abyss Torch, and Abyss AR.|
 |![](/hazmatsuit.frontier.128.webp)|hazmatsuit.frontier|-105415879|Frontier Suit|Attire|A Frontier suit|
@@ -582,11 +582,11 @@
 |![](/healingtea.pure.creamy.128.webp)|healingtea.pure.creamy|-132349657|Creamy Pure Healing Tea|Food|A pure healing tea, provides hydration and heals you a large amount over time. Enriched with cream for a stronger, shorter lived effect.|
 |![](/healingtea.pure.128.webp)|healingtea.pure|-1677315902|Pure Healing Tea|Food|A pure healing tea, provides hydration and heals you a large amount over time.|
 |![](/healingtea.pure.milky.128.webp)|healingtea.pure.milky|-1644292642|Milky Pure Healing Tea|Food|A pure healing tea, provides hydration and heals you a large amount over time. Enriched with milk to make the effect last longer.|
-|![](/heartballoon2025.128.webp)|heartballoon2025|362863314|Heart Balloon|Items|A heart-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
+|![](/heartballoon2025.128.webp)|heartballoon2025|362863314|Heart Balloon|Fun|A heart-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
-|![](/heavy.scientist.plushie.128.webp)|heavy.scientist.plushie|146221721|Heavy Scientist Plushie|Items|Heavy Scientist Plushie|
+|![](/heavy.scientist.plushie.128.webp)|heavy.scientist.plushie|146221721|Heavy Scientist Plushie|Fun|Heavy Scientist Plushie|
 |![](/heavyscientistyoutooz.128.webp)|heavyscientistyoutooz|-722629980|Heavy Scientist Youtooz|Items|Heavy Scientist Youtooz|
 |![](/hitchtroughcombo.128.webp)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food. Livestock will also eat from here if there's not enough grass nearby.|
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
@@ -618,8 +618,8 @@
 |![](/humanmeat.cooked.128.webp)|humanmeat.cooked|1536610005|Cooked Human Meat|Food|Salty meat from a human being, eating this will restore some hunger and health but reduces hydration. Maybe you should look for a better food source.|
 |![](/humanmeat.raw.128.webp)|humanmeat.raw|-1709878924|Raw Human Meat|Food|Raw human meat. Consuming will damage your health.|
 |![](/humanmeat.spoiled.128.webp)|humanmeat.spoiled|1272768630|Spoiled Human Meat|Food|Spoiled Human Meat. Consuming will damage your health.|
-|![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|Items|A large trophy stand to mount the head of killed animals or enemies.|
-|![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|Items|A trophy stand to mount the head of killed animals or enemies.|
+|![](/huntingtrophylarge.128.webp)|huntingtrophylarge|960673498|Large Hunting Trophy|Fun|A large trophy stand to mount the head of killed animals or enemies.|
+|![](/huntingtrophysmall.128.webp)|huntingtrophysmall|-869598982|Small Hunting Trophy|Fun|A trophy stand to mount the head of killed animals or enemies.|
 |![](/icepick.salvaged.128.webp)|icepick.salvaged|-1780802565|Salvaged Icepick|Tool|A high-yield resource gathering Icepick.|
 |![](/improvised.shield.128.webp)|improvised.shield|196784377|Improvised Shield|Attire|A makeshift metal shield, sturdy but only protects a small area. Usable with single handed weapons and tools.|
 |![](/industrial.autoturret.128.webp)|industrial.autoturret|-786398324|Industrial Auto Turret|Electrical|This automated electric sentry turret will engage and neutralize any moving targets it has line of sight to. You must equip it with a projectile weapon and the corresponding ammunition. Note : The turret will search for targets in a 180 degree arc facing *you* when you place it. Requires 10 power.|
@@ -677,19 +677,19 @@
 |![](/largecandles.128.webp)|largecandles|-489848205|Large Candle Set|Misc|Large Candles|
 |![](/largemedkit.128.webp)|largemedkit|254522515|Large Medkit|Medical|A large medkit that heals you to max health over time and stops any bleeding instantly.Guarantees 100% recovery from the wounded state if placed in your toolbar.|
 |![](/laserlight.128.webp)|laserlight|853471967|Laser Light|Fun|A small device that shoots out visible lasers in time to music.|
-|![](/latexballoon2025.128.webp)|latexballoon2025|1295301598|Latex Balloon|Items|A latex balloon to use as decoration and for you to celebrate. You can write on it.|
-|![](/latexclumpballoon2025.128.webp)|latexclumpballoon2025|-1440443161|Clump of Latex Balloons|Items|A clump of latex balloons to use as decoration and for you to celebrate.|
+|![](/latexballoon2025.128.webp)|latexballoon2025|1295301598|Latex Balloon|Fun|A latex balloon to use as decoration and for you to celebrate. You can write on it.|
+|![](/latexclumpballoon2025.128.webp)|latexclumpballoon2025|-1440443161|Clump of Latex Balloons|Fun|A clump of latex balloons to use as decoration and for you to celebrate.|
 |![](/lavenderidtag.128.webp)|lavenderidtag|1223729384|Lavender ID Tag|Resources|Lavender ID Tag|
 |![](/leather.128.webp)|leather|1381010055|Leather|Resources|Leather from an animal. Used in many clothing items and more.|
 |![](/legacy bow.128.webp)|legacy bow|-73195037|Legacy Bow|Weapon|Hunting Bow, useful for short to medium range combat and hunting.|
 |![](/legacy.shelter.wood.128.webp)|legacy.shelter.wood|607400343|Legacy Wood Shelter|Construction|The classic s*** shack. A great starter base for any fresh spawn. You can only have one shelter deployed at anytime.|
 |![](/legacyfurnace.128.webp)|legacyfurnace|-1310391395|Legacy Furnace|Items|Legacy Furnace|
-|![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
-|![](/lightup.xl.128.webp)|lightup.xl|1801656689|Light-Up Frame XL|Items|An extra large light-up frame|
-|![](/lightup.xxl.128.webp)|lightup.xxl|1447138977|Light-Up Frame XXL|Items|An extra extra large light up frame|
-|![](/lightupframe.medium.128.webp)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
-|![](/lightupframe.small.128.webp)|lightupframe.small|1691223771|Light-Up Frame Small|Items|A small light-up frame|
-|![](/lightupframe.standing.128.webp)|lightupframe.standing|1950013766|Light-Up Frame Standing|Items|A standing light-up frame|
+|![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|Fun|A large light up frame|
+|![](/lightup.xl.128.webp)|lightup.xl|1801656689|Light-Up Frame XL|Fun|An extra large light-up frame|
+|![](/lightup.xxl.128.webp)|lightup.xxl|1447138977|Light-Up Frame XXL|Fun|An extra extra large light up frame|
+|![](/lightupframe.medium.128.webp)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Fun|A medium Light-up frame|
+|![](/lightupframe.small.128.webp)|lightupframe.small|1691223771|Light-Up Frame Small|Fun|A small light-up frame|
+|![](/lightupframe.standing.128.webp)|lightupframe.standing|1950013766|Light-Up Frame Standing|Fun|A standing light-up frame|
 |![](/lightupmirror.large.128.webp)|lightupmirror.large|450531685|Light-Up Mirror Large|Items|A large light-up mirror|
 |![](/lightupmirror.medium.128.webp)|lightupmirror.medium|1028889957|Light-Up Mirror Medium|Items|A medium light-up mirror|
 |![](/lightupmirror.small.128.webp)|lightupmirror.small|-389796733|Light-Up Mirror Small|Items|A small light-up mirror|
@@ -755,7 +755,7 @@
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
 |![](/mining.quarry.128.webp)|mining.quarry|1052926200|Mining Quarry|Construction|Extracts minerals from the ground. Use a Survey Charge to determine the amount of minerals available for extraction in any given area.|
 |![](/mintidtag.128.webp)|mintidtag|1572152877|Mint ID Tag|Resources|Mint ID Tag|
-|![](/mixedclumpballoon2025.128.webp)|mixedclumpballoon2025|571949408|Clump of Mixed Balloons|Items|A clump of mixed balloons to use as decoration and for you to celebrate.|
+|![](/mixedclumpballoon2025.128.webp)|mixedclumpballoon2025|571949408|Clump of Mixed Balloons|Fun|A clump of mixed balloons to use as decoration and for you to celebrate.|
 |![](/mixingtable.128.webp)|mixingtable|1259919256|Mixing Table|Items|Used for mixing recipes.|
 |![](/mlrs.128.webp)|mlrs|-1449152644|MLRS|Misc|M270 Multiple Launch Rocket System|
 |![](/mobilephone.128.webp)|mobilephone|-20045316|Mobile Phone|Fun|A mobile phone that lets you place calls from anywhere. Truly cutting edge Cobalt technology. Use [attack] to access the dialer.|
@@ -798,9 +798,9 @@
 |![](/parachute.128.webp)|parachute|602628465|Parachute|Attire|Once equipped, press [+jump] while in mid-air to pull the cord. Must be repacked after use. Must be at least 15m above the ground in order to deploy.|
 |![](/partyhat.128.webp)|partyhat|-575744869|Party Hat|Attire|A very stupid looking party hat|
 |![](/photo.128.webp)|photo|62577426|Photograph|Misc|A photograph taken with an instant camera.|
-|![](/photoframe.landscape.128.webp)|photoframe.landscape|1697996440|Landscape Photo Frame|Items|A landscape oriented canvas for artists paintings.|
-|![](/photoframe.large.128.webp)|photoframe.large|1205084994|Large Photo Frame|Items|A large frame for your photos.|
-|![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Items|A portrait oriented canvas for artists paintings.|
+|![](/photoframe.landscape.128.webp)|photoframe.landscape|1697996440|Landscape Photo Frame|Fun|A landscape oriented canvas for artists paintings.|
+|![](/photoframe.large.128.webp)|photoframe.large|1205084994|Large Photo Frame|Fun|A large frame for your photos.|
+|![](/photoframe.portrait.128.webp)|photoframe.portrait|1729712564|Portrait Photo Frame|Fun|A portrait oriented canvas for artists paintings.|
 |![](/piano.128.webp)|piano|1272430949|Wheelbarrow Piano|Fun|The Piano is a repurposed wheelbarrow that weighs a ton, but makes up for it with a wide range of notes.|
 |![](/pickaxe.128.webp)|pickaxe|-1302129395|Pickaxe|Tool|A Pickaxe, useful for gathering ore from rocks.|
 |![](/pie.apple.128.webp)|pie.apple|4384538|Apple Pie|Food|A delicious apple pie, always too hot. Provides a boost to hunger, health and hydration. Gives better night vision, including tree markings and ore hotspots, for a short time.|
@@ -943,15 +943,15 @@
 |![](/scarecrow.128.webp)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorative deployable item.|
 |![](/scarecrow.suit.128.webp)|scarecrow.suit|273951840|Scarecrow Suit|Attire|A spooky scarecrow suit|
 |![](/scarecrowhead.128.webp)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
-|![](/scientist.plushie.128.webp)|scientist.plushie|445662288|Scientist Plushie|Items|Scientist Plushie|
+|![](/scientist.plushie.128.webp)|scientist.plushie|445662288|Scientist Plushie|Fun|Scientist Plushie|
 |![](/scientistsuit_heavy.128.webp)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
 |![](/scrap.128.webp)|scrap|-932201673|Scrap|Resources|Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.|
-|![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Shutter Frame large|Items|A large shutter frame|
-|![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Shutter Frame Medium|Items|A medium shutter frame|
-|![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Shutter Frame Small|Items|A small shutter frame|
-|![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Shutter Frame Standing|Items|A standing shutter frame|
-|![](/scrapframe.xl.128.webp)|scrapframe.xl|-1244287686|Shutter Frame XL|Items|An extra large shutter frame|
-|![](/scrapframe.xxl.128.webp)|scrapframe.xxl|-1211801774|Shutter Frame XXL|Items|An extra extra large shutter frame|
+|![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Shutter Frame large|Fun|A large shutter frame|
+|![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Shutter Frame Medium|Fun|A medium shutter frame|
+|![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Shutter Frame Small|Fun|A small shutter frame|
+|![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Shutter Frame Standing|Fun|A standing shutter frame|
+|![](/scrapframe.xl.128.webp)|scrapframe.xl|-1244287686|Shutter Frame XL|Fun|An extra large shutter frame|
+|![](/scrapframe.xxl.128.webp)|scrapframe.xxl|-1211801774|Shutter Frame XXL|Fun|An extra extra large shutter frame|
 |![](/scrapmirror.large.128.webp)|scrapmirror.large|-82758111|Scrap Mirror Large|Items|A large scrap mirror|
 |![](/scrapmirror.medium.128.webp)|scrapmirror.medium|839738457|Scrap Mirror Medium|Items|A medium scrap mirror|
 |![](/scrapmirror.small.128.webp)|scrapmirror.small|-1050697733|Scrap Mirror Small|Items|A small scrap mirror|
@@ -962,8 +962,8 @@
 |![](/scraptea.pure.128.webp)|scraptea.pure|2024467711|Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount.|
 |![](/scraptea.pure.milky.128.webp)|scraptea.pure.milky|-1057052157|Milky Pure Scrap Tea|Food|A pure scrap tea, temporarily increases the amount of scrap you receive from barrels a large amount. Enriched with milk to make the effect last longer.|
 |![](/scraptransportheli.128.webp)|scraptransportheli|375473148|Scrap Transport Helicopter|Misc||
-|![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Items|A block of ice you can sculpt and light up with electric power.|
-|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Stone Sculpture|Items|A block of stone you can sculpt.|
+|![](/sculpture.ice.128.webp)|sculpture.ice|504109620|Ice Sculpture|Fun|A block of ice you can sculpt and light up with electric power.|
+|![](/sculpture.rock.128.webp)|sculpture.rock|1852905808|Stone Sculpture|Fun|A block of stone you can sculpt.|
 |![](/searchlight.128.webp)|searchlight|2087678962|Search Light|Electrical|A Large, wide beam, aimable light source.|
 |![](/secretlabchair.128.webp)|secretlabchair|567871954|Secretlab Chair|Items|A luxurious, comfortable chair for long sessions of CCTV watching.|
 |![](/sedan.128.webp)|sedan|-374457631|Sedan|Misc|Sedan|
@@ -999,12 +999,12 @@
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
 |![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|Weapon|A rolling siege tower, providing cover and access to enemy bases. Can be locked with your own door. Can be towed by horses.|
-|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|Artist Canvas Standing|Items|A standing canvas for seamless murals|
-|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|Artist Canvas Large|Items|A large sized canvas for seamless murals|
-|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|Artist Canvas Medium|Items|A medium canvas for seamless murals|
-|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|Artist Canvas XL|Items|An extra large canvas for seamless murals|
-|![](/sign.artistcanvas.xs.128.webp)|sign.artistcanvas.xs|1609921845|Artist Canvas Small|Items|A small canvas for seamless murals|
-|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|Artist Canvas XXL|Items|An extra, extra large canvas for seamless murals|
+|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|Artist Canvas Standing|Fun|A standing canvas for seamless murals|
+|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|Artist Canvas Large|Fun|A large sized canvas for seamless murals|
+|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|Artist Canvas Medium|Fun|A medium canvas for seamless murals|
+|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|Artist Canvas XL|Fun|An extra large canvas for seamless murals|
+|![](/sign.artistcanvas.xs.128.webp)|sign.artistcanvas.xs|1609921845|Artist Canvas Small|Fun|A small canvas for seamless murals|
+|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|Artist Canvas XXL|Fun|An extra, extra large canvas for seamless murals|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
@@ -1013,11 +1013,11 @@
 |![](/sign.neon.125x215.128.webp)|sign.neon.125x215|-1423304443|Medium Neon Sign|Electrical|A medium neon sign!|
 |![](/sign.neon.xl.animated.128.webp)|sign.neon.xl.animated|1643667218|Large Animated Neon Sign|Electrical|A large, animated neon sign!|
 |![](/sign.neon.xl.128.webp)|sign.neon.xl|866332017|Large Neon Sign|Electrical|A large neon sign!|
-|![](/sign.pictureframe.landscape.128.webp)|sign.pictureframe.landscape|-845557339|Landscape Picture Frame|Items|A landscape oriented canvas for artists paintings.|
-|![](/sign.pictureframe.portrait.128.webp)|sign.pictureframe.portrait|-1370759135|Portrait Picture Frame|Items|A portrait oriented canvas for artists paintings.|
-|![](/sign.pictureframe.tall.128.webp)|sign.pictureframe.tall|121049755|Tall Picture Frame|Items|A tall canvas for artists paintings.|
-|![](/sign.pictureframe.xl.128.webp)|sign.pictureframe.xl|-996185386|XL Picture Frame|Items|An extra large canvas for artists paintings.|
-|![](/sign.pictureframe.xxl.128.webp)|sign.pictureframe.xxl|98508942|XXL Picture Frame|Items|A double extra large canvas for artists paintings.|
+|![](/sign.pictureframe.landscape.128.webp)|sign.pictureframe.landscape|-845557339|Landscape Picture Frame|Fun|A landscape oriented canvas for artists paintings.|
+|![](/sign.pictureframe.portrait.128.webp)|sign.pictureframe.portrait|-1370759135|Portrait Picture Frame|Fun|A portrait oriented canvas for artists paintings.|
+|![](/sign.pictureframe.tall.128.webp)|sign.pictureframe.tall|121049755|Tall Picture Frame|Fun|A tall canvas for artists paintings.|
+|![](/sign.pictureframe.xl.128.webp)|sign.pictureframe.xl|-996185386|XL Picture Frame|Fun|An extra large canvas for artists paintings.|
+|![](/sign.pictureframe.xxl.128.webp)|sign.pictureframe.xxl|98508942|XXL Picture Frame|Fun|A double extra large canvas for artists paintings.|
 |![](/sign.pole.banner.large.128.webp)|sign.pole.banner.large|2070189026|Large Banner on pole|Items|A large banner hanging on a pole.|
 |![](/sign.post.double.128.webp)|sign.post.double|1521286012|Double Sign Post|Items|A double sign post that you can plant into terrain.|
 |![](/sign.post.single.128.webp)|sign.post.single|1542290441|Single Sign Post|Items|A single sign post that you can plant into terrain.|
@@ -1083,7 +1083,7 @@
 |![](/spear.wooden.128.webp)|spear.wooden|1540934679|Wooden Spear|Weapon|Primitive weapon, perfect for hunting your foes. Can be upgraded to Stone Spear.|
 |![](/speargun.128.webp)|speargun|-1517740219|Speargun|Weapon|A speargun which can only be fired underwater. Excellent for hunting Sharks.|
 |![](/speargun.spear.128.webp)|speargun.spear|-1800345240|Speargun Spear|Ammunition|Ammunition for a speargun.|
-|![](/speechbubbleballoon2025.128.webp)|speechbubbleballoon2025|963400638|Speech Bubble Balloon|Items|A speech bubble-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
+|![](/speechbubbleballoon2025.128.webp)|speechbubbleballoon2025|963400638|Speech Bubble Balloon|Fun|A speech bubble-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/spiderweb.128.webp)|spiderweb|882559853|Spider Webs|Misc|Giant Cobwebs which can be hung against both a ceiling and a wall.|
 |![](/spikes.floor.128.webp)|spikes.floor|-92759291|Wooden Floor Spikes|Traps|A set of spikes that will slow down and hurt anyone that walks over them.|
 |![](/spikes.trap.128.webp)|spikes.trap|-1850297170|Small Spike Trap|Traps|A small improvised trap that injures and slows anyone who steps on it.|
@@ -1092,7 +1092,7 @@
 |![](/spookyspeaker.128.webp)|spookyspeaker|1885488976|Spooky Speaker|Misc|Frighten your guests with creepy and spooky halloween sounds!|
 |![](/spraycan.128.webp)|spraycan|-596876839|Spray Can|Tool|Use the Spray Can to leave Tags or reskin your items. Press [attack] to spray and [attack2] to reskin items.|
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|Tool||
-|![](/starballoon2025.128.webp)|starballoon2025|-1782127806|Star Balloon|Items|A star-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
+|![](/starballoon2025.128.webp)|starballoon2025|-1782127806|Star Balloon|Fun|A star-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/stash.small.128.webp)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
 |![](/steeringwheel.boat.128.webp)|steeringwheel.boat|-1866909924|Steering Wheel|Items|A lockable steering wheel for your modular boat with some suspiciously shaped handles.|
 |![](/sticks.128.webp)|sticks|642482233|Sticks|Component|Some long, some short.|
@@ -1146,8 +1146,8 @@
 |![](/trap.landmine.128.webp)|trap.landmine|-1663759755|Homemade Landmine|Traps|Homemade Landmine. If you stand on one, you can ask a friend to disarm it before it explodes.|
 |![](/triangle.rail.road.planter.128.webp)|triangle.rail.road.planter|647240052|Triangle Rail Road Planter|Items|A triangle planter with enough room to plant 4 seeds.|
 |![](/trike.128.webp)|trike|1991794121|Trike|Misc|A three-wheeled bicycle.|
-|![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|Items|A trophy dedicated to the survivors of Rust Twitch Rivals|
-|![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|Items|A trophy dedicated to the survivors of Rust Twitch Rivals 2023|
+|![](/trophy.128.webp)|trophy|975983052|Twitch Rivals Trophy|Fun|A trophy dedicated to the survivors of Rust Twitch Rivals|
+|![](/trophy2023.128.webp)|trophy2023|-901370585|Twitch Rivals Trophy 2023|Fun|A trophy dedicated to the survivors of Rust Twitch Rivals 2023|
 |![](/tshirt.128.webp)|tshirt|223891266|T-Shirt|Attire|A tshirt, simple undergarment. Good protection from damage and the elements.|
 |![](/tshirt.long.128.webp)|tshirt.long|935692442|Longsleeve T-Shirt|Attire|Long sleeve tshirt, versatile clothing for protection against damage and the elements.|
 |![](/tugboat.128.webp)|tugboat|-561148628|Tugboat|Items||
@@ -1214,10 +1214,10 @@
 |![](/wallpaper.flooring.128.webp)|wallpaper.flooring|-551431036|Flooring|Items||
 |![](/wallpaper.tool.128.webp)|wallpaper.tool|1629564540|Wallpaper Tool|Tool|Transform your base from a rusty shack to a cozy hideout! This tool lets you apply wallpaper on walls, floors and ceilings. A nice touch of style - until the next raid, at least.Press [+attack2] to select your skin.|
 |![](/wallpaper.wall.128.webp)|wallpaper.wall|553967074|Wallpaper|Tool||
-|![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|Items|A poster that can display a given player's face as wanted.|
-|![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Items|A poster that can display a given player's face as wanted.|
-|![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Items|A poster that can display a given player's face as wanted.|
-|![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Items|A poster that can display a given player's face as wanted.|
+|![](/wantedposter.128.webp)|wantedposter|-1344017968|Wanted Poster|Fun|A poster that can display a given player's face as wanted.|
+|![](/wantedposter.wantedposter2.128.webp)|wantedposter.wantedposter2|301063058|Wanted Poster 2|Fun|A poster that can display a given player's face as wanted.|
+|![](/wantedposter.wantedposter3.128.webp)|wantedposter.wantedposter3|-1265020883|Wanted Poster 3|Fun|A poster that can display a given player's face as wanted.|
+|![](/wantedposter.wantedposter4.128.webp)|wantedposter.wantedposter4|1463862472|Wanted Poster 4|Fun|A poster that can display a given player's face as wanted.|
 |![](/warmingtea.128.webp)|warmingtea|-1142222427|Basic Warming Tea|Food|A basic warming tea that temporarily increases both your core and minimum temperature.|
 |![](/watchtower.wood.128.webp)|watchtower.wood|-463122489|Watch Tower|Construction|A high wooden watchtower with a ladder|
 |![](/water.barrel.128.webp)|water.barrel|-1863559151|Water Barrel|Items|A storage container for water. Can output 10ml of water a second via a hose.|
@@ -1263,10 +1263,10 @@
 |![](/woodarmor.gloves.128.webp)|woodarmor.gloves|-459159118|Wood Armor Gloves|Attire|Gloves made out of wood and leather, offers some protection to the upper body.|
 |![](/woodcross.128.webp)|woodcross|699075597|Wooden Cross|Misc|A wooden cross marking the remains of an unknown soul|
 |![](/wooden.shield.128.webp)|wooden.shield|1604837581|Wooden Shield|Attire|A basic wooden shield, won't last very long. Usable with single handed weapons and tools.|
-|![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|Items|A large wooden frame|
-|![](/woodframe.medium.128.webp)|woodframe.medium|-1541706279|Wood Frame Medium|Items|A medium wooden frame|
-|![](/woodframe.small.128.webp)|woodframe.small|-1476278729|Wood Frame Small|Items|A small wooden frame|
-|![](/woodframe.standing.128.webp)|woodframe.standing|1769475390|Wood Frame Standing|Items|A standing wooden frame|
+|![](/woodframe.large.128.webp)|woodframe.large|-635951327|Wood Frame Large|Fun|A large wooden frame|
+|![](/woodframe.medium.128.webp)|woodframe.medium|-1541706279|Wood Frame Medium|Fun|A medium wooden frame|
+|![](/woodframe.small.128.webp)|woodframe.small|-1476278729|Wood Frame Small|Fun|A small wooden frame|
+|![](/woodframe.standing.128.webp)|woodframe.standing|1769475390|Wood Frame Standing|Fun|A standing wooden frame|
 |![](/woodmirror.large.128.webp)|woodmirror.large|1312679249|Wood Mirror Large|Items|A large wooden mirror|
 |![](/woodmirror.medium.128.webp)|woodmirror.medium|756125481|Wood Mirror Medium|Items|A medium wood mirror|
 |![](/woodmirror.small.128.webp)|woodmirror.small|-1497205569|Wood Mirror Small|Items|A small wooden frame|
