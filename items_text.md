@@ -814,6 +814,7 @@
 |[pie.chicken](/pie.chicken.png)|120820987|Chicken Pie|Food|
 |[pie.chicken.rich](/pie.chicken.rich.png)|2006264797|Rich Chicken Pie|Food|
 |[pie.crocodile](/pie.crocodile.png)|54265286|Crocodile Pie|Food|
+|[pie.crocodile.rich](/pie.crocodile.rich.png)|-1540865198|Rich Crocodile Pie|Food|
 |[pie.fish](/pie.fish.png)|-1785248332|Fish Pie|Food|
 |[pie.fish.rich](/pie.fish.rich.png)|1427291780|Rich Fish Pie|Food|
 |[pie.hunters](/pie.hunters.png)|320438357|Hunters Pie|Food|

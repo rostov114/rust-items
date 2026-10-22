@@ -814,6 +814,7 @@
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|
 |![](/pie.chicken.rich.128.webp)|pie.chicken.rich|2006264797|Rich Chicken Pie|
 |![](/pie.crocodile.128.webp)|pie.crocodile|54265286|Crocodile Pie|
+|![](/pie.crocodile.rich.128.webp)|pie.crocodile.rich|-1540865198|Rich Crocodile Pie|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|
 |![](/pie.fish.rich.128.webp)|pie.fish.rich|1427291780|Rich Fish Pie|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|
