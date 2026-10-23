@@ -19,7 +19,7 @@
 |![](/advancedwarmingtea.128.webp)|advancedwarmingtea|-334418777|Advanced Warming Tea|Food|An advanced warming tea that temporarily increases both your core and minimum temperature.|
 |![](/advanceharvestingtea.128.webp)|advanceharvestingtea|-1385721419|Advanced Harvesting Tea|Food|An advanced harvesting tea, provides hydration and temporarily boosts the amount of resources you receive from harvesting corpses a moderate amount.|
 |![](/aiming.module.mlrs.128.webp)|aiming.module.mlrs|343045591|Aiming Module|Component|An aiming system computer module for MLRS vehicles and satellite control terminals.|
-|![](/alien.costume.128.webp)|alien.costume|1930628359|Alien Costume|Attire|An inflatable alien costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible. Three varieties.|
+|![](/alien.costume.128.webp)|alien.costume|1930628359|Alien Costume|Attire|An inflatable alien costume. Acting as a replacement for bone armor, you can equip this item to look as silly as possible. Three varieties.|
 |![](/ammo.grenadelauncher.buckshot.128.webp)|ammo.grenadelauncher.buckshot|1055319033|40mm Shotgun Round|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.he.128.webp)|ammo.grenadelauncher.he|349762871|40mm HE Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
