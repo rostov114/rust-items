@@ -140,6 +140,9 @@
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|Resources|Blue Dog Tags|
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|Resources|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
+|![](/blueprintbook.128.webp)|blueprintbook|-1896395719|Blueprint Book|Component|A bound collection of precise schematics, used to research Workbench Level 3 items on the tech tree.|
+|![](/blueprintfragment.128.webp)|blueprintfragment|-143481979|Blueprint Fragment|Component|Damaged diagrams containing partial information, used to research Workbench Level 1 items on the tech tree.10 Blueprint Fragments can be pieced together to make a Blueprint Page.|
+|![](/blueprintpage.128.webp)|blueprintpage|-1716287874|Blueprint Page|Component|A partially restored schematic page, used to research Workbench Level 2 items on the tech tree.|
 |![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
 |![](/boat.planner.128.webp)|boat.planner|-321247698|Boat Building Plan|Construction|A boat plan. You can use this to craft boats - right click when equipped for more options.|
 |![](/boatbuildingstation.128.webp)|boatbuildingstation|1993693904|Boat Building Station|Items|A deployable building station, creates a stable workspace on the water to build or edit your floating wooden refuge.|
@@ -1282,11 +1285,11 @@
 |![](/workbench.upgrade.comfort.128.webp)|workbench.upgrade.comfort|-770390391|Comfort Workbench Upgrade|Component|Provides a 100% comfort zone around the workbench for those long crafting sessions.|
 |![](/workbench.upgrade.defensive.128.webp)|workbench.upgrade.defensive|-1953279770|Defensive Workbench Upgrade|Component|Armor or clothing compatible with insert slots will roll an additional slot when crafted using this upgrade.|
 |![](/workbench.upgrade.efficiency.128.webp)|workbench.upgrade.efficiency|1215602244|Efficiency Workbench Upgrade|Component|10% chance to produce a free bonus item when crafting in batches. Ineffective when crafting explosive and raid related items.|
-|![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|Component|Allows unlocking any tech tree item regardless of progression. Cost is doubled and there is a 25% chance of failure that still consumes resources.|
+|![](/workbench.upgrade.prototype.128.webp)|workbench.upgrade.prototype|-180862419|Prototype Workbench Upgrade|Component|Allows unlocking any tech tree item regardless of progression. Each attempt has a 25% chance to succeed, and a failed attempt still consumes resources.|
 |![](/workbench.upgrade.range.128.webp)|workbench.upgrade.range|1470387662|Range Workbench Upgrade|Component|Doubles the workbench crafting radius, letting you craft from twice as far away.|
 |![](/workbench.upgrade.recyclebin.128.webp)|workbench.upgrade.recyclebin|-286541059|Recycle Bin Workbench Upgrade|Component|Crafting at a workbench with this upgrade has a chance to refund up to 10% of the ingredient costs back to you in raw material form.|
 |![](/workbench.upgrade.reinforced.128.webp)|workbench.upgrade.reinforced|112268546|Reinforced Workbench Upgrade|Component|Increases the workbench's max HP by 150% and grants explosive damage resistance.|
-|![](/workbench.upgrade.salvage.128.webp)|workbench.upgrade.salvage|-160105346|Salvage Workbench Upgrade|Component|Reduces the scrap cost of all tech tree unlocks at this bench by 20%.|
+|![](/workbench.upgrade.salvage.128.webp)|workbench.upgrade.salvage|-160105346|Salvage Workbench Upgrade|Component|Each blueprint spent on tech tree unlocks at this bench has a 20% chance to not be consumed.|
 |![](/workbench.upgrade.surplus.128.webp)|workbench.upgrade.surplus|-1536343135|Surplus Workbench Upgrade|Component|20% chance to produce a random surplus part (1-8) when crafting. Surplus parts are used in special alternate recipes.|
 |![](/workbench1.128.webp)|workbench1|1524187186|Workbench Level 1|Items|This allows you to craft and unlock items requiring workbench level 1|
 |![](/workbench2.128.webp)|workbench2|-41896755|Workbench Level 2|Items|This allows you to craft and unlock items requiring workbench level 2|

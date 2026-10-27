@@ -140,6 +140,9 @@
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|
+|![](/blueprintbook.128.webp)|blueprintbook|-1896395719|Blueprint Book|
+|![](/blueprintfragment.128.webp)|blueprintfragment|-143481979|Blueprint Fragment|
+|![](/blueprintpage.128.webp)|blueprintpage|-1716287874|Blueprint Page|
 |![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|
 |![](/boat.planner.128.webp)|boat.planner|-321247698|Boat Building Plan|
 |![](/boatbuildingstation.128.webp)|boatbuildingstation|1993693904|Boat Building Station|
