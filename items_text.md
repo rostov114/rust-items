@@ -140,6 +140,9 @@
 |[bluedogtags](/bluedogtags.png)|1036321299|Blue Dog Tags|Resources|
 |[blueidtag](/blueidtag.png)|1364514421|Blue ID Tag|Resources|
 |[blueprintbase](/blueprintbase.png)|-996920608|Blueprint|Misc|
+|[blueprintbook](/blueprintbook.png)|-1896395719|Blueprint Book|Component|
+|[blueprintfragment](/blueprintfragment.png)|-143481979|Blueprint Fragment|Component|
+|[blueprintpage](/blueprintpage.png)|-1716287874|Blueprint Page|Component|
 |[blunderbuss](/blunderbuss.png)|-880412831|Blunderbuss|Weapon|
 |[boat.planner](/boat.planner.png)|-321247698|Boat Building Plan|Construction|
 |[boatbuildingstation](/boatbuildingstation.png)|1993693904|Boat Building Station|Items|
