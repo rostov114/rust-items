@@ -242,6 +242,7 @@
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|Items|Lead insert that adds radiation protection for crafted clothes and armor.|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|Items|Metal insert for crafted clothing and armor, provides extra protection from projectiles.|
 |![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|Items|Wood insert for crafted clothes and armor, provides some extra protection from bullets and melee.|
+|![](/clothing.mod.armorinsert_wool.128.webp)|clothing.mod.armorinsert_wool|-593892104|Wool Armor Insert|Items|Wool insert for clothing and armour. Adds cold, melee and projectile protection.|
 |![](/coal.128.webp)|coal|204391461|Coal :(|Resources|Crappy Holidays!|
 |![](/cocoknight.armor.gloves.128.webp)|cocoknight.armor.gloves|1873004466|Coconut Armor Gloves|Attire|Hand protection made of bark and plants, offers some protection to the upper body.|
 |![](/cocoknight.armor.helmet.128.webp)|cocoknight.armor.helmet|-582467439|Coconut Armor Helmet|Attire|A shoddy helmet made from coconut, provides some basic protection from melee and ranged attacks.|
@@ -987,6 +988,7 @@
 |![](/seed.yellow.berry.128.webp)|seed.yellow.berry|-520133715|Yellow Berry Seed|Food|These yellow berry seeds can be planted in the ground and grown to collect additional food.Planting these seeds in a planter, and then watering them with large quantities of water yields significantly more berries and faster growth.|
 |![](/semibody.128.webp)|semibody|573926264|Semi Automatic Body|Component|The firing mechanism of a semi automatic weapon.|
 |![](/sewingkit.128.webp)|sewingkit|1234880403|Sewing Kit|Component|A Sewing kit. Used to make advanced clothing.|
+|![](/shears.128.webp)|shears|-1953695556|Shears|Tool|Used to shear wool from sheep. More effective than other weapons and will never hurt a sheep.|
 |![](/sheetmetal.128.webp)|sheetmetal|-1994909036|Sheet Metal|Component|Sheet metal scraps.|
 |![](/shelves.128.webp)|shelves|1950721418|Salvaged Shelves|Items|Shelves for item stacking|
 |![](/shirt.collared.128.webp)|shirt.collared|-2025184684|Shirt|Attire|A smart casual shirt. Might make you look more trustworthy. Moderate clothing for protection against damage and the elements.|
@@ -1066,6 +1068,7 @@
 |![](/smg.2.128.webp)|smg.2|1796682209|Custom SMG|Weapon|A rapid-firing Machine Gun. Sacrifices accuracy and distance for speed.|
 |![](/smg.mp5.128.webp)|smg.mp5|1318558775|MP5A4|Weapon|A medium damage machine gun.|
 |![](/smg.thompson.128.webp)|smg.thompson|-1758372725|Thompson|Weapon|A medium damage machine gun.|
+|![](/smg.uzi.128.webp)|smg.uzi|2125127001|Uzi|Weapon|A compact, fast-firing machine pistol. Hold [+firemode] to extend the stock for better control.|
 |![](/smgbody.128.webp)|smgbody|1230323789|SMG Body|Component|The firing mechanism of a submachinegun. Used in construction of a weapon that can fire pistol ammo fully automatic.|
 |![](/snakemeat.cooked.128.webp)|snakemeat.cooked|-170436364|Cooked Snake Meat|Food|Delicious Snake Meat, Eating it will restore some health, hunger, and thirst.|
 |![](/snakemeat.128.webp)|snakemeat|-2100458529|Raw Snake Meat|Food|Raw Snake Meat. Eating it will damage your health, try cooking it first.|
