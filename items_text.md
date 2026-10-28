@@ -242,6 +242,7 @@
 |[clothing.mod.armorinsert_lead](/clothing.mod.armorinsert_lead.png)|2047789913|Lead Armor Insert|Items|
 |[clothing.mod.armorinsert_metal](/clothing.mod.armorinsert_metal.png)|1099611828|Metal Armor Insert|Items|
 |[clothing.mod.armorinsert_wood](/clothing.mod.armorinsert_wood.png)|-593892112|Wooden Armor Insert|Items|
+|[clothing.mod.armorinsert_wool](/clothing.mod.armorinsert_wool.png)|-593892104|Wool Armor Insert|Items|
 |[coal](/coal.png)|204391461|Coal :(|Resources|
 |[cocoknight.armor.gloves](/cocoknight.armor.gloves.png)|1873004466|Coconut Armor Gloves|Attire|
 |[cocoknight.armor.helmet](/cocoknight.armor.helmet.png)|-582467439|Coconut Armor Helmet|Attire|
@@ -987,6 +988,7 @@
 |[seed.yellow.berry](/seed.yellow.berry.png)|-520133715|Yellow Berry Seed|Food|
 |[semibody](/semibody.png)|573926264|Semi Automatic Body|Component|
 |[sewingkit](/sewingkit.png)|1234880403|Sewing Kit|Component|
+|[shears](/shears.png)|-1953695556|Shears|Tool|
 |[sheetmetal](/sheetmetal.png)|-1994909036|Sheet Metal|Component|
 |[shelves](/shelves.png)|1950721418|Salvaged Shelves|Items|
 |[shirt.collared](/shirt.collared.png)|-2025184684|Shirt|Attire|
@@ -1066,6 +1068,7 @@
 |[smg.2](/smg.2.png)|1796682209|Custom SMG|Weapon|
 |[smg.mp5](/smg.mp5.png)|1318558775|MP5A4|Weapon|
 |[smg.thompson](/smg.thompson.png)|-1758372725|Thompson|Weapon|
+|[smg.uzi](/smg.uzi.png)|2125127001|Uzi|Weapon|
 |[smgbody](/smgbody.png)|1230323789|SMG Body|Component|
 |[snakemeat.cooked](/snakemeat.cooked.png)|-170436364|Cooked Snake Meat|Food|
 |[snakemeat](/snakemeat.png)|-2100458529|Raw Snake Meat|Food|
