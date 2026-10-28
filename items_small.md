@@ -242,6 +242,7 @@
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|
 |![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|
+|![](/clothing.mod.armorinsert_wool.128.webp)|clothing.mod.armorinsert_wool|-593892104|Wool Armor Insert|
 |![](/coal.128.webp)|coal|204391461|Coal :(|
 |![](/cocoknight.armor.gloves.128.webp)|cocoknight.armor.gloves|1873004466|Coconut Armor Gloves|
 |![](/cocoknight.armor.helmet.128.webp)|cocoknight.armor.helmet|-582467439|Coconut Armor Helmet|
@@ -987,6 +988,7 @@
 |![](/seed.yellow.berry.128.webp)|seed.yellow.berry|-520133715|Yellow Berry Seed|
 |![](/semibody.128.webp)|semibody|573926264|Semi Automatic Body|
 |![](/sewingkit.128.webp)|sewingkit|1234880403|Sewing Kit|
+|![](/shears.128.webp)|shears|-1953695556|Shears|
 |![](/sheetmetal.128.webp)|sheetmetal|-1994909036|Sheet Metal|
 |![](/shelves.128.webp)|shelves|1950721418|Salvaged Shelves|
 |![](/shirt.collared.128.webp)|shirt.collared|-2025184684|Shirt|
@@ -1066,6 +1068,7 @@
 |![](/smg.2.128.webp)|smg.2|1796682209|Custom SMG|
 |![](/smg.mp5.128.webp)|smg.mp5|1318558775|MP5A4|
 |![](/smg.thompson.128.webp)|smg.thompson|-1758372725|Thompson|
+|![](/smg.uzi.128.webp)|smg.uzi|2125127001|Uzi|
 |![](/smgbody.128.webp)|smgbody|1230323789|SMG Body|
 |![](/snakemeat.cooked.128.webp)|snakemeat.cooked|-170436364|Cooked Snake Meat|
 |![](/snakemeat.128.webp)|snakemeat|-2100458529|Raw Snake Meat|
