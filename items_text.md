@@ -146,6 +146,9 @@
 |[bluedogtags](/bluedogtags.png)|1036321299|Blue Dog Tags|Resources|
 |[blueidtag](/blueidtag.png)|1364514421|Blue ID Tag|Resources|
 |[blueprintbase](/blueprintbase.png)|-996920608|Blueprint|Misc|
+|[blueprintbook](/blueprintbook.png)|-1896395719|Blueprint Book|Component|
+|[blueprintfragment](/blueprintfragment.png)|-143481979|Blueprint Fragment|Component|
+|[blueprintpage](/blueprintpage.png)|-1716287874|Blueprint Page|Component|
 |[blunderbuss](/blunderbuss.png)|-880412831|Blunderbuss|Weapon|
 |[boat.planner](/boat.planner.png)|-321247698|Boat Building Plan|Construction|
 |[boatbuildingstation](/boatbuildingstation.png)|1993693904|Boat Building Station|Items|
@@ -209,10 +212,10 @@
 |[chair](/chair.png)|1534542921|Chair|Items|
 |[charcoal](/charcoal.png)|-1938052175|Charcoal|Resources|
 |[charity.plushie.05](/charity.plushie.05.png)|374496151|Humane World Charity 2026 Plushie|Items|
-|[charity.plushy.01](/charity.plushy.01.png)|2130820932|Cancer Research UK Plushie|Items|
-|[charity.plushy.02](/charity.plushy.02.png)|2130820933|Ronald McDonald House UK Plushie|Items|
-|[charity.plushy.03](/charity.plushy.03.png)|2130820934|Ronald McDonald House UK 2026 Plushie|Items|
-|[charity.plushy.04](/charity.plushy.04.png)|2130820927|Cancer Research UK 2026 Plushie|Items|
+|[charity.plushy.01](/charity.plushy.01.png)|2130820932|Cancer Research UK Plushie|Fun|
+|[charity.plushy.02](/charity.plushy.02.png)|2130820933|Ronald McDonald House UK Plushie|Fun|
+|[charity.plushy.03](/charity.plushy.03.png)|2130820934|Ronald McDonald House UK 2026 Plushie|Fun|
+|[charity.plushy.04](/charity.plushy.04.png)|2130820927|Cancer Research UK 2026 Plushie|Fun|
 |[chicken.burned](/chicken.burned.png)|1973684065|Burnt Chicken|Food|
 |[chicken.cooked](/chicken.cooked.png)|-1848736516|Cooked Chicken|Food|
 |[chicken.costume](/chicken.costume.png)|-152332823|Chicken Costume|Attire|
@@ -222,7 +225,7 @@
 |[chineselantern](/chineselantern.png)|-1916473915|Chinese Lantern|Items|
 |[chineselanternwhite](/chineselanternwhite.png)|-770304148|Chinese Lantern White|Items|
 |[chocolate](/chocolate.png)|-965336208|Chocolate Bar|Food|
-|[circleballoon2025](/circleballoon2025.png)|-105343718|Circle Balloon|Items|
+|[circleballoon2025](/circleballoon2025.png)|-105343718|Circle Balloon|Fun|
 |[clantable](/clantable.png)|486661382|Clan Table|Items|
 |[clatter.helmet](/clatter.helmet.png)|968019378|Clatter Helmet|Attire|
 |[clone.black.berry](/clone.black.berry.png)|122783240|Black Berry Clone|Food|
@@ -245,6 +248,7 @@
 |[clothing.mod.armorinsert_lead](/clothing.mod.armorinsert_lead.png)|2047789913|Lead Armor Insert|Items|
 |[clothing.mod.armorinsert_metal](/clothing.mod.armorinsert_metal.png)|1099611828|Metal Armor Insert|Items|
 |[clothing.mod.armorinsert_wood](/clothing.mod.armorinsert_wood.png)|-593892112|Wooden Armor Insert|Items|
+|[clothing.mod.armorinsert_wool](/clothing.mod.armorinsert_wool.png)|-593892104|Wool Armor Insert|Items|
 |[coal](/coal.png)|204391461|Coal :(|Resources|
 |[cocoknight.armor.gloves](/cocoknight.armor.gloves.png)|1873004466|Coconut Armor Gloves|Attire|
 |[cocoknight.armor.helmet](/cocoknight.armor.helmet.png)|-582467439|Coconut Armor Helmet|Attire|
@@ -311,9 +315,9 @@
 |[discoball](/discoball.png)|1895235349|Disco Ball|Fun|
 |[discofloor](/discofloor.png)|286648290|Disco Floor|Fun|
 |[discofloor.largetiles](/discofloor.largetiles.png)|1735402444|Disco Floor|Fun|
-|[discord.plushie](/discord.plushie.png)|-1800102806|Wumpus Plush|Items|
-|[discord.trophy](/discord.trophy.png)|1494014226|Discord Trophy|Items|
-|[discord.zombie.plushie](/discord.zombie.plushie.png)|-570638754|Zombie Wumpus Plush|Items|
+|[discord.plushie](/discord.plushie.png)|-1800102806|Wumpus Plush|Fun|
+|[discord.trophy](/discord.trophy.png)|1494014226|Discord Trophy|Fun|
+|[discord.zombie.plushie](/discord.zombie.plushie.png)|-570638754|Zombie Wumpus Plush|Fun|
 |[diverhatchet](/diverhatchet.png)|1046904719|Abyss Metal Hatchet|Tool|
 |[diverpickaxe](/diverpickaxe.png)|1561022037|Abyss Metal Pickaxe|Tool|
 |[divertorch](/divertorch.png)|1846605708|Abyss Torch|Tool|
@@ -342,7 +346,7 @@
 |[dropbox](/dropbox.png)|-1519126340|Drop Box|Items|
 |[drumkit](/drumkit.png)|-1330640246|Junkyard Drum Kit|Fun|
 |[ducttape](/ducttape.png)|1401987718|Duct Tape|Component|
-|[easel](/easel.png)|-1779203452|Portable Easel|Items|
+|[easel](/easel.png)|-1779203452|Portable Easel|Fun|
 |[easter.bronzeegg](/easter.bronzeegg.png)|844440409|Bronze Egg|Misc|
 |[easter.goldegg](/easter.goldegg.png)|-1002156085|Gold Egg|Misc|
 |[easter.paintedeggs](/easter.paintedeggs.png)|-126305173|Painted Egg|Misc|
@@ -435,7 +439,7 @@
 |[fishing.tackle](/fishing.tackle.png)|-1707425764|Fishing Tackle|Tool|
 |[fishingrod.handmade](/fishingrod.handmade.png)|1569882109|Handmade Fishing Rod|Tool|
 |[fishtrap.small](/fishtrap.small.png)|559147458|Survival Fish Trap|Items|
-|[fishtrophy](/fishtrophy.png)|-1913996738|Fish Trophy|Items|
+|[fishtrophy](/fishtrophy.png)|-1913996738|Fish Trophy|Fun|
 |[flamethrower](/flamethrower.png)|-1215753368|Flame Thrower|Weapon|
 |[flameturret](/flameturret.png)|528668503|Flame Turret|Traps|
 |[flare](/flare.png)|304481038|Flare|Tool|
@@ -499,12 +503,12 @@
 |[gingerbreadsuit](/gingerbreadsuit.png)|-558880549|Gingerbread Suit|Attire|
 |[gloweyes](/gloweyes.png)|-690276911|Glowing Eyes|Attire|
 |[glue](/glue.png)|-1899491405|Glue|Component|
-|[goldframe.large](/goldframe.large.png)|-996235148|Ornate Frame large|Items|
-|[goldframe.medium](/goldframe.medium.png)|-1901993050|Ornate Frame Medium|Items|
-|[goldframe.small](/goldframe.small.png)|-1836526520|Ornate Frame Small|Items|
-|[goldframe.standing](/goldframe.standing.png)|-1528767189|Ornate Frame Standing|Items|
-|[goldframe.xl](/goldframe.xl.png)|-1430299277|Ornate Frame XL|Items|
-|[goldframe.xxl](/goldframe.xxl.png)|-1322332389|Ornate Frame XXL|Items|
+|[goldframe.large](/goldframe.large.png)|-996235148|Ornate Frame large|Fun|
+|[goldframe.medium](/goldframe.medium.png)|-1901993050|Ornate Frame Medium|Fun|
+|[goldframe.small](/goldframe.small.png)|-1836526520|Ornate Frame Small|Fun|
+|[goldframe.standing](/goldframe.standing.png)|-1528767189|Ornate Frame Standing|Fun|
+|[goldframe.xl](/goldframe.xl.png)|-1430299277|Ornate Frame XL|Fun|
+|[goldframe.xxl](/goldframe.xxl.png)|-1322332389|Ornate Frame XXL|Fun|
 |[goldmirror.large](/goldmirror.large.png)|1365234594|Gold Mirror large|Items|
 |[goldmirror.medium](/goldmirror.medium.png)|-1804515496|Gold Mirror Medium|Items|
 |[goldmirror.small](/goldmirror.small.png)|-1444650226|Gold Mirror Small|Items|
@@ -567,7 +571,7 @@
 |[hatchet](/hatchet.png)|-1252059217|Hatchet|Tool|
 |[hazmat.krieg](/hazmat.krieg.png)|-902423513|Krieg Hazmat|Attire|
 |[hazmat.plague](/hazmat.plague.png)|-1587608109|Plague Doctor Hazmat Suit|Attire|
-|[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Items|
+|[hazmat.plushy](/hazmat.plushy.png)|1578317134|Hazmat Plushy|Fun|
 |[hazmatsuit.arcticsuit](/hazmatsuit.arcticsuit.png)|-470439097|Arctic Suit|Attire|
 |[hazmatsuit.diver](/hazmatsuit.diver.png)|-797592358|Abyss Hazmat|Attire|
 |[hazmatsuit.frontier](/hazmatsuit.frontier.png)|-105415879|Frontier Suit|Attire|
@@ -590,11 +594,11 @@
 |[healingtea.pure.creamy](/healingtea.pure.creamy.png)|-132349657|Creamy Pure Healing Tea|Food|
 |[healingtea.pure](/healingtea.pure.png)|-1677315902|Pure Healing Tea|Food|
 |[healingtea.pure.milky](/healingtea.pure.milky.png)|-1644292642|Milky Pure Healing Tea|Food|
-|[heartballoon2025](/heartballoon2025.png)|362863314|Heart Balloon|Items|
+|[heartballoon2025](/heartballoon2025.png)|362863314|Heart Balloon|Fun|
 |[heavy.plate.helmet](/heavy.plate.helmet.png)|1181207482|Heavy Plate Helmet|Attire|
 |[heavy.plate.jacket](/heavy.plate.jacket.png)|-1102429027|Heavy Plate Jacket|Attire|
 |[heavy.plate.pants](/heavy.plate.pants.png)|-1778159885|Heavy Plate Pants|Attire|
-|[heavy.scientist.plushie](/heavy.scientist.plushie.png)|146221721|Heavy Scientist Plushie|Items|
+|[heavy.scientist.plushie](/heavy.scientist.plushie.png)|146221721|Heavy Scientist Plushie|Fun|
 |[heavyscientistyoutooz](/heavyscientistyoutooz.png)|-722629980|Heavy Scientist Youtooz|Items|
 |[hitchtroughcombo](/hitchtroughcombo.png)|1160881421|Hitch & Trough|Items|
 |[hmlmg](/hmlmg.png)|-1214542497|HMLMG|Weapon|
@@ -626,8 +630,8 @@
 |[humanmeat.cooked](/humanmeat.cooked.png)|1536610005|Cooked Human Meat|Food|
 |[humanmeat.raw](/humanmeat.raw.png)|-1709878924|Raw Human Meat|Food|
 |[humanmeat.spoiled](/humanmeat.spoiled.png)|1272768630|Spoiled Human Meat|Food|
-|[huntingtrophylarge](/huntingtrophylarge.png)|960673498|Large Hunting Trophy|Items|
-|[huntingtrophysmall](/huntingtrophysmall.png)|-869598982|Small Hunting Trophy|Items|
+|[huntingtrophylarge](/huntingtrophylarge.png)|960673498|Large Hunting Trophy|Fun|
+|[huntingtrophysmall](/huntingtrophysmall.png)|-869598982|Small Hunting Trophy|Fun|
 |[icepick.salvaged](/icepick.salvaged.png)|-1780802565|Salvaged Icepick|Tool|
 |[improvised.shield](/improvised.shield.png)|196784377|Improvised Shield|Attire|
 |[industrial.autoturret](/industrial.autoturret.png)|-786398324|Industrial Auto Turret|Electrical|
@@ -685,19 +689,19 @@
 |[largecandles](/largecandles.png)|-489848205|Large Candle Set|Misc|
 |[largemedkit](/largemedkit.png)|254522515|Large Medkit|Medical|
 |[laserlight](/laserlight.png)|853471967|Laser Light|Fun|
-|[latexballoon2025](/latexballoon2025.png)|1295301598|Latex Balloon|Items|
-|[latexclumpballoon2025](/latexclumpballoon2025.png)|-1440443161|Clump of Latex Balloons|Items|
+|[latexballoon2025](/latexballoon2025.png)|1295301598|Latex Balloon|Fun|
+|[latexclumpballoon2025](/latexclumpballoon2025.png)|-1440443161|Clump of Latex Balloons|Fun|
 |[lavenderidtag](/lavenderidtag.png)|1223729384|Lavender ID Tag|Resources|
 |[leather](/leather.png)|1381010055|Leather|Resources|
 |[legacy bow](/legacy bow.png)|-73195037|Legacy Bow|Weapon|
 |[legacy.shelter.wood](/legacy.shelter.wood.png)|607400343|Legacy Wood Shelter|Construction|
 |[legacyfurnace](/legacyfurnace.png)|-1310391395|Legacy Furnace|Items|
-|[lightup.large](/lightup.large.png)|242421166|Light-Up Frame Large|Items|
-|[lightup.xl](/lightup.xl.png)|1801656689|Light-Up Frame XL|Items|
-|[lightup.xxl](/lightup.xxl.png)|1447138977|Light-Up Frame XXL|Items|
-|[lightupframe.medium](/lightupframe.medium.png)|-1294739579|Light-Up Frame Medium|Items|
-|[lightupframe.small](/lightupframe.small.png)|1691223771|Light-Up Frame Small|Items|
-|[lightupframe.standing](/lightupframe.standing.png)|1950013766|Light-Up Frame Standing|Items|
+|[lightup.large](/lightup.large.png)|242421166|Light-Up Frame Large|Fun|
+|[lightup.xl](/lightup.xl.png)|1801656689|Light-Up Frame XL|Fun|
+|[lightup.xxl](/lightup.xxl.png)|1447138977|Light-Up Frame XXL|Fun|
+|[lightupframe.medium](/lightupframe.medium.png)|-1294739579|Light-Up Frame Medium|Fun|
+|[lightupframe.small](/lightupframe.small.png)|1691223771|Light-Up Frame Small|Fun|
+|[lightupframe.standing](/lightupframe.standing.png)|1950013766|Light-Up Frame Standing|Fun|
 |[lightupmirror.large](/lightupmirror.large.png)|450531685|Light-Up Mirror Large|Items|
 |[lightupmirror.medium](/lightupmirror.medium.png)|1028889957|Light-Up Mirror Medium|Items|
 |[lightupmirror.small](/lightupmirror.small.png)|-389796733|Light-Up Mirror Small|Items|
@@ -756,13 +760,14 @@
 |[mini fridge](/mini fridge.png)|1174484438|Mini Fridge|Electrical|
 |[minicopter](/minicopter.png)|-1334255764|Minicopter|Misc|
 |[minicrossbow](/minicrossbow.png)|-482348853|Mini Crossbow|Weapon|
+|[minifridge](/minifridge.png)|1174484438|Mini Fridge|Electrical|
 |[minigun](/minigun.png)|935606207|Minigun|Weapon|
 |[minigunammopack](/minigunammopack.png)|355877490|Minigun Ammo Pack|Attire|
 |[minihelicopter.repair](/minihelicopter.repair.png)|1426574435|Minicopter|Misc|
 |[mining.pumpjack](/mining.pumpjack.png)|-1130709577|Pump Jack|Construction|
 |[mining.quarry](/mining.quarry.png)|1052926200|Mining Quarry|Construction|
 |[mintidtag](/mintidtag.png)|1572152877|Mint ID Tag|Resources|
-|[mixedclumpballoon2025](/mixedclumpballoon2025.png)|571949408|Clump of Mixed Balloons|Items|
+|[mixedclumpballoon2025](/mixedclumpballoon2025.png)|571949408|Clump of Mixed Balloons|Fun|
 |[mixingtable](/mixingtable.png)|1259919256|Mixing Table|Items|
 |[mlrs](/mlrs.png)|-1449152644|MLRS|Misc|
 |[mobilephone](/mobilephone.png)|-20045316|Mobile Phone|Fun|
@@ -805,9 +810,9 @@
 |[parachute](/parachute.png)|602628465|Parachute|Attire|
 |[partyhat](/partyhat.png)|-575744869|Party Hat|Attire|
 |[photo](/photo.png)|62577426|Photograph|Misc|
-|[photoframe.landscape](/photoframe.landscape.png)|1697996440|Landscape Photo Frame|Items|
-|[photoframe.large](/photoframe.large.png)|1205084994|Large Photo Frame|Items|
-|[photoframe.portrait](/photoframe.portrait.png)|1729712564|Portrait Photo Frame|Items|
+|[photoframe.landscape](/photoframe.landscape.png)|1697996440|Landscape Photo Frame|Fun|
+|[photoframe.large](/photoframe.large.png)|1205084994|Large Photo Frame|Fun|
+|[photoframe.portrait](/photoframe.portrait.png)|1729712564|Portrait Photo Frame|Fun|
 |[piano](/piano.png)|1272430949|Wheelbarrow Piano|Fun|
 |[pickaxe](/pickaxe.png)|-1302129395|Pickaxe|Tool|
 |[pie.apple](/pie.apple.png)|4384538|Apple Pie|Food|
@@ -821,6 +826,7 @@
 |[pie.chicken](/pie.chicken.png)|120820987|Chicken Pie|Food|
 |[pie.chicken.rich](/pie.chicken.rich.png)|2006264797|Rich Chicken Pie|Food|
 |[pie.crocodile](/pie.crocodile.png)|54265286|Crocodile Pie|Food|
+|[pie.crocodile.rich](/pie.crocodile.rich.png)|-1540865198|Rich Crocodile Pie|Food|
 |[pie.fish](/pie.fish.png)|-1785248332|Fish Pie|Food|
 |[pie.fish.rich](/pie.fish.rich.png)|1427291780|Rich Fish Pie|Food|
 |[pie.hunters](/pie.hunters.png)|320438357|Hunters Pie|Food|
@@ -950,15 +956,15 @@
 |[scarecrow](/scarecrow.png)|177226991|Scarecrow|Items|
 |[scarecrow.suit](/scarecrow.suit.png)|273951840|Scarecrow Suit|Attire|
 |[scarecrowhead](/scarecrowhead.png)|809942731|Scarecrow Wrap|Attire|
-|[scientist.plushie](/scientist.plushie.png)|445662288|Scientist Plushie|Items|
+|[scientist.plushie](/scientist.plushie.png)|445662288|Scientist Plushie|Fun|
 |[scientistsuit_heavy](/scientistsuit_heavy.png)|-1772746857|Heavy Scientist Suit|Attire|
 |[scrap](/scrap.png)|-932201673|Scrap|Resources|
-|[scrapframe.large](/scrapframe.large.png)|-1094453063|Shutter Frame large|Items|
-|[scrapframe.medium](/scrapframe.medium.png)|-1060567807|Shutter Frame Medium|Items|
-|[scrapframe.small](/scrapframe.small.png)|-498301781|Shutter Frame Small|Items|
-|[scrapframe.standing](/scrapframe.standing.png)|-1774190142|Shutter Frame Standing|Items|
-|[scrapframe.xl](/scrapframe.xl.png)|-1244287686|Shutter Frame XL|Items|
-|[scrapframe.xxl](/scrapframe.xxl.png)|-1211801774|Shutter Frame XXL|Items|
+|[scrapframe.large](/scrapframe.large.png)|-1094453063|Shutter Frame large|Fun|
+|[scrapframe.medium](/scrapframe.medium.png)|-1060567807|Shutter Frame Medium|Fun|
+|[scrapframe.small](/scrapframe.small.png)|-498301781|Shutter Frame Small|Fun|
+|[scrapframe.standing](/scrapframe.standing.png)|-1774190142|Shutter Frame Standing|Fun|
+|[scrapframe.xl](/scrapframe.xl.png)|-1244287686|Shutter Frame XL|Fun|
+|[scrapframe.xxl](/scrapframe.xxl.png)|-1211801774|Shutter Frame XXL|Fun|
 |[scrapmirror.large](/scrapmirror.large.png)|-82758111|Scrap Mirror Large|Items|
 |[scrapmirror.medium](/scrapmirror.medium.png)|839738457|Scrap Mirror Medium|Items|
 |[scrapmirror.small](/scrapmirror.small.png)|-1050697733|Scrap Mirror Small|Items|
@@ -969,8 +975,8 @@
 |[scraptea.pure](/scraptea.pure.png)|2024467711|Pure Scrap Tea|Food|
 |[scraptea.pure.milky](/scraptea.pure.milky.png)|-1057052157|Milky Pure Scrap Tea|Food|
 |[scraptransportheli](/scraptransportheli.png)|375473148|Scrap Transport Helicopter|Misc|
-|[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Items|
-|[sculpture.rock](/sculpture.rock.png)|1852905808|Stone Sculpture|Items|
+|[sculpture.ice](/sculpture.ice.png)|504109620|Ice Sculpture|Fun|
+|[sculpture.rock](/sculpture.rock.png)|1852905808|Stone Sculpture|Fun|
 |[searchlight](/searchlight.png)|2087678962|Search Light|Electrical|
 |[secretlabchair](/secretlabchair.png)|567871954|Secretlab Chair|Items|
 |[sedan](/sedan.png)|-374457631|Sedan|Misc|
@@ -990,6 +996,7 @@
 |[seed.yellow.berry](/seed.yellow.berry.png)|-520133715|Yellow Berry Seed|Food|
 |[semibody](/semibody.png)|573926264|Semi Automatic Body|Component|
 |[sewingkit](/sewingkit.png)|1234880403|Sewing Kit|Component|
+|[shears](/shears.png)|-1953695556|Shears|Tool|
 |[sheetmetal](/sheetmetal.png)|-1994909036|Sheet Metal|Component|
 |[shelves](/shelves.png)|1950721418|Salvaged Shelves|Items|
 |[shirt.collared](/shirt.collared.png)|-2025184684|Shirt|Attire|
@@ -1006,12 +1013,12 @@
 |[shutter.wood.a](/shutter.wood.a.png)|-1023374709|Wood Shutters|Construction|
 |[sickle](/sickle.png)|-1368584029|Sickle|Misc|
 |[siegetower](/siegetower.png)|-1290278434|Siege Tower|Weapon|
-|[sign.artistcanvas.l](/sign.artistcanvas.l.png)|-946599114|Artist Canvas Standing|Items|
-|[sign.artistcanvas.m](/sign.artistcanvas.m.png)|-946599113|Artist Canvas Large|Items|
-|[sign.artistcanvas.s](/sign.artistcanvas.s.png)|-946599131|Artist Canvas Medium|Items|
-|[sign.artistcanvas.xl](/sign.artistcanvas.xl.png)|1562867678|Artist Canvas XL|Items|
-|[sign.artistcanvas.xs](/sign.artistcanvas.xs.png)|1609921845|Artist Canvas Small|Items|
-|[sign.artistcanvas.xxl](/sign.artistcanvas.xxl.png)|-816769770|Artist Canvas XXL|Items|
+|[sign.artistcanvas.l](/sign.artistcanvas.l.png)|-946599114|Artist Canvas Standing|Fun|
+|[sign.artistcanvas.m](/sign.artistcanvas.m.png)|-946599113|Artist Canvas Large|Fun|
+|[sign.artistcanvas.s](/sign.artistcanvas.s.png)|-946599131|Artist Canvas Medium|Fun|
+|[sign.artistcanvas.xl](/sign.artistcanvas.xl.png)|1562867678|Artist Canvas XL|Fun|
+|[sign.artistcanvas.xs](/sign.artistcanvas.xs.png)|1609921845|Artist Canvas Small|Fun|
+|[sign.artistcanvas.xxl](/sign.artistcanvas.xxl.png)|-816769770|Artist Canvas XXL|Fun|
 |[sign.hanging.banner.large](/sign.hanging.banner.large.png)|23352662|Large Banner Hanging|Items|
 |[sign.hanging](/sign.hanging.png)|1205607945|Two Sided Hanging Sign|Items|
 |[sign.hanging.ornate](/sign.hanging.ornate.png)|-1647846966|Two Sided Ornate Hanging Sign|Items|
@@ -1020,11 +1027,11 @@
 |[sign.neon.125x215](/sign.neon.125x215.png)|-1423304443|Medium Neon Sign|Electrical|
 |[sign.neon.xl.animated](/sign.neon.xl.animated.png)|1643667218|Large Animated Neon Sign|Electrical|
 |[sign.neon.xl](/sign.neon.xl.png)|866332017|Large Neon Sign|Electrical|
-|[sign.pictureframe.landscape](/sign.pictureframe.landscape.png)|-845557339|Landscape Picture Frame|Items|
-|[sign.pictureframe.portrait](/sign.pictureframe.portrait.png)|-1370759135|Portrait Picture Frame|Items|
-|[sign.pictureframe.tall](/sign.pictureframe.tall.png)|121049755|Tall Picture Frame|Items|
-|[sign.pictureframe.xl](/sign.pictureframe.xl.png)|-996185386|XL Picture Frame|Items|
-|[sign.pictureframe.xxl](/sign.pictureframe.xxl.png)|98508942|XXL Picture Frame|Items|
+|[sign.pictureframe.landscape](/sign.pictureframe.landscape.png)|-845557339|Landscape Picture Frame|Fun|
+|[sign.pictureframe.portrait](/sign.pictureframe.portrait.png)|-1370759135|Portrait Picture Frame|Fun|
+|[sign.pictureframe.tall](/sign.pictureframe.tall.png)|121049755|Tall Picture Frame|Fun|
+|[sign.pictureframe.xl](/sign.pictureframe.xl.png)|-996185386|XL Picture Frame|Fun|
+|[sign.pictureframe.xxl](/sign.pictureframe.xxl.png)|98508942|XXL Picture Frame|Fun|
 |[sign.pole.banner.large](/sign.pole.banner.large.png)|2070189026|Large Banner on pole|Items|
 |[sign.post.double](/sign.post.double.png)|1521286012|Double Sign Post|Items|
 |[sign.post.single](/sign.post.single.png)|1542290441|Single Sign Post|Items|
@@ -1069,6 +1076,7 @@
 |[smg.2](/smg.2.png)|1796682209|Custom SMG|Weapon|
 |[smg.mp5](/smg.mp5.png)|1318558775|MP5A4|Weapon|
 |[smg.thompson](/smg.thompson.png)|-1758372725|Thompson|Weapon|
+|[smg.uzi](/smg.uzi.png)|2125127001|Uzi|Weapon|
 |[smgbody](/smgbody.png)|1230323789|SMG Body|Component|
 |[snakemeat.cooked](/snakemeat.cooked.png)|-170436364|Cooked Snake Meat|Food|
 |[snakemeat](/snakemeat.png)|-2100458529|Raw Snake Meat|Food|
@@ -1090,7 +1098,7 @@
 |[spear.wooden](/spear.wooden.png)|1540934679|Wooden Spear|Weapon|
 |[speargun](/speargun.png)|-1517740219|Speargun|Weapon|
 |[speargun.spear](/speargun.spear.png)|-1800345240|Speargun Spear|Ammunition|
-|[speechbubbleballoon2025](/speechbubbleballoon2025.png)|963400638|Speech Bubble Balloon|Items|
+|[speechbubbleballoon2025](/speechbubbleballoon2025.png)|963400638|Speech Bubble Balloon|Fun|
 |[spiderweb](/spiderweb.png)|882559853|Spider Webs|Misc|
 |[spikes.floor](/spikes.floor.png)|-92759291|Wooden Floor Spikes|Traps|
 |[spikes.trap](/spikes.trap.png)|-1850297170|Small Spike Trap|Traps|
@@ -1099,7 +1107,7 @@
 |[spookyspeaker](/spookyspeaker.png)|1885488976|Spooky Speaker|Misc|
 |[spraycan](/spraycan.png)|-596876839|Spray Can|Tool|
 |[spraycandecal](/spraycandecal.png)|-1366326648|Spray Can Decal|Tool|
-|[starballoon2025](/starballoon2025.png)|-1782127806|Star Balloon|Items|
+|[starballoon2025](/starballoon2025.png)|-1782127806|Star Balloon|Fun|
 |[stash.small](/stash.small.png)|-369760990|Small Stash|Items|
 |[steeringwheel.boat](/steeringwheel.boat.png)|-1866909924|Steering Wheel|Items|
 |[sticks](/sticks.png)|642482233|Sticks|Component|
@@ -1153,8 +1161,8 @@
 |[trap.landmine](/trap.landmine.png)|-1663759755|Homemade Landmine|Traps|
 |[triangle.rail.road.planter](/triangle.rail.road.planter.png)|647240052|Triangle Rail Road Planter|Items|
 |[trike](/trike.png)|1991794121|Trike|Misc|
-|[trophy](/trophy.png)|975983052|Twitch Rivals Trophy|Items|
-|[trophy2023](/trophy2023.png)|-901370585|Twitch Rivals Trophy 2023|Items|
+|[trophy](/trophy.png)|975983052|Twitch Rivals Trophy|Fun|
+|[trophy2023](/trophy2023.png)|-901370585|Twitch Rivals Trophy 2023|Fun|
 |[tshirt](/tshirt.png)|223891266|T-Shirt|Attire|
 |[tshirt.long](/tshirt.long.png)|935692442|Longsleeve T-Shirt|Attire|
 |[tugboat](/tugboat.png)|-561148628|Tugboat|Items|
@@ -1223,10 +1231,10 @@
 |[wallpaper](/wallpaper.png)|-1501434104|Wallpaper|Items|
 |[wallpaper.tool](/wallpaper.tool.png)|1629564540|Wallpaper Tool|Tool|
 |[wallpaper.wall](/wallpaper.wall.png)|553967074|Wallpaper|Tool|
-|[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Items|
-|[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Items|
-|[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Items|
-|[wantedposter.wantedposter4](/wantedposter.wantedposter4.png)|1463862472|Wanted Poster 4|Items|
+|[wantedposter](/wantedposter.png)|-1344017968|Wanted Poster|Fun|
+|[wantedposter.wantedposter2](/wantedposter.wantedposter2.png)|301063058|Wanted Poster 2|Fun|
+|[wantedposter.wantedposter3](/wantedposter.wantedposter3.png)|-1265020883|Wanted Poster 3|Fun|
+|[wantedposter.wantedposter4](/wantedposter.wantedposter4.png)|1463862472|Wanted Poster 4|Fun|
 |[warmingtea](/warmingtea.png)|-1142222427|Basic Warming Tea|Food|
 |[watchtower.wood](/watchtower.wood.png)|-463122489|Watch Tower|Construction|
 |[water.barrel](/water.barrel.png)|-1863559151|Water Barrel|Items|
@@ -1272,10 +1280,10 @@
 |[woodarmor.gloves](/woodarmor.gloves.png)|-459159118|Wood Armor Gloves|Attire|
 |[woodcross](/woodcross.png)|699075597|Wooden Cross|Misc|
 |[wooden.shield](/wooden.shield.png)|1604837581|Wooden Shield|Attire|
-|[woodframe.large](/woodframe.large.png)|-635951327|Wood Frame Large|Items|
-|[woodframe.medium](/woodframe.medium.png)|-1541706279|Wood Frame Medium|Items|
-|[woodframe.small](/woodframe.small.png)|-1476278729|Wood Frame Small|Items|
-|[woodframe.standing](/woodframe.standing.png)|1769475390|Wood Frame Standing|Items|
+|[woodframe.large](/woodframe.large.png)|-635951327|Wood Frame Large|Fun|
+|[woodframe.medium](/woodframe.medium.png)|-1541706279|Wood Frame Medium|Fun|
+|[woodframe.small](/woodframe.small.png)|-1476278729|Wood Frame Small|Fun|
+|[woodframe.standing](/woodframe.standing.png)|1769475390|Wood Frame Standing|Fun|
 |[woodmirror.large](/woodmirror.large.png)|1312679249|Wood Mirror Large|Items|
 |[woodmirror.medium](/woodmirror.medium.png)|756125481|Wood Mirror Medium|Items|
 |[woodmirror.small](/woodmirror.small.png)|-1497205569|Wood Mirror Small|Items|

@@ -146,6 +146,9 @@
 |![](/bluedogtags.128.webp)|bluedogtags|1036321299|Blue Dog Tags|
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|
+|![](/blueprintbook.128.webp)|blueprintbook|-1896395719|Blueprint Book|
+|![](/blueprintfragment.128.webp)|blueprintfragment|-143481979|Blueprint Fragment|
+|![](/blueprintpage.128.webp)|blueprintpage|-1716287874|Blueprint Page|
 |![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|
 |![](/boat.planner.128.webp)|boat.planner|-321247698|Boat Building Plan|
 |![](/boatbuildingstation.128.webp)|boatbuildingstation|1993693904|Boat Building Station|
@@ -245,6 +248,7 @@
 |![](/clothing.mod.armorinsert_lead.128.webp)|clothing.mod.armorinsert_lead|2047789913|Lead Armor Insert|
 |![](/clothing.mod.armorinsert_metal.128.webp)|clothing.mod.armorinsert_metal|1099611828|Metal Armor Insert|
 |![](/clothing.mod.armorinsert_wood.128.webp)|clothing.mod.armorinsert_wood|-593892112|Wooden Armor Insert|
+|![](/clothing.mod.armorinsert_wool.128.webp)|clothing.mod.armorinsert_wool|-593892104|Wool Armor Insert|
 |![](/coal.128.webp)|coal|204391461|Coal :(|
 |![](/cocoknight.armor.gloves.128.webp)|cocoknight.armor.gloves|1873004466|Coconut Armor Gloves|
 |![](/cocoknight.armor.helmet.128.webp)|cocoknight.armor.helmet|-582467439|Coconut Armor Helmet|
@@ -756,6 +760,7 @@
 |![](/mini fridge.128.webp)|mini fridge|1174484438|Mini Fridge|
 |![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|
 |![](/minicrossbow.128.webp)|minicrossbow|-482348853|Mini Crossbow|
+|![](/minifridge.128.webp)|minifridge|1174484438|Mini Fridge|
 |![](/minigun.128.webp)|minigun|935606207|Minigun|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|
@@ -821,6 +826,7 @@
 |![](/pie.chicken.128.webp)|pie.chicken|120820987|Chicken Pie|
 |![](/pie.chicken.rich.128.webp)|pie.chicken.rich|2006264797|Rich Chicken Pie|
 |![](/pie.crocodile.128.webp)|pie.crocodile|54265286|Crocodile Pie|
+|![](/pie.crocodile.rich.128.webp)|pie.crocodile.rich|-1540865198|Rich Crocodile Pie|
 |![](/pie.fish.128.webp)|pie.fish|-1785248332|Fish Pie|
 |![](/pie.fish.rich.128.webp)|pie.fish.rich|1427291780|Rich Fish Pie|
 |![](/pie.hunters.128.webp)|pie.hunters|320438357|Hunters Pie|
@@ -990,6 +996,7 @@
 |![](/seed.yellow.berry.128.webp)|seed.yellow.berry|-520133715|Yellow Berry Seed|
 |![](/semibody.128.webp)|semibody|573926264|Semi Automatic Body|
 |![](/sewingkit.128.webp)|sewingkit|1234880403|Sewing Kit|
+|![](/shears.128.webp)|shears|-1953695556|Shears|
 |![](/sheetmetal.128.webp)|sheetmetal|-1994909036|Sheet Metal|
 |![](/shelves.128.webp)|shelves|1950721418|Salvaged Shelves|
 |![](/shirt.collared.128.webp)|shirt.collared|-2025184684|Shirt|
@@ -1069,6 +1076,7 @@
 |![](/smg.2.128.webp)|smg.2|1796682209|Custom SMG|
 |![](/smg.mp5.128.webp)|smg.mp5|1318558775|MP5A4|
 |![](/smg.thompson.128.webp)|smg.thompson|-1758372725|Thompson|
+|![](/smg.uzi.128.webp)|smg.uzi|2125127001|Uzi|
 |![](/smgbody.128.webp)|smgbody|1230323789|SMG Body|
 |![](/snakemeat.cooked.128.webp)|snakemeat.cooked|-170436364|Cooked Snake Meat|
 |![](/snakemeat.128.webp)|snakemeat|-2100458529|Raw Snake Meat|
