@@ -320,11 +320,13 @@
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|
 |![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|
 |![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|
+|![](/door.double.hinged.metal.founders.128.webp)|door.double.hinged.metal.founders|-192352627|Founders Sheet Metal Double Door|
 |![](/door.double.hinged.metal.128.webp)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|
 |![](/door.double.hinged.toptier.128.webp)|door.double.hinged.toptier|1221063409|Armored Double Door|
 |![](/door.double.hinged.wood.128.webp)|door.double.hinged.wood|-1336109173|Wood Double Door|
 |![](/door.hinged.boat.wood.128.webp)|door.hinged.boat.wood|-1063073030|Wooden Boat Door|
 |![](/door.hinged.industrial.a.128.webp)|door.hinged.industrial.a|818733919|Industrial Door|
+|![](/door.hinged.metal.founders.128.webp)|door.hinged.metal.founders|814903778|Founders Sheet Metal Door|
 |![](/door.hinged.metal.128.webp)|door.hinged.metal|-2067472972|Sheet Metal Door|
 |![](/door.hinged.toptier.128.webp)|door.hinged.toptier|1353298668|Armored Door|
 |![](/door.hinged.wood.128.webp)|door.hinged.wood|1729120840|Wooden Door|
@@ -697,6 +699,7 @@
 |![](/lightupmirror.standing.128.webp)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|
 |![](/lmg.m249.128.webp)|lmg.m249|-2069578888|M249|
 |![](/lock.code.a.pilot.128.webp)|lock.code.a.pilot|1586884551|Flight Control Codelock|
+|![](/lock.code.cobalt.128.webp)|lock.code.cobalt|890463581|Cobalt Codelock|
 |![](/lock.code.128.webp)|lock.code|1159991980|Code Lock|
 |![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|
 |![](/locker.128.webp)|locker|-110921842|Locker|
@@ -1134,6 +1137,7 @@
 |![](/target.reactive.128.webp)|target.reactive|-1736356576|Reactive Target|
 |![](/targeting.computer.128.webp)|targeting.computer|1523195708|Targeting Computer|
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|
+|![](/tattoochair.128.webp)|tattoochair|-73737680|Tattoo Chair|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|
 |![](/thruster.module.128.webp)|thruster.module|1754952075|Thruster Module|
@@ -1186,6 +1190,7 @@
 |![](/vehicle.module.128.webp)|vehicle.module|878301596|Generic vehicle module|
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|
 |![](/venom.snake.128.webp)|venom.snake|-870140677|Snake Venom|
+|![](/vest.metal.cobalt.128.webp)|vest.metal.cobalt|1561043322|Cobalt Metal Chest Plate|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|
 |![](/wall.animal.fence.gate.128.webp)|wall.animal.fence.gate|1143376304|Animal Fence Gate|

@@ -320,11 +320,13 @@
 |![](/dogtagneutral.128.webp)|dogtagneutral|1223900335|Dog Tag|Resources|Neutral Dog Tag|
 |![](/door.closer.128.webp)|door.closer|1409529282|Door Closer|Construction|Automatically closes your doors when left open.|
 |![](/door.double.hinged.bardoors.128.webp)|door.double.hinged.bardoors|-1151332840|Wooden Frontier Bar Doors|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
+|![](/door.double.hinged.metal.founders.128.webp)|door.double.hinged.metal.founders|-192352627|Founders Sheet Metal Double Door|Construction|A double door for those who were there at the beginning.|
 |![](/door.double.hinged.metal.128.webp)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.double.hinged.toptier.128.webp)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.double.hinged.wood.128.webp)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
 |![](/door.hinged.boat.wood.128.webp)|door.hinged.boat.wood|-1063073030|Wooden Boat Door|Construction|Secure your boat with this wooden door|
 |![](/door.hinged.industrial.a.128.webp)|door.hinged.industrial.a|818733919|Industrial Door|Construction|A red industrial door with a window.|
+|![](/door.hinged.metal.founders.128.webp)|door.hinged.metal.founders|814903778|Founders Sheet Metal Door|Construction|A door for those who were there at the beginning.|
 |![](/door.hinged.metal.128.webp)|door.hinged.metal|-2067472972|Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.hinged.toptier.128.webp)|door.hinged.toptier|1353298668|Armored Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.hinged.wood.128.webp)|door.hinged.wood|1729120840|Wooden Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
@@ -697,6 +699,7 @@
 |![](/lightupmirror.standing.128.webp)|lightupmirror.standing|1916016738|Light-Up Mirror Standing|Items|A standing light-up mirror|
 |![](/lmg.m249.128.webp)|lmg.m249|-2069578888|M249|Weapon|High damage, high rate of fire, belt fed light machine gun.|
 |![](/lock.code.a.pilot.128.webp)|lock.code.a.pilot|1586884551|Flight Control Codelock|Construction|An electronic lock made of airplane parts. Locked and unlocked with four-digit code.|
+|![](/lock.code.cobalt.128.webp)|lock.code.cobalt|890463581|Cobalt Codelock|Construction|An old scrapped codelock, used to belong to the company Cobalt. Locked and unlocked with four-digit code.|
 |![](/lock.code.128.webp)|lock.code|1159991980|Code Lock|Construction|An electronic lock. Locked and unlocked with four-digit code.|
 |![](/lock.key.128.webp)|lock.key|-850982208|Key Lock|Construction|Place on a door to prevent unwelcome guests. You can create a key to share with your friends, don't let it fall in the wrong hands!|
 |![](/locker.128.webp)|locker|-110921842|Locker|Items|A locker for keeping your clothes and armor safe!|
@@ -1134,6 +1137,7 @@
 |![](/target.reactive.128.webp)|target.reactive|-1736356576|Reactive Target|Electrical|A reactive target that knocks down when hit, can be reset.|
 |![](/targeting.computer.128.webp)|targeting.computer|1523195708|Targeting Computer|Resources|A computer loaded with software that can analyze a video and produce rotational deltas to individual objects contained in the feed.|
 |![](/tarp.128.webp)|tarp|2019042823|Tarp|Component|A waterproof tarp.|
+|![](/tattoochair.128.webp)|tattoochair|-73737680|Tattoo Chair|Items|A reclining chair for tattooing whoever sits in it.|
 |![](/techparts.128.webp)|techparts|73681876|Tech Trash|Component|A collection of random tech parts.|
 |![](/telephone.128.webp)|telephone|1234878710|Telephone|Fun|Use the telephone to call other telephones on the island!|
 |![](/thruster.module.128.webp)|thruster.module|1754952075|Thruster Module|Component|A thruster module salvaged from crashed satellite remains. The more fuel left in the satellite when it was brought down, the better its condition.|
@@ -1186,6 +1190,7 @@
 |![](/vehicle.module.128.webp)|vehicle.module|878301596|Generic vehicle module|Component|Generic vehicle module|
 |![](/vending.machine.128.webp)|vending.machine|198438816|Vending Machine|Items|Trade your goods with other players safely by creating sell and buy orders.  If a raider gains access to the rear panel, they will have free reign over all of your goodies. Keep it safe.|
 |![](/venom.snake.128.webp)|venom.snake|-870140677|Snake Venom|Items|The venom of a snake. Used to create Incapacitate darts.|
+|![](/vest.metal.cobalt.128.webp)|vest.metal.cobalt|1561043322|Cobalt Metal Chest Plate|Attire|An old metal chest plate manufactured by Cobalt. Worn and reconfigured, it provides excellent protection.|
 |![](/wagon.128.webp)|wagon|996757362|Wagon|Misc|A train car.|
 |![](/walkietalkie.128.webp)|walkietalkie|-1416322465|Walkie Talkie|Items|A walkie talkie set to an unknown channel|
 |![](/wall.animal.fence.gate.128.webp)|wall.animal.fence.gate|1143376304|Animal Fence Gate|Construction|A gate for accessing your animal pen.|

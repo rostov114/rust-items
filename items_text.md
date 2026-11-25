@@ -320,11 +320,13 @@
 |[dogtagneutral](/dogtagneutral.png)|1223900335|Dog Tag|Resources|
 |[door.closer](/door.closer.png)|1409529282|Door Closer|Construction|
 |[door.double.hinged.bardoors](/door.double.hinged.bardoors.png)|-1151332840|Wooden Frontier Bar Doors|Construction|
+|[door.double.hinged.metal.founders](/door.double.hinged.metal.founders.png)|-192352627|Founders Sheet Metal Double Door|Construction|
 |[door.double.hinged.metal](/door.double.hinged.metal.png)|1390353317|Sheet Metal Double Door|Construction|
 |[door.double.hinged.toptier](/door.double.hinged.toptier.png)|1221063409|Armored Double Door|Construction|
 |[door.double.hinged.wood](/door.double.hinged.wood.png)|-1336109173|Wood Double Door|Construction|
 |[door.hinged.boat.wood](/door.hinged.boat.wood.png)|-1063073030|Wooden Boat Door|Construction|
 |[door.hinged.industrial.a](/door.hinged.industrial.a.png)|818733919|Industrial Door|Construction|
+|[door.hinged.metal.founders](/door.hinged.metal.founders.png)|814903778|Founders Sheet Metal Door|Construction|
 |[door.hinged.metal](/door.hinged.metal.png)|-2067472972|Sheet Metal Door|Construction|
 |[door.hinged.toptier](/door.hinged.toptier.png)|1353298668|Armored Door|Construction|
 |[door.hinged.wood](/door.hinged.wood.png)|1729120840|Wooden Door|Construction|
@@ -697,6 +699,7 @@
 |[lightupmirror.standing](/lightupmirror.standing.png)|1916016738|Light-Up Mirror Standing|Items|
 |[lmg.m249](/lmg.m249.png)|-2069578888|M249|Weapon|
 |[lock.code.a.pilot](/lock.code.a.pilot.png)|1586884551|Flight Control Codelock|Construction|
+|[lock.code.cobalt](/lock.code.cobalt.png)|890463581|Cobalt Codelock|Construction|
 |[lock.code](/lock.code.png)|1159991980|Code Lock|Construction|
 |[lock.key](/lock.key.png)|-850982208|Key Lock|Construction|
 |[locker](/locker.png)|-110921842|Locker|Items|
@@ -1134,6 +1137,7 @@
 |[target.reactive](/target.reactive.png)|-1736356576|Reactive Target|Electrical|
 |[targeting.computer](/targeting.computer.png)|1523195708|Targeting Computer|Resources|
 |[tarp](/tarp.png)|2019042823|Tarp|Component|
+|[tattoochair](/tattoochair.png)|-73737680|Tattoo Chair|Items|
 |[techparts](/techparts.png)|73681876|Tech Trash|Component|
 |[telephone](/telephone.png)|1234878710|Telephone|Fun|
 |[thruster.module](/thruster.module.png)|1754952075|Thruster Module|Component|
@@ -1186,6 +1190,7 @@
 |[vehicle.module](/vehicle.module.png)|878301596|Generic vehicle module|Component|
 |[vending.machine](/vending.machine.png)|198438816|Vending Machine|Items|
 |[venom.snake](/venom.snake.png)|-870140677|Snake Venom|Items|
+|[vest.metal.cobalt](/vest.metal.cobalt.png)|1561043322|Cobalt Metal Chest Plate|Attire|
 |[wagon](/wagon.png)|996757362|Wagon|Misc|
 |[walkietalkie](/walkietalkie.png)|-1416322465|Walkie Talkie|Items|
 |[wall.animal.fence.gate](/wall.animal.fence.gate.png)|1143376304|Animal Fence Gate|Construction|
